@@ -1,126 +1,635 @@
 <!doctype html>
 <html lang="pt-BR">
 <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Meu Dashboard Pessoal</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-:root{
-  --bg:#0F172A; --surface:#1E293B; --surface-hover:#243347; --ink:#F8FAFC; 
-  --muted:#94A3B8; --line:#334155; --accent:#6366F1; --accent-ink:#FFFFFF; 
-  --signal:#10B981;
-  --head:-apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", sans-serif;
-  --body:-apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", sans-serif;
-}
-*{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font:400 0.95rem/1.5 var(--body);padding-bottom:2rem}
-a{color:inherit}
-:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Meu Dashboard Pessoal</title>
+  
+  <!-- Fontes do Sistema Estilo Apple (Inter / SF Pro) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-/* Cabeçalho */
-header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;
-  padding:1.5rem clamp(1rem,4vw,2.5rem);background:var(--surface);border-bottom:1px solid var(--line)}
-.boas-vindas h1{font:700 1.6rem/1.2 var(--head);margin:0;letter-spacing:-.02em}
-.boas-vindas p{color:var(--muted);margin:.2rem 0 0;font-size:.9rem}
+  <style>
+    /* ==========================================================================
+       1. VARIÁVEIS DE CORES E TEMA (Dark Mode Padrão)
+       ========================================================================== */
+    :root {
+      --bg: #0F172A;
+      --surface: #1E293B;
+      --surface-hover: #243347;
+      --ink: #F8FAFC; 
+      --muted: #94A3B8;
+      --line: #334155;
+      --accent: #6366F1;
+      --accent-ink: #FFFFFF; 
+      --signal: #10B981;
+      --head: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", sans-serif;
+      --body: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Inter", sans-serif;
+    }
 
-/* Widgets no topo */
-.dash-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.25rem;
-  padding:1.5rem clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
-.card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:1.2rem}
-.card h2{font:600 1.1rem var(--head);margin:0 0 .8rem;display:flex;align-items:center;justify-content:space-between}
+    * {
+      box-sizing: border-box;
+    }
 
-/* Clima */
-.clima-info{display:flex;align-items:center;justify-content:space-between;margin-top:.5rem}
-.clima-temp{font-size:2rem;font-weight:700;color:var(--accent)}
-.clima-detalhes{text-align:right;color:var(--muted);font-size:.85rem}
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font: 400 0.95rem/1.5 var(--body);
+      padding-bottom: 3rem;
+    }
 
-/* Tarefas */
-.todo-form{display:flex;gap:.5rem;margin-bottom:.8rem}
-.todo-form input{flex:1;padding:.5rem .75rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:inherit}
-.todo-form button{background:var(--accent);color:var(--accent-ink);border:none;padding:.5rem 1rem;border-radius:6px;font-weight:600;cursor:pointer}
-.todo-list{list-style:none;padding:0;margin:0;max-height:160px;overflow-y:auto}
-.todo-item{display:flex;align-items:center;justify-content:space-between;padding:.4rem 0;border-bottom:1px solid var(--line)}
-.todo-item:last-child{border:none}
-.todo-item.done span{text-decoration:line-through;color:var(--muted)}
-.todo-item button{background:none;border:none;color:var(--muted);cursor:pointer;font-size:.8rem}
+    a {
+      color: inherit;
+    }
 
-/* Jogos e Transporte */
-.info-box{background:var(--bg);border-radius:8px;padding:.75rem;margin-bottom:.6rem;font-size:.85rem;display:flex;flex-direction:column;gap:.3rem}
-.info-title{display:flex;justify-content:space-between;align-items:center;font-weight:600}
-.info-desc{color:var(--muted);font-size:.8rem;line-height:1.3}
+    :focus-visible {
+      outline: 2px solid var(--accent);
+      outline-offset: 2px;
+    }
 
-/* Feed de Notícias */
-.feed-section{padding:0 clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
-.feed-header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;margin-bottom:1rem}
-#busca{padding:.5rem .8rem;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink);font:inherit;width:min(100%,20rem)}
-.feed-grid{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
-@media(max-width:860px){.feed-grid{grid-template-columns:1fr}}
+    /* ==========================================================================
+       2. CABEÇALHO E BOAS-VINDAS
+       ========================================================================== */
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      padding: 1.5rem clamp(1rem, 4vw, 2.5rem);
+      background: var(--surface);
+      border-bottom: 1px solid var(--line);
+    }
 
-.chips{display:flex;flex-wrap:wrap;gap:.3rem;margin-bottom:.8rem}
-.chips button{font:500 .8rem var(--body);padding:.3rem .6rem;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
-.chips button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+    .boas-vindas h1 {
+      font: 700 1.6rem/1.2 var(--head);
+      margin: 0;
+      letter-spacing: -.02em;
+    }
 
-ul.feed-list{list-style:none;padding:0;margin:0}
-ul.feed-list li{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:.75rem 1rem;margin-bottom:.5rem}
-ul.feed-list li a{font-weight:600;font-size:.95rem;text-decoration:none}
-ul.feed-list li a:hover{text-decoration:underline}
-.meta{display:flex;flex-wrap:wrap;gap:.25rem .75rem;margin-top:.25rem;color:var(--muted);font-size:.8rem}
-.novo{display:inline-flex;align-items:center;gap:.3rem;color:var(--ink);font-weight:600}
-.novo::before{content:"";width:.45rem;height:.45rem;border-radius:50%;background:var(--signal)}
-.vazio{color:var(--muted);padding:.8rem;border:1px dashed var(--line);border-radius:8px;font-size:.85rem}
-</style>
+    .boas-vindas p {
+      color: var(--muted);
+      margin: 0.2rem 0 0;
+      font-size: 0.9rem;
+    }
+
+    /* ==========================================================================
+       3. WIDGETS E PAINEL PRINCIPAL (DASHBOARD)
+       ========================================================================== */
+    .dash-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 1.25rem;
+      padding: 1.5rem clamp(1rem, 4vw, 2.5rem);
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 1.2rem;
+    }
+
+    .card h2 {
+      font: 600 1.1rem var(--head);
+      margin: 0 0 0.8rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    /* Widget de Clima */
+    .clima-info {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: 0.5rem;
+    }
+
+    .clima-temp {
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    .clima-detalhes {
+      text-align: right;
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    /* Widget de Tarefas (To-Do List) */
+    .todo-form {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .todo-form input {
+      flex: 1;
+      padding: 0.5rem 0.75rem;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--bg);
+      color: var(--ink);
+      font: inherit;
+    }
+
+    .todo-form button {
+      background: var(--accent);
+      color: var(--accent-ink);
+      border: none;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .todo-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      max-height: 160px;
+      overflow-y: auto;
+    }
+
+    .todo-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .todo-item:last-child {
+      border: none;
+    }
+
+    .todo-item.done span {
+      text-decoration: line-through;
+      color: var(--muted);
+    }
+
+    .todo-item button {
+      background: none;
+      border: none;
+      color: var(--muted);
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+
+    /* Caixas de Informações (Esportes / Transporte) */
+    .info-box {
+      background: var(--bg);
+      border-radius: 8px;
+      padding: 0.75rem;
+      margin-bottom: 0.6rem;
+      font-size: 0.85rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.3rem;
+    }
+
+    .info-title {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+    }
+
+    .info-desc {
+      color: var(--muted);
+      font-size: 0.8rem;
+      line-height: 1.3;
+    }
+
+    /* ==========================================================================
+       4. SEÇÃO DE NOTÍCIAS E CIÊNCIA (FEED SECUNDÁRIO)
+       ========================================================================== */
+    .feed-section {
+      padding: 0 clamp(1rem, 4vw, 2.5rem);
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+
+    .feed-header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+    }
+
+    #busca {
+      padding: 0.5rem 0.8rem;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--surface);
+      color: var(--ink);
+      font: inherit;
+      width: min(100%, 20rem);
+    }
+
+    .feed-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+
+    @media (max-width: 860px) {
+      .feed-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.3rem;
+      margin-bottom: 0.8rem;
+    }
+
+    .chips button {
+      font: 500 0.8rem var(--body);
+      padding: 0.3rem 0.6rem;
+      border-radius: 999px;
+      border: 1px solid var(--line);
+      background: var(--surface);
+      color: var(--ink);
+      cursor: pointer;
+    }
+
+    .chips button[aria-pressed="true"] {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: var(--accent-ink);
+    }
+
+    ul.feed-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    ul.feed-list li {
+      background: var(--surface);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 0.75rem 1rem;
+      margin-bottom: 0.5rem;
+    }
+
+    ul.feed-list li a {
+      font-weight: 600;
+      font-size: 0.95rem;
+      text-decoration: none;
+    }
+
+    ul.feed-list li a:hover {
+      text-decoration: underline;
+    }
+
+    .meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem 0.75rem;
+      margin-top: 0.25rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+
+    .novo {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      color: var(--ink);
+      font-weight: 600;
+    }
+
+    .novo::before {
+      content: "";
+      width: 0.45rem;
+      height: 0.45rem;
+      border-radius: 50%;
+      background: var(--signal);
+    }
+
+    .vazio {
+      color: var(--muted);
+      padding: 0.8rem;
+      border: 1px dashed var(--line);
+      border-radius: 8px;
+      font-size: 0.85rem;
+    }
+  </style>
 </head>
 <body>
 
-<header>
-  <div class="boas-vindas">
-    <h1 id="saudacao">Olá!</h1>
-    <p id="data-hora">Carregando data...</p>
+  <!-- CABEÇALHO -->
+  <header>
+    <div class="boas-vindas">
+      <h1 id="saudacao">Olá!</h1>
+      <p id="data-hora">Carregando data...</p>
+    </div>
+  </header>
+
+  <!-- CONTEÚDO PRINCIPAL -->
+  <main>
+    <!-- PAINEL DE WIDGETS -->
+    <div class="dash-grid">
+      
+      <!-- Widget: Previsão do Tempo -->
+      <div class="card">
+        <h2>
+          <span>Clima</span>
+          <span style="font-size: 0.8rem; font-weight: normal; color: var(--muted);" id="clima-cidade">São Paulo</span>
+        </h2>
+        <div class="clima-info">
+          <div class="clima-temp" id="clima-temp">--°C</div>
+          <div class="clima-detalhes">
+            <div id="clima-desc">Buscando...</div>
+            <div id="clima-vento">Vento: -- km/h</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Widget: Atividades Pendentes -->
+      <div class="card">
+        <h2>Atividades Pendentes</h2>
+        <form class="todo-form" id="todo-form">
+          <input type="text" id="todo-input" placeholder="Nova tarefa..." required>
+          <button type="submit">Add</button>
+        </form>
+        <ul class="todo-list" id="todo-list"></ul>
+      </div>
+
+      <!-- Widget: Esportes -->
+      <div class="card">
+        <h2>Próximos Jogos & Resultados</h2>
+        <div class="info-box">
+          <div class="info-title">
+            <span>FC Barcelona</span>
+            <small style="color:var(--accent)">La Liga</small>
+          </div>
+          <div class="info-desc" id="barca-status">Carregando dados do robô...</div>
+        </div>
+        <div class="info-box">
+          <div class="info-title">
+            <span>Mogi Basquete</span>
+            <small style="color:var(--accent)">NBB</small>
+          </div>
+          <div class="info-desc" id="mogi-status">Carregando dados do robô...</div>
+        </div>
+      </div>
+
+    <!-- Widget Transporte -->
+<div class="card">
+  <h2>Transporte Público</h2>
+  <div class="info-box">
+    <div class="info-title">
+      <span>8083-10 | Metrô Butantã</span>
+      <small style="color:var(--signal)">Em operação</small>
+    </div>
+    <div class="info-desc">
+      <strong>Ponto:</strong> Farmácia e Química II<br>
+      <strong>Frequência:</strong> ~12 a 16 min (Dias úteis)<br>
+      <a href="https://olhovivo.sptrans.com.br/" target="_blank" rel="noopener noreferrer" style="color:var(--accent); text-decoration:underline; margin-top:0.3rem; display:inline-block;">
+        Ver ao vivo no Olho Vivo SPTrans ↗
+      </a>
+    </div>
   </div>
-</header>
+</div>
 
-<main>
-  <!-- Widgets Pessoais -->
-  <div class="dash-grid">
+    </div>
+
+    <!-- PAINEL DE NOTÍCIAS E CIÊNCIA -->
+    <div class="feed-section">
+      <div class="feed-header">
+        <h2 style="margin:0; font-family:var(--head);">Atualizações do Hub</h2>
+        <input id="busca" type="search" placeholder="Filtrar notícias..." aria-label="Filtrar">
+      </div>
+
+      <div class="feed-grid">
+        <!-- Notícias -->
+        <section>
+          <h3 style="margin:0 0 .5rem; font-size:1rem; color:var(--muted)">Notícias</h3>
+          <div class="chips" id="chips-not"></div>
+          <ul class="feed-list" id="lista-not"></ul>
+        </section>
+
+        <!-- Ciência -->
+        <aside>
+          <h3 style="margin:0 0 .5rem; font-size:1rem; color:var(--muted)">Ciência</h3>
+          <div class="chips" id="chips-ci"></div>
+          <ul class="feed-list" id="lista-ci"></ul>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <!-- LÓGICA EM JAVASCRIPT -->
+  <script>
+    const $ = (id) => document.getElementById(id);
+
+    /* 1. Boas-Vindas e Horário em Tempo Real */
+    function atualizarRelogio() {
+      const agora = new Date();
+      const hora = agora.getHours();
+      let textoSaudacao = "Boa noite";
+      
+      if (hora >= 5 && hora < 12) {
+        textoSaudacao = "Bom dia";
+      } else if (hora >= 12 && hora < 18) {
+        textoSaudacao = "Boa tarde";
+      }
+
+      $("saudacao").textContent = `${textoSaudacao}!`;
+      
+      const opcoes = { 
+        weekday: 'long', 
+        day: 'numeric', 
+        month: 'long', 
+        hour: '2-digit', 
+        minute: '2-digit' 
+      };
+      
+      $("data-hora").textContent = agora.toLocaleDateString('pt-BR', opcoes);
+    }
     
-    <!-- Widget Previsão do Tempo -->
-    <div class="card">
-      <h2><span>Clima</span> <span style="font-size: 0.8rem; font-weight: normal; color: var(--muted);" id="clima-cidade">São Paulo</span></h2>
-      <div class="clima-info">
-        <div class="clima-temp" id="clima-temp">--°C</div>
-        <div class="clima-detalhes">
-          <div id="clima-desc">Buscando...</div>
-          <div id="clima-vento">Vento: -- km/h</div>
-        </div>
-      </div>
-    </div>
+    setInterval(atualizarRelogio, 1000);
+    atualizarRelogio();
 
-    <!-- Widget Atividades Pendentes (To-Do) -->
-    <div class="card">
-      <h2>Atividades Pendentes</h2>
-      <form class="todo-form" id="todo-form">
-        <input type="text" id="todo-input" placeholder="Nova tarefa..." required>
-        <button type="submit">Add</button>
-      </form>
-      <ul class="todo-list" id="todo-list"></ul>
-    </div>
+    /* 2. Previsão do Tempo Gratuita (Open-Meteo) */
+    async function carregarClima() {
+      const lat = -23.52;
+      const lon = -46.18;
+      
+      try {
+        const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code,wind_speed_10m&timezone=auto`;
+        const res = await fetch(url);
+        const data = await res.json();
+        const temp = Math.round(data.current.temperature_2m);
+        const vento = Math.round(data.current.wind_speed_10m);
+        
+        $("clima-temp").textContent = `${temp}°C`;
+        $("clima-vento").textContent = `Vento: ${vento} km/h`;
+        $("clima-desc").textContent = "Tempo Atual";
+      } catch(e) {
+        $("clima-temp").textContent = "--";
+        $("clima-desc").textContent = "Erro ao carregar";
+      }
+    }
+    
+    carregarClima();
 
-    <!-- Widget Esportes -->
-    <div class="card">
-      <h2>Próximos Jogos & Resultados</h2>
-      <div class="info-box">
-        <div class="info-title">
-          <span>FC Barcelona</span>
-          <small style="color:var(--accent)">La Liga</small>
-        </div>
-        <div class="info-desc" id="barca-status">Carregando dados do robô...</div>
-      </div>
-      <div class="info-box">
-        <div class="info-title">
-          <span>Mogi Basquete</span>
-          <small style="color:var(--accent)">NBB</small>
-        </div>
-        <div class
+    /* 3. Gerenciador de Tarefas Pendentes (LocalStorage) */
+    let tarefas = JSON.parse(localStorage.getItem('minhas_tarefas') || '[]');
+
+    function salvarTarefas() {
+      localStorage.setItem('minhas_tarefas', JSON.stringify(tarefas));
+      desenharTarefas();
+    }
+
+    function desenharTarefas() {
+      const lista = $("todo-list");
+      lista.innerHTML = "";
+      
+      tarefas.forEach((t, i) => {
+        const li = document.createElement("li");
+        li.className = `todo-item ${t.done ? 'done' : ''}`;
+        li.innerHTML = `
+          <span onclick="toggleTarefa(${i})" style="cursor:pointer">${t.text}</span>
+          <button onclick="removerTarefa(${i})">✕</button>
+        `;
+        lista.appendChild(li);
+      });
+    }
+
+    function toggleTarefa(i) {
+      tarefas[i].done = !tarefas[i].done;
+      salvarTarefas();
+    }
+
+    function removerTarefa(i) {
+      tarefas.splice(i, 1);
+      salvarTarefas();
+    }
+
+    $("todo-form").addEventListener("submit", (e) => {
+      e.preventDefault();
+      const input = $("todo-input");
+      if (input.value.trim()) {
+        tarefas.push({ text: input.value.trim(), done: false });
+        input.value = "";
+        salvarTarefas();
+      }
+    });
+    
+    desenharTarefas();
+
+    /* 4. Coleta e Renderização de Notícias e Esportes */
+    const estado = { cfg: null, feed: null, not: "todos", ci: "todos", q: "" };
+
+    function el(tag, props = {}, ...filhos) {
+      const e = document.createElement(tag);
+      Object.assign(e, props);
+      filhos.flat().forEach((f) => e.append(f));
+      return e;
+    }
+
+    function quando(iso) {
+      if (!iso) return "";
+      const min = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+      if (min < 60) return `há ${min} min`;
+      if (min < 1440) return `há ${Math.round(min / 60)} h`;
+      const d = Math.round(min / 1440);
+      return d === 1 ? "ontem" : `há ${d} dias`;
+    }
+
+    const ehNovo = (iso) => iso && Date.now() - Date.parse(iso) < 6 * 3600e3;
+
+    function juntar(grupo, topicos, selecionado) {
+      const ids = selecionado === "todos" ? topicos.map((t) => t.id) : [selecionado];
+      const nomes = Object.fromEntries(topicos.map((t) => [t.id, t.nome]));
+      const vistos = new Set();
+      
+      return ids.flatMap((id) => (estado.feed[grupo][id] ?? []).map((i) => ({ ...i, tema: nomes[id] })))
+        .filter((i) => !vistos.has(i.link) && vistos.add(i.link))
+        .filter((i) => !estado.q || `${i.titulo} ${i.fonte}`.toLowerCase().includes(estado.q))
+        .sort((a, b) => (b.data ?? "").localeCompare(a.data ?? ""))
+        .slice(0, 5);
+    }
+
+    function chips(alvo, topicos, chave) {
+      alvo.replaceChildren(...[{ id: "todos", nome: "Tudo" }, ...topicos].map((t) =>
+        el("button", {
+          type: "button", 
+          textContent: t.nome,
+          onclick: () => { estado[chave] = t.id; desenhar(); },
+        })
+      ));
+      
+      [...alvo.children].forEach((b, i) =>
+        b.setAttribute("aria-pressed", String(([{ id: "todos" }, ...topicos][i]).id === estado[chave]))
+      );
+    }
+
+    function lista(alvo, itens, vazio) {
+      if (!itens.length) { 
+        alvo.replaceChildren(el("li", { className: "vazio", textContent: vazio })); 
+        return; 
+      }
+      
+      alvo.replaceChildren(...itens.map((i) => el("li", {},
+        el("a", { href: i.link, target: "_blank", rel: "noopener noreferrer", textContent: i.titulo }),
+        el("div", { className: "meta" },
+          ehNovo(i.data) ? el("span", { className: "novo", textContent: "Novo" }) : "",
+          el("span", { style: { color: "var(--accent)" }, textContent: i.tema }),
+          el("span", { textContent: i.fonte }),
+          el("span", { textContent: quando(i.data) })
+        )
+      )));
+    }
+
+    function desenhar() {
+      const { cfg, feed } = estado;
+      chips($("chips-not"), cfg.assuntos, "not");
+      chips($("chips-ci"), cfg.ciencia, "ci");
+      lista($("lista-not"), juntar("noticias", cfg.assuntos, estado.not), "Nenhuma notícia encontrada.");
+      lista($("lista-ci"), juntar("ciencia", cfg.ciencia, estado.ci), "Nenhum artigo encontrado.");
+    }
+
+    async function carregar() {
+      try {
+        const [cfg, feed] = await Promise.all([
+          fetch("config.json", { cache: "no-store" }).then((r) => r.json()),
+          fetch("data/feed.json", { cache: "no-store" }).then((r) => r.json()),
+        ]);
+        
+        Object.assign(estado, { cfg, feed });
+        desenhar();
+
+        // Atualiza os cartões de esportes com os resultados do robô
+        if (feed.esportes) {
+          if (feed.esportes.barca) $("barca-status").textContent = feed.esportes.barca;
+          if (feed.esportes.mogi) $("mogi-status").textContent = feed.esportes.mogi;
+        }
+      } catch (e) {
+        console.warn("Feed não carregado localmente.");
+      }
+    }
+
+    $("busca").addEventListener("input", (e) => { 
+      estado.q = e.target.value.trim().toLowerCase(); 
+      if (estado.feed) desenhar(); 
+    });
+    
+    carregar();
+  </script>
+</body>
+</html>
