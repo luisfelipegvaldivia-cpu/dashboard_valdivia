@@ -60,29 +60,47 @@ async function ciencia(a) {
   return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
 }
 
-// Coleta focada em resultados e placares
-async function esportes() {
-  const res = {};
-  const times = [
-    { id: "barca", consulta: "placar Barcelona resultado jogo" },
-    { id: "mogi", consulta: "placar Mogi Basquete NBB resultado" }
-  ];
+// Coleta de placar exato do FC Barcelona via API do TheSportsDB
+async function placarBarcelona() {
+  try {
+    // ID do Barcelona no TheSportsDB = 133739
+    const url = "https://www.thesportsdb.com/api/v1/json/3/eventslast.php?id=133739";
+    const res = await (await baixar(url)).json();
+    const evento = res?.results?.[0];
 
-  for (const t of times) {
-    try {
-      const q = encodeURIComponent(`${t.consulta} when:5d`);
-      const xml = await (await baixar(`https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`)).text();
-      const itens = parseGoogleNews(xml);
-      if (itens.length > 0) {
-        res[t.id] = { titulo: itens[0].titulo, link: itens[0].link };
-      } else {
-        res[t.id] = { titulo: "Sem placares recentes nas últimas 48h", link: "#" };
-      }
-    } catch (e) {
-      res[t.id] = { titulo: "Informação indisponível", link: "#" };
+    if (evento) {
+      const mandante = evento.strHomeTeam;
+      const visitante = evento.strAwayTeam;
+      const golsM = evento.intHomeScore;
+      const golsV = evento.intAwayScore;
+      return `${mandante} ${golsM} x ${golsV} ${visitante}`;
     }
+  } catch (e) {
+    console.warn("Erro ao buscar placar do Barcelona via API.");
   }
-  return res;
+  return "Consulte o placar recente do Barcelona";
+}
+
+// Coleta de placar/notícia focada para Mogi Basquete
+async function placarMogi() {
+  try {
+    const q = encodeURIComponent(`"Mogi" "Basquete" ("vence" OR "derrota" OR "placar" OR "NBB") when:7d`);
+    const xml = await (await baixar(`https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`)).text();
+    const itens = parseGoogleNews(xml);
+    if (itens.length > 0) {
+      return itens[0].titulo;
+    }
+  } catch (e) {
+    console.warn("Erro ao buscar placar do Mogi Basquete.");
+  }
+  return "Mogi Basquete no NBB";
+}
+
+async function esportes() {
+  return {
+    barca: { titulo: await placarBarcelona(), link: "https://www.google.com/search?q=FC+Barcelona+jogos" },
+    mogi: { titulo: await placarMogi(), link: "https://www.google.com/search?q=Mogi+Basquete+jogos" }
+  };
 }
 
 const feed = { 
