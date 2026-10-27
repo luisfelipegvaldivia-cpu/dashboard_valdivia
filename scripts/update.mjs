@@ -60,22 +60,26 @@ async function ciencia(a) {
   return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
 }
 
-// Coleta de jogos e destaques esportivos
+// Coleta focada em resultados e placares
 async function esportes() {
   const res = {};
   const times = [
-    { id: "barca", consulta: "FC Barcelona jogo resultado" },
-    { id: "mogi", consulta: "Mogi Basquete NBB jogo resultado" }
+    { id: "barca", consulta: "placar Barcelona resultado jogo" },
+    { id: "mogi", consulta: "placar Mogi Basquete NBB resultado" }
   ];
 
   for (const t of times) {
     try {
-      const q = encodeURIComponent(`${t.consulta} when:3d`);
+      const q = encodeURIComponent(`${t.consulta} when:5d`);
       const xml = await (await baixar(`https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`)).text();
       const itens = parseGoogleNews(xml);
-      res[t.id] = itens.length > 0 ? itens[0].titulo : "Sem atualizações recentes";
+      if (itens.length > 0) {
+        res[t.id] = { titulo: itens[0].titulo, link: itens[0].link };
+      } else {
+        res[t.id] = { titulo: "Sem placares recentes nas últimas 48h", link: "#" };
+      }
     } catch (e) {
-      res[t.id] = "Indisponível";
+      res[t.id] = { titulo: "Informação indisponível", link: "#" };
     }
   }
   return res;
