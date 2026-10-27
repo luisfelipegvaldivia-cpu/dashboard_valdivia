@@ -1,5 +1,5 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { parseGoogleNews, parseArxiv, parsePubmed, dedupe, porData } from "./lib.mjs";
+import { parseGoogleNews, parsePubmed, parseScielo, dedupe, porData } from "./lib.mjs";
 
 const raiz = new URL("../", import.meta.url);
 const cfg = JSON.parse(await readFile(new URL("config.json", raiz), "utf8"));
@@ -35,15 +35,30 @@ async function pubmed(termo) {
   return parsePubmed(resumo);
 }
 
-async function arxiv(consulta) {
-  const url = `https://export.arxiv.org/api/query?search_query=${encodeURIComponent(consulta)}&sortBy=submittedDate&sortOrder=descending&max_results=${cfg.maxPorAssunto}`;
-  return parseArxiv(await (await baixar(url)).text());
+async function scielo(termo) {
+  const q = encodeURIComponent(termo);
+  const url = `https://search.scielo.org/feed/?q=${q}&lang=pt&count=${cfg.maxPorAssunto}`;
+  const xml = await (await baixar(url)).text();
+  return parseScielo(xml);
 }
 
 async function ciencia(a) {
   const partes = [];
-  if (a.pubmed) partes.push(...(await pubmed(a.pubmed)));
-  if (a.arxiv) { await espera(3100); partes.push(...(await arxiv(a.arxiv))); }
+  const termoBusca = a.pubmed || a.consulta || a.nome;
+
+  // Busca no PubMed
+  if (termoBusca) {
+    partes.push(...(await pubmed(termoBusca)));
+  }
+
+  // Busca no SciELO
+  try {
+    await espera(400);
+    partes.push(...(await scielo(termoBusca)));
+  } catch (e) {
+    console.warn(`aviso SciELO / ${a.id}: ${e.message}`);
+  }
+
   return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
 }
 
@@ -61,6 +76,9 @@ for (const [grupo, lista, buscar] of [["noticias", cfg.assuntos, noticias], ["ci
     await espera(400);
   }
 }
+
+await mkdir(new URL("data/", raiz), { recursive: true });
+await writeFile(saida, JSON.stringify(feed, null, 1));
 
 await mkdir(new URL("data/", raiz), { recursive: true });
 await writeFile(saida, JSON.stringify(feed, null, 1));
