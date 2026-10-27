@@ -34,18 +34,6 @@ export function parseGoogleNews(xml) {
     .filter((i) => i.titulo && i.link);
 }
 
-export function parseArxiv(xml) {
-  return blocks(xml, "entry")
-    .map((b) => ({
-      titulo: tag(b, "title"),
-      link: tag(b, "id"),
-      fonte: "arXiv",
-      data: toISO(tag(b, "published")),
-      autores: blocks(b, "author").map((a) => tag(a, "name")).slice(0, 3),
-    }))
-    .filter((i) => i.titulo && i.link);
-}
-
 export function parsePubmed(json) {
   const r = json?.result ?? {};
   return (r.uids ?? []).map((id) => {
@@ -60,10 +48,27 @@ export function parsePubmed(json) {
   }).filter((i) => i.titulo);
 }
 
+export function parseScielo(xml) {
+  return blocks(xml, "entry")
+    .map((b) => {
+      const linkMatch = b.match(/<link[^>]+href=["']([^"']+)["']/);
+      const link = linkMatch ? linkMatch[1] : tag(b, "id");
+      return {
+        titulo: tag(b, "title"),
+        link,
+        fonte: "SciELO",
+        data: toISO(tag(b, "updated") || tag(b, "published")),
+        autores: blocks(b, "author").map((a) => tag(a, "name")).slice(0, 3),
+      };
+    })
+    .filter((i) => i.titulo && i.link);
+}
+
 export const dedupe = (items) => {
   const seen = new Set();
   return items.filter((i) => {
-    const k = i.titulo.toLowerCase().slice(0, 80);
+    // Normaliza o título para comparar títulos idênticos entre PubMed e SciELO
+    const k = i.titulo.toLowerCase().replace(/[^\w\s]/gi, "").slice(0, 60);
     if (seen.has(k)) return false;
     seen.add(k);
     return true;
