@@ -1,1 +1,1104 @@
-{"atualizadoEm":null,"noticias":{},"ciencia":{}}
+{
+ "atualizadoEm": "2026-10-27T13:57:50.476Z",
+ "noticias": {
+  "seguranca": [
+   {
+    "titulo": "Polícia de SP bloqueia R$ 374 milhões em operação contra lavagem de dinheiro de organização criminosa",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTkNxMW45aURYZXJyWGJVQWV5RFBkWl9vMWlqbXZhNzRXSTJXM1ZDTXpHaEVoQXR0X21IZl9vYzRYTUtzQk5PTjZRTDlNa1pLRmVOU215dFppc0E2bWJfU1hpZGVDcm1UQ3E2bnlMUUJacG1sMkpoOWs5d3Q0MkFHYUlWUXZBN2dQc3dTR0djenoxT3BtT1JLQnphTmV4bmJ0Q0dRbjlabWpDX3c3ZGxTVlpHMTlXWGF3RGx2SGd1NDZCUHhnUUJxcWJBUzF2a1otbUNPZ0ZzZHJUanpUdG1RUnFCcVJqQQ?oc=5",
+    "fonte": "www.agenciasp.sp.gov.br",
+    "data": "2026-10-27T13:52:05.000Z"
+   },
+   {
+    "titulo": "Funcionário de concessionária morre após cair de seis metros durante discussão em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMU9zNkhGQlNCNmlZZHJjM3FGYWhUamZpTTlhU0hGbldDdTVtZGZyOFU0OVBxcFFlUERVeUtQUXpoazBZTjhVTDRhT3dCSGlaeHVCT2NUazkzNFQySGliSDNJbkN3MmFUbDgtX2gzZjl4MkVlQWhSaDhiTHdEOTdQQ1dibzBTRmJWRDBXVE1ZN1hzVHZSWFpKa2IxMWhuNlo5YkpKdHRJT1QtWFl4V04xWnF0ck9WYlpPMkxodXdJZFR6Zmk1YXJUdEd2Z1RldGZDOEVkTjZob2NlOEdSLU1z?oc=5",
+    "fonte": "www.diarioesp.com.br",
+    "data": "2026-10-27T13:51:00.000Z"
+   },
+   {
+    "titulo": "CPTM celebra acordo para compartilhamento de imagens com o Programa Muralha Paulista",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbm42NnBLM0xvWkZxVDlqcVl5blk3MmJ6WnJfRHdiTGJza1hOclZrMEpkVXpnQ0lqYXZfRXc3VXhYOFlGbnJ6d1lGWUNWSzB3ZGdpVmJxY1ZpNV9OcVZTVFI4NGFJLVdISHU1cFg1aXZnUDltblFCb3Y5Rk4yS0xfbWVyc25xNWs1eG1mV29INm9XalV0cGtsNFRYbEV0T3VLYUJiLUMzei1rNGRhcVZMSmpCNjc?oc=5",
+    "fonte": "Metrô CPTM",
+    "data": "2026-10-27T13:31:41.000Z"
+   },
+   {
+    "titulo": "Dentista denuncia homem por importunação sexual em academia de SP",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbU1IWEhTRHBIb3lOczRaSDVSX1o1RDFpVjN3WlZIYzVJN3pMQ3FUaU9TOEVndlgyMV9faHgyNlQ5VmtpbUlWNks4amE4TTI1dHpBTVNWOUZsaUk2S1B6ak9wRkVRc2ExLUNURGdpTUdVRE5teWt1NkMzS0tVSzdzNnFYT0Y1X2ZPRU9Cd1paalVqQ0RDZ2NmZTM5UUo4aU1ZYkFDTXZubkpiU3VicFBtbXhHZTBxYkV6bTNPTE1XRWhlQWM?oc=5",
+    "fonte": "Tribuna do Sertão",
+    "data": "2026-10-27T13:29:00.000Z"
+   },
+   {
+    "titulo": "Estado de SP tem 20,5 mil vagas de emprego nesta semana; confira",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcE1UYlE0b3BuTFlxTHE3ZFVWMFZOeFBVdmx2WW92dloyVTlNd3Z6TnpwLVpCUHBvOFpIWVlFTFEzQktfYk1rUGlkTlFtOUs0YWpqSkltM0VzdUwwVmdWQjRJQndGck5haE1Na2piZ1lvNDJWYWl1UEplUmlVbXUzNDItRUYta3EzVVN1dnU2eDNieDRMb1pSWl8wRERWdnVMNExVOGN1eUtDUnA5V3B6eQ?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-27T13:27:27.000Z"
+   },
+   {
+    "titulo": "Smart Sampa: como funciona o sistema de câmeras de SP que teve senhas expostas",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORllUcXA2V0VQelV1Nm50UGVhTk5TN3lEWXNtVWktTWVneVp1aDJidjZsamw2V1B6dmczWW9EblhPWmhNOG1UVEk0ZUNXb1BZMGpZNnBnMUdhNmw5U1V4dGxGNHpTRVJ4OFZ5SS1oRk5LY3N6eGoza3J0RXhvYi10SGF4ZDl4Nm9tSzREYnVObjNCd3NvLXRIb0F1OGdEa2ZLWUwzRVFPNA?oc=5",
+    "fonte": "adnews.com.br",
+    "data": "2026-10-27T13:07:21.000Z"
+   },
+   {
+    "titulo": "Governo de SP anuncia abertura de inscrições para 3ª edição do SP Global Tech",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcFQyaGh1ZWRGTlNNazBDYnFXUlRDZW81QU1yN3p3Rjl5MXRvOFhoVXpDd0NZU2V5TS1oVHJ2dWZUd1M1YlotaUU5QUFqX0tIeHZOZFgtcncyS2FfQTBMd2s3QkVEWVczOUprVDhVMGZuNGpKWHU0UHBsNkQ1b2hmN0FVWQ?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-27T13:04:00.000Z"
+   },
+   {
+    "titulo": "Smart Sampa terá parceria com MP contra crime organizado",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hZ3RlVzVjczh5eEJNTGlxbkNxZnpQWFo2QTJERE8xMHlWR0x5N19GSjlua2RnQVBhR0dPaFVWVVh1RVM0T09fbXp4YVdJNFNKNGN3bWtSMGE3SlROVm1CdU5rRTFOY0FRYV8xOEs5SlhBUXdoc0p6SnN3?oc=5",
+    "fonte": "ncnews.com.br",
+    "data": "2026-10-27T12:39:06.000Z"
+   },
+   {
+    "titulo": "Feriado à vista: Fundação Pró-Sangue receberá doações nos próximos dias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORE51NUlPck5WT0RTWG9iMkhYZ0Jjd1ZQN1J2dWliMTBBZkdmZ29sd2FtZUZjX3NTYnR3YlRBaDV4VXpZR0ZVNE9WUE9OeTRsLU9BY0cwTjBaZzFwQk9kRnhWV1p6OTZfYnE3ZXJsVUM2YWFrSDFSeTR5MXlaZHlZVE5wZ3VYQ2EyTGM5VE9JNzU0WXBtNXZ5M1RDV2tvLWY2WjlhUml5VE9sbHdYU1E?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-27T12:18:00.000Z"
+   },
+   {
+    "titulo": "CPTM firma acordo de cinco anos com a Secretaria da Segurança Pública para compartilhar imagens e dados com o Muralha Paulista",
+    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWjd2VU90S2ZQN21YMXNyNzJfNVhNbS1uVXoxZ0M0dF9uY0NGNUw1MVBDdDRjeHFxbVgydkZXWW13UUJwUFNmVzJXWnFscldRY1FvSF8xZ0pTUUdndW1BX2E0WGV5XzZHWjhYOF9VeWFacW1QeklRNk9vYW9rRGk2RWxuNTJHMmFGVHdndm5EelU4SUVDdk9faFVJUnhrOEFXeGVkRnVQOGFrOUtPV3NoZmtjQ0Q3aFNGNEdOUFN6Wmpicjg0REFINzhKdGVjVXdEXzd4VS12UjVzTk9IMk1Sb3RBNF84d1lpaUhWMVdyX3dtN1ZKUVdsWWExa2VnZ010UkHSAYcCQVVfeXFMT0kzY21YM3ZxMGh2emhmNFpNMnd1NHBfc19jYU90V0tTZmIxX1lKWVVLUkJmMndCXzlUTnBUZUVkUUNMWDNCbU9DU3FfYkN0LUlyOExZdGRyNVBJclB2QVptQTZQTjlFa2c4cFlOTVBhYS1XN0JzNUZPRDQxSldwSHlwSlpXdXRiU1I1RmRFM0FCVW1sdkUyNEVQWk40UFlUOXMzNUV1dzd6Sk5JT3VlbGxQZXZmN094UnBZaEVrUkhaaElRNXloelNBZ3J0LWY2Z2tYMWE5VDN5SmNFRi1xWUprUXJvYW1SOVhiLUFsWC1LZE5vZUJjM3luU2U3cFZfNGRSSU5xZEU?oc=5",
+    "fonte": "Diário do Transporte",
+    "data": "2026-10-27T11:08:38.000Z"
+   },
+   {
+    "titulo": "Articulação com estados e aplicação da PEC são desafios para Lula mudar cenário na segurança pública",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa3VUMEpvV2FPMVg3bjgzQTEwMU54VjY3Q09vS3pvM3QtQW9YcFBtMmIzY0h5NjZmcno3eXg1ZVZYNjNzMVJGTHRXSjBwanV6UmtPYS0xRGhueldtMzQyWVNLMzE0MEhuOE05SWs3SS1zdDJiYjdxVWtNVU1NOFFpM0ZZZkg0Q1dSSXRwSHVuaEQzeVV6R2ZhVWRZUkdyWVpBWkJnVXNmMTdUQnQ2U0h0ZUs4Y0xNTWkwYVZuY1czNWdCV1dJU0l5QVl2dmdKeWptQkdDcWRJYjVhOWFqV0ROSzRzaEpHaWZvc3c?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-10-27T02:00:00.000Z"
+   },
+   {
+    "titulo": "PM prende traficantes que usavam câmeras para monitorar ruas e antecipar chegada da polícia",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOFVJdDJ4aWhfQm5LZzl5akZGRm1uTzNwTGEtb2cwazA4Zy1ZYjdVcGlrMndWcy15OTBGOHZWYTd3N2liZ0V0RkRlQlhQdXczeGdodmFWZDlHVHdzR09aeDdiZXVkTEZtZXJJSlZmTlU0dWV1VFdxbnR0WG5hSDUwQnZLSVFZX1RRMUxPb1N4MlRIMzFHZ1BnQWFoeXlOVXZTTDBzYU5ONnZtQUlmX1pSM1VRY1pXdDIwejE0cU1NUUtmeEc4Qm13Yy1JVXhWTmpHeF8tTkEzTWVidw?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T22:22:41.000Z"
+   },
+   {
+    "titulo": "Caminho da Capacitação inicia novo ciclo com cursos em 17 cidades da Grande São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORHhlbkR3dXZTUXkzRWprN0NDT3hSazN1d25relVjT09ibjJBc0I0QzViRk1IUmdkYXQ3Wl9qZUNOeHdIMnVJc25WNHVPTE9iaGtyY3RLMXBONjNOZGd2cUM3SElTNXlJN1J2ZHZTMW90bWdzZkJnVTFIOTdEWkZYQXl3LXllTXFNYndNVDRaUllUVkRZTlFVWE5uallrdWNxYnZQYzJDODRITzZwVnZUUmhFakNkYUxOZmF4eHQ3Sldyd3M?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T16:43:56.000Z"
+   },
+   {
+    "titulo": "Concursos de Polícia 2026: Atualizado! Veja as oportunidades",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIblhnVDhKNzRXdk9UY0NIYlNldDh0Y2FvSlpCTTVRYTlxRUc5Q0JDSnFNNDVSQ3hpcmtfckpCYjFGVnZJNVJqWVlaeEhZNmNfcV96c0lSekNVY25sTE1IbnBfd283X2dOMHY4TUZB0gFzQVVfeXFMUEs5YzloQThuQ2drWHJSczJvZWM4QXBnRWVpTkJTNE95bkZTZ0V0cEEycl81TjY0Y181Vm9TTkVkU2JSZ3RZUzBoWEVkel9nU0FlM29MZnVOQ2ZfZDJocEFDM2VqVzR2cThrS0Voa2dWa2tYRQ?oc=5",
+    "fonte": "Estratégia Concursos",
+    "data": "2026-10-26T15:35:00.000Z"
+   },
+   {
+    "titulo": "Governo de SP lança edital para contratar empresa responsável pela implementação do Parque do Moinho",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQLTFhcWFhYnYtNzg4NkFXejRtWVRLOVU4RHVUWGRHalBpNFFrNU9UWFJ1LTd5ZzVucFVobW5QVEdRa3RTNGstLThNVU01Rjh1QmFNb0E5VmkzLWdybW9qWVlGa2tkOVBFQWRNeHRWNGhTOXZEdnY3cG80M3JrV2trbTI2UFY4VGt1aTJDZEVMMS1BdUdWUFFyaGtLMUlzNGp5WFV6Mm5kcnh1TTFZNDR6dEFrTVRxalFUMVF1dEVOOUN4VkRRdldWUDg0d2d2dzl6dDRRRG53RmdGN1BhY1o0UGlCUQ?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T13:41:40.000Z"
+   }
+  ],
+  "educacao": [
+   {
+    "titulo": "Agente vence dificuldades com o SuperAção: ‘Mostrar que é possível mudar a realidade social traz esperança’",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUDd5VkdwalMxdmhMdlhLNXFDY2pZalJDZlFIU0syWUlEaFBkMGJKR0ljRF82MVdKeDVuVktlNm54VENtRi0xaFVrTXNuR0JtT2ZVcTg5TV9CTi1wR3E3RGF4R1NNTVJCYVNtODgweUw2NzFxY0ctWTEwUnZhZHVYZTdkRjlOdkp5SDNpM1EwdDF0TFVHWHUzb2hpUVpzMWE0dTM0T0pvUnFoSUh3SEZROHU1Y3hDTlhxVHh3V095RVo1cnJjMU5sNm1BUnFSeWVwMHZ6RUo0SGUyMlYt?oc=5",
+    "fonte": "www.agenciasp.sp.gov.br",
+    "data": "2026-10-27T11:17:28.000Z"
+   },
+   {
+    "titulo": "Eu e você na escola",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJU0VFNnNlUFphNXN3N1FWakhuZW5MUDVCYXQzTThCYWpGa28wQmhsRGtIQ3FlR1FEQWpfMmZya2JnQ0VSODYtSDFhZEU3U1h4OGlkMVFRckJKb2hITXg5MnB0VUtUaDdRYmc?oc=5",
+    "fonte": "Sesc São Paulo",
+    "data": "2026-10-27T03:13:24.000Z"
+   },
+   {
+    "titulo": "Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeWE5SXVOTTV0S1dfSXNsRVZjQ1k0U3YtWDh2Vmk3TWp4Ym5JRnJNUFl0amMzTmlsUW93WWo3N1VJTkhpOWRlVzVxU1hDNklBTWxMSzlfUFJVUVFnRktsdDMtZWduNmZNMmtYVW5OZlFTbUdLdFlTakNvelZ4aXQxN2gyaElCTnN6dmdqNGJpREhiUWk2ZjVWa0VaS29XUnNkcXBCLU43eFQ3bUZlRF9QZlNlaU9UWkcyT1JHUXlLbWtsZHRiWVg4N1ZoTnVsRG42MmdoaVpKWnJ1cGc3dEotMFhyc2Njbk5XaVVjRDlKOUU?oc=5",
+    "fonte": "Secretaria da Educação do Estado de SP",
+    "data": "2026-10-26T23:56:21.000Z"
+   },
+   {
+    "titulo": "Previsão do tempo para terça-feira (27), em SP: queda das temperaturas",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYUJrZzJDNG96VW5XdHBfVG1rSTRIbkVDM18tQml2djdFVzRkMmR6Qkp3cTZDNzBCcVZ6OWxiZWtSRUQ0N3pOUjRFc1lfd0pkWklGNHRxdHFsV0IzYXpGYU9hTXozQUl4R0VIVXIzNWZ2ZERpQ29nMFZPNWh2amdMcDBnLXNvWnZmaVRqenJnNHoybF9DRGc3dlBVOGJtTVl6WGxwY1JBZkpaX2Y1YWg0VkFR?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T22:06:11.000Z"
+   },
+   {
+    "titulo": "Estudantes e professores da rede estadual de SP participam de aulas e capacitações sobre o El Niño",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSU9ab1c1aGdZZkhXMHFITXRBZkFoMTJnb3FNbXU1YU9Ga0d1QzB1blNnNV9HdERDYzMyTWNrY3dXbm9USjhTSWdZNTJ4cGEtUGhTOWZ0V1RlNjdTMGkzMmhHM3pJbmZVdzBPQjRNNFpqbFg4SDNGc2ZQZ1pud3NMMg?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T19:39:42.000Z"
+   },
+   {
+    "titulo": "Prefeitura realiza cerimônia do 13º Prêmio Municipal de Educação em Direitos Humanos",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNNEJWdHNrY21nX2dQeVhIMDZ3NUVLUmN1WElMWDc0Nm5DaU9CdmNIOVE1X25tby1IdElZcUV4b1FLb3A4NTdfVU5JblpfRFhWekZvNnVfdmNabF9vQk5NRE5OY2ZhLVFaOERFWmtqLUlidy1raFBVY21KN20zbGxVZGdWNDJrX0lVVGpHbHdFRGktaG5OdnljMjgtYmxERml0UUdKeUM0VDBndFNBcXZmb2syMEZIYS1tUFlHbE1Uci04c1k2MVByeVNjUUZXcTBYRUJIcXJGNXBSNF83bG9nWGJCQVJfVXVwSGRHMENlOTk0T1BlZjcwLXUwZw?oc=5",
+    "fonte": "Prefeitura de São Paulo",
+    "data": "2026-10-26T19:39:24.000Z"
+   },
+   {
+    "titulo": "Unidade Regional de Ensino de Guarulhos Sul",
+    "link": "https://news.google.com/rss/articles/CBMi5wZBVV95cUxQczZkYURoUWVqUTUxNHlnaDlONTh4bnNXc24waUtxbGZCeDh4UnhNVjhQemZKOGN5X29SSTZaenhrWnl5dG1tZjBLN3hncVpQa3k3Ul84ZlViTFpnekNmUDkwTWxUZWRnVzJZd3RTSUFqV1MteWlQMWs4eUU4M213T3FGS2dzTFJ2eUZyMmxEa190ZnVFck1vWGhJM2pybVhVV3ZKTEE0bElGZHRFN19LcTFVUUNIV1ZKaDJpdG40NlBuRGt0enkzTnlWSlF5V3lHVXZKcVVoUWgxcHptbDNZdnFWNGxjY25sdklZSDY3NkphTWRwZUJtTUs2dl9oUWdNaFM4R0x3NHkwNWFPbU5SNXZpSS1HTzVVaUw5NGVPTTlPN2R2UVVuSUxYSnlNOEV0LTFCVjJSNTBfYkNsNVpoX1NNTDFJdjJmdTJuNWl6cmJZVmFrUDhvUXpoeTJPQVBjbnFxVS1nNk0zV0ZFSHJuSDhDLTJ0cTVsMU4tdkZtallsZXBrXzhydlotNGtNcDBWWkJzUFY5LW4wRjhlZC10b2N5LUZiU2pPbG9rWl9lcjFkU3g4YjQybUxqTW8yUUQ5RWNGZGlNRkc4cy1kM2FOekplXzF5dG9QRHFxWDhhc2FFQW9KakpBMEluUGVxcnNGdTdVaGw4aUlaVFpsQTRlNE5xUjlTZ1I4TE5XN081WTIyQndkb3l4T0N2MlpoX3RvT1U3cm9pZE5RWFhlOVRxLXM2ZElSbmdTNU5YRGh5dEpBaGxpVC1JYXI0YUpJbVZwekFESmI3WDFFcnczaE4tbllxZWEtV21NT2l4MWN6NjNQNHM4QVVOMmRYZks1RzE5Ym01akc3b3JWVUJ5Tmg2ZGNaaFU4elVCUmZhYVh0VmtON3UxT3FOZTBTcG9EQXlNXzhVQmxzd3ZWWXJMNGZ3OW9SSV9Ka2gxQ2lwTm1iZ1JqdUxIYXB0N3BsMFJIQjJYVi1ONU9pZDQ2NjNYX2psUFd6WUUtbEZncTFHNzRqNHM1OXZyckJnRG9jNFlWZVRiaUJkZVdNaTMyOFIxNWh0SlcwcGNtOXYxazVqUVV2Tms4NVRBTDZ5WEg1a0RpOEhiYlBmdllCemROYlo2OE80NWU1ZEFBUXZXQUNUdDhLNm54MU9HMlNV?oc=5",
+    "fonte": "Secretaria da Educação do Estado de SP",
+    "data": "2026-10-26T18:40:59.000Z"
+   },
+   {
+    "titulo": "Diplomas de graduação da USP passam a ser emitidos apenas em formato digital",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sU1RpMTFURzVmalN4ZFA3a20wUXU3VXZkUTV0dmx0Q3pOQUw4Z21Jbm9PUk13SldjelE5Z2dURkozNS0yeUVVNEVmeFFjOHlaVU9tN0lvX1M2Q1FmM3dpNkpENWc3b1BjY3NNNU5VYXc5VGU5aGN3bA?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-26T14:10:21.000Z"
+   },
+   {
+    "titulo": "Concursos Sudeste: os EDITAIS previstos nos próximos meses!",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XQ1dXRGM2YkZZeHFvSmlKZENTR1E2Vm96ZzZhZ1ZGRDRDdng0TkpscHFyM08zc3RsOU5rMk1zZ2xKUXQweVo1cVVfWHZSVUFyZTBZbmZzWmtaRkprQVN2dUc0dktRZ1hxb3c?oc=5",
+    "fonte": "Estratégia Concursos",
+    "data": "2026-10-26T08:35:00.000Z"
+   },
+   {
+    "titulo": "Concursos SP: seleções previstas, autorizadas ou com banca!",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAzZ1k2S3lpZ09oOW54ZzRxczAzdjhBX1g4cUtjLTJndXJUWHM4aGFqS3NtaHVORnJFcUowOWJKd2dJNGp0bXVHMHFBOVNhZHlxeFJjZWk4WlJqaktWOTNPbnhKSdIBaEFVX3lxTE56bWxySlc5QmsySFhKWHV2dEM5TlZOLTFwWHBNM0U5TGxvMGxtQkZPa3hHc29MZ3VhT1lkc1M5TC05S2NoLUtVUW9seFlRbXd0MFUtYnFZcG1la1E0X2xmdWpiQmhPRnkw?oc=5",
+    "fonte": "Estratégia Concursos",
+    "data": "2026-10-26T08:26:00.000Z"
+   },
+   {
+    "titulo": "Educação de São Paulo publica contratações de transporte fretado para quatro regiões; valores informados somam R$ 215,3 mil",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNEZpa1U5WmRKODJlT1ZxbFBZOWpmVThTdWJ5dXF5a1QxTUwwMEhMUzZSQUpuWVJEMlc3Q1RhcnNTQmxieWZ2aVlRLWo1QXF2bnJ3dndDbkEwdU5vYldydWhMNTVZZmtJbnVTYjBBSGlsa2RoQVFCNGpkNFRiTzlybVF1NHNCekxVSTJuMmVtY2JoR0RKM1VUVEhqTUVDaHdIT2ZBQ1FFOUthSFRsaTdSYVRmYXkyNWZGbTd6U0xBTEpGaUdUNlRSeXhzeHE5ZjhzY0lhMl9jYmhncW1XRGdvSVgzakVVUXV0ODZiZFpOc3BMVzhYNGpsaDRB0gH_AUFVX3lxTE1ESHBXMTVWMkZqV0NZY1ZVUXNlSlU1dkNuM2JMUlFhd2x1U2k3OEtmLVZRWGRVM2twcUwxeGtvd3VtMV9DY3VUbGlJT3dDM1ZrTEJ1UmpIZWhTN2pvQ1NXM2ZUV0NubllWQkI1R2ZQNHExeGdBend6TTlTVC1VMVAxalZ1b2hvekFaRm80cEJTY3UzMVpWR1dJT1hPc0tRNnhvVi1ELXE3Ql9tMkFROEpPSk1mM0MyNWV3MXg1eUxJNkI1dGc1elAtbEY4OU04Q1MzRVFOQ2ZrdldBUkVqbUVfcDB5ZjBqbV9UenI2TklnUGdjN3A0SGg2Z2MzM0htTQ?oc=5",
+    "fonte": "Diário do Transporte",
+    "data": "2026-10-24T19:12:14.000Z"
+   },
+   {
+    "titulo": "CGE SP promove 2ª edição de peça teatral sobre integridade para estudantes",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LWmV0Y0dVRHBIVl9mLTl0NDdEdVRYUkE0cGZIWjVSWWRZQzBWUlNlZG1icUtHdUNqbHRNOEY5X3VHekk1Vl9NdzVoNkhXZGYydWFKcUpIMnFQRXIyRlFQOTYyOVpoemVRNTFMbGJnV3dOMUc5eUNDaG13MmI?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-23T18:40:24.000Z"
+   },
+   {
+    "titulo": "Concursos Educação 2027: Orçamento prevê 19,4 mil vagas!",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90Q2hQRFh3Y3BiZGs5RW95bmtfWmpiZ004N2F3UkJBaVFsdUxuMFpwQVBYZDB2anItWE5YU1pMUlpSSVNlSDdFY1pwT1FFNTY2SlRtT3pBU0YwS2JGSU40emxWSU1mRlItNElj0gFwQVVfeXFMTi1sbFJJa2dxZy10MHR5a0VMZ1M4bUdleU9Oa2xJRHpxc2tsbE1oMU1oSW0tYWtXSTQtQ2FJQm15UDJlb0FiczljSFZnMmhCdWRmNFZCQWVfNURqajBSYWVmZkU2ODFoNjdNazNXMlZWOQ?oc=5",
+    "fonte": "Estratégia Concursos",
+    "data": "2026-10-23T13:50:00.000Z"
+   },
+   {
+    "titulo": "Agência SP Verifica: a iniciativa privada vai definir o que os alunos estudam na rede pública de SP? 😯 Não! ❌ Entenda a PPP Novas Escolas ✔️",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPM1djVVFVeGF5TE9LQWVMQ3VVZVNWeGtLY2xhQ3Z0MHhNZmJ3VUgxNGM3Y0NrLVBQc1ZDUTBCQUpWdF81V1BnWW05V3ppNV9MM0kwb3JZSG01U0NGcnAzbTJYdzZSWnZJY214ZG1yMXpGU0JMdW0tVkN1NFVkR2txcTNra2RPdEhydUdXMkc4SDBCRTU4T1YybFRjVkRSSnNxdHpYVzZzQTJxRTYwZlpkS3d4eXptZWp1ZEdlR01BM3UzcmFENlM0cjJNRFV6TFNzdVlXcWR5UnJ1c3pCLXhGd2VIbDcxMGN1c09ybWdLMFdiZkpPZkktMkppNDZyLTZleUVfSFZR?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-10-22T09:20:00.000Z"
+   },
+   {
+    "titulo": "Educação de Jovens e Adultos: Projeto que proíbe fechamento de turmas presenciais da EJA avança na Comissão de Educação",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFFyU2xGbW83cXBkZVp1UjBIdFJzOTZWeHV6UFAtZUVWd3hJQ19KNS11aUFfdEJVaWVSb29OdDNLbkM1OEJ1Y0kwQU9sT2xBa2hQZVh6QTRhQ1FZclRLVDZ6UjVfTl93Y1ZuLWJGbXFqUF9fVHVyU0tpU0ZKa1c5QjdGYTVvUi1VYVVBNklXaUVxa3AwUXhCdzdrLUtMb2JBVXhVTGlidHpINkxZX0REMFdZZmxvOUZVRXFVN2szMXAxZGthMXg5OHBRblJ4ejRjd3NVeVk5dEUzbHNpdTVQNjFySGtuZE9rWDF3?oc=5",
+    "fonte": "Portal da Câmara Municipal de São Paulo",
+    "data": "2026-10-21T18:56:00.000Z"
+   }
+  ],
+  "saude": [
+   {
+    "titulo": "Recebeu? Governo Federal envia alertas sobre mamografia para mulheres 50+",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFV5WXUtM2pwNTVWcjlLcUlQS3drQnpzVm1Pb2V5UTc0SkFrc0hSenRNQTNLODRkUEZVeDVBeUhwV0Zhc0pxM1JCUG1ocFJraUFNMmV6T3dqWGF4bXpnX0w4R19sVENkMVdvNVJ0enRqUWxVYzlvRnQ3ZXBFSUowcWdzZ2JmNDdycXBxLTZvcExncEFpS1o4a3N2LTFxZ3RHcjkzNXg3cU9EWHViRXBzQ1l2Y2Y?oc=5",
+    "fonte": "viva.com.br",
+    "data": "2026-10-27T12:06:00.000Z"
+   },
+   {
+    "titulo": "FGV: Lula tem desafio de ampliar atendimento especializado no SUS",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMUUzb3ZuNUVWdVVWTl9PZnozalA0bzh2YWdaZ0x2SGYtcUJSUzdFLVE2MGVjNXVuc3BaazJQR1NMS0RJVkkyLS0zMUxNd3VKMGZvTDJzSDVyaWxJV3JyWUEyUmUwQ0hRTWlfbnFTc0VMdlFrcWhiOEI5Uk12Y2FPaEZfbnJIWWZjb3dsdnczcldtRlNtR3NDQVViWDRXRkIyMU5WbFFuZUVOSFE?oc=5",
+    "fonte": "viva.com.br",
+    "data": "2026-10-27T11:00:00.000Z"
+   },
+   {
+    "titulo": "Documentário 'Medicinas' estreia em SP e vai dos saberes indígenas ao SUS",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR091WEZ1QzRUZ0E1eGdiT04xVFE2aVRSejB3STJ2c2Vsa25vV1o2blB6Wmt3QUV2aGQyWUpwQWQxVnRHdjFSSVhvY3RHNVUwZTYzazZxM2RUTnFtalVGSkgwVjZ6RXJGeWNseFdJUnhVMHJ6dkc4MmZmZ09oWEMzMHZNLVc2TXotV2xDREExX2t0bFB2Q2RmdDAyaU9sUmh5X21abndhQlc4SEhvcmF1aU81REk?oc=5",
+    "fonte": "viva.com.br",
+    "data": "2026-10-27T11:00:00.000Z"
+   },
+   {
+    "titulo": "São Paulo e outros três estados têm vagas em especialização do EpiSUS",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWtjNEpVaEpGZ3gyU0M1T0JiNHZfbUZmZGFXd1JiQjhsbWVvRkNMSThpc1F1bVFmQkwzMFBrMVdCV3lPM2FQNEhZcVI1aGEzcFRGMkxQaFg3ZkhLQ1ZzN0EtMDQ2NEthNC1wZWhwZE1rZzE2aE9LZTNjODE1eVpONmxmMHJLWk9fZHJfSlFqQ2ZFVkFVODl1S1FhWjZIVjFqdks3SUtBRE9JR2ROMEHSAbMBQVVfeXFMUG8zblcwLWw1eGwxb3hQQ1UtRzQzNTladmFINEpBZXVvUmZrQWp3aXQ1S1NOeDBMZHBxNjV1U0xpY0hKcjFfcmRZUGk1dVA4VjgyLUJyQUV3ei1RY0kxTFRJN0RoNjBMb1JoNlMwdlZyckoxaThUcW15Vy1Bb0FMcFhqcVB4WElJNGt3LWNtZGtjdkV6OXF3V1VpTjJKdzdwLWpOUjNHWlhndkhVZFFaMW84X1E?oc=5",
+    "fonte": "Costa Norte",
+    "data": "2026-10-26T20:20:00.000Z"
+   },
+   {
+    "titulo": "Família denuncia demora do TFD para garantir tratamento de paciente transplantada",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcnBKRVIzVl9iaUF1THExWDlxWFlGbkVCeFk1S2dmVHRiR1g1ajVZbmZYdTRJNHE0dTdIY29nMDVFQjZRTWx6SDBKWEJEcWxhU1lPcGRiNlYxX0Y0X3ZBSWxieUpxWW1vM1lLN3pkV3FxaTJEM1RIcmtyZWRoZTd6TGhPQWJFeHVCRmdvMmdNV0NyQlFoY0lRWDdYTHVvcUNZSzJRWXZSbnV2UVJMY3ZTZzB3SDJxNkhTVl9j?oc=5",
+    "fonte": "Folha BV",
+    "data": "2026-10-26T10:00:44.000Z"
+   },
+   {
+    "titulo": "Boletim detalha criação de sistema digital para organizar o rastreamento de câncer no SUS",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDVUVjR3bDl2RkMzWlRtdG9jUndnZGlycDhQZWZ5X2xUclpHb2xmenJZRjBrWFJZV1R2TDhGMDhVdE1TNWh4ZzFlQ3dwWEdBUXpESjZCUmJWeHJJYktLTF9fWWFLaW93OEJSYjEyeGRLWWh2S0ZSM1VfbjlWZnU2ZVhuS2k0d19YODhWYnJwZEgzWmxWd2ZzeUhyTzcxTHhMamYxQnVWb0JZdm5wdkwxQ0pYbW0wcENmT2YxY0hR?oc=5",
+    "fonte": "Agência FAPESP",
+    "data": "2026-10-26T03:04:55.000Z"
+   },
+   {
+    "titulo": "Lula presidente pela 4ª vez: o SUS entre a continuidade e a urgência de resultados",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZkViQmhSWHl5VS1hTGpSTEZuVUZJbGVRZ2hFZFRQaUV4aDh0Zk5WME9DSVdyUk1Tai1fNXJlOGEzMG5leWh0SkhicFRySFpIZC1MaUdLaW43RE5mb1FNZVk2RTZqWUROdGl6cmQzNS1wTmlaVWxPaXBzLUpMU0tKWlpUX2lyNFIzQjJaRnY5S2RSdXM4WUZ4ZWVNOTk0S3otQmdzMjBIbGkyNy16cFdaTXdDc3VGT0twdW9YLUdMNWItczIzbVNqdVlERlFWazR3elExRjQ2ajlaMW9v?oc=5",
+    "fonte": "JC",
+    "data": "2026-10-26T00:46:00.000Z"
+   },
+   {
+    "titulo": "Lula e Flávio discutem pobreza, dívidas e saúde em debate",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcHR4VUp2cC1LMHpqV202Q0txN2Fzdnh0UThoUDVmZW1UcVQwSEl2OWd2R3dXM2trbVBPTXpGNzRxYWZmQlVZdUUxNVhydV9XVEx5Uk9rR19HOXhTUThKU1NfM2JGeTZPY1ktcWp3eDhsb1pMSWJhYVcyTUI1OFFxZVB3MmNqUQ?oc=5",
+    "fonte": "Zero Hora Digital",
+    "data": "2026-10-24T02:59:00.000Z"
+   },
+   {
+    "titulo": "Lula defende SUS e cobra Flávio sobre indicado e cortes no sistema de saúde",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEtKa2FyM3JUQ0g5TzZuaEIwWGRSaEQzd1ZzWUVJcGdFY1hJd3FhQ0pzMm1lQ3ZtbmlaaThRZDcwNHlqZWcySTVGcDljRzlRQzVQRFliaE1JTVhqcDVoMXJqQmpnQ0daakdGc1Fvd0xnLXVJT2gzbEg3MmxZcDBiLTZVUk9ZSFpDbHE0bG00Nl9TQ2FKVVYzaHRHVndxZVp2RGlNTW9VZzNnYXJpbDhWcQ?oc=5",
+    "fonte": "Vermelho",
+    "data": "2026-10-24T02:49:00.000Z"
+   },
+   {
+    "titulo": "Debate na Globo: Lula pergunta a Flávio Bolsonaro sobre SUS e melhorias na saúde pública; VÍDEO",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNGdQdHYzM2xUZnBoUmhfSTJWaVZnMkstM21BeXlTZUY4OVlXZDhXTy0tZzJxT0NQVFhHTjNVZ2NIVTN4bEl4OE1URnEyZHRwbXBVSGdtUGh0aHZKNXJnc1JOTHRjMHBMeWpIWmhHMzlRNVhTbUtMSnlJQmVIWFE4NlplUGZiRW9rZkVGVEU1WHBxX1hpTEdwVnVjMmg1aV81cWtDN2JuQ2lHWUJhVTQ1c015cjFsd2ZqT3hNVGFaS3oxSXFoWF9kX29qSU1reFdLYU9MVHhQRlpTT1VTbzh1QU1xY3VVSjhEbEFSYjJLQmszcFRr0gGDAkFVX3lxTE9ua0NxYTkzOW1kcXNHWnJ1clQ1NklaS2puTmxpOTdKM0RyeDI4M00xYjFlbzVmZm9OaGlocFR6dW1wanJNRC1TZklRMENjRDd4ckxOTDJzM0dEbGVxWF82MUd0SGoyTE5MVXJLZFZIUlMwTGhucnUyNWU1RXlHVUdxNEZNQUMyNmJaX3ZOSW8xNzlMTnBPNWxGTEJKUC14VHI1TmtwYVl1Tk5WTVBjSFVsbFFPUFRNSkgzVVBKdjRHV2tEUWJWRDJnNFM0ZHA5a1Z6RlJKTWpGTG1yTXRDV0JhYkZGREZMaUpKRzZkd3BqR0NfNFlkMzUzRFFGd3BqRXV4M0E?oc=5",
+    "fonte": "G1",
+    "data": "2026-10-24T02:04:40.000Z"
+   },
+   {
+    "titulo": "Debate da Globo: Lula e Flávio Bolsonaro discutem dívidas dos brasileiros, salário mínimo e SUS e trocam ofensas e ataques com 'nove dedos' e 'miliciano'",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJMVjg5Z0xLeWN3T0xqNzZYeGhPV00yNmRsNm53UVpRRUtkeUVGdUlDczJSVk5Ebkk4T0NCWk9uSFNmMlpKLWx5RVdYUFJQb3BQRjh0R09QNnlmaUVuaTMyMGtHVFlzWVZaUnhoWUpFUHAwa21mLUtvWnA3VE5KOXZhMGN5SUc0VzNBUNIBmwFBVV95cUxNUUhPNnRicDEtRk13dVBJYk1tNVVCX0U2Z3gwXzZYaEZYZ2gzamFuVDhSUy1TS1BLSG13SjZWUkZHMXBORnU0enI0RXVEc2x2a24ya0ZjMDJKNG1xN0ZTVzBYUDJCVHhuenJfWEVZM0ZhWmNubWZneENWaXhSZjVzeVZzMnNESXVfUDVvYi1FT3VOUGFTd09tdG5wcw?oc=5",
+    "fonte": "G1",
+    "data": "2026-10-24T00:39:27.000Z"
+   },
+   {
+    "titulo": "“Tesouraço” pode retirar R$ 300 bilhões do SUS em dez anos, alerta estudo",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUljT1N2V3VpSkg5Q1Fxc0tfNS1MUjJDbVZBOFY5c0ZFbi1kbmlZbjBsLTlLaVQ4VWs5aFBHX0tVUjBvVThOcTFENllxQWY0cXJnb09KeUh4Tml6NFNWaUgwdGFaQ284ZFNweWxhRDFXNEpiOFB1azRhRy1vd0hJQWhwV3FabnBkbFNZMGhIOF9vX2pBNWxhSndvSm1SYXc5WVIxTkxaVEtheFcy?oc=5",
+    "fonte": "Outras Palavras",
+    "data": "2026-10-23T22:50:51.000Z"
+   },
+   {
+    "titulo": "Proposta de Flávio para transformar SUS em Einstein é fantasiosa e acena para privatizações",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oX2JHMGRlUEJRTGxjT3JRcU51S2tKMEw3NWNGTU9DU09fVUNtQkYxVVEtcWZIWHNocGtnZWV6amFuV1lHeTh2Tkw0RkNjUk1zVDFWQV9WQWNacVpJaExVTXhVNWpYaTRXVEgyaXdiUktZcWtiREhCQklB?oc=5",
+    "fonte": "ICL Notícias",
+    "data": "2026-10-23T22:11:28.000Z"
+   },
+   {
+    "titulo": "Carreta de cardiologia do SUS chega a Guarulhos (SP) para oferta de atendimentos especializados",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQbHhfb1plWG5ES1JvVElkUkQtVUIydnlSM0d5emthOExmdG5zajVqSlBLb05BT0g3a0cxMC1GVW5fRWxOdXRsdTl4cmpNYmV0V0dYbVJjcXpNdE1OVEZWOVBKWDJkaDljb2RYUzI4R09CVXlfRFl2VTlsQWJPdWtGbUxSZDVQUWpnUU9yQ2U5bzQ2c1VHX0FmcE1yV0g4RkxwU1drMWpBdUlLRTlGM3NPZy14T0I1a29mZzFFNTJ2VHZoWHNyUjlFYzBmRGR1VWQ4UjUyTm05RHZqTVB3NGdlWmhNbXdpZkNHTElRY0FuYw?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-10-23T21:16:10.000Z"
+   },
+   {
+    "titulo": "O SUS em perigo",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHYUJRS3hWMTFSMWtnSnJfdWU4QkdfWW5raURzRHd2LWgtbnRmaGtJN1VVLV83ZGEtNkVNckVRTXhqdDlqTnpvY3paSkt4RlRsUlpEUzJNMHpGdVFhcXlqVzRDRmc4VmxXbHpnTXlRV1ZYZw?oc=5",
+    "fonte": "Brasil de Fato",
+    "data": "2026-10-23T20:37:00.000Z"
+   }
+  ],
+  "economia": [
+   {
+    "titulo": "Estado de SP tem 20,5 mil vagas de emprego nesta semana; confira",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWVQcUdBLVNUNC1ybTliVERhdFkzYXEyanVxQkt6MHlYLVh0dFZMNk5FNzZWNHowSjBZVVVEZkVIQmprTHNOcGhTa2psVldVZE9nUnVUOW82V3kyU1o3UmZFbVg1M0ZBWnF2WjZsam5sMTFCVG5fNHh0UE1sckxRS3hVd3l5YlZUZVNWbnFlSDFfSzlXaWpZMkMzUUZQY3RIMUhXUHdhSTFMdjBr?oc=5",
+    "fonte": "BOM DIA SOROCABA",
+    "data": "2026-10-27T13:32:00.000Z"
+   },
+   {
+    "titulo": "Aparecida Debate analisa a importância e os impactos do agro na economia do país",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcG9Odmo5a2xOTUVUZk1rd2VjdlY0OWdqaVpKTjJaTWl6OHhOV1hiZGJBaHV0WTh5cXFwdVJ6UmRZMHZDOU5aWDNhOWFmUzZXMlY2YW1xQjdFNElfa3FOeUxTXzJaUG1YR2JkMkt5dUVobDFNYVN4MWx5RWp5Qko5cW1ZSUtIdWtGeUM4eUhBUjFEVFZ6clRlTmxVR09uSk5DUGdZdVpxWEw4clZjYThUVk9qQ01GN1FkRG8yMWZaTmVhSHRoenlCWG53?oc=5",
+    "fonte": "Portal A12",
+    "data": "2026-10-27T07:41:15.000Z"
+   },
+   {
+    "titulo": "PSDB de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOczhKbVN3R0JlalpJZDNmU21pLVlfU0llSG1fdHpydUVtX3p0bkVrZzE3MkY3NVI3UndzMkpmMmxtRUhEc3lWY3p4blc3Z1cxYmphWDhuNWxvNHJKaFA0QzJyV29IWU92VERFQjVHZk8yd1E4czlYd0JiUk1jZlZYaXpqWmVQS05Ob2xlb0xmWGFXNzgyLWV1VmJHdDdDRjVYRGhTQmVCRXROLWY3WE9N?oc=5",
+    "fonte": "www.correiodamanha.com.br",
+    "data": "2026-10-27T03:03:00.000Z"
+   },
+   {
+    "titulo": "O que Lula propõe para enfrentar os sinais preocupantes da economia que terá no 4º mandato",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MQWViamdocER1RmFlc2JlRDk5THdBdEF0MUZ1emd2RmJoOEZQUWJMa1NTZ0hxTnNNY0gxZHJmMUdKSlJ6bzg2WFowRzFEMTk3OFE3dy0xY2l3UW4xRklHSzFzQQ?oc=5",
+    "fonte": "BBC",
+    "data": "2026-10-26T21:25:41.000Z"
+   },
+   {
+    "titulo": "Agropecuária lidera crescimento da economia paulista no segundo trimestre de 2026",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeGI4Qk1KVUM5N1MtajBGQlgwWFVSZ2E5UndnQ0owbFduZllKdVhHdzgzWUM4M2N5cjZCby1UdUxvQjE3ZDJBeDBPTm96SFpmRDBOcHdxWnl3Vl9pU0otb043cG9pcnRtUzRJUHUwN1hJUm9EWkRMaEhLNndnWE1YS01HSllkUk9lcmtUMG5DeFhzZVZTb0dWUVpLVHkwNnpSMEd4TFJvaXlWRGh2MVUtNVVHVW1ZUQ?oc=5",
+    "fonte": "Rádio Itatiaia",
+    "data": "2026-10-26T21:18:03.000Z"
+   },
+   {
+    "titulo": "Agro capixaba quer juros menores, novos mercados e isenção pela água",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXhubERuNWVGa2RmQ2p1bzNnVE9rWXVzUmE2SmxVNVBmMEx1WFdpMXUtMHJCRWZxdXpaYnIta1lDZGtzT0ZVQjlxcEJlTndzX0pBX0hyQUMxM0txLVJURlM3eU5aclRCdUdzZk8wUVNRZjVsczhRRXJWaGkyeW9Zd1pabnlqLXg2a1dKS0NaM0xmZHBsU1VxZ2JWTThtcVR6RTlFTmRJS2xRMFVZbjA4em1tejR2N0VYdUdFV3dB?oc=5",
+    "fonte": "Folha Vitória",
+    "data": "2026-10-26T19:48:06.000Z"
+   },
+   {
+    "titulo": "Nunes deseja recuperação econômica ao novo governo",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUG0zZVFjRkRCeHdXN1hmdnZSZzd6Z1lndURCZ1dXOEZMa0Rrai1CXzN3T0ExRkI2U0VnSXZOZkIwcWNGM0xrczc3Y3B4elMtblAxVE1MUFVEOVFrel9zQWVBNzZfOThTN2QtU0tKVzVCZjUxNFBBZVRUc1lkZWFWYlU3QnBReURUNWRuSWVfRnBfS3NwVlVWNGl3NUVtcG9RREhUclprQlhiY3J5WEhOazlaNWNOSWVIRnRPTmpwQ3JLTEo1VWc?oc=5",
+    "fonte": "www.correiodamanha.com.br",
+    "data": "2026-10-26T19:20:00.000Z"
+   },
+   {
+    "titulo": "Dia do Servidor Público 2026: quem terá folga e próximos feriados",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmhnWmdXczdQZERGLTJaQnc2bGx2VDZCT2hmRVRQZU41TkFEbW50VlBzMjhKQl9va3NXb1N0RHhjZ3kzdGZ6c2tleHpiUkR3TDluSFR6cGQ1Wkh3Z1JkZGU2Y05zZEJxejFRQjdSTHhRLWFiODNMSVh5TXJ2bExRY21lakJZNmswUFFxZldfU1hlcXhHWGQ4bDNEOGtETWlPbzZFUlRURnM3anVnaVd30gG0AUFVX3lxTE5HMzhTc2VCNURIaFktRDNoWkZnOWxrUUpNN2VOMTZKVUwySklDNm9FN0xfYS1nbk43aENub19hTkNaU1lwQkduWnRJdGFqa2JYa2pCYWhQb0FkbkhiV2RUYXl2R01DdXduWXc4S0VXUXphNUlJbnVGV0dEblZqbE5BZnhzV1ZkTnRhYmlrM0YzaHdfTWhhTk0yTzJNZ0tnbXFNTERrRWg1LWowU01QazFfWU5VYQ?oc=5",
+    "fonte": "Tribuna do Paraná",
+    "data": "2026-10-26T19:07:00.000Z"
+   },
+   {
+    "titulo": "Com base no PIB real, Acre registra a maior taxa de crescimento econômico entre os estados brasileiros",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNGZxSGlWSVpTWGpzTGNiaVF4cGlZR01SNG1odWQ3aTRDZklSVmktb1lkVENfLTZKbUt1S3lHZ25IXy1nVUxMaDV3cEFYMFN4cW9ZYkpfTGdCREx6RmJoSHByVmFINHdUemVlWXJHcWQxZ284OVpuemg5cGc5YVRkOVZlUnVPaU9KUEpkNkZSdk9RR0tiY1ZpY0p1MW1pbWdlVFNPYzhfMkR4OUZZcU5PdVNJNzljenR6ZmlOZ1N3Zmh2MUdCZmhBLXduN2o2ZEhFX1Nua1Ywai00Q285?oc=5",
+    "fonte": "Rio Verde News",
+    "data": "2026-10-26T18:46:11.000Z"
+   },
+   {
+    "titulo": "Ricardo Nunes deseja que novo governo 'acerte e recupere a economia'",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkUxN2MtcGxwdjM5aTktOGwtY21EWThrbFdPRzJHZzFyVERqV2d3T3pUVmZVajZJd01xT1FsclVsXzZkUktBNWVYX3M5bVUtaFFvZnlCc2NWcUFOOHdEcTJuX2Fid3JDLTIybmNGczdaV1FrLTBQbjcwajRwdFZBWndFSTlrWWNROEZVQzdORWFOSVdMM0JjWWhFOEtaUmdUVEd4VUpJLTdkWkU5dEtVck9YMUdsX2F6RTAzWE8tSdIBvwFBVV95cUxPYkUxN2MtcGxwdjM5aTktOGwtY21EWThrbFdPRzJHZzFyVERqV2d3T3pUVmZVajZJd01xT1FsclVsXzZkUktBNWVYX3M5bVUtaFFvZnlCc2NWcUFOOHdEcTJuX2Fid3JDLTIybmNGczdaV1FrLTBQbjcwajRwdFZBWndFSTlrWWNROEZVQzdORWFOSVdMM0JjWWhFOEtaUmdUVEd4VUpJLTdkWkU5dEtVck9YMUdsX2F6RTAzWE8tSQ?oc=5",
+    "fonte": "Estado de Minas",
+    "data": "2026-10-26T16:43:00.000Z"
+   },
+   {
+    "titulo": "Apoiador de Flávio Bolsonaro, Ricardo Nunes deseja que o novo governo 'acerte e recupere a economia'",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNV2FMNUtTYXRyNDZzNldvam03WjF6cUFrNVJUMVVMUnFvUTN3VDk2N081TW4zYWtFbGk2NFhxbWdyNkdxYmhWd1phVlVqM3RwQXlCR0hEVE4tZzNSLUVZMWs3QjdXQW5PU3pIQUJOSVF6Nm9xQmw3NjZxLWZPcHdjYWdISmtGYWtpMGhDeFFVZ3FOWGN6eGZ1V0tINjRmMDhzem5xbEJ5RkhaZWZ2YlZPZFkwRDRTN1AxWjFxUU5xdnpLODk0eWIyTGpPb0R6eTYwRk9XYnAzVVpPYUYtN21oSQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-10-26T16:17:00.000Z"
+   },
+   {
+    "titulo": "O poder econômico dos grisalhos",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwQXFxSEdMRGI4cWt0QzNxQnlpazVEMHc0YURxZ0ZwR0haMFVLRE9HS3lvemZoWVAxVGQ0S2ZKTDJENzVjLW1EaU5UaUotbXVPdVlGM3kxdVc5cm90VlVWMWJSamMzTFctX2pkeUQxUlE?oc=5",
+    "fonte": "FecomercioSP",
+    "data": "2026-10-26T15:03:49.000Z"
+   },
+   {
+    "titulo": "Economia regional – Hotelaria: entidade projeta ocupação de 61% no feriado",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWTdQLUVnNWkwWU1ZWmRHT0ZhdFp3aHNYQldaLUFMLTJiMHhRajdlYW0tc3ROV0RxUE83c1prQnh0UW1mOHp0N1ZHUng3Z256ZzBiMEJzYnF0dmtCaTVSTkp3Rzc3MXRPZDR5dW9RS2x6RDByNS1WajFUWDlXb29VRjFHbDY1UW5qQkJsQTYwbU1uN3BzTjBBUnZYSUhVNHItM09PcmFn?oc=5",
+    "fonte": "Diário Campineiro",
+    "data": "2026-10-26T12:24:55.000Z"
+   },
+   {
+    "titulo": "O fim da privatização como panaceia",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuMHloVGJ0THlLVDJuQXRLREhxX0RfbzdKdmdncWdPb2tDdmZWbWROUEhEUHozdmhUTlBIdmNIM1loem9sZ2hNQjRqZm0xcTZBRDN1aVlBekZ2bUNvU2xLSEk3Nm54WUc4cU8wYzN6U3l3elV2?oc=5",
+    "fonte": "Boqnews",
+    "data": "2026-10-26T12:01:12.000Z"
+   },
+   {
+    "titulo": "Fundo de ações brasileiras despenca 26% em Nova York após reeleição de Lula",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUllHZjlpZ01aZ194aV9qQVVULWRlX1lXdkNqam5QVUlVSnh4Z2dpVVVDemhJSUxpNnZQSlB0bFl4cUdsSk9wUXFfZzJva0FONVpUSXRaNG8xMkg2WHlVVFhEcy1PVWpCXzJEa3F3cHBmZWY4MUNYdHpkRkVJVGtUQ3RWX25pbkxrdkY2ZjUtcVB5VGh6bXR3RHh5NUxwNjVyejRz0gGyAUFVX3lxTE5ENW5SZDNjbmE2cENrY1o4b3BWY2YzVlFqR2RWY25hTmtKNWw1aTNqZ1RoQk9DeExyWVlmUEI0SlUyLTBCNmZMWDZSNTdNSUstOTBrLVduMzVMZkN0TTJGQlIzQWtCSjdqZ2xHbGh3SGVidWVGcEtKdVFMMTh1LTA2RDc2dTQ4NWdBalhVUEx5czEtMW1rcFBPQjRWTnFtTjhnNU1ESm13V1paU2VKWEgyenc?oc=5",
+    "fonte": "G1",
+    "data": "2026-10-26T10:59:23.000Z"
+   }
+  ],
+  "alesp": [
+   {
+    "titulo": "Sem reeleição na Câmara, Rui Falcão (PT) assume primeira suplência em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONmhQSDRTWWhfUFpoTUM4SzdpNUdIQ0tvSjFrUFhhczhVUTRvUjdzU05CWjB3VXV5X05POTFBSGhYYVQwcmtqWndLT2d5RVhuR3Nxa21kZzZ5dXNJUHVqVWJRRS13anRRdE9aZ2pvX3pXZGE0bEhMemNsUWhXUEJuWE1HRzY?oc=5",
+    "fonte": "Elesbão News",
+    "data": "2026-10-27T13:30:00.000Z"
+   },
+   {
+    "titulo": "PEC apresentada na Alesp prevê doação de imóveis públicos a igrejas em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc0RJdVdIWXAxbUd3OHRZMklTUmRmTWNMekxWUjBIam11VlVPZW5KbU9RUkZFT083Q3o2dU9kNFRBYUwySE1mdkxBNlZROEE4cTAweXliaUowZ1RwMFJUSWlLNnd3SEJYcXRxRzhhRV81cGh3emNvMUd6S2R5MFdiUEdzOFVScTNJTXpYR2JmUzJQdVpiNVVfekdIN25BZWNvcUltY2hmVURHY3F4MGc?oc=5",
+    "fonte": "Exibir Gospel",
+    "data": "2026-10-27T05:43:02.000Z"
+   },
+   {
+    "titulo": "Parlamentares da região se manifestam sobre continuidade dos governos Lula e Tarcísio",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNW95TFBWcDZyb0x2LTJhVHVJMXBSaEpXQ1hwbUxRMWRzUVlxZG0weG1xMElmMG11eGI5Z1piWjRIYUpGVko2MnFickx5MEZnbUFYQnVtdVIxcG9jX2xRSElYZFNwODJ2WXN4MmY2a1gzcWl6Tk9yV0JoOWRlYTNvOXM1bm0yclRhbVkxX1MwVWZmellJMGpDVk9YMzlRbXlpVWRBam5XXzBENlkzYUJUenNrRm5aaWFtWjdzaEREbkZUeUE?oc=5",
+    "fonte": "Jornal da Orla",
+    "data": "2026-10-26T21:07:15.000Z"
+   },
+   {
+    "titulo": "Autonomia de SP defendida por Thomaz Henrique é inconstitucional, diz especialista",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPLXlub3laUUlIc1RVM0VjU1BIbkJLSjJNdW5MaGM4eUN0aFk4SDlNeWU0T2VfdkxtUDU4bURnYktWSmtFX2syajQ5Q2JyaWMtdUtDSl9YR3YxcG5kaGR4WW51VFpMVFhXM3REbUdMNFlDY2lfQk1JdEptcjNTdlV1VnlFdDBxWVRLYnZFTC1PSmlldkpIblp6OUc2SlhWUnpyeEdRMzdBempiUzdPd2pjWDd0alFvQzVsanRxSDVxZXROQ3M4ZXI4MnVDYXphQVpHaDRSOGYyZ2EtQWJ4MXRSMEk4NnQ1a0cy?oc=5",
+    "fonte": "spriomais",
+    "data": "2026-10-26T20:05:50.000Z"
+   },
+   {
+    "titulo": "Deputado eleito, Thomaz Henrique defende autonomia do estado de SP diante do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGFzM014Sk1nRXltQ0NSQ1VvN0ZBN0FVdXp6REJZT3kyZjZuQTM4bTQtM0duT25aanFxZ3lNT3ROOTVaNlE1Nnc4NnczN2JTYjI5NVV6OHRLemhLeUNTWGJENlN5RnZnNWp2VkU0d0kxX2VNYmtxNXpFckNiVC1GRERaWDlyNzFFbGVtMjdYV2NJRE4wZVZnVFFya1J2QkJtazJjM2Y4aVZrMXQ1cVRhcFln?oc=5",
+    "fonte": "Portal AquiVale",
+    "data": "2026-10-26T19:53:00.000Z"
+   },
+   {
+    "titulo": "G7News. . Em entrevista, o vereador Delegado Mesquita avaliou que o governo do presidente Lula poderá enfrentar dificuldades para governar diante da força da direita nas casas legislativas do país. Ao falar sobre sua expectativa para assumir o mandato d",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlRtTnhJU3JkYzdPYVpjSXpKWEN3bUZHSjRLdlJuRC01Y0ZyMV8yMEM2T013dVpsTE5iUEl4VHdIRGdRLW11cm1nbndtQkhlc0d1Ql83WWtVdnVudnExT3FyNEpMbWplUVV5aXh4Uk9nd0Q1azN6bHR0ZTVGa09xalVLRHI1U09hNVlIMzdva1p1MW1ZeVctRDdib1hENHdiSVBUM0dlN1R2UkNrVmpvVmVQeGlGTTU1dUJ2cEllY3lGNjJUYldaWnV1M2x6SHdaaTRwTVN2dw?oc=5",
+    "fonte": "Facebook",
+    "data": "2026-10-26T19:50:13.000Z"
+   },
+   {
+    "titulo": "Candidata, delegada escondeu puff com R$ 1,8 milhão a 4 dias da eleição",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3c1dWVBSjFxTUk0cGg2anhUeDhoXzZ4WHhldWs0V2Y1dml2amVfTnBuMXM1OUhzWmVYYXc1WklVZHYtcmxiODFVbEpMeERLWXJYT2hxcFQ2SjNCWmoyMUZvcFlMTVVFSXNZdHdidkdKVUh5WUFRUHNwY3Bjbnc4cmRRSFk2ZVdVMDNkODYxWDFtN2ZHUVdFMHFUQjA?oc=5",
+    "fonte": "YacoNews",
+    "data": "2026-10-26T19:46:49.000Z"
+   },
+   {
+    "titulo": "Passageiro denuncia problemas nas linhas 11-Coral e 12-Safira da Trivia Trens e cobra fiscalização da Assembleia Legislativa de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQRWRwbkljbGlDUnBMWmVidmVnQnlVR1dUYVd3QUpNNlFtWXpyT2hkdmNCaVFQU0pCZkw5YnJNa1JlUzRwTklBZWVNaGtHVUdoVHVuU2hoeVU0MmhMSnh3NUMtY3RVTmFJOEdsN1J3eHE5MDFhejh5dmg3cDRzNFBQY29FNUR1Y0VSdl9TemhDREpPdVVOaWlTa1JJWDJfVUI0V0hoblVKQ0F1YTVpNFlxMVdXS2tMTHU2OUVJVl9oblBBME9KcE13SVN1NmlxcDlrU1g5RllPUFlTMWxQZmhrczVNTHBUVXFiZnVzRlluTjN3V1J4R00wX19CYlhjdm8xNng5LXZ6SnpVZXlrX29patIBlgJBVV95cUxPUlNNWk5INzFMUVFsN0FuTVhBV0xZWTFzRTJrWjl4Nm40NHdIMGkyRlVrakhRVE5fc3Vrelh1c1lhQTM3MTVyNmp1YWVDR1Y3d19pN3YzV2pKaHhLNG5VY1ZwbjAtOWlrVEdiOTV3VDBhTTVjMXU4QmZVQThOWWxHU3o3UE5ISmNGdGd1RXN0NW1oNWRnZ3dlWExoR2VRZzE0NDR5amkyaEpZX1lKdG1OM1d3VnZoM3VjY0luNy1KMFhkYVU3RTY2VHF5bDNXM1ZMcTZoVUktOWNja21jNzh2UHpuVUlRRGdjd18wdkNTTmc3enZKMUlCU0JkVm8ySVNkZC1CRVJPWFNha2pIWEl0Uk1CUDN0dw?oc=5",
+    "fonte": "Diário do Transporte",
+    "data": "2026-10-26T19:42:32.000Z"
+   },
+   {
+    "titulo": "Corregedoria apura origem de R$ 1,8 milhão encontrado em puff de delegada candidata em SP",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTmhpa1h0Q0FHWlRQQjJSZ1UyVkJWTEQyOW5GMjd5N3NTTEZNazR6YjlqZ2RFZVBKU1psOFpvMzRXd0NOaHRKQmN2eXhYcHNOQm11OFRPQ1FFcFF3NVdGcXZfVDR4UnZhcFlXMGg0TzhfSWNyRVlJZkRwZndGb1I3YmZjQWtZUDhKZHpxM0s4Q1owODlzOUxreldfY2RBZmlfVUdOYzgwMHhhLTEtSmptMnJ4U090NEpWZE90Q2Vzd2xUR1dSdUlKRzhTcUJrNzIxcldVMnJB?oc=5",
+    "fonte": "Diário do Estado de S. Paulo",
+    "data": "2026-10-26T19:40:00.000Z"
+   },
+   {
+    "titulo": "Cara nova, Thomaz Henrique chega à Alesp pautado nasegurança e em investimentos para São José",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWlmNlVxS0hycjNCdW9mVGNTRkozT3pac25rX0c0TjNtdEVJUjV5ZG5mZF9kLVFRVlhQcXVuQW9rOFlkdklDdW1FOWdhWjhwN2txekdsRWkwOXYwOEFmQXVlZUxCYWhlaTlNWFM3d0Z4aWhkY2pGRm1aN3RXWUxUdjhNd3dOOXAtU2cycTZHZ3VYb2Q3WUstQ0F5c1dTeGRqTVZRZDBwYW5sbHNqSEQwMGVTZ0VUZw?oc=5",
+    "fonte": "Life Informa",
+    "data": "2026-10-26T19:05:38.000Z"
+   },
+   {
+    "titulo": "Deputado identifica falhas recorrentes na prestação de contas do Governador",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODVmTGVrWFZzbjRGWDcyaEhwT3dEUzBfVU1ranFyQUZTS25iVVVraGNlLUctYzhaR3U4LVJGT29rV2EyWFJkaUVrckFQbFNsMVN4enFQVVpzYVRMRUZpOVJoVi12dWdjb1RsdDJxWFBON1d3ZzBHMHVIbHFTRFBtclZJbjlKRkRLNGQwc2JjbVhwTXh3ZFJIY3FvYXZpaEFENm5KRV9iSW4wbTFkQ0Vrd3BvN2dRdlAtNEpTczZn?oc=5",
+    "fonte": "Assembleia Legislativa do Estado de São Paulo",
+    "data": "2026-10-26T18:57:00.000Z"
+   },
+   {
+    "titulo": "Eleito deputado estadual, vereador de São José defende discussão sobre \"autonomia\" de São Paulo após resultado das eleições",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGRxNUdkWEVIRlJPaWJVdDZLaHFfTmxyY0tveEQ4UVczWjc5SWdjT2h1bnMycFJ6RnBYdnV1Njh4LVRGWWxnMnZHbUxPdjdidXEyODJ0dmMyTFBBN0Vsdl95aHR6UUg4ZXZ4VFdxejRJRlp0cVozTTlBcThKUEVIYTAyYk8zY2pkVE1uTjFkaWJTbTVpUEd3Qm9PdktZLXRXbGFTLXl5VzlocnMwcG5aZ3I0Q2tWZ25hM1RPVFlHYlhHNVBpc1ZOUERfbUtsVmw0b2dXWUJtNWp3U0NCSGNTaVJJQnI?oc=5",
+    "fonte": "T7news",
+    "data": "2026-10-26T17:54:00.000Z"
+   },
+   {
+    "titulo": "Novas datas de posse: Presidente, governadores e deputados alteram calendário a partir de 2027",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNFVKUlJ1Y1VmSGZrSFdiNWpKS2pZd1I1cVVZS1VvbXVyTjV5anhDZ2Z6MC1pU1k3OGxPaUdLc1NoYzdTekdiRUk0T2tIWTlGQUlJZmgtWW9wdW9pZXRkZ09peFZTZzdJRS1RSEZua0x4dDJEbkN5eHZBMmJZZ0pacFlGZUpXeWRjLUVPNnZRcmF1S3ZQTXZ5bnZDeW5vTC0yR2hTUXJScFdUTXpLSHF2RWdrMjBjMnpzYVBMQUR4ZVhUNjBud0xqbUM0SGhueTNKU241UVpPTHJJdmlqeHNyc20teU_SAeoBQVVfeXFMUHV6aDU0eUJfeHpkVHlfT1hmSHgwVTlpMlJhT29iNTV1THQ1dm11UkNPLXdTcVRVNE5HeWVweTBNUTl0Y1BKcXp2SG5HRjZicVlxbnE0c1d3OEIzU2J0RVMyeFhoR2F2YXphaV9lbHdFTFBOd2N5cElBV2ExRGpFYnhJUHFwVWEwWHFQZGhDYmo1YXplN04yX2c3MGI4QThzVllLSGtDdWNhamhkOFl5T213bFk1dDg2YmdJZ244UG8tWFloajJrRnduU2h5Wm9UdFZzaURhb2xNbGVPTzdEdmo5UTNaYjBqNzZR?oc=5",
+    "fonte": "ABCD Jornal",
+    "data": "2026-10-26T17:05:56.000Z"
+   },
+   {
+    "titulo": "Capital Estadual do Folclore: título volta à pauta da Alesp",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFtRFdTSGtoMG5JOV9Bd1R6LU41WDRxRkpRU08yeXEzd29mWk1wcGpZamxhaklhSW9XeGx2akNyYUdiclV4YVYyWURNYzJxOVNhWlhnQW1zLUIycVJsd1RaOUJycVhCUHFIMHY1T0ZDYTViaVJPSWtISkFHeERlOUZVRzJQdFRaclpjYXVn?oc=5",
+    "fonte": "Diário de Olímpia",
+    "data": "2026-10-26T12:14:03.000Z"
+   },
+   {
+    "titulo": "Deputado eleito de São José defende discutir \"autonomia\" de SP após vitória de Lula",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnFRXzVaSG8zZzdkc1Jjcm1faFR4MlZvMHFuQ01MS0VnNFNoOU5JM1FQLUdxMk5ZLVIzd3BlQjVnWnNRZzJYTExfNlZjN3FVR0NKU1FYdnJtSVNxLTBjbHBZWk80RTJ1UEJjMldlSFE3aGJQR2huNDVhY3ZBeHpSRUxDODQ5OWRqMFM3bzBaNzhoMVBENkpjRlpIRjdoZnpJS05sdGVDWnJiYjRUMkFwYWFlVTIta2RUZEx2WUpCOWQ2cXJfZ3pVVkdjenY?oc=5",
+    "fonte": "MEON",
+    "data": "2026-10-26T10:20:31.000Z"
+   }
+  ]
+ },
+ "ciencia": {
+  "saude-publica": [
+   {
+    "titulo": "Cure as process, not product: What Brazilian communities can teach HIV cure research.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42910586/",
+    "fonte": "Global public health",
+    "data": "2026-12-31T00:00:00.000Z",
+    "autores": [
+     "Garcia de Oliveira PB"
+    ]
+   },
+   {
+    "titulo": "Prevention of sexual violence in the public university in Guatemala - qualitative survey on suggestions from students.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42885666/",
+    "fonte": "Global public health",
+    "data": "2026-12-31T00:00:00.000Z",
+    "autores": [
+     "Lyons M",
+     "Dávila N",
+     "Reyes-Rodriguez MF"
+    ]
+   },
+   {
+    "titulo": "\"Even if you have the right, it won't be an easy path\": Challenges and potentials of primary health care for legal abortion care in Brazil - a qualitative study.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42853554/",
+    "fonte": "Global public health",
+    "data": "2026-12-31T00:00:00.000Z",
+    "autores": [
+     "Cardoso NM",
+     "Pires Lucas d'Oliveira AF"
+    ]
+   },
+   {
+    "titulo": "Stunting in indigenous Waorani children living near the oil-extraction sites: What can the determinants of health tell us about this?",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42829337/",
+    "fonte": "Global public health",
+    "data": "2026-12-31T00:00:00.000Z",
+    "autores": [
+     "Rivadeneira MF",
+     "Bravo-Díaz A",
+     "Cóndor J"
+    ]
+   },
+   {
+    "titulo": "Placebo effects of caffeine on sport performance: a systematic review and meta-analysis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42897966/",
+    "fonte": "Journal of the International Society of Sports Nutrition",
+    "data": "2026-12-30T00:00:00.000Z",
+    "autores": [
+     "Hurst P",
+     "Hanssen J",
+     "Marticorena F"
+    ]
+   },
+   {
+    "titulo": "Pneumococcal carriage and selected respiratory virus in children with clinical pneumonia in Salvador, Brazil during PCV10 era.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42874154/",
+    "fonte": "Vaccine",
+    "data": "2026-12-20T00:00:00.000Z",
+    "autores": [
+     "Menezes APO",
+     "Leite JLP",
+     "Pimenta FC"
+    ]
+   },
+   {
+    "titulo": "An international perspective on illness identity in adults with congenital heart disease: Associations with patient characteristics, national culture and well-being.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42843459/",
+    "fonte": "International journal of cardiology",
+    "data": "2026-12-15T00:00:00.000Z",
+    "autores": [
+     "Van Laere E",
+     "Luyckx K",
+     "Van Bulck L"
+    ]
+   },
+   {
+    "titulo": "Fragment-based drug discovery strategy reveals an unprecedented allosteric binding site in Mycobacterium tuberculosis DNA gyrase.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42822253/",
+    "fonte": "European journal of medicinal chemistry",
+    "data": "2026-12-15T00:00:00.000Z",
+    "autores": [
+     "Shiroma ST",
+     "Rossini NO",
+     "Armenia JF"
+    ]
+   },
+   {
+    "titulo": "Development and evaluation of a family-based graphical tool for longitudinal monitoring of poststroke sequelae.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42918253/",
+    "fonte": "Arquivos de neuro-psiquiatria",
+    "data": "2026-12-01T00:00:00.000Z",
+    "autores": [
+     "Oliveira MMR",
+     "Policarpo PHVC",
+     "Malheiros JA"
+    ]
+   },
+   {
+    "titulo": "POCUS Image Archiving in Emergency Medicine: A Systematic Review of Clinical and Financial Impacts.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42895784/",
+    "fonte": "Ultrasound quarterly",
+    "data": "2026-10-19T00:00:00.000Z",
+    "autores": [
+     "Moraes AL",
+     "Ruffini ML",
+     "Garcia GR"
+    ]
+   },
+   {
+    "titulo": "Oropouche virus attack rate in an urban setting outside the Amazon Basin: findings from a post-outbreak seroprevalence survey.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42921383/",
+    "fonte": "Lancet regional health. Americas",
+    "data": "2026-10-14T00:00:00.000Z",
+    "autores": [
+     "Cavalcanti LPG",
+     "Barreto FKA",
+     "Lima Neto AS"
+    ]
+   },
+   {
+    "titulo": "Burden of cardiovascular disease in Brazil, 1996-2023: a retrospective descriptive study of the epidemiology and impact on public healthcare.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42909254/",
+    "fonte": "Lancet regional health. Americas",
+    "data": "2026-10-14T00:00:00.000Z",
+    "autores": [
+     "Basílio-Soares MC",
+     "Fonseca Guimarães JS",
+     "Matos de Oliveira AL"
+    ]
+   },
+   {
+    "titulo": "Why do some Latin American countries flourish despite material constraints? Insights from the Global Flourishing Study.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42921146/",
+    "fonte": "Lancet regional health. Americas",
+    "data": "2026-10-14T00:00:00.000Z",
+    "autores": [
+     "Gonçalves JPB",
+     "Lucchetti G",
+     "Vallada H"
+    ]
+   },
+   {
+    "titulo": "Impact of healthcare setting on survival in adults with acute lymphoblastic leukemia in Latin America: insights from a large multinational cohort.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42893275/",
+    "fonte": "Lancet regional health. Americas",
+    "data": "2026-10-08T00:00:00.000Z",
+    "autores": [
+     "Silva WF",
+     "Espinoza M",
+     "Ferrari L"
+    ]
+   },
+   {
+    "titulo": "CART machine learning peeling pathways for anxiety and depression severity classification in population screening.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42921351/",
+    "fonte": "Global epidemiology",
+    "data": "2026-10-07T00:00:00.000Z",
+    "autores": [
+     "Faro A",
+     "Tejada J",
+     "Al-Delaimy WK"
+    ]
+   }
+  ],
+  "educacao-ciencia": [
+   {
+    "titulo": "Kidney health for all: caring for people, protecting the planet.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42762224/",
+    "fonte": "Journal of nephrology",
+    "data": "2026-10-22T00:00:00.000Z",
+    "autores": [
+     "Vanholder R",
+     "Abdellatif D",
+     "Dos Santos ACS  Jr"
+    ]
+   },
+   {
+    "titulo": "Trends in diversity among medical cancer workforce trainees in the United States over fifteen years.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42887769/",
+    "fonte": "Journal of cancer policy",
+    "data": "2026-10-17T00:00:00.000Z",
+    "autores": [
+     "Favorito FM",
+     "Bratti VF",
+     "Hopman W"
+    ]
+   },
+   {
+    "titulo": "Global, Regional, and National Burden of Myocarditis and Its Impairment, 1990-2023.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42684212/",
+    "fonte": "Journal of the American College of Cardiology",
+    "data": "2026-10-13T00:00:00.000Z",
+    "autores": [
+     "GBD 2023 Myocarditis Collaborators"
+    ]
+   },
+   {
+    "titulo": "Strengthening health systems to prioritise, provide care, and prevent osteoarthritis: a roadmap for global health policy.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42860133/",
+    "fonte": "Lancet (London, England)",
+    "data": "2026-10-11T00:00:00.000Z",
+    "autores": [
+     "Briggs AM",
+     "Bowden JL",
+     "Risberg MA"
+    ]
+   },
+   {
+    "titulo": "Global disparities in the availability and reimbursement of systemic therapies for renal cell carcinoma: results of the International ARON-AID Survey.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42836687/",
+    "fonte": "The oncologist",
+    "data": "2026-10-07T00:00:00.000Z",
+    "autores": [
+     "Urun Y",
+     "Sridharan K",
+     "Zgura A"
+    ]
+   },
+   {
+    "titulo": "Enabling climate action: A nexus approach for delivering co-benefits across biodiversity, water, food, and health.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42890133/",
+    "fonte": "iScience",
+    "data": "2026-10-05T00:00:00.000Z",
+    "autores": [
+     "Singh PK",
+     "Gupta H",
+     "Díaz-José J"
+    ]
+   },
+   {
+    "titulo": "Scoping Review of Culinary Interventions in Schools: Mapping Practices to Promote Food Education and Equity.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42878448/",
+    "fonte": "The Journal of school health",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Bastos B",
+     "Lopes LPN",
+     "Cunha JS"
+    ]
+   },
+   {
+    "titulo": "Body Weight Status and Its Association With Patient-Reported Outcomes in Women With Non-Metastatic ER-Positive Breast Cancer Undergoing Adjuvant Endocrine Therapy.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42844771/",
+    "fonte": "Cancer medicine",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Laperche-Santos D",
+     "Custodio AGC",
+     "Moura FC"
+    ]
+   },
+   {
+    "titulo": "Rehospitalization due to COVID-19 reinfection in Rio de Janeiro, 2020-2022: Associations with vaccination status, sociodemographic and clinical factors.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42821558/",
+    "fonte": "PloS one",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Neves RKAD",
+     "Bastos LS",
+     "Maciel Villela DA"
+    ]
+   },
+   {
+    "titulo": "The Global ACLF Consensus : the 'Istanbul Document'.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42782569/",
+    "fonte": "Hepatology international",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Kulkarni AV",
+     "Choudhury A",
+     "Arora V"
+    ]
+   },
+   {
+    "titulo": "Global, regional, and national prevalence of second-hand smoke and attributable disease burden in 204 countries and territories, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42705247/",
+    "fonte": "The Lancet. Public health",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "GBD 2023 Second-hand smoke Collaborators"
+    ]
+   },
+   {
+    "titulo": "School-based sexual violence prevention: A systematic review.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42574787/",
+    "fonte": "Child abuse & neglect",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Queiroz MNR",
+     "de Oliveira MM",
+     "Schaedler AC"
+    ]
+   },
+   {
+    "titulo": "Cardiac autonomic neuropathy predicts renal decline in type 1 diabetes mellitus: a 15 year follow-up study.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42525138/",
+    "fonte": "Diabetologia",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Soe KK",
+     "Robinson E",
+     "Oleolo M"
+    ]
+   },
+   {
+    "titulo": "Terminology and core components of co-design intervention in chronic pain management: An international Delphi study.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42331076/",
+    "fonte": "The journal of pain",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Gashaw M",
+     "Jenkins LC",
+     "Fandim JV"
+    ]
+   },
+   {
+    "titulo": "Dental pain inequalities in two cross-sectional national oral health surveys.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42320589/",
+    "fonte": "Journal of dentistry",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Chisini LA",
+     "Salvi LC",
+     "Cenci MS"
+    ]
+   }
+  ],
+  "seguranca-ciencia": [
+   {
+    "titulo": "Gender-based violence response and health system readiness during emergencies in Sierra Leone: a qualitative study of survivor experience, facility preparedness, and referral pathways.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42808272/",
+    "fonte": "Global health action",
+    "data": "2026-12-01T00:00:00.000Z",
+    "autores": [
+     "Osborne A",
+     "Vandy A",
+     "Bangura C"
+    ]
+   },
+   {
+    "titulo": "Speculation Is Not Evidence: A Response to Conviction Is Not Commission.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42847912/",
+    "fonte": "Journal of interpersonal violence",
+    "data": "2026-11-01T00:00:00.000Z",
+    "autores": [
+     "Khoshnood AM",
+     "Sundquist K"
+    ]
+   },
+   {
+    "titulo": "Effectiveness and Cost Evaluation of Cure Violence in New York City: A Natural Experiment.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42934460/",
+    "fonte": "Journal of urban health : bulletin of the New York Academy of Medicine",
+    "data": "2026-10-26T00:00:00.000Z",
+    "autores": [
+     "Nuñez M",
+     "Koepcke E",
+     "Avram R"
+    ]
+   },
+   {
+    "titulo": "What Types of Rapes Are Reported to the Police? Situational and Spatiotemporal Factors.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42921905/",
+    "fonte": "Violence against women",
+    "data": "2026-10-22T00:00:00.000Z",
+    "autores": [
+     "Arponen I",
+     "Antfolk J",
+     "Töredi D"
+    ]
+   },
+   {
+    "titulo": "An Ontology for Workplace Violence: Protocol to Support Cross-Sector Incident Reporting in Public Services.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42659676/",
+    "fonte": "JMIR research protocols",
+    "data": "2026-10-15T00:00:00.000Z",
+    "autores": [
+     "Steenhout I",
+     "Buyl R"
+    ]
+   },
+   {
+    "titulo": "Golden Oldies and New Top 10: Important Findings and Future Directions for Intimate Partner Violence Research.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42857924/",
+    "fonte": "Journal of interpersonal violence",
+    "data": "2026-10-10T00:00:00.000Z",
+    "autores": [
+     "Hilton NZ",
+     "Ham E",
+     "Moghimi E"
+    ]
+   },
+   {
+    "titulo": "Assessing formal service providers' readiness to address IPV among women with disabilities in Sweden: A mixed-methods analysis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42837378/",
+    "fonte": "PloS one",
+    "data": "2026-10-06T00:00:00.000Z",
+    "autores": [
+     "Anyango C",
+     "Goicolea I",
+     "Namatovu F"
+    ]
+   },
+   {
+    "titulo": "Mural Art and Youth Victimization of Firearm Violence: A Quasi-Experimental Analysis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42834326/",
+    "fonte": "Journal of urban health : bulletin of the New York Academy of Medicine",
+    "data": "2026-10-05T00:00:00.000Z",
+    "autores": [
+     "Bhatia S",
+     "Lee DB",
+     "Wyatt R"
+    ]
+   },
+   {
+    "titulo": "LEON: Location Embeddings from OSM Neighborhoods via Hexagonal Graph Masked Autoencoders",
+    "link": "http://arxiv.org/abs/2610.05497v1",
+    "fonte": "arXiv",
+    "data": "2026-10-04T20:10:28.000Z",
+    "autores": [
+     "Szymon Soltysiak",
+     "Radoslaw Malek",
+     "Jedrzej Kusnierz"
+    ]
+   },
+   {
+    "titulo": "Association of Community Factors, Firearm Laws, and Pediatric Firearm Injuries.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42732887/",
+    "fonte": "Pediatrics",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Diaz XN",
+     "Lin A",
+     "Babcock S"
+    ]
+   },
+   {
+    "titulo": "Pre-hospital paediatric preventable injuries: Who, what, when and where?",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42673666/",
+    "fonte": "Injury",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Kocierz L",
+     "Bird F",
+     "Henry CL"
+    ]
+   },
+   {
+    "titulo": "Beyond Immediate Responses: A Systems Map of Community Factors Underlying Persistent Gun Violence in New Haven.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42608508/",
+    "fonte": "Journal of urban health : bulletin of the New York Academy of Medicine",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Ho SJ",
+     "Hasgul Z",
+     "Spell VT"
+    ]
+   },
+   {
+    "titulo": "Firearm violence and racial capitalism: A conceptual framework for understanding the persistence and prevalence of gun violence in the United States.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42585718/",
+    "fonte": "Social science & medicine (1982)",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Golash-Boza T",
+     "Pirtle W"
+    ]
+   },
+   {
+    "titulo": "Reporting Intimate Partner Violence at the Intersection of Race and Citizenship.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42231582/",
+    "fonte": "Journal of interpersonal violence",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Fite KM"
+    ]
+   },
+   {
+    "titulo": "Prevalence, Perpetrators, and Patterns of Violence in Pelotas, Brazil: A Cross-Cohort Analysis Over Four Decades.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42216570/",
+    "fonte": "Journal of interpersonal violence",
+    "data": "2026-10-01T00:00:00.000Z",
+    "autores": [
+     "Degli Esposti M",
+     "Cequeira D",
+     "Viegas da Silva E"
+    ]
+   }
+  ],
+  "economia-ciencia": [
+   {
+    "titulo": "Smart charging without rebound peaks: Wholesale price feedback limits distribution grid peaks from price-responsive electric vehicles",
+    "link": "http://arxiv.org/abs/2610.34133v1",
+    "fonte": "arXiv",
+    "data": "2026-10-25T08:04:55.000Z",
+    "autores": [
+     "Lion Hirth"
+    ]
+   },
+   {
+    "titulo": "Geoeconomic Stress and European Defence Readiness",
+    "link": "http://arxiv.org/abs/2610.33785v1",
+    "fonte": "arXiv",
+    "data": "2026-10-24T16:40:22.000Z",
+    "autores": [
+     "d'Artis Kancs"
+    ]
+   },
+   {
+    "titulo": "Efficiency vs Capability in the Intelligence Explosion",
+    "link": "http://arxiv.org/abs/2610.33447v1",
+    "fonte": "arXiv",
+    "data": "2026-10-24T04:55:28.000Z",
+    "autores": [
+     "Karthik Tadepalli"
+    ]
+   },
+   {
+    "titulo": "A Stationary Mean-Field Model for Carbon Market Stability Reserve",
+    "link": "http://arxiv.org/abs/2610.33132v1",
+    "fonte": "arXiv",
+    "data": "2026-10-23T13:41:08.000Z",
+    "autores": [
+     "René Aïd",
+     "Federico Cannerozzi",
+     "Giorgio Ferrari"
+    ]
+   },
+   {
+    "titulo": "Delayed Retirement, Intergenerational Transfers, and Fertility",
+    "link": "http://arxiv.org/abs/2610.32455v1",
+    "fonte": "arXiv",
+    "data": "2026-10-23T10:19:17.000Z",
+    "autores": [
+     "Yi Fan",
+     "Shuangshuang Song",
+     "Yewen Yu"
+    ]
+   },
+   {
+    "titulo": "AI-Augmented Research: Free to Write, Costly to Read",
+    "link": "http://arxiv.org/abs/2610.32355v1",
+    "fonte": "arXiv",
+    "data": "2026-10-23T08:49:11.000Z",
+    "autores": [
+     "Wolfgang Kuhle"
+    ]
+   },
+   {
+    "titulo": "Jawboning the Fed: Do Markets Listen When Administrations Talk?",
+    "link": "http://arxiv.org/abs/2610.32300v1",
+    "fonte": "arXiv",
+    "data": "2026-10-23T07:57:25.000Z",
+    "autores": [
+     "Michela Baretti",
+     "Umberto Collodel",
+     "Jacopo Zacché"
+    ]
+   },
+   {
+    "titulo": "Prospect Theory in Large Language Models: A Meta-Analysis of Loss Aversion, Diminishing Sensitivity, and Probability Weighting",
+    "link": "http://arxiv.org/abs/2610.33103v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T15:08:56.000Z",
+    "autores": [
+     "Adi Tarabeih"
+    ]
+   },
+   {
+    "titulo": "The Capability Transfer: Cohort Reversal, Codified Expertise, and the Adaptability Tax of AI Transformation",
+    "link": "http://arxiv.org/abs/2610.33102v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T15:08:46.000Z",
+    "autores": [
+     "Ina Catrinescu"
+    ]
+   },
+   {
+    "titulo": "Identifying level-$k$ reasoning in repeated games: Strategies, beliefs, and cognitive ability",
+    "link": "http://arxiv.org/abs/2610.33098v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T13:38:13.000Z",
+    "autores": [
+     "David Gill",
+     "Yaroslav Rosokha"
+    ]
+   },
+   {
+    "titulo": "Beyond city pairs: Higher-order information in urban growth across borders",
+    "link": "http://arxiv.org/abs/2610.31159v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T12:16:36.000Z",
+    "autores": [
+     "Cillian Hourican",
+     "Debraj Roy"
+    ]
+   },
+   {
+    "titulo": "The Reaction of Financial Markets to the Releases of DeepSeek R1 and Kimi K3: A Critical Analysis",
+    "link": "http://arxiv.org/abs/2610.30886v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T08:05:00.000Z",
+    "autores": [
+     "Marco Taboga"
+    ]
+   },
+   {
+    "titulo": "Joules-to-GDP: How Much Economic Value Do AI Systems Produce per Unit of Energy?",
+    "link": "http://arxiv.org/abs/2610.30858v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T07:35:57.000Z",
+    "autores": [
+     "Amirreza Zeinali",
+     "Jon Saad-Falcon",
+     "Avanika Narayan"
+    ]
+   },
+   {
+    "titulo": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+    "link": "http://arxiv.org/abs/2610.30752v1",
+    "fonte": "arXiv",
+    "data": "2026-10-22T05:22:09.000Z",
+    "autores": [
+     "Cristian Espinal Maya",
+     "Santiago Jiménez Londoño"
+    ]
+   },
+   {
+    "titulo": "Austerity, Gender, and Multidimensional Deprivation Among Older Europeans: Evidence from SHARE",
+    "link": "http://arxiv.org/abs/2610.30527v1",
+    "fonte": "arXiv",
+    "data": "2026-10-21T23:20:50.000Z",
+    "autores": [
+     "Nita Handastya"
+    ]
+   }
+  ]
+ }
+}
