@@ -46,12 +46,10 @@ async function ciencia(a) {
   const partes = [];
   const termoBusca = a.pubmed || a.consulta || a.nome;
 
-  // Busca no PubMed
   if (termoBusca) {
     partes.push(...(await pubmed(termoBusca)));
   }
 
-  // Busca no SciELO
   try {
     await espera(400);
     partes.push(...(await scielo(termoBusca)));
@@ -62,7 +60,33 @@ async function ciencia(a) {
   return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
 }
 
-const feed = { atualizadoEm: new Date().toISOString(), noticias: {}, ciencia: {} };
+// Coleta de jogos e destaques esportivos
+async function esportes() {
+  const res = {};
+  const times = [
+    { id: "barca", consulta: "FC Barcelona jogo resultado" },
+    { id: "mogi", consulta: "Mogi Basquete NBB jogo resultado" }
+  ];
+
+  for (const t of times) {
+    try {
+      const q = encodeURIComponent(`${t.consulta} when:3d`);
+      const xml = await (await baixar(`https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`)).text();
+      const itens = parseGoogleNews(xml);
+      res[t.id] = itens.length > 0 ? itens[0].titulo : "Sem atualizações recentes";
+    } catch (e) {
+      res[t.id] = "Indisponível";
+    }
+  }
+  return res;
+}
+
+const feed = { 
+  atualizadoEm: new Date().toISOString(), 
+  noticias: {}, 
+  ciencia: {},
+  esportes: await esportes()
+};
 
 for (const [grupo, lista, buscar] of [["noticias", cfg.assuntos, noticias], ["ciencia", cfg.ciencia, ciencia]]) {
   for (const a of lista) {
@@ -76,9 +100,6 @@ for (const [grupo, lista, buscar] of [["noticias", cfg.assuntos, noticias], ["ci
     await espera(400);
   }
 }
-
-await mkdir(new URL("data/", raiz), { recursive: true });
-await writeFile(saida, JSON.stringify(feed, null, 1));
 
 await mkdir(new URL("data/", raiz), { recursive: true });
 await writeFile(saida, JSON.stringify(feed, null, 1));
