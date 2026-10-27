@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-10-27T16:42:54.364Z",
+ "atualizadoEm": "2026-10-27T16:54:06.571Z",
  "noticias": {
   "saude": [
    {
@@ -27,7 +27,7 @@
     "data": "2026-10-27T14:26:38.000Z"
    },
    {
-    "titulo": "Ébola: RDCongo ultrapassa 10 mil casos chega a quase 5 mil mortes",
+    "titulo": "Ebola: RDCongo ultrapassa 10 mil casos chega a quase 5 mil mortes",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0JZVHBmRVhOcU1XZV9haU5yc250MTZ2SHJNMEJGSHBMOXNNYl93TWhYVkVzbVlIM2lpcWo1NEtrZ25MVEE4ck11eXpwSERfdjBsbUhscG05WU1pOTBVQTJwMDRFS3J6dDVvOXgzN0dQbUIxc09Va3I4eGxHRVdmUld5dDZmaG1DTEhsVUFZVlFZYld5SWVCUVIzU3ZmSG1heVhhQzY5bjQ4MGF4eTd0NnhtS2IydnVIWEFqazhETG5Fdkk?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-10-27T12:59:00.000Z"
@@ -187,6 +187,12 @@
   ],
   "economia": [
    {
+    "titulo": "Em palestra para a associação Nikkey Empreendedores do Brasil, Ciesp aponta economia de baixa altitude e inovação como pilares para o futuro global até 2040",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRkNIOFJqdXEzbFhnT1l2VkVDb24zLTM1NFBXcWxpTElBampneHJwUlRNSkdUUEhtRElRYnJOaTFtdldtRWdiTmlBXy0yUEJNVXNER3k2eUV1eUFDSld4c1V0SHdyMzlpLXctTVF2VFBKM2diU2Q2X0NUZjl0YnZ5aHFZWkdOTDFRaG1kVFUwS2lUX1NiRHZJVXQxTVVvN3FydlNaT1lTRkViOHAzOGdaWExwdGIyTEdIZDlSd0oySmJNcHBlUzNaT1k0cUVTaUlIcVI0NFpHQUZYdndXMGx0RnRkWTJINGxuOGhjMWw0bVg0ZnF5MkxodVc3NF9fLUxCME5IcFFIazBaSDlkSDdFTUo5eHpFTkVPcURjRldPbnBpNUZwVkE?oc=5",
+    "fonte": "VerdadeOn",
+    "data": "2026-10-27T16:42:38.000Z"
+   },
+   {
     "titulo": "Governo buscará cumprir meta fiscal com diálogo, diz Durigan",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX29tZTFNOE9zMm41alJoMmpQeTM0T3ZiQmI0RXF3MkhGZkRaaUlFZWVsXzFadEpRWllnU0h0VGM4d19tTWtjNjZXTnpXeWxHNUt3enlrejJsMk1aZG83QmZQOGlpeDJmYUhRNEk1ZGxONmxDRmFzMHJibnJ2UzJxcUJNSV9OYkRONkJ2a1Z4WFFab0hETm1GaTh5bzJWU1dackhzdDV5LWxLMkNKcDczVzRMMW9Rek1E?oc=5",
     "fonte": "Agência Brasil",
@@ -253,12 +259,6 @@
     "data": "2026-10-27T13:09:00.000Z"
    },
    {
-    "titulo": "TV Brasil estreia programa original Economia e Futuro nesta terça (27)",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRjRFQ2JwS0NvX2ZkYU5FbnN6T2Jzc0dHOHZsZ2hUVlU2UjhySjZabzdndEc1MHFKT0p4eFFzaUxlcUJORDVKRkxKazBtdEdUM2V4LS1vbmtiUERFMDBLLUZlTDN0aVltWVNEWllxSnNJSVVWODh4ajZZSXZXX3Yzc2xyazdnMFFIc1NQVEJUMS1sLUt3MEJ5Zi1nd2ZQb05T?oc=5",
-    "fonte": "Portal Making Of",
-    "data": "2026-10-27T12:50:19.000Z"
-   },
-   {
     "titulo": "Alta dos lucros em Wall Street mascara riscos da guerra no Irã para economia americana",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZEJnS0xQeHV4RkxSZlg2aFRJTU5IRzJLMklUM1FvbDFpQ3lPUzJEMEF4d21yRkFfbXVPZ1hRbXBVQWJfdWkyY2JZZUxKYzFQcjNhX0VwNFlpVjJ4N1R3aHMzWVNrdkNnVVA5ZEZXakhwM2wtakk2WEFtM0hvVGl4MXlXRXh3NzJhRVdySlNMMmhwQ2UzTTA2ajZTYWNpeEhZdTlWYmZNVUo0SXBmSjM4Ung2cWMyd0RCcFpvWU1yekpqZG45VEs1d3l6SHXSAeABQVVfeXFMUGh5OVhlcG5aQVhCSzlMaFIyOGJDMTFDZGVqQ2tJUUxmNElkR0dweWdoalY5WmhXQ05ybkd2bC1YQkktR1ZvS2gzbWNsbjRHT1JWcVh6YXFqSW1DZzZNc1ZELU1qUHFjTU5Cc09LY0xXU08yaDltZTR2WlgtbDRsVm43Mlc5WXBaZFdxdEc1QTVwNzZhb3lBaE5SZTNScUk4ZnNaMmlnQ3ZIMmNZVDFsSUE3eDFpTy1fT2FWb1pNQ3k5UnozVHRzOXZVbmxnOXhGczhmMVBXc2dqTGwyanNJOGU?oc=5",
     "fonte": "Bloomberg Línea Brasil",
@@ -278,6 +278,12 @@
    }
   ],
   "politica": [
+   {
+    "titulo": "Polícia Federal cancela passaportes de Flávio Bolsonaro",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOejNGTEUwcDJQZzEtWmJOYVRXbG15MFpyRE5pWlVjQklENWxRZGZzQ1BqaHZLbWhwaFVXM1BhMUxhTE1DMC1jR1NkMlJGWHlNbWpYSGhPbDNKZGg4SVpTbFRXWWJUZ1lKZFRtUTVqckY1ZFpwTVA3U29WZi1UUXc4aWtjSDZlOTRqNkRnVEp4UDdrdEpSd0o2bkllSkllQ3VCWFhSRWVndk42cURXNkJpTklCUQ?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-10-27T15:52:00.000Z"
+   },
    {
     "titulo": "New York Times aponta que interferência de Trump no Brasil atrapalha os EUA: 'Passado intrometido e contraproducente'",
     "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNYmdIemJ6RUtjbE1hWjZKWnM3bW5GdkdfdzZPZmdoWEhXNkxZRkt1UWpxRkVIcV9aNTZTT1ZWeERrbV9jbEtNc0h1UWpoczNIWkhXNWQ2R1E2UHB6LUNTUW8wbVRuX29NUUpjc05CcTJsWjFKZHpPdXliV2FoeENUM0dOOEFJdnk2UzBWbWFUdHI4OURMRnp6dXlMeTBLWXBDeWhhRjRHamYtRXBBTjZJNm9XaDFjQ3E5S0tIR3U3NUs3cTI5OWtyUFctaVRNcTB6QVFKZXA4UDNPQVZGeF9OZWplZFNyUUQwb0x1TlctQVNsVlFFdHRadlRXSGJvYXpzaUcwSEpLZjAwN2t6UGZLdElPMktOd9IBpAJBVV95cUxQVXl1TFZscUlXbjVNbkNaMllpMjdUQ2ZCVzZVTHNoRUxRTkhyNWxTNlZOckctbWp0TzVCQ1B6MmdGaDJmQ3VfYU8tNnRxVVl1TTVqV2dEMFVfNXdwNzVsT2FnNzN5RkF3c3lVV3laeXhUMTZqbVFNb0VyV3NPN0VlN2dFLXpnMEcwQWFZNUxBRDI1YnNOVXhrNzZ2d3ZHWE5iUDd0NnBsTXdqeXR2Ump0NDVFYnRXcUh6SVVoMTZWZTZTd3I3TktJdlRLX1ZXT015Qm42WGpEWERJazNBSXg4SzIzbFNUb19reG9YckdwM3hmRE8zMmFpQmRHQllCRDdzSGk0SkJSMGtxUW1uWW9iWThwZlA2R1hrelRGSmhEZ01aM2dD?oc=5",
@@ -361,12 +367,6 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM2JVTmNkcXFGRjZKZDQtdWJSVlBVeV9sN3pxLUxXUDN6N0JaQzVDOTZTYjVZa2lZTTNIQWNmOXAtcUVvUFJCbktmZ2ZTQWJkcFlRMnhCVzh3NEtPczIxN1F5ZVh0Skd0ZTlwTTc5TW0xNjdBTzA1Q1FxLV92SnhFSGowX1JVbkNWUThaQkxZTV82cmVwRFFtQ1pfWTBhZ2UyR01CS1MxblpaLWpGOEk3ZW5RLWlSSDNfMlYyMDFnT1lMOWdFQ2c?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-10-26T17:06:00.000Z"
-   },
-   {
-    "titulo": "Vitória de Lula repercute na imprensa europeia e asiática",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOEVkaXZzX3BDVTlmVDFaLVZlT3JSSFh2cUNBajRKS2VQR0x4am1JX3YwcjlpSWNJeVZnd1JjUk5ubUdPS0NiOGhiVDhHeXNndUF1alJOVnpJR0dMS2lhOTBsRzlGMTU2aXpUZXNmUDNmenlBY25iYUg1Ny1CVG5aWkh5Q0RkTm5wUjVCOEhsREN0dzZacF8wT0ZCZU10alRpMzhEcDF0SDRrdC13WG56TV9rZ1RUbTVReEUxUA?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-10-26T16:33:00.000Z"
    }
   ],
   "alesp": [
@@ -389,12 +389,6 @@
     "data": "2026-10-27T05:43:02.000Z"
    },
    {
-    "titulo": "PT avança no Campo Grande, reduto de Higor Diego (Republicanos)",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb2VCLTNXODdZaGxhUW9qaS1fTnd3MU83aE9nVkkxQ1F1Uy1pSEZPNVBmdmZ2SFhhTDZjWnU0Z0cxVmsxYWdtR0pGRHRVd190ay1PQ2FwTmdCZmFyQUN6aTlicmxES0FjdkY0bkptSUFjd2NlU19aYWM3U1FfVFhaS1duUWF6cUNmTk5KNmdxb0VybGpUaFYyZnRjS3JXZHJyS2VCc201MFhEU2E3MkdnYUZPa01yalJac3N3bmdIYWJON3BBaXhYQmJqVkczQUZ6SWh0ZGdRQnRwdWxuR2lERlNjN3M2MmYydWF2RVdxSXlFZWZoQTljRzNR?oc=5",
-    "fonte": "www.correiodamanha.com.br",
-    "data": "2026-10-27T02:18:00.000Z"
-   },
-   {
     "titulo": "Parlamentares da região se manifestam sobre continuidade dos governos Lula e Tarcísio",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNW95TFBWcDZyb0x2LTJhVHVJMXBSaEpXQ1hwbUxRMWRzUVlxZG0weG1xMElmMG11eGI5Z1piWjRIYUpGVko2MnFickx5MEZnbUFYQnVtdVIxcG9jX2xRSElYZFNwODJ2WXN4MmY2a1gzcWl6Tk9yV0JoOWRlYTNvOXM1bm0yclRhbVkxX1MwVWZmellJMGpDVk9YMzlRbXlpVWRBam5XXzBENlkzYUJUenNrRm5aaWFtWjdzaEREbkZUeUE?oc=5",
     "fonte": "Jornal da Orla",
@@ -411,12 +405,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdGFzM014Sk1nRXltQ0NSQ1VvN0ZBN0FVdXp6REJZT3kyZjZuQTM4bTQtM0duT25aanFxZ3lNT3ROOTVaNlE1Nnc4NnczN2JTYjI5NVV6OHRLemhLeUNTWGJENlN5RnZnNWp2VkU0d0kxX2VNYmtxNXpFckNiVC1GRERaWDlyNzFFbGVtMjdYV2NJRE4wZVZnVFFya1J2QkJtazJjM2Y4aVZrMXQ1cVRhcFln?oc=5",
     "fonte": "Portal AquiVale",
     "data": "2026-10-26T19:53:00.000Z"
-   },
-   {
-    "titulo": "G7News. . Em entrevista, o vereador Delegado Mesquita avaliou que o governo do presidente Lula poderá enfrentar dificuldades para governar diante da força da direita nas casas legislativas do país. Ao falar sobre sua expectativa para assumir o mandato d",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMlRtTnhJU3JkYzdPYVpjSXpKWEN3bUZHSjRLdlJuRC01Y0ZyMV8yMEM2T013dVpsTE5iUEl4VHdIRGdRLW11cm1nbndtQkhlc0d1Ql83WWtVdnVudnExT3FyNEpMbWplUVV5aXh4Uk9nd0Q1azN6bHR0ZTVGa09xalVLRHI1U09hNVlIMzdva1p1MW1ZeVctRDdib1hENHdiSVBUM0dlN1R2UkNrVmpvVmVQeGlGTTU1dUJ2cEllY3lGNjJUYldaWnV1M2x6SHdaaTRwTVN2dw?oc=5",
-    "fonte": "Facebook",
-    "data": "2026-10-26T19:50:13.000Z"
    },
    {
     "titulo": "Candidata, delegada escondeu puff com R$ 1,8 milhão a 4 dias da eleição",
@@ -456,12 +444,36 @@
    },
    {
     "titulo": "Novas datas de posse: Presidente, governadores e deputados alteram calendário a partir de 2027",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdXpoNTR5Ql94emRUeV9PWGZIeDBVOWkyUmFPb2I1NXVMdDV2bXVSQ08td1NxVFU0Tkd5ZXB5ME1ROXRjUEpxenZIbkdGNmJxWXFucTRzV3c4QjNTYnRFUzJ4WGhHYXZhemFpX2Vsd0VMUE53Y3lwSUFXYTFEakVieElQcXBVYTBYcVBkaENiajVhemU3TjJfZzcwYjhBOHNWWUtIa0N1Y2FqaGQ4WXlPbXdsWTV0ODZiZ0lnbjhQby1YWWhqMmtGd25TaHlab1R0VnNpRGFvbE1sZU9PN0R2ajlRM1piMGo3NlHSAeoBQVVfeXFMUHV6aDU0eUJfeHpkVHlfT1hmSHgwVTlpMlJhT29iNTV1THQ1dm11UkNPLXdTcVRVNE5HeWVweTBNUTl0Y1BKcXp2SG5HRjZicVlxbnE0c1d3OEIzU2J0RVMyeFhoR2F2YXphaV9lbHdFTFBOd2N5cElBV2ExRGpFYnhJUHFwVWEwWHFQZGhDYmo1YXplN04yX2c3MGI4QThzVllLSGtDdWNhamhkOFl5T213bFk1dDg2YmdJZ244UG8tWFloajJrRnduU2h5Wm9UdFZzaURhb2xNbGVPTzdEdmo5UTNaYjBqNzZR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNFVKUlJ1Y1VmSGZrSFdiNWpKS2pZd1I1cVVZS1VvbXVyTjV5anhDZ2Z6MC1pU1k3OGxPaUdLc1NoYzdTekdiRUk0T2tIWTlGQUlJZmgtWW9wdW9pZXRkZ09peFZTZzdJRS1RSEZua0x4dDJEbkN5eHZBMmJZZ0pacFlGZUpXeWRjLUVPNnZRcmF1S3ZQTXZ5bnZDeW5vTC0yR2hTUXJScFdUTXpLSHF2RWdrMjBjMnpzYVBMQUR4ZVhUNjBud0xqbUM0SGhueTNKU241UVpPTHJJdmlqeHNyc20teU_SAeoBQVVfeXFMUHV6aDU0eUJfeHpkVHlfT1hmSHgwVTlpMlJhT29iNTV1THQ1dm11UkNPLXdTcVRVNE5HeWVweTBNUTl0Y1BKcXp2SG5HRjZicVlxbnE0c1d3OEIzU2J0RVMyeFhoR2F2YXphaV9lbHdFTFBOd2N5cElBV2ExRGpFYnhJUHFwVWEwWHFQZGhDYmo1YXplN04yX2c3MGI4QThzVllLSGtDdWNhamhkOFl5T213bFk1dDg2YmdJZ244UG8tWFloajJrRnduU2h5Wm9UdFZzaURhb2xNbGVPTzdEdmo5UTNaYjBqNzZR?oc=5",
     "fonte": "ABCD Jornal",
     "data": "2026-10-26T17:05:56.000Z"
+   },
+   {
+    "titulo": "Capital Estadual do Folclore: título volta à pauta da Alesp",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeEFtRFdTSGtoMG5JOV9Bd1R6LU41WDRxRkpRU08yeXEzd29mWk1wcGpZamxhaklhSW9XeGx2akNyYUdiclV4YVYyWURNYzJxOVNhWlhnQW1zLUIycVJsd1RaOUJycVhCUHFIMHY1T0ZDYTViaVJPSWtISkFHeERlOUZVRzJQdFRaclpjYXVn?oc=5",
+    "fonte": "Diário de Olímpia",
+    "data": "2026-10-26T12:14:03.000Z"
+   },
+   {
+    "titulo": "Deputado eleito de São José defende discutir \"autonomia\" de SP após vitória de Lula",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSnFRXzVaSG8zZzdkc1Jjcm1faFR4MlZvMHFuQ01MS0VnNFNoOU5JM1FQLUdxMk5ZLVIzd3BlQjVnWnNRZzJYTExfNlZjN3FVR0NKU1FYdnJtSVNxLTBjbHBZWk80RTJ1UEJjMldlSFE3aGJQR2huNDVhY3ZBeHpSRUxDODQ5OWRqMFM3bzBaNzhoMVBENkpjRlpIRjdoZnpJS05sdGVDWnJiYjRUMkFwYWFlVTIta2RUZEx2WUpCOWQ2cXJfZ3pVVkdjenY?oc=5",
+    "fonte": "MEON",
+    "data": "2026-10-26T10:20:31.000Z"
    }
   ],
   "missao": [
+   {
+    "titulo": "Eleições 2026 - Ex-presidenciáveis se pronunciaram após a vitória de Lula no segundo turno",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ2dFdFp4WjhuRGU0dGJYbFR3U0RqZjgwNFRMY0JIdldnM2dQWUtUR0FmVi1UclhHSU5vODdTVlVvTTFFVHVBY3NBeUgzRWw4VmhiRkFoNUFQclFmVFFLSU9XM1k5YmR6ZC1qeFdXRWRHOE1zR3Y5aUJSQlhYRUNkV3ZGVTNabHZlVlBXME5oamI5YXI1V0h0UDg5djFzUmdDOWtZOVU5ODU5LW5CWFAwUU9BZXhCVU16MGhaU2RGMEg0cFl2ME5QRg?oc=5",
+    "fonte": "Jornal O PODER",
+    "data": "2026-10-26T19:41:45.000Z"
+   },
+   {
+    "titulo": "Caiado reconhece vitória de Lula, Zema fala em golpe e Renan Santos descarta fraude",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM1lQZVEwZkVYNkgtcGVLOG5uUmUwaDlZT0VROXkwWWVhTHgwV2llTGZDZUJ4aE9rRlFwTS1IZFZYM0Ryd3d1eGlxSFRKTm5uZk9GWDVwU1pfOGJvZUVXZ0szV1FDT19MMjIyenNnY3VabHlVbUdwWUl1dl9Bb2s1MGo2ZF9uOVNfNmpZc2w5Zkx2ZW1TMmhpalBOZVlBRFAxekhNWkVsemN6ajAycFlIbEJlRQ?oc=5",
+    "fonte": "Brasil no Centro",
+    "data": "2026-10-26T18:54:00.000Z"
+   },
    {
     "titulo": "Caiado reconhece vitória de Lula; Zema questiona eleição",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEQzanI5NGEyUVdrNmd4Mzd0bEotMHJkVmtmRDJlekt4TFY3ZVprLWR4RDROTUtvVlkwS1VqZTlNX2FfY1FoZS1qaUVSSzZwSHhaOXdZNXhROWZndGQ2X1VYRTV6VWh5WXhBUWhhNElhM0pXX3BTQkFOc2FCNGwxcHVPc1g2SWVPZ1cxOGxBajZiLWJ3OVE?oc=5",
@@ -470,9 +482,9 @@
    },
    {
     "titulo": "\"Decisão da maioria\", \"colossal\": ex-candidatos reagem à vitória de Lula",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNlpZcXloTGhLOGZPNGtiNVhRaDRvbEtJRk9IT2hUemJaZTFFd2plekpWSDI4ZDg0VmJXTV9qTTVfM3h4LTZhaHVXTlJzVy1hTzgtMW5rZFNmTXQ0VUx0WmJoZzd1QW1lODdxTklyeks5OU5yLWJ1QjhyczdjMDJSU2gzMlpkS2RFaHQ4WWJZNE1ITExndTJlNkhlTnJHNTZ5aUVrTzZBWQ?oc=5",
-    "fonte": "Jornal Folha do Progresso",
-    "data": "2026-10-26T18:15:47.000Z"
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVFpiX3BqUElnU2RlbE5hMm9NZDIyMFJaSC04Zy1aLUlxWmJoYmNZUHlVVllfSXJQN1U5Umw0Q0lQaFNlQm1rWWYzT21sV2xlVk4ybExhY2pUdjJjcmdJUzZ0Rk5JVm1BY1FXenJxOXZGT0EzQjYwMDB5dU1hVHVTMmRpUFh1Ym9mS2dQZmtMaVBRSTdoQ1ZQWmRBNDVBcTN6M1VTWklOLWg?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-10-26T16:41:53.000Z"
    },
    {
     "titulo": "Eleições 2026: Ficha de Renan Santos (MISSÃO)",
@@ -963,5 +975,9 @@
     ]
    }
   ]
+ },
+ "esportes": {
+  "barca": "UD Poblense x AD Ceuta FC: Resultados ao vivo, escalações, mano a mano e probabilidades",
+  "mogi": "Com duplo-duplo de Georginho, Mogi vence Unifacisa de virada no NBB"
  }
 }
