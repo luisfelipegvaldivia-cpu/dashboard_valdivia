@@ -440,12 +440,12 @@
     function atualizarRelogio() {
       const agora = new Date();
       const hora = agora.getHours();
-      let textoSaudacao = "Boa noite";
+      let textoSaudacao = "Boa noite, Luís!";
       
-      if (hora >= 5 && hora < 12) {
-        textoSaudacao = "Bom dia";
+      if (hora >= 6 && hora < 12) {
+        textoSaudacao = "Bom dia, Luís! Quais são os seus planos para hoje?";
       } else if (hora >= 12 && hora < 18) {
-        textoSaudacao = "Boa tarde";
+        textoSaudacao = "Boa tarde, Luís!";
       }
 
       $("saudacao").textContent = `${textoSaudacao}!`;
