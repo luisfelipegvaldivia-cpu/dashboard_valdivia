@@ -48,10 +48,11 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .todo-item button{background:none;border:none;color:var(--muted);cursor:pointer;font-size:.8rem}
 
 /* Jogos e Transporte */
-.info-box{background:var(--bg);border-radius:8px;padding:.75rem;margin-bottom:.6rem;font-size:.9rem;display:flex;justify-content:space-between;align-items:center}
-.info-tag{background:var(--accent);color:var(--accent-ink);padding:.2rem .5rem;border-radius:4px;font-size:.75rem;font-weight:600}
+.info-box{background:var(--bg);border-radius:8px;padding:.75rem;margin-bottom:.6rem;font-size:.85rem;display:flex;flex-direction:column;gap:.3rem}
+.info-title{display:flex;justify-content:space-between;align-items:center;font-weight:600}
+.info-desc{color:var(--muted);font-size:.8rem;line-height:1.3}
 
-/* Feed de Notícias (Menor) */
+/* Feed de Notícias */
 .feed-section{padding:0 clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
 .feed-header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:space-between;margin-bottom:1rem}
 #busca{padding:.5rem .8rem;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink);font:inherit;width:min(100%,20rem)}
@@ -111,208 +112,15 @@ ul.feed-list li a:hover{text-decoration:underline}
     <div class="card">
       <h2>Próximos Jogos & Resultados</h2>
       <div class="info-box">
-        <div><strong>FC Barcelona</strong><br><small style="color:var(--muted)">La Liga / Champions</small></div>
-        <span class="info-tag" id="barca-status">Aguardando</span>
+        <div class="info-title">
+          <span>FC Barcelona</span>
+          <small style="color:var(--accent)">La Liga</small>
+        </div>
+        <div class="info-desc" id="barca-status">Carregando dados do robô...</div>
       </div>
       <div class="info-box">
-        <div><strong>Mogi Basquete</strong><br><small style="color:var(--muted)">NBB</small></div>
-        <span class="info-tag" id="mogi-status">Aguardando</span>
-      </div>
-    </div>
-
-    <!-- Widget Transporte -->
-    <div class="card">
-      <h2>Transporte Público</h2>
-      <div class="info-box">
-        <div><strong>Ônibus Trabalho</strong><br><small style="color:var(--muted)">Ponto Próximo</small></div>
-        <span class="info-tag">Em breve</span>
-      </div>
-    </div>
-
-  </div>
-
-  <!-- Seção Secundária: Notícias e Ciência -->
-  <div class="feed-section">
-    <div class="feed-header">
-      <h2 style="margin:0; font-family:var(--head);">Atualizações do Hub</h2>
-      <input id="busca" type="search" placeholder="Filtrar notícias..." aria-label="Filtrar">
-    </div>
-
-    <div class="feed-grid">
-      <section>
-        <h3 style="margin:0 0 .5rem; font-size:1rem; color:var(--muted)">Notícias</h3>
-        <div class="chips" id="chips-not"></div>
-        <ul class="feed-list" id="lista-not"></ul>
-      </section>
-
-      <aside>
-        <h3 style="margin:0 0 .5rem; font-size:1rem; color:var(--muted)">Ciência</h3>
-        <div class="chips" id="chips-ci"></div>
-        <ul class="feed-list" id="lista-ci"></ul>
-      </aside>
-    </div>
-  </div>
-</main>
-
-<script>
-const $ = (id) => document.getElementById(id);
-
-/* 1. Boas-Vindas e Horário */
-function atualizarRelogio() {
-  const agora = new Date();
-  const hora = agora.getHours();
-  let textoSaudacao = "Boa noite";
-  if (hora >= 5 && hora < 12) textoSaudacao = "Bom dia";
-  else if (hora >= 12 && hora < 18) textoSaudacao = "Boa tarde";
-
-  $("saudacao").textContent = `${textoSaudacao}!`;
-  
-  const opcoes = { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' };
-  $("data-hora").textContent = agora.toLocaleDateString('pt-BR', opcoes);
-}
-setInterval(atualizarRelogio, 1000);
-atualizarRelogio();
-
-/* 2. Previsão do Tempo (Open-Meteo) */
-async function carregarClima() {
-  // Coordenadas padrão (São Paulo/Mogi das Cruzes: -23.52, -46.18)
-  const lat = -23.52;
-  const lon = -46.18;
-  try {
-    const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code,wind_speed_10m&timezone=auto`);
-    const data = await res.json();
-    const temp = Math.round(data.current.temperature_2m);
-    const vento = Math.round(data.current.wind_speed_10m);
-    
-    $("clima-temp").textContent = `${temp}°C`;
-    $("clima-vento").textContent = `Vento: ${vento} km/h`;
-    $("clima-desc").textContent = "Tempo Atual";
-  } catch(e) {
-    $("clima-temp").textContent = "--";
-    $("clima-desc").textContent = "Erro ao carregar";
-  }
-}
-carregarClima();
-
-/* 3. Atividades Pendentes (To-Do List com LocalStorage) */
-let tarefas = JSON.parse(localStorage.getItem('minhas_tarefas') || '[]');
-
-function salvarTarefas() {
-  localStorage.setItem('minhas_tarefas', JSON.stringify(tarefas));
-  desenharTarefas();
-}
-
-function desenharTarefas() {
-  const lista = $("todo-list");
-  lista.innerHTML = "";
-  tarefas.forEach((t, i) => {
-    const li = document.createElement("li");
-    li.className = `todo-item ${t.done ? 'done' : ''}`;
-    li.innerHTML = `
-      <span onclick="toggleTarefa(${i})" style="cursor:pointer">${t.text}</span>
-      <button onclick="removerTarefa(${i})">✕</button>
-    `;
-    lista.appendChild(li);
-  });
-}
-
-function toggleTarefa(i) {
-  tarefas[i].done = !tarefas[i].done;
-  salvarTarefas();
-}
-
-function removerTarefa(i) {
-  tarefas.splice(i, 1);
-  salvarTarefas();
-}
-
-$("todo-form").addEventListener("submit", (e) => {
-  e.preventDefault();
-  const input = $("todo-input");
-  if (input.value.trim()) {
-    tarefas.push({ text: input.value.trim(), done: false });
-    input.value = "";
-    salvarTarefas();
-  }
-});
-desenharTarefas();
-
-/* 4. Integração com Notícias e Feed existente */
-const estado = { cfg: null, feed: null, not: "todos", ci: "todos", q: "" };
-
-function el(tag, props = {}, ...filhos) {
-  const e = document.createElement(tag);
-  Object.assign(e, props);
-  filhos.flat().forEach((f) => e.append(f));
-  return e;
-}
-
-function quando(iso) {
-  if (!iso) return "";
-  const min = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
-  if (min < 60) return `há ${min} min`;
-  if (min < 1440) return `há ${Math.round(min / 60)} h`;
-  const d = Math.round(min / 1440);
-  return d === 1 ? "ontem" : `há ${d} dias`;
-}
-
-const ehNovo = (iso) => iso && Date.now() - Date.parse(iso) < 6 * 3600e3;
-
-function juntar(grupo, topicos, selecionado) {
-  const ids = selecionado === "todos" ? topicos.map((t) => t.id) : [selecionado];
-  const nomes = Object.fromEntries(topicos.map((t) => [t.id, t.nome]));
-  const vistos = new Set();
-  return ids.flatMap((id) => (estado.feed[grupo][id] ?? []).map((i) => ({ ...i, tema: nomes[id] })))
-    .filter((i) => !vistos.has(i.link) && vistos.add(i.link))
-    .filter((i) => !estado.q || `${i.titulo} ${i.fonte}`.toLowerCase().includes(estado.q))
-    .sort((a, b) => (b.data ?? "").localeCompare(a.data ?? ""))
-    .slice(0, 5); // Exibe os 5 mais recentes para economizar espaço
-}
-
-function chips(alvo, topicos, chave) {
-  alvo.replaceChildren(...[{ id: "todos", nome: "Tudo" }, ...topicos].map((t) =>
-    el("button", {
-      type: "button", textContent: t.nome,
-      onclick: () => { estado[chave] = t.id; desenhar(); },
-    })));
-  [...alvo.children].forEach((b, i) =>
-    b.setAttribute("aria-pressed", String(([{ id: "todos" }, ...topicos][i]).id === estado[chave])));
-}
-
-function lista(alvo, itens, vazio) {
-  if (!itens.length) { alvo.replaceChildren(el("li", { className: "vazio", textContent: vazio })); return; }
-  alvo.replaceChildren(...itens.map((i) => el("li", {},
-    el("a", { href: i.link, target: "_blank", rel: "noopener noreferrer", textContent: i.titulo }),
-    el("div", { className: "meta" },
-      ehNovo(i.data) ? el("span", { className: "novo", textContent: "Novo" }) : "",
-      el("span", { style: { color: "var(--accent)" }, textContent: i.tema }),
-      el("span", { textContent: i.fonte }),
-      el("span", { textContent: quando(i.data) })))));
-}
-
-function desenhar() {
-  const { cfg, feed } = estado;
-  chips($("chips-not"), cfg.assuntos, "not");
-  chips($("chips-ci"), cfg.ciencia, "ci");
-  lista($("lista-not"), juntar("noticias", cfg.assuntos, estado.not), "Nenhuma notícia encontrada.");
-  lista($("lista-ci"), juntar("ciencia", cfg.ciencia, estado.ci), "Nenhum artigo encontrado.");
-}
-
-async function carregar() {
-  try {
-    const [cfg, feed] = await Promise.all([
-      fetch("config.json", { cache: "no-store" }).then((r) => r.json()),
-      fetch("data/feed.json", { cache: "no-store" }).then((r) => r.json()),
-    ]);
-    Object.assign(estado, { cfg, feed });
-    desenhar();
-  } catch (e) {
-    console.warn("Feed não carregado localmente.");
-  }
-}
-
-$("busca").addEventListener("input", (e) => { estado.q = e.target.value.trim().toLowerCase(); if (estado.feed) desenhar(); });
-carregar();
-</script>
-</body>
-</html>
+        <div class="info-title">
+          <span>Mogi Basquete</span>
+          <small style="color:var(--accent)">NBB</small>
+        </div>
+        <div class
