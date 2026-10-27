@@ -1,0 +1,19 @@
+{
+  "titulo": "Meu hub",
+  "diasNoticias": 7,
+  "diasCiencia": 30,
+  "maxPorAssunto": 15,
+  "assuntos": [
+    { "id": "seguranca", "nome": "Segurança pública", "consulta": "segurança pública São Paulo" },
+    { "id": "educacao", "nome": "Educação", "consulta": "educação rede estadual São Paulo" },
+    { "id": "saude", "nome": "Saúde", "consulta": "saúde pública São Paulo SUS" },
+    { "id": "economia", "nome": "Economia paulista", "consulta": "economia estado de São Paulo" },
+    { "id": "alesp", "nome": "Alesp", "consulta": "Assembleia Legislativa de São Paulo Alesp" }
+  ],
+  "ciencia": [
+    { "id": "saude-publica", "nome": "Saúde pública", "pubmed": "public health Brazil", "arxiv": null },
+    { "id": "educacao-ciencia", "nome": "Educação", "pubmed": "education policy outcomes Brazil", "arxiv": null },
+    { "id": "seguranca-ciencia", "nome": "Segurança e crime", "pubmed": "violence prevention policing", "arxiv": "all:\"crime prediction\"" },
+    { "id": "economia-ciencia", "nome": "Economia", "pubmed": null, "arxiv": "cat:econ.GN" }
+  ]
+}

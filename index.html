@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meu hub</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Public+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EDF1F4; --surface:#FFFFFF; --ink:#14212B; --muted:#5B6B76; --line:#D5DDE3;
+  --accent:#0B5FA5; --accent-ink:#FFFFFF; --signal:#E7A700;
+  --head:"Bricolage Grotesque","Segoe UI",system-ui,sans-serif;
+  --body:"Public Sans","Segoe UI",system-ui,sans-serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{ --bg:#0E1A22; --surface:#15242E; --ink:#E6EEF2; --muted:#93A4AF; --line:#27394518; --line:#2A3C48;
+    --accent:#5CB0F0; --accent-ink:#0E1A22; --signal:#F2B705; }
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:1rem}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 1rem/1.5 var(--body)}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+header{display:flex;flex-wrap:wrap;gap:.75rem 1.5rem;align-items:center;justify-content:space-between;
+  padding:1.25rem clamp(1rem,4vw,2.5rem);border-bottom:1px solid var(--line);background:var(--surface)}
+h1{font:700 1.5rem/1.1 var(--head);margin:0;letter-spacing:-.01em}
+#status{color:var(--muted);font-size:.875rem;margin:.15rem 0 0}
+#busca{width:min(100%,22rem);padding:.6rem .8rem;border:1px solid var(--line);border-radius:6px;
+  background:var(--bg);color:var(--ink);font:inherit}
+main{display:grid;grid-template-columns:minmax(0,1.6fr) minmax(0,1fr);gap:clamp(1rem,3vw,2.5rem);
+  padding:clamp(1rem,3vw,2rem) clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
+@media (max-width:860px){ main{grid-template-columns:1fr} }
+h2{font:700 1.2rem/1.2 var(--head);margin:0 0 .75rem}
+.chips{display:flex;flex-wrap:wrap;gap:.4rem;margin-bottom:1rem}
+.chips button{font:500 .875rem var(--body);padding:.4rem .8rem;border-radius:999px;border:1px solid var(--line);
+  background:var(--surface);color:var(--ink);cursor:pointer}
+.chips button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+ul{list-style:none;margin:0;padding:0}
+li{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:.85rem 1rem;margin-bottom:.6rem}
+li a{font:600 1.02rem/1.35 var(--body);text-decoration:none}
+li a:hover{text-decoration:underline}
+.meta{display:flex;flex-wrap:wrap;gap:.25rem .75rem;margin-top:.3rem;color:var(--muted);font-size:.85rem}
+.novo{display:inline-flex;align-items:center;gap:.35rem;color:var(--ink);font-weight:600}
+.novo::before{content:"";width:.55rem;height:.55rem;border-radius:50%;background:var(--signal)}
+.tema{color:var(--accent);font-weight:600}
+.vazio{color:var(--muted);padding:1rem;border:1px dashed var(--line);border-radius:8px}
+aside li{border-left:4px solid var(--accent)}
+</style>
+</head>
+<body>
+<header>
+  <div><h1 id="titulo">Meu hub</h1><p id="status" role="status">Carregando…</p></div>
+  <input id="busca" type="search" placeholder="Filtrar por palavra" aria-label="Filtrar por palavra">
+</header>
+<main>
+  <section aria-labelledby="h-not">
+    <h2 id="h-not">Notícias</h2>
+    <div class="chips" id="chips-not"></div>
+    <ul id="lista-not"></ul>
+  </section>
+  <aside aria-labelledby="h-ci">
+    <h2 id="h-ci">Artigos científicos</h2>
+    <div class="chips" id="chips-ci"></div>
+    <ul id="lista-ci"></ul>
+  </aside>
+</main>
+<script>
+const $ = (id) => document.getElementById(id);
+const estado = { cfg: null, feed: null, not: "todos", ci: "todos", q: "" };
+
+function el(tag, props = {}, ...filhos) {
+  const e = document.createElement(tag);
+  Object.assign(e, props);
+  filhos.flat().forEach((f) => e.append(f));
+  return e;
+}
+
+function quando(iso) {
+  if (!iso) return "";
+  const min = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000));
+  if (min < 60) return `há ${min} min`;
+  if (min < 1440) return `há ${Math.round(min / 60)} h`;
+  const d = Math.round(min / 1440);
+  return d === 1 ? "ontem" : `há ${d} dias`;
+}
+
+const ehNovo = (iso) => iso && Date.now() - Date.parse(iso) < 6 * 3600e3;
+
+function juntar(grupo, topicos, selecionado) {
+  const ids = selecionado === "todos" ? topicos.map((t) => t.id) : [selecionado];
+  const nomes = Object.fromEntries(topicos.map((t) => [t.id, t.nome]));
+  const vistos = new Set();
+  return ids.flatMap((id) => (estado.feed[grupo][id] ?? []).map((i) => ({ ...i, tema: nomes[id] })))
+    .filter((i) => !vistos.has(i.link) && vistos.add(i.link))
+    .filter((i) => !estado.q || `${i.titulo} ${i.fonte}`.toLowerCase().includes(estado.q))
+    .sort((a, b) => (b.data ?? "").localeCompare(a.data ?? ""));
+}
+
+function chips(alvo, topicos, chave) {
+  alvo.replaceChildren(...[{ id: "todos", nome: "Tudo" }, ...topicos].map((t) =>
+    el("button", {
+      type: "button", textContent: t.nome,
+      onclick: () => { estado[chave] = t.id; desenhar(); },
+    }, ) ));
+  [...alvo.children].forEach((b, i) =>
+    b.setAttribute("aria-pressed", String(([{ id: "todos" }, ...topicos][i]).id === estado[chave])));
+}
+
+function lista(alvo, itens, vazio) {
+  if (!itens.length) { alvo.replaceChildren(el("li", { className: "vazio", textContent: vazio })); return; }
+  alvo.replaceChildren(...itens.map((i) => el("li", {},
+    el("a", { href: i.link, target: "_blank", rel: "noopener noreferrer", textContent: i.titulo }),
+    el("div", { className: "meta" },
+      ehNovo(i.data) ? el("span", { className: "novo", textContent: "Novo" }) : "",
+      el("span", { className: "tema", textContent: i.tema }),
+      el("span", { textContent: i.fonte }),
+      i.autores?.length ? el("span", { textContent: i.autores.join(", ") + (i.autores.length >= 3 ? " et al." : "") }) : "",
+      el("span", { textContent: quando(i.data) })))));
+}
+
+function desenhar() {
+  const { cfg, feed } = estado;
+  document.title = cfg.titulo;
+  $("titulo").textContent = cfg.titulo;
+  $("status").textContent = feed.atualizadoEm
+    ? `Atualizado ${quando(feed.atualizadoEm)}. Esta página confere novidades a cada 10 minutos.`
+    : "Ainda sem dados. Rode a atualização (veja o README).";
+  chips($("chips-not"), cfg.assuntos, "not");
+  chips($("chips-ci"), cfg.ciencia, "ci");
+  lista($("lista-not"), juntar("noticias", cfg.assuntos, estado.not), "Nenhuma notícia encontrada para este filtro.");
+  lista($("lista-ci"), juntar("ciencia", cfg.ciencia, estado.ci), "Nenhum artigo encontrado para este filtro.");
+}
+
+async function carregar() {
+  try {
+    const [cfg, feed] = await Promise.all([
+      fetch("config.json", { cache: "no-store" }).then((r) => r.json()),
+      fetch("data/feed.json", { cache: "no-store" }).then((r) => r.json()),
+    ]);
+    Object.assign(estado, { cfg, feed });
+    desenhar();
+  } catch (e) {
+    $("status").textContent = "Não consegui carregar os dados. Abra a página por um servidor (veja o README), não direto do arquivo.";
+  }
+}
+
+$("busca").addEventListener("input", (e) => { estado.q = e.target.value.trim().toLowerCase(); if (estado.feed) desenhar(); });
+carregar();
+setInterval(carregar, 10 * 60 * 1000);
+</script>
+</body>
+</html>
