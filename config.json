@@ -8,14 +8,14 @@
     { "id": "educacao", "nome": "Educação", "consulta": "educação brasil" },
     { "id": "seguranca", "nome": "Segurança", "consulta": "segurança pública São Paulo" },
     { "id": "economia", "nome": "Economia", "consulta": "economia brasil" },
-    { "id": "politica", "nome": "Política", "consulta": "política brasil" }
-    { "id": "alesp", "nome": "Alesp", "consulta": "Assembleia Legislativa de São Paulo Alesp" }
-    { "id": "missao", "nome": "Missão", "consulta": "partido missão movimento brasil livre MBL" }
+    { "id": "politica", "nome": "Política", "consulta": "política brasil" },
+    { "id": "alesp", "nome": "Alesp", "consulta": "Assembleia Legislativa de São Paulo Alesp" },
+    { "id": "missao", "nome": "Missão", "consulta": "partido missão movimento brasil livre MBL" },
     { "id": "regiao", "nome": "Região", "consulta": "noticias mogi das cruzes e região do alto tietê" }
   ],
   "ciencia": [
     { "id": "als", "nome": "ALS", "pubmed": "Amyotrophic Lateral Sclerosis" },
     { "id": "phage", "nome": "Phage Display", "pubmed": "in vivo phage display" },
-    { "id": "alzheimer", "nome": "Alzheimer", "pubmed": "alzheimer" },
+    { "id": "alzheimer", "nome": "Alzheimer", "pubmed": "alzheimer" }
   ]
 }
