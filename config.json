@@ -1,19 +1,20 @@
 {
-  "titulo": "Meu hub",
+  "titulo": "Sci Hub",
   "diasNoticias": 7,
-  "diasCiencia": 30,
+  "diasCiencia": 15,
   "maxPorAssunto": 15,
   "assuntos": [
-    { "id": "seguranca", "nome": "Segurança pública", "consulta": "segurança pública São Paulo" },
-    { "id": "educacao", "nome": "Educação", "consulta": "educação rede estadual São Paulo" },
-    { "id": "saude", "nome": "Saúde", "consulta": "saúde pública São Paulo SUS" },
-    { "id": "economia", "nome": "Economia paulista", "consulta": "economia estado de São Paulo" },
+    { "id": "saude", "nome": "Saúde", "consulta": "saúde pública brasil" },
+    { "id": "educacao", "nome": "Educação", "consulta": "educação brasil" },
+    { "id": "seguranca", "nome": "Segurança", "consulta": "segurança pública São Paulo" },
+    { "id": "economia", "nome": "Economia", "consulta": "economia brasil" },
+    { "id": "politica", "nome": "Política", "consulta": "política brasil" }
     { "id": "alesp", "nome": "Alesp", "consulta": "Assembleia Legislativa de São Paulo Alesp" }
+    { "id": "missao", "nome": "Missão", "consulta": "partido missão movimento brasil livre MBL" }
   ],
   "ciencia": [
-    { "id": "saude-publica", "nome": "Saúde pública", "pubmed": "public health Brazil", "arxiv": null },
-    { "id": "educacao-ciencia", "nome": "Educação", "pubmed": "education policy outcomes Brazil", "arxiv": null },
-    { "id": "seguranca-ciencia", "nome": "Segurança e crime", "pubmed": "violence prevention policing", "arxiv": "all:\"crime prediction\"" },
-    { "id": "economia-ciencia", "nome": "Economia", "pubmed": null, "arxiv": "cat:econ.GN" }
+    { "id": "als", "nome": "ALS", "pubmed": "Amyotrophic Lateral Sclerosis" },
+    { "id": "phage", "nome": "Phage Display", "pubmed": "in vivo phage display" },
+    { "id": "alzheimer", "nome": "Alzheimer", "pubmed": "alzheimer" },
   ]
 }
