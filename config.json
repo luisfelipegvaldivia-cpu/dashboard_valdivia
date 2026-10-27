@@ -1,5 +1,5 @@
 {
-  "titulo": "Sci Portal",
+  "titulo": "Sci Hub",
   "diasNoticias": 7,
   "diasCiencia": 15,
   "maxPorAssunto": 15,
@@ -10,11 +10,11 @@
     { "id": "politica", "nome": "Política", "consulta": "política brasil" },
     { "id": "alesp", "nome": "Alesp", "consulta": "Assembleia Legislativa de São Paulo Alesp" },
     { "id": "missao", "nome": "Missão", "consulta": "partido missão movimento brasil livre MBL" },
-    { "id": "regiao", "nome": "Região", "consulta": "oticias mogi das cruzes e região do alto tietê" }
+    { "id": "regiao", "nome": "Região", "consulta": "noticias mogi das cruzes e região do alto tietê" }
   ],
   "ciencia": [
-    { "id": "als", "nome": "ALS", "pubmed": "Amyotrophic Lateral Sclerosis" },
-    { "id": "phage", "nome": "Phage Display", "pubmed": "in vivo phage display" },
-    { "id": "alzheimer", "nome": "Alzheimer", "pubmed": "alzheimer" }
+    { "id": "als", "nome": "ALS", "consulta": "Amyotrophic Lateral Sclerosis" },
+    { "id": "phage", "nome": "Phage Display", "consulta": "in vivo phage display" },
+    { "id": "alzheimer", "nome": "Alzheimer", "consulta": "alzheimer" }
   ]
 }
