@@ -1,5 +1,5 @@
 name: Atualizar hub
-          
+
 on:
   schedule:
     - cron: "0 */2 * * *"
@@ -13,10 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-node@v4
         with:
           node-version: 20
-      - run: node scripts/update.mjs
+
+      - name: Rodar script de atualização
+        env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/update.mjs
+
       - name: Salvar feed
         run: |
           git config user.name "hub-bot"
@@ -26,5 +33,3 @@ jobs:
             git commit -m "Atualiza feed"
             git push
           fi
-
-
