@@ -22,8 +22,8 @@ const recentes = (lista, dias) => lista.filter((i) => !i.data || Date.parse(i.da
 async function resumirComIA(titulo) {
   if (!geminiKey) return null;
   try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiKey}`;
-    const prompt = `Você é um assistente científico. Resuma o objetivo e a proposta do seguinte artigo científico em português brasileiro em no máximo 5 linhas diretas e objetivas: "${titulo}"`;
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${geminiKey}`;
+    const prompt = `És um assistente científico. Com base no seguinte título de um artigo científico, explica em português de Portugal (pt-PT) o objetivo ou a proposta principal em no máximo 4 a 5 linhas diretas e objetivas: "${titulo}"`;
     
     const body = {
       contents: [{ parts: [{ text: prompt }] }]
@@ -35,9 +35,14 @@ async function resumirComIA(titulo) {
       body: JSON.stringify(body)
     });
 
-    if (!r.ok) return null;
+    if (!r.ok) {
+      console.warn(`API Gemini respondeu com status: ${r.status}`);
+      return null;
+    }
+    
     const data = await r.json();
-    return data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim() ?? null;
+    const texto = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
+    return texto ?? null;
   } catch (e) {
     console.warn(`Erro na IA ao resumir: ${e.message}`);
     return null;
