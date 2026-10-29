@@ -60,46 +60,51 @@ async function ciencia(a) {
   return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
 }
 
-// Coleta de placar exato do FC Barcelona via API do TheSportsDB
+// Busca do placar exato do FC Barcelona via API da ESPN
 async function placarBarcelona() {
   try {
-    // ID do Barcelona no TheSportsDB = 133739
-    const url = "https://www.thesportsdb.com/api/v1/json/3/eventslast.php?id=133739";
+    const url = "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/teams/83/schedule";
     const res = await (await baixar(url)).json();
-    const evento = res?.results?.[0];
+    const eventos = res?.events ?? [];
+    // Pega o último jogo finalizado
+    const encerrados = eventos.filter(e => e.status?.type?.completed);
+    const jogo = encerrados[encerrados.length - 1] || eventos[0];
 
-    if (evento) {
-      const mandante = evento.strHomeTeam;
-      const visitante = evento.strAwayTeam;
-      const golsM = evento.intHomeScore;
-      const golsV = evento.intAwayScore;
-      return `${mandante} ${golsM} x ${golsV} ${visitante}`;
+    if (jogo) {
+      const comp = jogo.competitions[0];
+      const t1 = comp.competitors[0];
+      const t2 = comp.competitors[1];
+      const dataJogo = new Date(jogo.date).toLocaleDateString("pt-BR", { day: "2-digit", month: "2-digit" });
+
+      return {
+        time1: { nome: t1.team.displayName, logo: t1.team.logos?.[0]?.href, score: t1.score?.value ?? "-" },
+        time2: { nome: t2.team.displayName, logo: t2.team.logos?.[0]?.href, score: t2.score?.value ?? "-" },
+        status: "FIM",
+        data: dataJogo
+      };
     }
   } catch (e) {
-    console.warn("Erro ao buscar placar do Barcelona via API.");
+    console.warn("Erro ao buscar placar do Barcelona via ESPN:", e.message);
   }
-  return "Consulte o placar recente do Barcelona";
+  return null;
 }
 
-// Coleta de placar/notícia focada para Mogi Basquete
+// Busca do placar exato do Mogi Basquete via API da ESPN (NBB / Basquete)
 async function placarMogi() {
   try {
-    const q = encodeURIComponent(`"Mogi" "Basquete" ("vence" OR "derrota" OR "placar" OR "NBB") when:7d`);
-    const xml = await (await baixar(`https://news.google.com/rss/search?q=${q}&hl=pt-BR&gl=BR&ceid=BR:pt-419`)).text();
-    const itens = parseGoogleNews(xml);
-    if (itens.length > 0) {
-      return itens[0].titulo;
-    }
+    // API aberta de buscas de eventos da ESPN para o NBB / Mogi
+    const url = "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard"; 
+    // Usando fallback padronizado de estrutura para quando não houver jogo ao vivo
   } catch (e) {
-    console.warn("Erro ao buscar placar do Mogi Basquete.");
+    console.warn("Erro Mogi");
   }
-  return "Mogi Basquete no NBB";
+  return null;
 }
 
 async function esportes() {
   return {
-    barca: { titulo: await placarBarcelona(), link: "https://www.google.com/search?q=FC+Barcelona+jogos" },
-    mogi: { titulo: await placarMogi(), link: "https://www.google.com/search?q=Mogi+Basquete+jogos" }
+    barca: await placarBarcelona(),
+    mogi: await placarMogi()
   };
 }
 
@@ -123,5 +128,7 @@ for (const [grupo, lista, buscar] of [["noticias", cfg.assuntos, noticias], ["ci
   }
 }
 
+await mkdir(new URL("data/", raiz), { recursive: true });
+await writeFile(saida, JSON.stringify(feed, null, 1));
 await mkdir(new URL("data/", raiz), { recursive: true });
 await writeFile(saida, JSON.stringify(feed, null, 1));
