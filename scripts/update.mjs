@@ -6,6 +6,7 @@ const cfg = JSON.parse(await readFile(new URL("config.json", raiz), "utf8"));
 const saida = new URL("data/feed.json", raiz);
 const anterior = JSON.parse(await readFile(saida, "utf8").catch(() => "{}"));
 const chave = process.env.NCBI_API_KEY ? `&api_key=${process.env.NCBI_API_KEY}` : "";
+const geminiKey = process.env.GEMINI_API_KEY;
 const espera = (ms) => new Promise((r) => setTimeout(r, ms));
 
 async function baixar(url) {
@@ -16,6 +17,32 @@ async function baixar(url) {
 
 const desde = (dias) => Date.now() - dias * 864e5;
 const recentes = (lista, dias) => lista.filter((i) => !i.data || Date.parse(i.data) >= desde(dias));
+
+/* Função para gerar o resumo de até 5 linhas usando o Google Gemini */
+async function resumirComIA(titulo) {
+  if (!geminiKey) return null;
+  try {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${geminiKey}`;
+    const prompt = `Você é um assistente científico. Resuma o objetivo e a proposta do seguinte artigo científico em português brasileiro em no máximo 5 linhas diretas e objetivas: "${titulo}"`;
+    
+    const body = {
+      contents: [{ parts: [{ text: prompt }] }]
+    };
+
+    const r = await fetch(url, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(body)
+    });
+
+    if (!r.ok) return null;
+    const data = await r.json();
+    return data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim() ?? null;
+  } catch (e) {
+    console.warn(`Erro na IA ao resumir: ${e.message}`);
+    return null;
+  }
+}
 
 async function noticias(a) {
   const q = encodeURIComponent(`${a.consulta} when:${cfg.diasNoticias}d`);
@@ -57,16 +84,28 @@ async function ciencia(a) {
     console.warn(`aviso SciELO / ${a.id}: ${e.message}`);
   }
 
-  return dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
+  const selecionados = dedupe(recentes(partes, cfg.diasCiencia)).sort(porData).slice(0, cfg.maxPorAssunto);
+
+  // Gera os resumos de até 5 linhas para os artigos científicos
+  for (const artigo of selecionados) {
+    // Tenta reutilizar o resumo anterior se o artigo já existia
+    const antigo = anterior?.ciencia?.[a.id]?.find(i => i.link === artigo.link);
+    if (antigo?.resumo) {
+      artigo.resumo = antigo.resumo;
+    } else {
+      artigo.resumo = await resumirComIA(artigo.titulo);
+      await espera(1000); // Pausa para não estourar limite de chamadas
+    }
+  }
+
+  return selecionados;
 }
 
-// Busca do placar exato do FC Barcelona via API da ESPN
 async function placarBarcelona() {
   try {
     const url = "https://site.api.espn.com/apis/site/v2/sports/soccer/esp.1/teams/83/schedule";
     const res = await (await baixar(url)).json();
     const eventos = res?.events ?? [];
-    // Pega o último jogo finalizado
     const encerrados = eventos.filter(e => e.status?.type?.completed);
     const jogo = encerrados[encerrados.length - 1] || eventos[0];
 
@@ -84,19 +123,7 @@ async function placarBarcelona() {
       };
     }
   } catch (e) {
-    console.warn("Erro ao buscar placar do Barcelona via ESPN:", e.message);
-  }
-  return null;
-}
-
-// Busca do placar exato do Mogi Basquete via API da ESPN (NBB / Basquete)
-async function placarMogi() {
-  try {
-    // API aberta de buscas de eventos da ESPN para o NBB / Mogi
-    const url = "https://site.api.espn.com/apis/site/v2/sports/basketball/mens-college-basketball/scoreboard"; 
-    // Usando fallback padronizado de estrutura para quando não houver jogo ao vivo
-  } catch (e) {
-    console.warn("Erro Mogi");
+    console.warn("Erro ao buscar placar do Barcelona:", e.message);
   }
   return null;
 }
@@ -104,7 +131,7 @@ async function placarMogi() {
 async function esportes() {
   return {
     barca: await placarBarcelona(),
-    mogi: await placarMogi()
+    mogi: null
   };
 }
 
@@ -128,7 +155,5 @@ for (const [grupo, lista, buscar] of [["noticias", cfg.assuntos, noticias], ["ci
   }
 }
 
-await mkdir(new URL("data/", raiz), { recursive: true });
-await writeFile(saida, JSON.stringify(feed, null, 1));
 await mkdir(new URL("data/", raiz), { recursive: true });
 await writeFile(saida, JSON.stringify(feed, null, 1));
