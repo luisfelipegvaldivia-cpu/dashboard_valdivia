@@ -26,3 +26,8 @@ jobs:
             git commit -m "Atualiza feed"
             git push
           fi
+
+env:
+          NCBI_API_KEY: ${{ secrets.NCBI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: node scripts/update.mjs
