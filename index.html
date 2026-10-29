@@ -368,18 +368,23 @@ function chips(alvo, topicos, chave) {
 }
 
 function lista(alvo, itens, vazio) {
-  if (!itens.length) { alvo.replaceChildren(el("li", { className: "vazio", textContent: vazio })); return; }
+  if (!itens.length) { 
+    alvo.replaceChildren(el("li", { className: "vazio", textContent: vazio })); 
+    return; 
+  }
+  
   alvo.replaceChildren(...itens.map((i) => el("li", {},
     el("a", { href: i.link, target: "_blank", rel: "noopener noreferrer", textContent: i.titulo }),
     i.resumo ? el("p", { 
       style: { 
-        margin: "0.4rem 0 0", 
+        margin: "0.5rem 0 0.2rem", 
         fontSize: "0.82rem", 
-        color: "var(--muted)", 
+        color: "var(--ink)", 
         background: "var(--bg)", 
         padding: "0.5rem 0.75rem", 
         borderRadius: "6px", 
-        lineHeight: "1.4" 
+        lineHeight: "1.4",
+        borderLeft: "3px solid var(--accent)"
       }, 
       textContent: `💡 Resumo: ${i.resumo}` 
     }) : "",
@@ -389,7 +394,7 @@ function lista(alvo, itens, vazio) {
       el("span", { textContent: i.fonte }),
       el("span", { textContent: quando(i.data) })))));
 }
-
+  
 function desenhar() {
   const { cfg, feed } = estado;
   chips($("chips-not"), cfg.assuntos, "not");
