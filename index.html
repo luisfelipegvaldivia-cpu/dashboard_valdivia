@@ -32,10 +32,42 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:1.1rem;display:flex;flex-direction:column;justify-content:space-between}
 .card h2{font:600 1rem var(--head);margin:0 0 .7rem;display:flex;align-items:center;justify-content:space-between}
 
-/* Clima Compacto */
-.clima-compacto{display:flex;align-items:center;justify-content:space-between;background:var(--bg);padding:.6rem 1rem;border-radius:8px}
-.clima-temp{font-size:1.6rem;font-weight:700;color:var(--accent)}
-.clima-detalhes{text-align:right;color:var(--muted);font-size:.8rem}
+/* Widget de Clima Estilo iOS/Apple */
+.clima-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: var(--bg);
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+}
+.clima-principal {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+.clima-icone {
+  font-size: 2.2rem;
+  line-height: 1;
+}
+.clima-temp {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--ink);
+  line-height: 1;
+}
+.clima-detalhes {
+  text-align: right;
+  color: var(--muted);
+  font-size: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+.clima-destaque {
+  color: var(--accent);
+  font-weight: 600;
+}
 
 /* Formulario To-Do */
 .todo-form{display:flex;gap:.4rem;margin-bottom:.6rem;width:100%}
@@ -47,7 +79,7 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .todo-item.done span{text-decoration:line-through;color:var(--muted)}
 .todo-item button{background:none;border:none;color:var(--muted);cursor:pointer;font-size:.8rem}
 
-/* Estilo do Placar Visual (Estilo Google Esportes) */
+/* Estilo do Placar Visual */
 .match-card{background:var(--bg);border-radius:8px;padding:.75rem 1rem;margin-bottom:.6rem;display:flex;align-items:center;justify-content:space-between}
 .match-teams{display:flex;flex-direction:column;gap:.4rem;flex:1}
 .team-row{display:flex;align-items:center;gap:.6rem;font-size:.88rem;font-weight:600}
@@ -90,14 +122,24 @@ ul.feed-list li a:hover{text-decoration:underline}
 <main>
   <div class="dash-grid">
     
-    <!-- Clima -->
+    <!-- Widget Previsão do Tempo Atualizado -->
     <div class="card">
-      <h2><span>Clima</span> <span style="font-size: 0.78rem; font-weight: normal; color: var(--muted);" id="clima-cidade">São Paulo</span></h2>
-      <div class="clima-compacto">
-        <div class="clima-temp" id="clima-temp">--°C</div>
+      <h2>
+        <span>Clima</span> 
+        <span style="font-size: 0.78rem; font-weight: normal; color: var(--muted);" id="clima-cidade">São Paulo</span>
+      </h2>
+      <div class="clima-container">
+        <div class="clima-principal">
+          <div class="clima-icone" id="clima-icone">☀️</div>
+          <div>
+            <div class="clima-temp" id="clima-temp">--°C</div>
+            <div style="font-size: 0.75rem; color: var(--muted);" id="clima-desc">Buscando...</div>
+          </div>
+        </div>
         <div class="clima-detalhes">
-          <div id="clima-desc">Buscando...</div>
-          <div id="clima-vento">Vento: -- km/h</div>
+          <div>Chuva: <span class="clima-destaque" id="clima-chuva">--%</span></div>
+          <div>Umidade: <span id="clima-umidade">--%</span></div>
+          <div>Vento: <span id="clima-vento">-- km/h</span></div>
         </div>
       </div>
     </div>
@@ -112,7 +154,7 @@ ul.feed-list li a:hover{text-decoration:underline}
       <ul class="todo-list" id="todo-list"></ul>
     </div>
 
-    <!-- Widget Esportes com Placar de Exemplo/Dinamico -->
+    <!-- Widget Esportes -->
     <div class="card">
       <h2>Últimos Resultados</h2>
       
@@ -201,18 +243,41 @@ function atualizarRelogio() {
 setInterval(atualizarRelogio, 1000);
 atualizarRelogio();
 
-/* Clima */
+/* Clima com Ícone, Chuva e Umidade */
+function interpretarClima(code) {
+  if (code === 0) return { icone: "☀️", desc: "Céu limpo" };
+  if (code === 1 || code === 2) return { icone: "🌤️", desc: "Parcialmente nublado" };
+  if (code === 3) return { icone: "☁️", desc: "Nublado" };
+  if ([45, 48].includes(code)) return { icone: "🌫️", desc: "Nevoeiro" };
+  if ([51, 53, 55, 61, 63, 65].includes(code)) return { icone: "🌧️", desc: "Chuva" };
+  if ([80, 81, 82].includes(code)) return { icone: "🌦️", desc: "Pancadas de chuva" };
+  if ([95, 96, 99].includes(code)) return { icone: "⛈️", desc: "Tempestade" };
+  return { icone: "🌡️", desc: "Tempo atual" };
+}
+
 async function carregarClima() {
   const lat = -23.52;
   const lon = -46.18;
   try {
-    const res = await fetch(`https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,weather_code,wind_speed_10m&timezone=auto`);
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${lat}&longitude=${lon}&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m&hourly=precipitation_probability&timezone=auto`;
+    const res = await fetch(url);
     const data = await res.json();
-    $("clima-temp").textContent = `${Math.round(data.current.temperature_2m)}°C`;
-    $("clima-vento").textContent = `Vento: ${Math.round(data.current.wind_speed_10m)} km/h`;
-    $("clima-desc").textContent = "Tempo Atual";
+
+    const temp = Math.round(data.current.temperature_2m);
+    const vento = Math.round(data.current.wind_speed_10m);
+    const umidade = data.current.relative_humidity_2m;
+    const climaInfo = interpretarClima(data.current.weather_code);
+    const probChuva = data.hourly?.precipitation_probability ? Math.max(...data.hourly.precipitation_probability.slice(0, 12)) : 0;
+
+    $("clima-temp").textContent = `${temp}°C`;
+    $("clima-icone").textContent = climaInfo.icone;
+    $("clima-desc").textContent = climaInfo.desc;
+    $("clima-chuva").textContent = `${probChuva}%`;
+    $("clima-umidade").textContent = `${umidade}%`;
+    $("clima-vento").textContent = `${vento} km/h`;
   } catch(e) {
     $("clima-temp").textContent = "--";
+    $("clima-desc").textContent = "Indisponível";
   }
 }
 carregarClima();
@@ -330,7 +395,6 @@ async function carregar() {
     Object.assign(estado, { cfg, feed });
     desenhar();
 
-    // Preenche o placar do Barcelona dinamicamente se o robô trouxe dados
     if (feed.esportes?.barca) {
       const b = feed.esportes.barca;
       if (b.time1) {
