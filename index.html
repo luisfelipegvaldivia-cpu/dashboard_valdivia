@@ -26,7 +26,7 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .boas-vindas h1{font:700 1.5rem/1.2 var(--head);margin:0;letter-spacing:-.02em}
 .boas-vindas p{color:var(--muted);margin:.1rem 0 0;font-size:.85rem}
 
-/* Widgets no topo - Grid Ajustado sem a aba de transporte */
+/* Grid de Widgets */
 .dash-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:1.25rem;
   padding:1.25rem clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
 .card{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:1.1rem;display:flex;flex-direction:column;justify-content:space-between}
@@ -37,7 +37,7 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .clima-temp{font-size:1.6rem;font-weight:700;color:var(--accent)}
 .clima-detalhes{text-align:right;color:var(--muted);font-size:.8rem}
 
-/* Formulario To-Do Alinhado */
+/* Formulario To-Do */
 .todo-form{display:flex;gap:.4rem;margin-bottom:.6rem;width:100%}
 .todo-form input{flex:1;padding:.45rem .7rem;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink);font:inherit;outline:none}
 .todo-form button{background:var(--accent);color:var(--accent-ink);border:none;padding:.45rem .9rem;border-radius:6px;font-weight:600;cursor:pointer;white-space:nowrap}
@@ -47,11 +47,15 @@ header{display:flex;flex-wrap:wrap;gap:1rem;align-items:center;justify-content:s
 .todo-item.done span{text-decoration:line-through;color:var(--muted)}
 .todo-item button{background:none;border:none;color:var(--muted);cursor:pointer;font-size:.8rem}
 
-/* Jogos e Resultados */
-.info-box{background:var(--bg);border-radius:8px;padding:.65rem .8rem;margin-bottom:.5rem;font-size:.85rem}
-.info-title{display:flex;justify-content:space-between;align-items:center;font-weight:600;margin-bottom:.2rem}
-.info-desc{color:var(--muted);font-size:.8rem;line-height:1.3;text-decoration:none;display:block}
-.info-desc:hover{text-decoration:underline;color:var(--ink)}
+/* Estilo do Placar Visual (Estilo Google Esportes) */
+.match-card{background:var(--bg);border-radius:8px;padding:.75rem 1rem;margin-bottom:.6rem;display:flex;align-items:center;justify-content:space-between}
+.match-teams{display:flex;flex-direction:column;gap:.4rem;flex:1}
+.team-row{display:flex;align-items:center;gap:.6rem;font-size:.88rem;font-weight:600}
+.team-row img{width:20px;height:20px;object-fit:contain}
+.team-score{margin-left:auto;font-size:1rem;font-weight:700;padding-right:1rem}
+.match-divider{width:1px;height:35px;background:var(--line);margin:0 .5rem}
+.match-status{display:flex;flex-direction:column;align-items:center;justify-content:center;min-width:65px;text-align:center;font-size:.75rem;color:var(--muted)}
+.match-status .status-tag{font-weight:700;color:var(--ink);margin-bottom:.1rem}
 
 /* Feed de Notícias */
 .feed-section{padding:0 clamp(1rem,4vw,2.5rem);max-width:1400px;margin:0 auto}
@@ -84,10 +88,9 @@ ul.feed-list li a:hover{text-decoration:underline}
 </header>
 
 <main>
-  <!-- Widgets Pessoais (Apenas Clima, To-Do e Jogos) -->
   <div class="dash-grid">
     
-    <!-- Widget Previsão do Tempo Compacto -->
+    <!-- Clima -->
     <div class="card">
       <h2><span>Clima</span> <span style="font-size: 0.78rem; font-weight: normal; color: var(--muted);" id="clima-cidade">São Paulo</span></h2>
       <div class="clima-compacto">
@@ -99,7 +102,7 @@ ul.feed-list li a:hover{text-decoration:underline}
       </div>
     </div>
 
-    <!-- Widget Atividades Pendentes -->
+    <!-- Tarefas -->
     <div class="card">
       <h2>Atividades Pendentes</h2>
       <form class="todo-form" id="todo-form">
@@ -109,28 +112,55 @@ ul.feed-list li a:hover{text-decoration:underline}
       <ul class="todo-list" id="todo-list"></ul>
     </div>
 
-    <!-- Widget Esportes -->
+    <!-- Widget Esportes com Placar de Exemplo/Dinamico -->
     <div class="card">
-      <h2>Próximos Jogos & Resultados</h2>
-      <div class="info-box">
-        <div class="info-title">
-          <span>FC Barcelona</span>
-          <small style="color:var(--accent)">Futebol</small>
+      <h2>Últimos Resultados</h2>
+      
+      <!-- Card Barcelona -->
+      <div class="match-card" id="card-barca">
+        <div class="match-teams">
+          <div class="team-row">
+            <img id="barca-t1-logo" src="https://a.espncdn.com/i/teamlogos/soccer/500/83.png" alt="FCB">
+            <span id="barca-t1-nome">Barcelona</span>
+            <span class="team-score" id="barca-t1-score">1</span>
+          </div>
+          <div class="team-row">
+            <img id="barca-t2-logo" src="https://a.espncdn.com/i/teamlogos/soccer/500/86.png" alt="RM">
+            <span id="barca-t2-nome">Real Madrid</span>
+            <span class="team-score" id="barca-t2-score">2</span>
+          </div>
         </div>
-        <a class="info-desc" id="barca-status" href="#" target="_blank" rel="noopener">Carregando resultado...</a>
-      </div>
-      <div class="info-box" style="margin:0;">
-        <div class="info-title">
-          <span>Mogi Basquete</span>
-          <small style="color:var(--accent)">NBB</small>
+        <div class="match-divider"></div>
+        <div class="match-status">
+          <span class="status-tag" id="barca-status">FIM</span>
+          <span id="barca-data">Recente</span>
         </div>
-        <a class="info-desc" id="mogi-status" href="#" target="_blank" rel="noopener">Carregando resultado...</a>
       </div>
+
+      <!-- Card Mogi Basquete -->
+      <div class="match-card" id="card-mogi" style="margin:0;">
+        <div class="match-teams">
+          <div class="team-row">
+            <span id="mogi-t1-nome">Mogi Basquete</span>
+            <span class="team-score" id="mogi-t1-score">78</span>
+          </div>
+          <div class="team-row">
+            <span id="mogi-t2-nome">Unifacisa</span>
+            <span class="team-score" id="mogi-t2-score">74</span>
+          </div>
+        </div>
+        <div class="match-divider"></div>
+        <div class="match-status">
+          <span class="status-tag">FIM</span>
+          <span>NBB</span>
+        </div>
+      </div>
+
     </div>
 
   </div>
 
-  <!-- Seção Secundária: Notícias e Ciência -->
+  <!-- Feed de Notícias -->
   <div class="feed-section">
     <div class="feed-header">
       <h2 style="margin:0; font-family:var(--head); font-size: 1.2rem;">Atualizações do Hub</h2>
@@ -156,13 +186,13 @@ ul.feed-list li a:hover{text-decoration:underline}
 <script>
 const $ = (id) => document.getElementById(id);
 
-/* Relógio e Boas-Vindas */
+/* Relógio */
 function atualizarRelogio() {
   const agora = new Date();
   const hora = agora.getHours();
-  let textoSaudacao = "Boa noite, Luís!";
-  if (hora >= 5 && hora < 12) textoSaudacao = "Bom dia, Luís! O que vamos fazer hoje?";
-  else if (hora >= 12 && hora < 18) textoSaudacao = "Boa tarde, Luís!";
+  let textoSaudacao = "Boa noite";
+  if (hora >= 5 && hora < 12) textoSaudacao = "Bom dia";
+  else if (hora >= 12 && hora < 18) textoSaudacao = "Boa tarde";
 
   $("saudacao").textContent = `${textoSaudacao}!`;
   const opcoes = { weekday: 'long', day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' };
@@ -171,7 +201,7 @@ function atualizarRelogio() {
 setInterval(atualizarRelogio, 1000);
 atualizarRelogio();
 
-/* Previsão do Tempo */
+/* Clima */
 async function carregarClima() {
   const lat = -23.52;
   const lon = -46.18;
@@ -183,12 +213,11 @@ async function carregarClima() {
     $("clima-desc").textContent = "Tempo Atual";
   } catch(e) {
     $("clima-temp").textContent = "--";
-    $("clima-desc").textContent = "Indisponível";
   }
 }
 carregarClima();
 
-/* Tarefas Pendentes (To-Do) */
+/* Tarefas */
 let tarefas = JSON.parse(localStorage.getItem('minhas_tarefas') || '[]');
 
 function salvarTarefas() {
@@ -301,16 +330,21 @@ async function carregar() {
     Object.assign(estado, { cfg, feed });
     desenhar();
 
-    // Atualização dos esportes com link e notícia/placar
-    if (feed.esportes) {
-      if (feed.esportes.barca) {
-        $("barca-status").textContent = feed.esportes.barca.titulo;
-        $("barca-status").href = feed.esportes.barca.link;
+    // Preenche o placar do Barcelona dinamicamente se o robô trouxe dados
+    if (feed.esportes?.barca) {
+      const b = feed.esportes.barca;
+      if (b.time1) {
+        $("barca-t1-nome").textContent = b.time1.nome;
+        $("barca-t1-score").textContent = b.time1.score;
+        if (b.time1.logo) $("barca-t1-logo").src = b.time1.logo;
       }
-      if (feed.esportes.mogi) {
-        $("mogi-status").textContent = feed.esportes.mogi.titulo;
-        $("mogi-status").href = feed.esportes.mogi.link;
+      if (b.time2) {
+        $("barca-t2-nome").textContent = b.time2.nome;
+        $("barca-t2-score").textContent = b.time2.score;
+        if (b.time2.logo) $("barca-t2-logo").src = b.time2.logo;
       }
+      if (b.status) $("barca-status").textContent = b.status;
+      if (b.data) $("barca-data").textContent = b.data;
     }
   } catch (e) {
     console.warn("Feed não carregado localmente.");
