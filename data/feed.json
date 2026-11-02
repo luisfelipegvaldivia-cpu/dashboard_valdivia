@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-02T14:48:44.655Z",
+ "atualizadoEm": "2026-11-02T16:50:47.676Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Amazonas confirma 21 casos de sarampo e reforça vacinação na fronteira",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR1daNzBzRmJvdTE5ckxCcmYzcU41dy1Vc0tybVAyeEdZeFkzVmRXaWlkdzNkc2lRV25iUDNDTTVKWmRUXzVHTXpVX2trWkJDT0VXZTVXc0hZQnlwUzc5RnZ3b3BHQ1BGNW9jUV9JNHBISTctR1pJVWp3enIzelVtNllvaUJUZw?oc=5",
+    "fonte": "Amazonas1",
+    "data": "2026-11-02T14:19:00.000Z"
+   },
    {
     "titulo": "Fux inclui Saúde e Justiça em debate sobre proibição das bets no Brasil",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ2VjRWthTG1fY0daRlMtb3kzb0d0UmFON2JKTjlzSVplZ3I2NDFnbFBiWUk2WFdLR0twZk9QYlVuRmhTcFVjM2c5UWhOYlhYWkNmMDVfZUd0ZnQzX0FtLWZYdGZMejBMZGRLLW91c3JfY3RsODF5eXY4VDRMa00waS1qalBwMEhmNlNJQ3Z2bm44dFlWN2hBMC1kVUJIdWdCYUN2MENyUWcwQVp2?oc=5",
@@ -13,6 +19,12 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hTGw4LWV2RDFGVGlaX3EtRU1Lc29OT2VKNmd4WmlsWjQzVUtPXzVVV2hyd0NiaDFucTNub3daZDdXQ2RUcWY1Q2tidDNGRk5VNXhscjI2bUdBeUIwazlTZUtZTFZ6UUhpcnlDb0pYUVZEdGhjclpsaXlza1pIejA?oc=5",
     "fonte": "Rádio Acústica FM",
     "data": "2026-11-02T12:45:28.000Z"
+   },
+   {
+    "titulo": "STF debate nesta terça os rumos das apostas esportivas no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcjRkVGhJcjNjd0duYTN3QmlYa3BDTlB3cTRVUXE1QjZDZjNjbDRMYWdCUmVnR2FpazdYY1R1TnNOWjJsdHE1OUhEYm1hTzZEWDNNSURiTDlSYlNyeTFMMGFhempra3lqX0dqMHZWTHlUcmZDZ1ExeE5fUnBUSk1tMFFoNmFhZjFyTHJBNUp6TXBJSm1PN2FWUTJzcnpMTTBMcmV6ZlVBNHJPdw?oc=5",
+    "fonte": "Portal do Holanda",
+    "data": "2026-11-02T11:57:00.000Z"
    },
    {
     "titulo": "Anvisa realiza webinar para debater surtos infecciosos no Brasil",
@@ -37,12 +49,6 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcU9vS3lVVnpGUENtcTRZWE0yVUZwcW5sWi1PcGVWbmRadGp4QzVqLTFZc0d1b09rb2REN0FHdUd4RHVhWUEwSGVNWkc1bklCdWdOXzhkcTRMeWY4NUJYVkpNSUtCajFlLWhKSFZxQmdBcGxGbTFLVG1PN3k4Tm9kcjQwY2psMFJIV0pHM1lDWWxCNWYwOVAySVBRRHJtMzhZZDFmdWYydw?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-02T09:02:49.000Z"
-   },
-   {
-    "titulo": "Obesidade atendida pelo SUS cresce 259% em dez anos no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzFOQTd3WmNwcTgtTmdiWk5BcUFJTmRYamJ1ZDJaQ2IzNmNxc0ZpZUJTbTR4SDB2YmlieGtkWWY5cUZ1OURxMW9fTE9kdEVjVU1haEhZbmp6RVJxSFpvU3JrRzlkZnNkTVhUWlhBc2xVa0plSkxhQWw4eFcteUdGc1U5bjk4SVhhdEdxX2VXZVVQckZma1FCMnZqaVA1UE5IMzJHWVQ5djNEb0FtMVE?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-02T03:41:10.000Z"
    },
    {
     "titulo": "USP oferece 1.610 vagas em sete cursos gratuitos",
@@ -81,12 +87,6 @@
     "data": "2026-11-01T18:03:26.000Z"
    },
    {
-    "titulo": "Desinformação deixa 95% das crianças sem esquema vacinal completo contra a covid-19 no país",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEtSRG9HaGs4bGd1bTJTR3pNNTdFREVxLVBGZ3VLbXpMazZtRzdoRmt4YkFxeDBabl9Nc2hfcDdicDczUzBSamtrN3h5Sy1MUFM5OWJ5b0ZreENDd2ZlNDhINE9lQTdtNU9GM1Z1QzNiUDA2NFBhSnJESEw0MzdKUURfRlBaSU85QTdWb1FVOFV3c01ZcVd2YzRBMUFhMzFFdThwNDZESG1UUkIwRW9yQ29ZSDl2NEd0X25jbE9BM0EzUnk5QVVr?oc=5",
-    "fonte": "Muita Informação",
-    "data": "2026-11-01T15:15:00.000Z"
-   },
-   {
     "titulo": "Por que o argumento sobre bets na camisa do seu time também valeria pro aborto e pra maconha",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOG9SVG5iSk85UUVTUnFkRWlfOFVrZDBDREVDMmJ2N1BOcm5ZckdGNXZyejFabnpZekhmVXdreFQ1bXl3NEJXNEx1cEFUME93bVNfQ2NKU0FwLTZfTnFoNFJXM0o1V29hRG81MHdwNFk3NlR3eHk3dnFZTmZGMmhwQmdHdzhHMU9wX2NUSw?oc=5",
     "fonte": "PELEJA",
@@ -95,22 +95,40 @@
   ],
   "seguranca": [
    {
-    "titulo": "Grande São Paulo tem queda de 21% nos roubos e aumento de 7% nas prisões",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnBBcm8yMTA1aVZXM09QaG5FVVhfOF9EaVNfdXJSSHk1UDMyMUx6Rm9ZRFpfTENCVnBZNHlIMmF0Z3lya0MwZkRKd3lYN0c4WFBvbXNBZzRnRjFPNE94XzB5aDRVeXg5Z3NrVTJONGJzUnR1Nmhpc1lpR3ZieHhBNUstOVVUR1EzcXIySTdUWjZOTmh1ZE5SUWZBRmQzc1pqTUNmU3RfS3BOQQ?oc=5",
-    "fonte": "Gazeta News Guarulhos",
-    "data": "2026-11-02T14:04:11.000Z"
+    "titulo": "PM Rodoviária apreende mais de 660 kg de folhas de coca em ônibus no interior de SP",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc3doVnBmdmUtRWl1UFlJUV9zd3k3VDJvX1Q4S2lqRVRDSHpoWGltdkF0UHRZN3ljbG5SeHZGNENEdXJNS0ZidWI3U3ZFV3BQN3dFbjVZU3pfd3FpbER4QWppSmw1QUdHSkNaY19ZdUt5TlZaVWtfTW12YTc3UUN0R2dJWGItaVUyckJGUDl6MkYxLVhGM25STEx5ZENDVk5GLV9hYnlOQWhqcy1WMWpzdGFBMFlpM1dxQkJCejEzQ2FWTzVZZTlrOE9yRzJra1E?oc=5",
+    "fonte": "www.agenciasp.sp.gov.br",
+    "data": "2026-11-02T16:33:21.000Z"
    },
    {
-    "titulo": "Grande São Paulo regista queda de 27% nos feminicídios entre janeiro e setembro",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVDZuWEZ5bllnaW5hcklWMnJLMUpXTldCS3E4aks5SWtOV3VIMnE4eHlnQmd5dGw4ODRzWDdINTRuRV8zaFFsYURManRXLVhDalV6cDk2QmVnbXVMMm1mOFZ6dkNQMFN6cExlQm03bTQ4NDEyUzRCcVBMYm53VUl5T0prNUFSblgyM1Y5aTNMQmJHcEUtbW1RNWdxbGVvcnlFUlMwZlo1NzdfTE1mcFVnM3JxR3B5U095V1BfVEoweDhKZw?oc=5",
-    "fonte": "Arena de Notícias",
-    "data": "2026-11-02T14:00:12.000Z"
+    "titulo": "‘Menos velórios e mais formaturas’: caminhada pela vida e pela paz defende crianças e adolescentes",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GMDFCdm9FZ2swTFJzU2VMcl9pWWhkM21MVzZNTTRRVjdJNVQ2Z2phNU12Q3hDTFRVbTd6UzljaTh2Tm5Cb21wOTZYeUREcnF0WnJkZTNIWk5ybmdSaFpqaDBLT3laS2VBZmN1QkdKVFViVGtIeTA1RDYyTU5wdw?oc=5",
+    "fonte": "Ponte Jornalismo",
+    "data": "2026-11-02T16:12:44.000Z"
+   },
+   {
+    "titulo": "Criminosos armados invadem UPA de Guarujá, rendem enfermeira e roubam médico",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEpycEdra25UZ1BGVkNBZ2J6Y3NpemdRRXMtTmwwQ2VhMDBjdXNwZHlqQVhrdkViV3BTWDFTSENDYWNHUV80dDhlcVhUWXRyazNUMG5nRDFkVkRmbGlOU2IzX1gtT0x2dDkwOGQyaE91OENzdkVLRnZ2Mkp4TGxLVnZUb0lmQzR2TTZWWE5Fcl85Tk9zeEVmSk9iSHR0ODBoaDA1WjNuUGZlaHNfaTZDZE11eWd4VjZ5VjBpUmw0S1kzYXJsT2trYQ?oc=5",
+    "fonte": "A Tribuna",
+    "data": "2026-11-02T15:41:00.000Z"
+   },
+   {
+    "titulo": "Casos de feminicídios tem queda de 27% na Grande São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VdWtqUnU3SGxNeTF3QjRpY1ZVT3NyaXlfY0lNV3lkRElXTGNSN1B0SERQVERjeVFIWVpHY0VydnFUcHhUdWt1YWdxcHpIZllkbGRRWFU3dU5XSXBNWGtFN1A1WWRUVmNrRkI2a1VNejVxQmlLbHVZdFJ4YllzUQ?oc=5",
+    "fonte": "Portal ABC do ABC",
+    "data": "2026-11-02T15:19:36.000Z"
    },
    {
     "titulo": "Queda nos roubos e ausência de latrocínios marcam indicadores da região de São José dos Campos",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nQnFIQjlJRlJueTl1N3VkeTV2SGxfX3N0UWgzdV83UVpRZjhlU0N6NlJpSS1hS0c5MUFfUDc0M2FUby1yblN1dFhoOHVwMWIyMkZwenNzMUtrSVBmX0cyMVlyNlc4TjlubHBTVmtzNlFWX1V2V292MjVCOTU3Zw?oc=5",
     "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-02T14:00:00.000Z"
+    "data": "2026-11-02T14:08:03.000Z"
+   },
+   {
+    "titulo": "Grande São Paulo tem queda de 21% nos roubos e aumento de 7% nas prisões",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYnBBcm8yMTA1aVZXM09QaG5FVVhfOF9EaVNfdXJSSHk1UDMyMUx6Rm9ZRFpfTENCVnBZNHlIMmF0Z3lya0MwZkRKd3lYN0c4WFBvbXNBZzRnRjFPNE94XzB5aDRVeXg5Z3NrVTJONGJzUnR1Nmhpc1lpR3ZieHhBNUstOVVUR1EzcXIySTdUWjZOTmh1ZE5SUWZBRmQzc1pqTUNmU3RfS3BOQQ?oc=5",
+    "fonte": "Gazeta News Guarulhos",
+    "data": "2026-11-02T14:04:11.000Z"
    },
    {
     "titulo": "Arquivos Audiência Pública",
@@ -119,10 +137,22 @@
     "data": "2026-11-02T13:56:11.000Z"
    },
    {
+    "titulo": "Tudo sobre a participação do São Paulo na audiência pública sobre as Bets",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXBPWkdKVXdOZnRHZEwza0NnempPaEVfU2VkeFZ4VXdWREgyWnJzc01IVTRQRURkYnUzUU5lRjB5QkR0aVJGLVEwOHBRcV80MkhGeFQyMllKTEU0SURUbm1KRTBXdUh6ZnJUTF9Hc1ZmS3J3M09BN25yTjZrZ2RLOTVHWjM2cjNuZ3MxNFVIaGVFTWhfRUhwbDBDZ2tBVl9tdkVTTUFVOUVGSl9xbWZHNzNNWTByZw?oc=5",
+    "fonte": "Blog São Paulo Sempre",
+    "data": "2026-11-02T13:48:36.000Z"
+   },
+   {
     "titulo": "Governo de SP mobiliza atendimentos após 88 alertas de chuvas em todo o estado",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWVWYTc4X3ljM0xmMmU1RHBDQ2prY0xxQVNpLXFpMjZwSy1GZUQxeUN5V1N3OGpReFFINk5rcWhWdlBaX0c3NlQ1NUVXdHN5eG9Na25oazF0bHhBbFpYaUlERG1kUXlYM2pxWTFTSFYyTVFieFN4OHFGRWtkZlNMNw?oc=5",
     "fonte": "agenciasp.sp.gov.br",
     "data": "2026-11-02T13:46:27.000Z"
+   },
+   {
+    "titulo": "Grande São Paulo regista queda de 27% nos feminicídios entre janeiro e setembro",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdFlIZ2RmQXZfbXhxZ0xnckpqTVdwUjF4cHd2VmR3Q1dXZndlMjFPQ1pGMUQ0UEdnVEtjd3pJLWNCQy1UYlhES2FwUGNuZjB0eW91UUxIQ1ZJVWJTYV9nMWpnMk5SOXd2Vl9rd0huc0pUUjAzU3JjQ3ppODE4eGRSRkZLWFFka0lnZjlxeVNmVGJuNXU3dHhFTUptVTU2NXYzMXMxOE1GNVFkZGIzQzY0bzNRQ3pMRGM?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-02T13:40:00.000Z"
    },
    {
     "titulo": "Região de Campinas registra queda de 52% nos roubos de veículos em setembro",
@@ -153,44 +183,20 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaXQ5Nl9abW5QZ3laLWZES1ZLN1RkM1R3Nk9vUVRDWTh3alBYQ0ZPaFJ3N0dORHhqN09QZmd4SEdOTUhJVlY2bjZuQmR1ZDVCdHMwMWR3bXpvY1M2MG5DM0NvMVIxU3NyMWp1YVBUTDl3QnAxZXdwUTNwVUEwOUJuR0ZlblNwU09aelMxNmVzMkhlbDBoTFRtTUc3c0hxalJkZ3VwdmllSzJVTUJtS3RabG14VDNPWi1rRllObHJpSHBOX3QtNGFaTTB1M3NzY1Ax?oc=5",
     "fonte": "UOL Notícias",
     "data": "2026-11-01T22:38:10.000Z"
-   },
-   {
-    "titulo": "Criminosos invadem prédio pelas janelas e furtam apartamentos em Higienópolis, em SP",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOVFiNUpuRTdYamdCelVMaldlWXVSM3ZHX3FVVldCdTZ4Q2xXZlBVVWxCTzZ6OUNsQWFLMzJVcUVkVE1tNlUxOFNIVjV0SERMRUJWRmtVZzVuQkpmWktTRDdPZmFGYVNObDl0NXhRbGduWFByNVIweFd0WkFOVnczc3daaXVtSTRGQ3FKdTc1Mm5PeWJOak1ZaTd5S01WQkFRckpyUHRrRXBYZ0xhd2FJYldvelltNTVKOXNob2lubUlNWXRWZEtXWi1n0gHPAUFVX3lxTE53MXpkWWZjVFhsTkZ5WUpJTHQydjE2RkU2OUNmMk1GVHFJdTFMdmlxb2ZqMThTeVNJc3h1UDdsUjVBLTBIWTNld05PTEhhVzFlUW1oc1VKVnBrbS1PYkFiTlQtZlJCNDhlVGthZl9QYm9TaHhYY2RXXzV3STgzWVdDYkJqTmx6VU5iOUFzU3Vvb0JYd1RLYUVpYVF4SFU4WkdwTjdyclBCUlZJOUQ4STNHUW5reVpVdG5MVXFpbVJlbzQ2VWlsZmNuNG5fUkJ2VQ?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-01T21:44:00.000Z"
-   },
-   {
-    "titulo": "Entenda como é tomada a decisão da atualização do ICMS dos combustíveis",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNkJoQ0ljcUx2d0ZSdFk4RWZwbW9aMG5BeTJWaUIzaFVBNG4wT1BmRlhUdXpmYkVmZm9XWTFJYnBBRjhJZlc5TmRUMmthSkNvSVlVYWhKZXJkWGp5VDZsZDVEanRrb0MyaEE4RG9nNVVvTmRCTHNXY1E4UUtOcHQyX0JXVU5VMzRlZlJfME9nWFhXY1ZmRUlLVGo1M1hNeUZDZk56ZGZUZ0xHNDhNUUdjVlNR?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-01T19:05:43.000Z"
-   },
-   {
-    "titulo": "Uso prolongado de descongestionantes nasais pode causar efeito rebote; entenda",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmFfQ1pVcHVKaE50Z3RkOVBrQVpleXI1bGVONXNXelJmOUl6Wk9PYlo5R1ZVbWRJRzE3aFpoUVVtakdyajIwMHB6dTBFMEZtRzJPWXVPVVdOc2QySGRIdTNXeWFKZzdFcnZTZERrV3NKTjZRb3ByckFjaThZaW9pZjJyc0wyX1drRkhSaGdqcU9VTzlwcnlSbkV1TDNfcVl4OHdwVW5pcEZkWXpqNUpZcGZKSnVZTk0?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-01T15:22:00.000Z"
-   },
-   {
-    "titulo": "Roubos caem 21% na Grande São Paulo",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01T2NJeG1IMjZsb2I2WEZyY3dPSVN4SkZWdDF3ejJ4WW5LcU9YdWpWLU9IWHQtLWVXSXhUNTZwN0xQOXVkYmNocGFfc1NBdm42SVJoQXRJN1VCZ1FmWVdSVGM4bzRER0pVaTk4VUczWWhZNi10X0lN?oc=5",
-    "fonte": "folhajornal.com.br",
-    "data": "2026-11-01T14:30:00.000Z"
-   },
-   {
-    "titulo": "Grande São Paulo registra menor número de roubos em 24 anos",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1JmQTZZTHA5S2F3czhjQXhPT2podEEwMll5WXQ5Sm11dGJZZmg4ZG9oZGwwOUtZWUhlbVEtU1B0WXRJOWxpYWtpdlF5TnRoWkVZOV9PSzN3Uk83RWIzNWFUVmJsRFVXU2JZeTVQX0RISFhQc1BFX1hqbEVXbHVXcWxoeUVveVd4cVNxekhoY0g3UEhHWU9idlNCb2txckRuSUhmMlE0R3hfSThmbVg0TkcxWllib19KQ2Nv?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-01T12:45:00.000Z"
    }
   ],
   "economia": [
    {
-    "titulo": "OMS alerta para urgência de um tratado internacional sobre pandemias",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRl9vcXZmMW5kNnd2ZExSTDJxNWZSUXQzbzFRLUdKYkt1WW5hOTdBYlJvbTZ3QnI5cGR5T2pNdFJWNDhzRmxVTFMydGZmNXBjSXp2bU53WHBsWjRmYUFoc09YdDlhM1QtdGpsZGNZZkdKR291S2tXcGVNVmJZOWVhanZvUDk0akRNZlUyWm5FVHBjWVg3UjJqSkJMX3kyY0lCclp2WEQ0QW5lVDRoaFBoQmh6c3g0MzVGMk1fclB5Nzc?oc=5",
+    "titulo": "Análise: Economia aquecida no México garante popularidade de Sheinbaum",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSVRpNm5HNkV2RGM3aDhaTUhZSkJlWkhwRTMyR0hvVWRURGNPaEZMcHgzNzJYbFU2a3M2cnBVMG5RT3FWZHRCVmFzSnVSNTd2U0g2cE1wOFVaQUNBNWtwNzUyaWxVVW11eXdqVFh2cmtQemRRU3l2eVpRM3dicWpPdVhVVld0UndPNXlkX0VRTHJvVkFrRlR2MnJXOFpIeEpwcjRielgzQlhDRzFnQ3ljeEVMOGZSQTY0dkVmYlZidUh4b2UyUG1sNFJ3UGpSOG9MOVplclBlVEg1aTluVDMzMUk0Yw?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-02T15:13:44.000Z"
+   },
+   {
+    "titulo": "Eleitores dos EUA demonstram pessimismo em relação à economia",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYmk3WlZENEVRLWtzVVhhQ0JjTE1iUlZWSFdjb2hSa3MtcDIyMXF0VC1ERXVOcWZkd18tNm5aODlEeTRCMktkSkxsT3RJeHFVcnloTm4tZDNaT3cwRmNNZnpJRWFQMTRqdXlBQzhlZVAwV0Q1a0QxYXlPZzA0dGx2UHFQLVlkQmc4cWxaaHMxTmxybTBzOEdmaTZpeG1XQnFHTldfXzJFSS1FNk5BZThmTjJvTUVPRzRhU013UE5Saw?oc=5",
     "fonte": "Agência Brasil",
-    "data": "2026-11-02T14:01:00.000Z"
+    "data": "2026-11-02T14:47:00.000Z"
    },
    {
     "titulo": "Inflação, desemprego e PIB: A economia dos EUA às vésperas das eleições",
@@ -269,12 +275,6 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeDJZU0hGTy1Ec3dBZXI1aVozaEFzSlFmQWdNdktuREc0R3dXTVJRazRqc2NwRE9NQ2pqeC11MjF4VUQ4UnRjYTJMR3QzbTFPTFZ5VU1JUkdOdUVVOEFKWU5zV09kbTdGOXA3LU9jX3lNa2dUX2JqNjk2d3ZweDg0RFRNOEtvTlY3WFhrYzl4eURBaVZLUXpMejVub0hWUElsaWRpUGhSRVkweThNZW5OSjYya08yMndoaVZn?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-10-31T18:47:00.000Z"
-   },
-   {
-    "titulo": "Economistas propõem taxar ricos em vez de cortar gastos sociais",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkxROHJZRDk2bEttNnA2R0IyR2tLYzEySXNIaEFIeHZ2dVIyYUdiVks2Z0V6akFaWHhLYXBWYk9VTEdzNFZXcUNGRlJzVzZDT1E2VlpmVENlazZpVXdtOFdHNkZyNFZ6eTgxMlk0czc3X0Y4cEx4NVQ2UFFKd1V5MElJVlVnS2NicHltQzJoNXVSa25ZVXNzczVVZzNsbmUxVHJZcldjYU9yWk5yYWFqOXl4ZFViMTNmSVdpNDlR?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-10-31T17:02:00.000Z"
    }
   ],
   "politica": [
@@ -345,12 +345,6 @@
     "data": "2026-10-31T19:15:00.000Z"
    },
    {
-    "titulo": "Governo Trump não pretende apoiar Flávio Bolsonaro como líder brasileiro, diz agência",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQmQyeDh5RElUUGZYQlBKUklJQjBVNUppU2Rwc0ZFSVBHeEJWcy1NeS1XNmRVdGVGSG81ajhtSWZVd3A0eHh6WW5nMmlIOWwtbGhUQlA4enlYVG9WWXBXRXN0UVhHQXROcVk2eE1TUXh5ZF9RWlZCUnB1a1VaM3BVNmplbDl6VU5OaEhTaV9xR3c3cHhpLTk2bFc2Uk9sT1puUGdiVUprdHJ0YW84OFdKdjZzejN1cXFzQlV1cHF1Mk9JSlRuOUJlVFcyZEN5WlpGRVc5TEQ2T1hvVjTSAeoBQVVfeXFMTWVTaml5TF9USVJLTFNDS0RrN281VFY3QVQ2bW1nUHZDNnFnWm1ZRzNESzFuRnltdXZKT2tOdFBzM1dpalIyRTRsZWwzV2RhUnFYNUcyeld1YmVzbjN2dzg1WEdmLUtjZ0R4d2Y5SGFLT2pBeFVSQUxfeUR0bEY5dHdaV2J1QktiRE50QzNlVDdGZjBmOUwzUDFFRjN6bmh5d3htQWVBMFQ4TDZULUlrd3Z1QUpwcWpVemF1LWJSbVlSU0g2VTdBcWtZVlRsem4tdXF5WExJVjQ2R0o3VDZtVVlsMXRmUzM0T29B?oc=5",
-    "fonte": "O GLOBO",
-    "data": "2026-10-31T18:30:17.000Z"
-   },
-   {
     "titulo": "Estudantes relatam violência relacionada à eleição presidencial",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVHVpNkZKQVlsOVV3RWhsNVJ3ZC1tWXVNSDRTTzNnemgtLUZkems5d2laaENwTWtuX1JZZFZ2V0FDTlJEdUcxRnJjRkFyeTVuUEd3cDBsMjVKaTB5MHdocXJUSzNwQ0thT2NfQVR6OUR2emJlTWdSZGtxZVo4MlE1cktMYnZiRG00cmV6LXE1U19lbGdLRjdielVYbnRpTnhEMlFpWU1od0JSNXIwY0JvUzZCRi1nd1NIOTFN?oc=5",
     "fonte": "Agência Brasil",
@@ -367,6 +361,12 @@
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iamFzWkNyNzNUS2VwNGhvV3JaZHhLUVo4TVI1c2Z5X0gzTkZ4SFVlX0hVbllBS0lWRGFjQjRhREpRT2dVZHVqLU01R2J3RWdfYWxrUEwtX3lHTmd0Uktna1FtWdIBaEFVX3lxTFBPRmRJd1N4c3kxSW9UVldjYjN2bmN4ZXpfUndGblRncWxQcnBrXy1oZ1Y2cVdNazl4QWpEV2VBNEVRUDc0MEVrR2t0S0g0ZllRME9ZbFdQT0RpQUt4djVLOTZ6eVdKcmU4?oc=5",
     "fonte": "BBC",
     "data": "2026-10-31T17:09:14.000Z"
+   },
+   {
+    "titulo": "Vieira encontra Rubio nos EUA após vitória de Lula e fuga de Flávio",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVU5rbGRrV2JlNXM1S2p3cVB2SmFsU3NZOXgtdHc4eUkwUW1aLUc1Vlo2QkRLeDZuWnBTZXptcFdSQVphRDE4bGZaS2dGT3g3N04wbUxYRUxLZWh6VGNCakVrc19IT3hUSklhMWQ5NXRDcGh3aVYtZnZ0Q2xqUTlLdTdoNC1yYTF2MXg4dmw2azlIVGZCTzRwRkg4Rm5UN1VZX1pMeU1Gczh0V3NUUnN6Yjk5b0hDaHZmWnQtMnRSMVpxZmc?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-10-31T14:48:00.000Z"
    }
   ],
   "alesp": [
