@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-04T04:43:52.567Z",
+ "atualizadoEm": "2026-11-04T06:53:04.744Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "IPE amplia Novembro Azul e facilita acesso à saúde masculina no RS",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3dEX0JxSkctR2Z6QXN3LVJOdGVqc0tSSDZqdHk5ZUpPejlYT09ESHVqNGNYalFoSE1ZTzlSeDNmSFFLeDhnZm9SeXY5WE9oSDJDZHUxemdDV2RpeHptMF8yd2s5aDFiUDVrekhfT3VuQ0pOUDNpa2VIWWljcFZfZmRQN3l4UTNUNHRoLVM2RG9ZWUlOUzV6bDlKaTRBQVVnek5Ha1c0SlI?oc=5",
+    "fonte": "Prensa Mercosur",
+    "data": "2026-11-04T06:30:29.000Z"
+   },
    {
     "titulo": "Fux diz que bets “devem ser banidas” e são um problema de saúde pública",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaFYxS3Z6WDZ6cFp4cFVFcnNyelgxbEV5V05mam9uc3QwZnd6UkVFaWk3aXdQdjZNdWlsX1NDXzU1UUE0T1hzV2tUbWQ2dm5BYUd0OFRmUUlVdmtKSzNOQWpRNU5sM0VQSnZpUkdpaENOcThFTkh4NHNYOVBpZUZUSzJnb2UwaFVtZTZKRm5VTjBqQjNiVzA4NGlR?oc=5",
@@ -33,12 +39,6 @@
     "data": "2026-11-04T00:47:00.000Z"
    },
    {
-    "titulo": "'Brasil pode ser exemplo', diz Padilha no STF sobre fim das bets",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZ0Flek5zQ0pQcERiT0ItZjZ6Y0F3Smp4LURSWDluWTVXYnhJYTBsaENKMlJMU0F6YXRHLWNnYW9jQU56UUlOdFZUVkxQZ3d2UE5nbmtScTQwWFdKbjk1YjJIR0tBUXJ0bWZ3bHlxQjlfRy13Zko2cXg0dWxVVmZ3VnZrelExMzl4cGs4NmRrOXFxNFJwVGQxcE1VMkwza2pWa0xwWjBhT1Q0QTRHejBTdEx1djJYMVHSAbwBQVVfeXFMUHRWX1c3dmp0X3Vvc3M2UXpQTU02Tkx5MDFIWm1kZUNfZEEtRWU2bEhRVkNvbzFQWlN1ZU5Ib2x2Vlo3SURLM3ZYVG9UMW5zN1pOSFNsOXhxeFlONFZWUWN0UC1wbVNMN09nTEViMktiSUhudGZyOXI4b0tiUHZHX040Uk1JMndpYnp1N2xkY3ZyVlNvSmFHR2lBWkFIWEhBalkxSHV4NmJDdTlkLV9MMFowV3hLV3ZCQWZzSU4?oc=5",
-    "fonte": "iG Último Segundo",
-    "data": "2026-11-03T23:15:00.000Z"
-   },
-   {
     "titulo": "Fux diz que bets deveriam ser banidas; Padilha defende proibição e alerta para impacto na saúde pública",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQb0dBSUlWNUNtbVNJOW1pelp5Wk9kdWVRUWdPQW5UUERsR2F1ZGl1eVpmdVVBN0ZoZlFSdXY3RHdfeUVQbnJ4WFd5RkJBbmtVVjNtd0JsSU0xRU9iSkZYTGNUcGZLUi0tYjFDZmE1a2hiZ2VaSG9EUUFtclVNSFpoTjNiZlY4dTd6anFqdG0yaHEzdVZ5T1ZNdUR4RWNpSFRBZXZKTDh1ZlplY1VVQjVhNWZtZ0NWeWRwWEdPSGhzbHlPWFo2dWlnc1p5WjVQS1FJNmRRSU9ybks1UlFqVXY3S1BiQzMtVkU?oc=5",
     "fonte": "Jornal Opção",
@@ -55,12 +55,6 @@
     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmNlY0NDl0Rk13RFZEbW9KZmhjTGJDOTdmLUx4RjB5cWFxSVh3S1VLOWFudjZLV01NRE9faUpqNlFmZnhMbExjakJTeEIyYmU1NUZtMTJvN3o?oc=5",
     "fonte": "Plantão Brasil",
     "data": "2026-11-03T22:04:25.000Z"
-   },
-   {
-    "titulo": "Ministro da Saúde, Alexandre Padilha defende proibição das bets e cita impacto no SUS",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMVNxemhqTW1xTG1SY0RFUExNY3Z6Y0tESHUwQ3FkV3FqVWZ3ejlnLTJXdTJQZkhlWGd0WEMtdUpQY19mTC0xRTEwblNzZkdseW1pdndKLUVOUlBkUzZIWDM1OTh5ekJsTDFSZDdUcVJvSHdhbjQ2MmxLWkZEZTZQMXNnYUl4SFpLVkhUWHlMejRMaTFqYVVNSFUwbFByY1NBRWMwcTN1aGNnOU0?oc=5",
-    "fonte": "Grupo Lomes de Comunicação",
-    "data": "2026-11-03T22:00:00.000Z"
    },
    {
     "titulo": "Vídeo: Padilha defende proibição das bets e cita impactos na saúde pública",
@@ -91,6 +85,12 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVGJldnNVUEtNYlRzQ2syVEFsbGNvV2dOVmp4S2dPQnRsSXFXNHFFcFBoMzYwWEdSX1NISFRSWW1TVWFuelBodzlRbmV2T3o4QnhVV0F6V21tU2Z6ZUlUMVlHT3dKd0Vobi04enhSZ0ZKeldCNmpfcDNjYl9qNTdsa2J5R2xkVjF6OEJsbHAxR09MRmg4WG42YmNRbw?oc=5",
     "fonte": "tmc.com.br",
     "data": "2026-11-03T21:03:02.000Z"
+   },
+   {
+    "titulo": "SUS em Pauta: Edição de novembro debate a participação da sociedade na criação de regras para a saúde pública",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcUdPNVFxekROOTNzSVJTN1FGZS1uZktldE5YZEtBQV9SNTdGZk42cVNPUm5jQkdxdzVMSDgyUDdtR2Fha0kyUzM0bG15cjNuYldmZElVc2RZWmlIWlhUM3NOX0ZNX0xZMXQwTzctQkpGTmd0SEZRTEQ1SVd1SEtiLXpPLXlRSVkwSUJ0ZHdPczI0YXhYR1FPMzRISjlPeUZGazBRLWZwYzNyQzdBbm92NUttM1ltcDdqQ1JJMnRnSXNtSy1yUUVENkJrOA?oc=5",
+    "fonte": "FOCO MT",
+    "data": "2026-11-03T21:03:00.000Z"
    }
   ],
   "seguranca": [
@@ -105,6 +105,12 @@
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMmR6bENLeTJSV2c5MUktVzhfalB6Y2NRQzVOTHphamdNU0lWOXFBQTdLVU1XaFNrb1YzZWVVa2lJN2xTV25TQkJ3OVRNRFNpYW4wQzczVWp2R1M0NHE3QmJjRFQ0cmZDRmJVbk03dDc2MlRGU19lblp5d3N4U2lyNUlsRzJUd0VmZmotSkVXMlRpU1NyQmptTDhIZ01UdndPWDNTOGtpek1xdnJvZlp5M1NxNUVwWkJnZ3c0blJMR2wyaG9BNWVBakotRm1iUTdzU3EtWTBEc0RaMmRDLWlLNGNkVUI?oc=5",
     "fonte": "Folha de S.Paulo",
     "data": "2026-11-04T01:00:00.000Z"
+   },
+   {
+    "titulo": "PM prende três suspeitos de troca de tiros em praia de Ubatuba, em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTEkzTGI0dmtrT0dPbThObUtad253d0tPbmh6ZHNQNFZGQWc5T3lwYXVxMFJDSTIzTXp5bzhOTkREMEVEVlhEaUVLdE1GNzg0ME5hVW9mOG9iclNGczFXa3Z1SUJxTDhBc2FPZ2wwWC1qVGJKTzUycDFFS2Mtd29vSGZTR01ncE9iMUVlTHRtbFB0RVhxU1Z3ZWhvRVZ5Uk5qT2pwYXN0X3QtNU9xRkw5a281MUpwOEthdDZEUkpiMEQtcGNCUExEVQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-04T00:34:00.000Z"
    },
    {
     "titulo": "São Paulo teve 42 desaparecidos localizados por dia entre 2023 e 2026",
@@ -155,12 +161,6 @@
     "data": "2026-11-03T21:20:00.000Z"
    },
    {
-    "titulo": "IA brasileira ajuda polícia a esclarecer 7 mil casos em quatro estados",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVhld2M0d04yN0JwZWR6bGNSRnVadkstNEF0QjZfcFFfWFJWRWh5QUdPdjUySFlxWklPRnU0SU5oSnVvUVg1WnBJMko3UkhkWGpqYm9EOWRMWExFQjVOUjVMRW9GSmFKdU8xOUlQZWFRdTZJckgyTDFwTWxUUFhXcjJWRktvUFVlQzBhSm9lYXFkTWc1dm5HZ042YndMUVJOVVB6UFlHME9fMGUxTTJucWpyV2pOSkU?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-03T19:14:09.000Z"
-   },
-   {
     "titulo": "CGE SP realiza pesquisa sobre integridade pública para agentes estaduais",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSTJTMTNtMm9iTWpaZW5sNDRvYUNWZmkzUno0R2FXZUtlMDk0S1g3dkcyeXRNUEdTeDgzUEJ3Y3hWVGtSdEJBTDZkNUdwTjR1TVRVc2FKaHRGcEFZNFR1YlVGWmN5OUczNGhWSHVUZVBqUTU5Z1ZibzJjWUMzVnI3QTlqUVU1Z0pZRTVVMGs0M0Z3dTVRVl9YaUU3anN0by04bE16SWJuV2NIV0UyeVRLbjFOUQ?oc=5",
     "fonte": "agenciasp.sp.gov.br",
@@ -193,10 +193,16 @@
     "data": "2026-11-04T04:14:00.000Z"
    },
    {
-    "titulo": "Brasil enfrenta risco de crise de crédito com dívida pública em alta",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSnJ1bVVETkc3SU1PSGZ4R3hPRURRLWJEUjhLaEUxbTIxbzQ3N2FOakpHZVNOODdjckh4UEloa0VBRTZVYVdsZHhuaWowbnZTZW42RmN6MHA3bUJ1Y09qNnBJOFlmdXYtNHVhTnlud2Zwa2t5X3ZhZ01XODlWZ3JsQm1IQy1IWmo1UTVvTDVGTDhRRFhkRGZZZ0JLY1RrV2pqQWxwVWNuaTBzRTVycktfNzA4ZVRZR2vSAbwBQVVfeXFMUHlqVjctNUo4Q2JhSFBwcW4wY3JNU0Z0bUJydk5qbkN6UmxMMFN6YU9TTmczekFiR0JYSlhmdklGdk5mNjU4UzlvZ3JGQ2JCTDI5NXhXVUt2MVNKdC1HUDZSZW9zbnVUWW5SRDBMaW8tMXJmb3drNU9HTmQ3TDVkaWZuWEtPZDUyRDNSSUo2ek5JLTNuZ1dfVVp2S0c4VUZhcGVpYlBCb3czcGtxaUk5bmdvX1luWlJYUnJsMGs?oc=5",
-    "fonte": "Tribuna do Paraná",
-    "data": "2026-11-04T03:07:00.000Z"
+    "titulo": "Da economia à segurança: os enormes desafios do quarto mandato de Lula",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkdBT1RJTlZldUZXWWJ5a3lxUThxNndGYXB2N2dyMnRfaUhja2NSYVNvbWpnQmEwcWRJT1dobzdrU3RJc0hUTjJvWmc1TFRnYjUwXzM5MVN4anZnUVlTYV9ITFN6bVR0bWZ4bW8xRlFEUk95NHgzTm1IR2FWU3c1RzhhUmRZWHU1T2xneE5ERkhSN0pWLWF6cnZHUUtMY2N1MnpUWWg5Qmc?oc=5",
+    "fonte": "VEJA",
+    "data": "2026-11-04T03:57:17.000Z"
+   },
+   {
+    "titulo": "É hora de cair na real: O ajuste fiscal que Lula terá de enfrentar no quarto mandato",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGFmaVhRNW5xek5rQzBwWnBxb0FydDN0amlzZWY4d2pfZlpoZlRMVjZ2aGhvWUJKRkgxdVd2QnVQSGs5LXlBOXQtNEk4RHpCVzRFdnUwaVNJTThtaHk3S1pjek5DQzlrWE9nX3o1OVdmNl93WGZ1dzh4UjFMS0ZweGlzNWpUUzhHUkpHT0Q2WFhHclYyUlVoUG9wak1Md0Zmb24xWVpjdlVZRVJBMmw4SVR6WU1RVF85akZn?oc=5",
+    "fonte": "VEJA",
+    "data": "2026-11-04T03:56:19.000Z"
    },
    {
     "titulo": "Brasil propõe reduzir fósseis, mas mantém planos de petróleo",
@@ -205,22 +211,10 @@
     "data": "2026-11-04T01:15:00.000Z"
    },
    {
-    "titulo": "Tesouro projeta dívida em 91,5% do PIB em 2036 sem superávits e defende reformas estruturais",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd0ZwdDMzVDJyekNXWEN2czI0RGEzaXRsSjh3Um5Jb2NmQTdDRS1zT0QzbDNsVGFTek9YVzJmR0hKSGFIc3loWmZJVHBzSVhKYUI2OXhSUGVvVnJWZmtjUkc3M2wyWTVPZkluR2h2OTVvVUdZRHp1c1c3S0lvTC1JeEtZZmc1dmZOcGxtYmd2WUc0VVdQenlkRnNiRzZzcXFvZkpUTm5tWmdqM3pFTVI3dWQ3bUdEOHpJbDRhUUd0bkpWQ19LR1Bsc2dXYzNBSGEtX211NE1LYkk?oc=5",
-    "fonte": "Jornal de Brasília",
-    "data": "2026-11-04T00:04:51.000Z"
-   },
-   {
     "titulo": "ISA ENERGIA BRASIL lucra R$ 1,9 bilhão no terceiro trimestre, alta de 246,3%",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcVEzQjF6NzE0cHhhU0JOekRnTHhOdlhMaEE5Snk5NlhBLWdwd0EwOWJ3VTJjOWJyelVod3cySUR3b3BEQzFaUGNYQVVUeVZfRFNpLU9NakJOS1JQaUdXY0RtOFNnOVFvWWxkeG1Bc0c0WU1Gblc5Rk1XTmY0ZFpUTGk1X29EXzhQREFucFFhUkhQX3Q0RTVJRDI0M0hWUDJocnJrRnpoTXVLMTFnbFNtOVNuZi0xU3hGNVdOZ3Y2RVdWQl9WZUxjbEpIYw?oc=5",
     "fonte": "UOL Economia",
     "data": "2026-11-03T22:55:26.000Z"
-   },
-   {
-    "titulo": "Urgência, pacto federativo e questão fiscal: os argumentos contra a MP que proibiu as bets no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTzdZVEdBUDNfdk1jMXFlOTlRSS1iZUdhQ3NPNE5ONGI0ZjhtSUNVTVJ3VDY5ekFZSF9XR3phZDZ4Z2RUbHBTTXJtMXppZjBSamwwU0dtYUtQZUlGT2x5aWpqOGVhVDEyUnNzaFlsNVFhamNNVnA0M3lnc0pFNGJCUWJ2RU9NbG5pV1U0LXgtVDZhZXNwU1FDNlFpUzdPOEtqUnJ1M2hjb3plTDMxaWRrXy1NZHpnREQ0OGpFeUptVVVGTUt3NjFsQ0hhY2xUZlRS0gHWAUFVX3lxTFBVTGtiUEpoTjE0dnBpdmxackk3eHpnUlIzTUE2SDltQXllRXREZDg4SHNaelFIWUFhVDVQRm82S0d4c2JZUVc5WmpNOFA2Y3pERC1OVzQ3ZW1scjk3YW1kX1FGT0N5VzFGanIwM09KN2dMT180bGJWb0k3dm1jcFI4YWRyaGc5eFAtS2NqWVRsaTF0N3pLd1ZHQXZKRVk0U3FHbnVVUWgyaC1uYzJhSFVFZVFNay03Q01rZ1JRamNid2NhSFgwMG9yY0MyUVBScThTTHFyYlE?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-03T22:18:00.000Z"
    },
    {
     "titulo": "Dólar sobe 0,74% e aproxima-se de R$ 5,50 em dia de cautela fiscal",
@@ -259,36 +253,36 @@
     "data": "2026-11-03T19:49:36.000Z"
    },
    {
-    "titulo": "Brasil promove pescados na China Fisheries & Seafood Expo 2026",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOczg4dW5qQmp3ZHIwdl94b05GTVlRSlRhNXlmMC04QkVQN2Q5dzRTRnFnaXl1MHJucFZaSFFhZThjaGhENVl0Q0VvVDNQOHVnMlJhTnVpUFRNSVdORF84SjJCT1NkTGdpTW96RUR6bXp0N0RIQkRnazk2MldWZUsxUnZfcGZ3YWlWQ2dGUklqcnpTeDhETGpUc2FVQko1UHlIUVE?oc=5",
-    "fonte": "Canal Rural",
-    "data": "2026-11-03T19:10:34.000Z"
-   },
-   {
     "titulo": "Mega da Virada: Caixa anuncia que prêmio deve superar R$ 1 bilhão",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTzJYMXhzMmVySTBCMEJjRnZ0VzBoWXpySVU0SFowMklPSFZsaVB1U05oLU5YT1o5SndiUklwemlOODRYelVQOEh0bVJTUzFyenhxaWtsVXpFQktnaUhFLUNvUXJleGgzM09VNWR3MVdqSDlpcFNSVnhXU3FrT0dMR1k0UEtlMWxQUHFNbjdyaVctSnBucXF4ekhFWFJFRGJpdFB6My1TZ3NxX3dOQ0pQaXA0ZDJBbE9RNkdMWmNB?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-03T18:58:00.000Z"
    },
    {
-    "titulo": "O que dois anos de Trump fizeram com o comércio Brasil-EUA?",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWF5Y1BRbk5sQ1FoRGltd3NNQWZWOGNUUnQ1cFhpVkl0eW1uVE1KRXJsYzJEaVVUaEc4dXp1UWQ4SnkySWhYMWlOSDBQZzNyQVJqVloyb1RLWldsQ3dHbnNhcDVheEs0ZlpFOWZmS1ZNZXhZb1RZbWUxUnlwaXVIaHhvZWRnZ1BUOTdsZUMwZXB5dHlCb0dtUUdn?oc=5",
-    "fonte": "VEJA",
-    "data": "2026-11-03T18:55:37.000Z"
+    "titulo": "Brasil importará combustíveis até pelo menos 2036, diz MME",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUVZfRHFQVVBJV19qNlVJUEhzelMtb2l3YlR6SzdBWDlLcm5SYkZ3bUt3NTU2WVlGTmFBcWFTZC12MUlKUVdUUE4wT0l4M0FnVzBJcU13Wkw3a0lSS2JPQ09BQWtjc3RBSlhFT1c4Z2NGY0hlTmk5TXBfV1hhXzhrX3VJQUstOEJncFRaS092YWRjb0NfY0J4OG0wbExGWDFIMU04?oc=5",
+    "fonte": "SBT News",
+    "data": "2026-11-03T16:46:52.000Z"
+   },
+   {
+    "titulo": "Economia em Destaque: Desafios econômicos do próximo mandato",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY1lFdjZkeEJDZXprZWhZaWhLRzZsWW5DQXFZV21XdVpPU0xDZXZnLUs1UmN1MTR5dFh6cjREdFdfZjY1M2JwbUVDUmtsY21WczZFTkdZT3ptTk5EOWctNjc5V0ZsTG9LeTY4NjJ5TjlEWlhMQ0dXQ01GeXVNc3hKQ0Q0a2dSN3ZqWWc2TXVVVElfY21PYmQ3WU05R1pYUEU?oc=5",
+    "fonte": "XP Investimentos",
+    "data": "2026-11-03T15:30:11.000Z"
+   },
+   {
+    "titulo": "Inadimplência chega a 84,2 milhões e atinge mais da metade dos adultos pela primeira vez",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd3pDUktXTGxJQ3RoY1ZjYkt2c2VRcFhoNjBfQm9xckdiVFZfcW9VNFF1X3ZDRHV6M21MaW5xUFBNMU5YTFBvOUtjTGREV19GdE5qOXNWdVYzd2UzZFhpSWpwUUZLVWI2WE1SRkxjRHNWSkxoR2I1b2ZiR211WDExd0JxeV9iZi12OHA0WUJBMGxCNGxtdVB2YlEwSXZBQVl1bk1ldGpBd2pKRzIyem5kV2dNUE9tX0w0dFpfUmpaWjV4RnJHUzZXbDlYS0xrRWV4MTVMSDF3?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-03T15:29:00.000Z"
    }
   ],
   "politica": [
    {
-    "titulo": "Ministro garante “absoluta prioridade” na implementação da Política de Minerais Críticos e Estratégicos",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNjZ6dDBJaFlYdll4QjhTRzBhY2ZlRDk3UUc4N0NjWTJUcGpFeVZ0QzB4OUVxYW9jaDRUNjRxbk0tbl9ULXRZc3Zlcm91THhVYVN2Y0tnRFN1MDdKOUFuS1oycjRuM1piS1hubTJRdnpEX0l2bndsNng0bGZGcGZfRUJOWmZTZlJMWEhHREJaNEVlUnN5REowY0lIcDFWTVVKZDFyVjBKN3BtdFFpdVRRUUpKN2stdjVtV19zR2lFcl9HU1lodnZXalJmM0dJWU0tQ2hyWkdfRDMwd3U1?oc=5",
-    "fonte": "Portal da Câmara dos Deputados",
-    "data": "2026-11-03T22:49:00.000Z"
-   },
-   {
-    "titulo": "Câmara de SP arquiva pedido de impeachment contra Ricardo Nunes",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPclJydFFHMFIyaHdvQUlqMFViYVptaFhaQlpuV0xHb0lhaEZfQkZJS1BkREM4TWY0S1dUNktUY2JpRWNjM1hHNTFyNDBmeUZkcHBZaEhZR0xhWDFhY1E3YmRKZEx5V0djNjlaMm1ZUmx5RVNiX05HMGNMSTM4c09GOF8wcFNNUHJORV9GbzhpWUlIY0NKcEtXTzdSRnl4Vmg0d2d2ZzhRVU5rRHFPQUNMS24zbC0tWDNlZFNWY0R3?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-03T22:39:00.000Z"
+    "titulo": "Brasil evita embate com os EUA e tenta ganhar tempo sobre facções",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaWM3bV9aSjhMckFtU09EUXZhYkJWMnlja21WNFNQcTN3bDdmMDJPR2padFVqNzZCamRTcTJXaGptSm10TTZvMHB0ZG0tUDIzcTFDMWc4S1dnN0R3ZW92Qi15MGFuNHNJQk4zQW5xSVNOM3ZiTUN0QXVJUWYzSDFaNHliYTJHc0ppYUZmRzNld0tmQkZfU0JLdWV6TVlTU2YzdGFSazRMRQ?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-04T04:19:14.000Z"
    },
    {
     "titulo": "Governabilidade de Lula exigirá negociação e acordos além da Esplanada",
@@ -367,9 +361,21 @@
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01UTlvOHYwYmNnakNabkpPa3c0NVRsQU54UXdoR1V5YnJMTktMbEQ2d1dJUi1mN19CZVNaajJ3bDk2SDlZbGgzc0k4TnBzeWZyRV9nOWFWSENjRE1rQzliOVdVONIBaEFVX3lxTE5Td0lhWkRpRFJfQ25wTnVGMG1CS2hYWVFOaGRvOGRERFB4ME1rWUVHaU5jTEZKX3o0YTVXWTcxSnFmV09JLTBSRFl5VHRXYUlvVUhNek9pbzZiUEFBT09qVVRXdzYycFNh?oc=5",
     "fonte": "BBC",
     "data": "2026-11-02T10:44:19.000Z"
+   },
+   {
+    "titulo": "Eleições nos EUA podem limitar poder de Trump e influenciar ofensiva contra o Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaEhnTERWb3FLN29mQm52bW1zdGtlT1BmNk9MQmdyVHJUaU1ndEdKcWRKUmdjbEdhZW1POFhHVGVKLXhwYmlmSjZabU9IckhaeG1ZRWFObXpTMHV1dUdQT3JoN1NMV2RQQVBCUkE4aExkNS12MUFiWUdYZFhQbWxxY29vYm84NUhDNnRsdXhFZUkybEhuZGJxM3hVdi1iTjZrYWxCV2FKQmJTYkhDLURkYXJFWURGal9Oem81aTVDRDE4T1J0Z1Bn?oc=5",
+    "fonte": "Brasil de Fato",
+    "data": "2026-11-02T09:00:00.000Z"
    }
   ],
   "alesp": [
+   {
+    "titulo": "Alesp: projeto sobre mudanças nas carreiras docentes não é votado",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSzhLaFl0dUc2ZHZudFBSdjd5RktvMUNkOGs2X2hTNURyQmpyUk1IcmMzX3l2dkVjMERiYU1hekVVMGRUMmJWc0EyanJ1WE5SczBubTk2VldzTGdQcXNkLVgzYU00UU9KU0xJNDl0TjVzLTBtQ0YxWnQ5bmdkd2pjdG95TWhkTU5OcUZOekdBWmo0eGp2OFdRdmhtR1JCUU45bmU1ZEhLemZTZjRreGNiNkFOSDVkS0JZT1ZTb3N3TVctOTlUWUcxVXIxZ1BKN25kc2RHa0Qya0Z4OWw3ZzNsa3hOWnBZVnpMeXEyeVVB?oc=5",
+    "fonte": "www.correiodamanha.com.br",
+    "data": "2026-11-04T03:03:00.000Z"
+   },
    {
     "titulo": "Painel: Com 40 novos deputados, Alesp deve reviver tensão da chegada do bolsonarismo",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0FtWElWZEZUaW1HMk51VXNUNlBCLTFLRjRMXzRyZUE1UFdLcmlnN2Znd25tQnQ1TXlsVkR0WGNUUm5yem1pRXZ1Mzc2X3B6NFVhaV9Bb2dmNDBKWmwzc3RDdzQ5cHd4Z2RNbmE2RnI1di05UmIyREp3Wl95Tjh6bzNsblFSajlldy1Jck04SFhQUnl4RkRWWVZNdHZKRDN5MDY3MFVBbEJiRC05Y0FIeEFXN0JJNlpSNnZEMS1sWVA0MFJZSnNvemtHS3FmREU?oc=5",
@@ -419,6 +425,12 @@
     "data": "2026-11-03T13:08:00.000Z"
    },
    {
+    "titulo": "Reeleitos na Alesp preveem “tiro, porrada e bomba” com a chegada de novatos",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX3NaeUxJVHctbHp1YVFOdFVqU3EwRi1xSzkyUXFUZHFnWUsyRjJmemRzMDFad09WTjRKZjVuRUdvRjRIVXFuZnYtNXhvY0ZSeEdLR2pjWno1WkdVQlhKS1RoZTg4R3hNMjhiWklaUWdDRDVXWG16bXcwWFg2RkdmT3dRTDdIN3lLbDUxMWpQT1o0dDM4RTExNDV5X2hMNEk?oc=5",
+    "fonte": "BossaNews Brasil",
+    "data": "2026-11-02T10:41:39.000Z"
+   },
+   {
     "titulo": "Deputados reeleitos preveem “tiro, porrada e bomba” com a chegada de novatos à Alesp",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNGc5a20zQThSZzNqd0U5S3ZiQU4wajg0NGZNbDBsdGhhbUw5QXZVZlEwdW44Wk41SmNKUXJ0Wkhwd1g5TDltN25NWXFrdWFqR2pEQXZlWXhmSzFkaEZ5a2JQaDRPaWxsX3hOWUVwZlhGYWJSamVDam9xQThGZTVwOUFnVU83QzQtSVY1QnRNc1IxWm1vS1FoR1hWSzdmcWRuZUhIc21XNUQ3WkRLamhrQ0k1dVhidw?oc=5",
     "fonte": "PAIPEE -",
@@ -447,18 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPelpTWGhuQXFqUGtXc1hnZVJEaF9SMnNHOGZwWkljVVcxcVQ0bG1vUDNFZ3VuSE1JVzFDaUdDZzBVVUJUOVUwTThCTl8tZFM0X3B0dmFETWdaeGZMS0t0QjhjbE5jczFWSjI4U2p4NDJYUExpY1VSSnpUenljZUt4M3Vhb1A4VHd6WGpQMzl4TnUyX1UyNHU3VlFsYkNnNERfaGp0UlNxOUQ?oc=5",
     "fonte": "Congresso em Foco",
     "data": "2026-11-02T01:03:38.000Z"
-   },
-   {
-    "titulo": "Aliados manifestam apoio a Tarcísio após críticas de setores do bolsonarismo",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX21PSXJaZ0lEeTdMLUN0d2tpYWJDRC1FNjZ0bmNfcDg4TFR1NG1WbEc4eVFjcHN2bXRSTlJIVmgyYUhmbURNOTFjcG5QYnFrT3ItUmsybzJRazZuTG1xcnB3Zm1KdENHd1EyQ3pBNzV4bVFMZXZDQzNsa3FSc21pcnZBVHktWDZ3OGRPTGlzZk94RWpJM0d0VmZLcnFCLWFjckxkcmF6c3d2OGJ1VUZtRC1SMjlkMHl3SVlGOVFRTdIBxAFBVV95cUxOSzdtQ0NPaHdQYnhuLVFuTFRicjE4Y1R3MmlJTkZ6MUt2dGV0ZTdMYW1wMVlZWWVhajhxak96di1iVFliemVjMnpIVlh5WW9IWV9jQjU2OXBqcGNPa08yM0czUE85Wkc2OUJlN3E4cFgwQ2lhbU1XUTBiWnd2VUZIT0dZZHpzSVRKRWtsT2hXb1o4S0xSODh6ZXFrclZ5Rkt4SmxjbzNXaUJ3Wnh1aW9fTmxnYl9zVzBqRlZZYmF3Z3M1bzN6?oc=5",
-    "fonte": "Bnews",
-    "data": "2026-11-01T23:06:28.000Z"
-   },
-   {
-    "titulo": "Secretariado de Tarcísio pode garantir Ivan e Fran Silva na Alesp em fevereiro",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTUR4MVYxd0lJXzJOSzYtcTFmNjY5WnJhUEIwWF9oU2dpNExBNUxWQTh0c01LYkZHcncwbkJtQnM5VjNJaTV6eFNhLTlSd08tanBkcXQ3S3NTalNpSmhhWnJYYjNMMVI4bE0weHZXRkZwcXY2YVk3U2J2R2VTTzdvemg4LWV0VzRqZ1NVbUdrOGdtYllDRmlhN0d6NmF0LVRocXhEMDdXdzJsZ3F2RVljQmlFWWhIYVBIWWtv?oc=5",
-    "fonte": "Diário do Grande ABC",
-    "data": "2026-11-01T00:15:00.000Z"
    }
   ],
   "missao": [
@@ -513,6 +513,12 @@
     "data": "2026-11-04T00:41:04.000Z"
    },
    {
+    "titulo": "Motoristas têm até 16 de novembro para regularizar pedágios do Siga Fácil e cancelar multas",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQY0J0d21aMzZab0hXOXFYZmwyTHFHcER1dkwtSm5IczIyWUhGUms5elp3b0NadGxqLWl0bmJRMzBTQVRTRDBuVEc1aW1sNlZDZ2QxeEl0WVlSNXVFQm9GRi1pQThnQlhRWlFkY0luNEd1SldnT1V5dlpBV2F0VXZ2VmVFUVI1am9HT09tcFhvTWZaU2hOdllRanBiUDF1c2Zna1oyV0tOcUswUkR4OFFDWG5rR2JTZVQ0bmxQOGV5LVlDMDV1?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T23:03:25.000Z"
+   },
+   {
     "titulo": "Alto Tietê recebe R$ 112,6 mi de ICMS no mês de outubro",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOS2FMZ0owRy1TVXFmUTNleWtJb295RFF6eFdGM19QUnVQTUFKcXE1T1N0VUJPSjNxcVRMc295SDRTWjM5NFVLa2pjWTh1MVJCVWNERlBTV09qaVFmQVlLOHpMWWlEZ1JWdkhDcVFrTEotQ0pkOUVzVkhjWjcwOFl3YmFSazdHckZLQ1d2TnhueXFpOFI4RXozZzdzRlBmcWFwd0xzUEV3?oc=5",
     "fonte": "Diário de Suzano",
@@ -525,10 +531,40 @@
     "data": "2026-11-03T21:45:35.000Z"
    },
    {
+    "titulo": "Equipe feminina de vôlei 60+ de Mogi conquista 4º título nos Jogos da Melhor Idade",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMHMzbk9GODl6dmxCc2thcEw4V2FrYnFBNFUwR0x6eFJxU3AwV3lWRnB5OXlCaE1XSDQ0UHp1VGZFNW1WOWo0bjBsajVuSVRaSGtXbWtpNGVvMXRIM1hJRDc5UnM1LTNDVXpiQ2xqZVNzRWZlc1F1TXczNGY3MXNGM3JuTm90MW9Od1JWcE1wTG4tZENKSGE0TzJwNkpPY1ZPOFhGLXRmTDFNWHF1NU04Y1NOcmFTQjQ?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T21:26:44.000Z"
+   },
+   {
     "titulo": "Vestibular Fatec prorroga inscrições; Alto Tietê tem 472 vagas em cursos gratuitos",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUWo4a3RTU0g0WXVHNUxtOW41ZXd4NzRkdnFEUmFaRzBtYS1rODVEMF81bWFNOE1CTXo2OTZ6VS1kWkJKak9tRy1Lc2pUVFA1TFNaeUx2MWJreUdzaEZUckZXZ2swXzFIOEsxODNva19Tb19vUWI2QnBPTDR0aUhpTTFGd2VkWXZad1BBVFQ2RVRwUGpwaWJSWDF5YS1lQTB2a0ZHT3JHNDExMFNrUVR1c0N3?oc=5",
     "fonte": "Notícias de Mogi",
     "data": "2026-11-03T21:25:00.000Z"
+   },
+   {
+    "titulo": "Encontro gratuito da Rede Pocante debate colaboração e planejamento para o terceiro setor em Mogi",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY0l6bGcwTmJ6VktOT2ZvR1NueURiV25tS3dxLTgzLVdEVkxlU041SUVVNkxQMEQ2YlFPWEtSRzFWN0o2bXBTdW9TRDZieGlnbkhKZzVKUFotZFRJdko5QzVseUhXekphM2g0WS1kQ2VJOTFmTS1FMHhWbnFNY0lsR2gyYjhtVi15Q0hZX3lJbG1NV2o0MUtHc09MS0RmeFpwTzhfNjVzbXE3dVN2OVlnNWVPNENwVm5qbl92ODhhbi1ib1QwUjZ4MmpSd2I?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T20:35:47.000Z"
+   },
+   {
+    "titulo": "Falta de lixeiras no Centro de Mogi gera reclamações; Prefeitura afirma que fará substituições",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOExyUUtyeURyUXFyQ0dGN2VUMFZQM2JVUXhWeUZpVTZVODJ0aXFKRGhPWnVFVnZNZHlpOWx6dHdDWDFGMUlHWGktZzlDeXhzdVA3NFBuR0c2Q0FFUm9zYUZLT1hHVUVoZlZyQldNenh6ek90azBwLUk4dzFmQm13eUhpai1DSjRoYnhYa1NQVFRnZXZZN1NIbDY4X1Q5NEZNMGZuNzI3TXY5YlVvYWhZZUduTjF6eFZxTWdqZU1hR3ZpV05tTUxR?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T20:20:27.000Z"
+   },
+   {
+    "titulo": "UMC e Sebrae for Startups promovem Ideathon focado em soluções sustentáveis para a Região",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUTRCSTJkT2dySHRER1NRamt0a251MmpMcW00YjFUTHNudWZydUpsc2ZwTUhTMEQ2cUh3R3RXeTFBTHZ4bS1obkM4d1JHV1A1WklmaUlNaWJpcU9LWFNtQ21yNGhYLVBDVHlRNnNfYWJIa1hodTkzOTE0Wkxmd29HVU8zdkhLVm5KME96emJVamdqSW56MXFkTDgyTlI1dVNCb1lwclF2dERWMGVEcXU4a1JYQjlYU0QtNnd0X1NaMzFJUQ?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T19:08:10.000Z"
+   },
+   {
+    "titulo": "Joli anuncia inauguração de loja em Mogi das Cruzes para este sábado (7), às 8h, no Mogilar",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDR5U1NDY0FXdmJqSHM0NWM0Wm9iUHh1eGVzbGMxOUJkci1EY1planRQYzFSRExhM2hZQy00VmtpWG82S09WSjlxblpjYzVFM041Nml5c0FRdk1DbTNfeDgyX043MENNOXJ0UVhMb1F2UDFIa1lCTUhBamNCYXpUWWVqZkE5QVVzSWJfbDdIZEhFakdEU0FXeTB2eHc0aHNsMWlhRVdDaXgwVGwzTGVqX2lvSmZxUmlLeDAxbkYxRQ?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-03T18:52:02.000Z"
    },
    {
     "titulo": "Sebrae-SP promove Ideathon para desenvolver soluções sustentáveis para o Alto Tietê",
@@ -559,47 +595,59 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTBGSVFFbFdMY2UxMmEwNlJ0V1llVkdPOG1rRnJqRDhFNDVpNkYySVZCUy1RckotVmRBdjB4SjNPX2ZkRW9xM1plVWVoWXpGVEYzUFVjRmpvdFctWVBObUxraFBZMjRpNjJCQUJ2djZLZjRjSVFjb09iTXNQS0dPblpNVWZCZm5qYXRjaG9tcWxGeWZmcDYybzVBUHZEVjVTODN6MnFvSnZGYjlTZ2pTUTdfMWVGZ3VmZUE?oc=5",
     "fonte": "Diário de Suzano",
     "data": "2026-11-03T09:30:00.000Z"
-   },
-   {
-    "titulo": "Mudança na escala 6x1 preocupa comércio do Alto Tietê por custos e organização das equipes",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOTWtpdUdXaGlFU2xxSmVlVnFGTFF2aHI1ZTN3bkdMYTVwWnI4bTllci1Jdm5UYzJwaTZBV3NEcDJ6QmdwNlBBeTBsZGlfR204ZGRmNGs0ZXRBVmstbUZWM1dwaXlsS051NE9qZ0RtM0k4b0dHU01UUDIxVC1jWU03Y1hUOTVseUxJcmpucmVrMmZFT1NDMHdTNDV0NXY2aHVxOEhZN3p5MlZXRVlxcHhnNWJLREo3eFQxeUhsVkNJRm1fbHVyYU9fSnRoRmk1Y1ZkY0ZXN0FHSGJMVm0zeUtOVg?oc=5",
-    "fonte": "Diário de Suzano",
-    "data": "2026-11-02T18:11:00.000Z"
-   },
-   {
-    "titulo": "Deslizamento de rocha interdita parcialmente ruas em Mogi das Cruzes",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVm9iRmZaa2JNa1VUSjUwRjNVUVNWNHVlb0Q1R2RYZGJVVWpLMEVCbTdfUWpNLXpQMnV1bHJCYWpMSmVCTGlVUG5tU19FMFJzM0RTaVRWbU8tOVZqcm9SUTNUQkc4ZThvOUVJUXNCWldyTWFBVTJheEFMZXAzR1ZsNnZIY0xkOWVVWnRCMlJ4VTA3NDBCVXFRbS1qVVNETXBWYWI1NnlrZnU5UHhkbk5UcWFUWGVVVTEzZDJJdDloNU1KRnJ0TXNwNGR4LTdhdnhvTm9LcEl1UdIB5gFBVV95cUxQcDByTG5jYkpFR1BNdlY1Z1ZFSGpHaXdQZjZTaHpwbG9XSFEtai1JY3FSdVhib1pyemRHT0ZuYkl2VlM0UlU3ZVhveUpHZF9kOGhRWUlxZ3lSdTBMcWl5NnVFOU51MUhVRjhLdFEtQW5Td3lyOTNIaHZXZDZoVGI5eEc4THp3QXVYZnVyeGdMZGl4d095Qjd2eE8zSGI4eHVrZ3MxT0Zxc1pZQlBwVVJnMnN4RGxncF8wSENVQUhJVjF1RDFrQVZ2Y2dLdkR1Nm8tc3pHdjZuWDB2cmF4Qk9NMU9GY2pUUQ?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-02T17:59:15.000Z"
-   },
-   {
-    "titulo": "Como fica o tempo no Alto Tietê em novembro? Veja as tendências de chuva e temperatura",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNS2QyUHA4NW1PU0NnMndBQVJZVV94NXdOXy1ILTFaUl8zZEl5aWQ5UVNIY2d6c1VQbF9xcDdiVXRuNEVqc2dNTGF6bGRXcWpyMzNEaGp5YlFCd21ScHRsbWdwMkN3Yy1BV2UwSjlXVjVxdm12NjlnanItMFN2WmJ6THdvN2tWUFNMcG5uUGpjNGpXVnlPZjlYaUQ0Wlh6Y0NnSlFUZlo5ZE5GdHZPTGdDbEdHbHNxeHJCa1dzRUtXTzRuRTZUN1FpdllwUXgxaF9zVmtBNVk2MGFoX1UyWVYyRmNyNkExY3BHc0RmOTBB0gH8AUFVX3lxTFBVMmVqZXZFMGhuMHJKVm5sMjU4Sl8xa1NfQ1psWTkxYmtsbXJOYXZYWG02azF1V1ItSkgzRXhucG5HcEhrdTh0SXVFRDc4bVlLb2dnTUlPcUc5V252T3l2MDI5T3VYTDdJZGtyVnFNUGpUTjlsWWlpRFh2X1ZhM3lxVF8ySUNvSFpfbC1fbWVlQ1I1T2gzWFk4aHFwZ3ZBNmVrbXRfMVpNbjNQVE82VWpTZmRlQUxZenN6cTdzVjJNcWhZLXJUUkNudjJZM3JqR216aU80VDZWRlM1OUJpekJZT3hvRE5mYlRDMlY5MEJBXzFjbzd3MGpqZUdoWA?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-02T17:32:38.000Z"
-   },
-   {
-    "titulo": "Temporal provoca alagamentos e invade residência em cidades do Alto Tietê",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWk1wMG1vVWpESXlMMVZ0SmxwZWEtUm9kLThZREtYVGdjRnhJenFMQlpaX0RJaUVwRUxORkZON3NZYUZMcFlsdUo2Mjk4VkZKNE81dnpnM1NGclNWNXR0bGxrbVVxT0NvLUVaN3d2Z0ZLdHpJR055c1ZqVzQtb1AycmFmdWp6QS0xWU5reFEycDVZWGxHWWluRTRvSS0wNHpPNVQxTUdQUENkT3JzNGlMeC03eTFBcU15UjVvMXlpdDU1eDdwTkE?oc=5",
-    "fonte": "Diário do Estado de S. Paulo",
-    "data": "2026-11-02T12:07:00.000Z"
-   },
-   {
-    "titulo": "Chuva provoca alagamentos em Mogi das Cruzes e Santa Isabel",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVWhWZVlxakxGb254cjM1UDNmVklYUnEwWEpFdWN6VDhVQTB0LUpqUjdsUnFGaEEteXMxZW5TM2hRV0VMVU9sLWNlOVV4THE2WDRHa2JrN2RHaC0wdk1rcHp6UDRxVFZTdlJhRUFlZ3dLSHZpcUxZTFpRb010UTdUd2MzS1psSXdzUnFkd2dZakkyTXNCY1YwaGtzLU5GMmxuOTVXdnNraUNjT1RCczNHclA4OWw5bklURlBqUHlMbVJ0RkJGa0NTcEF3RdIB2gFBVV95cUxQelNQcmpsT2RjVjBsaHpBaG1vS04tdTFOZ0FyOEYzejhibGhNS1dVZENRcFQ5aGZaRVRSdTlXX2cwZ2c5OVN0c0dLbjU4YWs5ZXRKNlg0VTAwdkd5aHZ1U1hOR2l3V1c1QnVZbUJIM3RfUlNyNlNqY0tneUNmS0lBSmNRdm9iWE5IdUJmU3RFS0xGcldSUjA3SHUyRERFWnJVRlMyT3cyWDJJc3lRcW5XNnpCOVZrM0RySmNoUWlaRmRqTkRwa3RrSlkyclVub0dmSjRtaWpFT0tvZw?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-01T22:08:25.000Z"
-   },
-   {
-    "titulo": "Mogi das Cruzes registrou uma chuva forte, isolada e passageira no fim da tarde desta domingo (1). Apesar de rápido, o temporal foi suficiente para deixar pontos de alagamento na cidade, principalmente nas regiões de Cezar de Souza e Rodeio. No seu ba",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sa1VmRnY0YU5MSkZ1ZjMzMTJNSU5RZm5BVTRrTmFHblFuMU5ERFlZNmdORWxJVy13RGlSbU1fb1c3VHBUMm5RLXVkWEZkZEEteHlXcTB3?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-01T21:43:31.000Z"
    }
   ]
  },
  "ciencia": {
   "als": [
+   {
+    "titulo": "Current findings, application, and diagnosis of magnetic resonance imaging in amyotrophic lateral sclerosis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42975618/",
+    "fonte": "Reviews in the neurosciences",
+    "data": "2026-11-04T00:00:00.000Z",
+    "autores": [
+     "Xu Z",
+     "Fan T",
+     "Xu R"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Clinical and biochemical characterization of amyotrophic lateral sclerosis in a CHCHD10 R15L family.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41911331/",
+    "fonte": "Brain : a journal of neurology",
+    "data": "2026-11-04T00:00:00.000Z",
+    "autores": [
+     "Kwan JY",
+     "Lantz CI",
+     "Korobeynikov VA"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "HML-2 env knockdown by AAV9-mediated miRNAs attenuates amyotrophic lateral sclerosis-like manifestations in mice.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41830063/",
+    "fonte": "Brain : a journal of neurology",
+    "data": "2026-11-04T00:00:00.000Z",
+    "autores": [
+     "Lee MH",
+     "Li W",
+     "Sampson K"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Cofilin hyperphosphorylation triggers TDP-43 pathology in sporadic amyotrophic lateral sclerosis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/41804798/",
+    "fonte": "Brain : a journal of neurology",
+    "data": "2026-11-04T00:00:00.000Z",
+    "autores": [
+     "Jagaraj CJ",
+     "Saravanabavan S",
+     "Parakh S"
+    ],
+    "resumo": null
+   },
    {
     "titulo": "Cancer versus Non-Cancer Patients Admitted to Hospice: a comparison study.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/42977228/",
@@ -708,42 +756,6 @@
     "resumo": null
    },
    {
-    "titulo": "Copper-Mediated Radiofluorination of the Excitatory Amino Acid Transporter 2 (EAAT2)-Targeted PET Tracer [(18)F]RP-115: Alternate Synthetic Method.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42952031/",
-    "fonte": "Journal of labelled compounds & radiopharmaceuticals",
-    "data": "2026-11-01T00:00:00.000Z",
-    "autores": [
-     "Lee SH",
-     "Blecha J",
-     "Kim JM"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Anatomically Defined Motor Phenotypes Reveal Dissociated Trajectories of Progression, Neurofilament Profiles, and Survival in ALS.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42947290/",
-    "fonte": "European journal of neurology",
-    "data": "2026-11-01T00:00:00.000Z",
-    "autores": [
-     "Meyer T",
-     "Grehl T",
-     "Schumann P"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Beyond the Larynx: New Insights Into Upper Airway Responses to Mechanical Insufflation-Exsufflation.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42959461/",
-    "fonte": "Respirology case reports",
-    "data": "2026-10-29T00:00:00.000Z",
-    "autores": [
-     "Dorça AC",
-     "Rocha EMSS",
-     "Marra MB"
-    ],
-    "resumo": null
-   },
-   {
     "titulo": "Black Myrobalan (Terminalia chebula) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/42964735/",
     "fonte": "Biochemistry and biophysics reports",
@@ -751,18 +763,6 @@
     "autores": [
      "Ghiasvand K",
      "Meftahi GH"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Neurodegenerative Diseases: Epidemiology, Risk Factors, Classification, Pathophysiology, Clinical Features, Diagnosis, and Therapeutic Strategies.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42921272/",
-    "fonte": "MedComm",
-    "data": "2026-10-23T00:00:00.000Z",
-    "autores": [
-     "He Z",
-     "Zeng J",
-     "Wang G"
     ],
     "resumo": null
    },
@@ -850,18 +850,6 @@
    }
   ],
   "alzheimer": [
-   {
-    "titulo": "DA-S(2)RL: Disease-aware shared-specific representation learning for heterogeneous image-EHR Alzheimer's disease diagnosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42896468/",
-    "fonte": "Neural networks : the official journal of the International Neural Network Society",
-    "data": "2027-02-01T00:00:00.000Z",
-    "autores": [
-     "Wang W",
-     "Shi Y",
-     "Cheng J"
-    ],
-    "resumo": null
-   },
    {
     "titulo": "Decoupling neurodegenerative protein signals in biofluids via cross-reactive interfaces and inverted multi-dynamic encoders.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/42925593/",
@@ -977,6 +965,30 @@
      "Rao Y",
      "Liu L",
      "Ostaszewski BL"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Hepatocyte-derived exosomal miR-122 mediates liver-to-brain crosstalk and neuroinflammation in alcohol-exposed Alzheimer's disease mice.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42975926/",
+    "fonte": "Proceedings of the National Academy of Sciences of the United States of America",
+    "data": "2026-11-10T00:00:00.000Z",
+    "autores": [
+     "Brezani V",
+     "Ortega-Ribera M",
+     "Rezagholizadeh N"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Evaluating the Interaction of Alzheimer Biomarker Burden and α-Synuclein Status on Cognitive Trajectories in Parkinson Disease: Methodological Challenges and Power Estimates.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42975960/",
+    "fonte": "Alzheimer disease and associated disorders",
+    "data": "2026-11-04T00:00:00.000Z",
+    "autores": [
+     "Ledingham D",
+     "Sathyanarayana S",
+     "Iredale R"
     ],
     "resumo": null
    },
