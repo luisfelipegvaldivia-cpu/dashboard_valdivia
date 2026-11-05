@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-05T02:44:45.999Z",
+ "atualizadoEm": "2026-11-05T04:47:35.961Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Modelo do SUS na COP31 vai mostrar resposta climática do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0lxUVh3VXhkemFpaDZQdG9aYmZzQ3NYeFhPYXNRWVdVaVpUNUEtU21MOTJkc1g4Z0FWMFY3ZE5UUGlKOEthSmJMb25HTGt1YkptdTVRemR0MGJOTDM2VnJjSzRtM1pGbGliRG5BWmhMbHp4ODFIZm44cGxaNnNWM1hrVUxCeXprWU9UaWM1dEFFNFRqM0xYMTFIQUJaNmdtTGdNbG1R?oc=5",
+    "fonte": "Agora Litoral",
+    "data": "2026-11-05T04:36:28.000Z"
+   },
    {
     "titulo": "Senado debate problemas com uso de organizações sociais na saúde pública",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOakNFUEZLaWw2STNTaXdVQWtSbURsTXVWU2I4Z1Z4TWRoYXVoUEVTRDhFNThWdUpKdEZib3ctQU1tVFNQZ1V2X0ZpbFhfN1BpWmdlNGloYkl3YnlmWnVXZ1B3VEdaMHpiZll4RGpHR201bXNzbW1hcUp0MEZBTUw5YVZBZC1CazFwRDRnN2ktSG8yU0psaXFFRm93d1hPYU0?oc=5",
@@ -81,12 +87,6 @@
     "data": "2026-11-04T02:03:00.000Z"
    },
    {
-    "titulo": "Portos do Paraná lança plano de contingência para saúde pública",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQXlqZUlKTFN0SlFBOGlvcnowdzBmTjBOWDZ3S21kejc3REhIdFJHaWJSTklmeEZEMFBBTUpOUG9sX1JpQTdKbUhZUEZoQkJrSDE1WE5RdFBjTDFYb1JqZkpZR0F0OTZvd0wwUWF3SklKbDFTaWsySVkxSldsWXFHQ19rZHB5aU96a2xrbUh1NlpEcjBseHN1U1pXRDkyRXlISFZOVmlR?oc=5",
-    "fonte": "Agora Litoral",
-    "data": "2026-11-04T01:47:00.000Z"
-   },
-   {
     "titulo": "Proibição das bets: autoridades e especialistas discutem riscos à saúde e avanço do mercado ilegal",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObjBnM0J2VjBaOVpuSkxQYXctZXV2OFd5aEVlRTBFT0RDS0YwQzcwZW1WOWNDZFdQTTdqX2F5cWRtZGc2SUZfdTlFUkNhSDhUbUN4bUVmRzhxdzlyb3R0LTFlX1UyQ19USlJ4UERnVTdfZ0dnUmo1bE8yRVAtV1RubmNjMW1pdUhTWldFZXJJSmRaQUkyVnZSQnlqbDhEVWlYQ3FCRDJQem9VWUh5b1NPQ2RnQ2FIVWJGb2hHa1BkUWczUXJqbHBkTE4tTzZidHdURWFmT2h6WQ?oc=5",
     "fonte": "stf noticias",
@@ -95,21 +95,33 @@
   ],
   "seguranca": [
    {
+    "titulo": "Governo de SP recupera 52 mil celulares e veículos roubados ou furtados entre janeiro e setembro",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fT05ER3dQeUF6VTJGZHI4SDZqcUJtSHc0VzZhMktseFNNMUgyc0lSQnRLeVpSLWhKSy14emtZd21TSWFPamdQaWxiWjZ2RndYS2J2eGpSM1FkeWwyNEI4Vk5rcVJodzU3ZEllY1JaMTVMTWpwNWhxZG9qNzR6dw?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-05T04:13:17.000Z"
+   },
+   {
+    "titulo": "Polícia prende suspeito de matar advogada e filho dela de 6 anos em SP",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkxPY0lHNXZfOHRjYXdSVGxCbFR1Ym9hZVRoWlVjYmtDd040cWs3dmdORG85MnhZVGpiZDBIaXBLTkNEY1VZM0dCWldiWEpwaDNmVGlxQmZLdTRIcHNfTXlyRE1oOUxpWTdMZTB0TzV1TjZIMkZvS1lFMGdUZ1E5clMzeHJWZ0R3UUxhQTIzLURvdFo3ZU96OHFvLS1YRkw1STZONjlZQlh1UnE5a1lwWlRONkFKckpVRHRyUXJUeF9uSm5wcjFnSWp2OWJFWThfQ19tR2F1SjM?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-05T03:27:04.000Z"
+   },
+   {
+    "titulo": "Guardas invisíveis ao orçamento ameaçam cidades de exclusão dos repasses da PEC da Segurança",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaXh5amFBOWJ2RHB5RGM5U1VXWXNnWlNkVGFzQUFoSjJKaDBycndPQWxNOEQtMkFHUU5fSVVab1prVmJfM1RBRjlNdUhUVlNhSzRCdk12d29Tek9hc3FEcVZ5d1daUUVlTEdXbXM2aG5hTVA1R00tX04wMldWMkhTQ05TbGk0dTU3ekdDd0J5R3MwVm5jNXdTZF9KeU5aTGR0VjMyTXVKd3BhQTZPMTdnVHd5YXY0Y2lPcEswalZTSWNTbGRyMk8xMHFlZnp3S1JyMG9hWS02RnBLblBlbzhJ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-05T02:00:00.000Z"
+   },
+   {
     "titulo": "Polícia prende suspeito de matar ex-namorada e criança na Grande SP",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDVvNzdFak92ZV9WZkt4UXBlaFEtVndXWjZiTkhyV09JYW1TRDRTT25HaFpVcDNaN3BRa1N3bVhZMXllYjUtTURWNkNJSjJoMDUxYnRWWFFmOWVEY1VldDJhQV84TzBXWjhXOVhMZElrMTB0Ny1PUTB6Z2Y2c0tyQmRzdzJiYkdVSW9LR3h5YjZlWV9rU1ExWFNsQU51eVNYU3l3WFZB?oc=5",
     "fonte": "Band",
     "data": "2026-11-05T00:49:00.000Z"
    },
    {
-    "titulo": "Polícia prende suspeito de matar advogada e filho dela de 6 anos em SP",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYkxPY0lHNXZfOHRjYXdSVGxCbFR1Ym9hZVRoWlVjYmtDd040cWs3dmdORG85MnhZVGpiZDBIaXBLTkNEY1VZM0dCWldiWEpwaDNmVGlxQmZLdTRIcHNfTXlyRE1oOUxpWTdMZTB0TzV1TjZIMkZvS1lFMGdUZ1E5clMzeHJWZ0R3UUxhQTIzLURvdFo3ZU96OHFvLS1YRkw1STZONjlZQlh1UnE5a1lwWlRONkFKckpVRHRyUXJUeF9uSm5wcjFnSWp2OWJFWThfQ19tR2F1SjM?oc=5",
-    "fonte": "UOL Notícias",
-    "data": "2026-11-04T23:57:22.000Z"
-   },
-   {
-    "titulo": "Suspeito de matar ex na frente do filho e da sobrinha dela é preso em SP",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQlh1RE4zUnRnLUhPSzlHek9TT21BN0JSblVmTU45cTNuZ3pXbnRQa09xc2w3d0FXY3RxcFV2STA1Y3VFZHZQdnNaR2VhQUJHVmxWb0F6cGs1YnZYWWJ4dTRDMnNHSWpLUHRWdXRLV2t0M0JvMjBXQzdfaTBVMUZNQzh1S2VwQ3ZZbVRWN21sS3ZVWmE1bXlMVXZLQW8wOTh6OTBrNjZHbnAxSC00Q3g4cEw0SVpMNXpWWUJtZ1E4ZHJaNkFEZ05lSXFlN1NXaUNaZzlBR2xVZzBBcDJMYVloZXhGY1Q1MVJsTXp1QVJ6Q0ZDZnM1Wll3azlDR1U?oc=5",
-    "fonte": "UOL Notícias",
+    "titulo": "Suspeito de matar ex-namorada diante do filho e da sobrinha é preso em SP",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWEtiWFZmWTkyV1hmMWFtMDN1WnZXVnUxZUp5b1BSMVI0Y0hPMzNqRHpjYmxrUHAxVTFyeTFxWENaRTN4aTNoeElac3YwU29KbjBoRVloVUhTOEVBYVRlcGpMNUU3TUszVTlvbHUtUGxQeXRWVHlLSmY3SnJIaVVjLXdzSERrdHNlQVBkYUtVYVQ1M3NKcUtjcGVZNTNWaGJMbnFGVnBmWHFJMXZielFmeERZbHRVd2t0RHhQa0ZTZ2FYQVJVQUtJeWlpRjZtZw?oc=5",
+    "fonte": "Tribuna do Sertão",
     "data": "2026-11-04T23:36:00.000Z"
    },
    {
@@ -131,12 +143,6 @@
     "data": "2026-11-04T23:01:19.000Z"
    },
    {
-    "titulo": "Governo de SP recupera 52 mil celulares e veículos roubados ou furtados entre janeiro e setembro",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1fT05ER3dQeUF6VTJGZHI4SDZqcUJtSHc0VzZhMktseFNNMUgyc0lSQnRLeVpSLWhKSy14emtZd21TSWFPamdQaWxiWjZ2RndYS2J2eGpSM1FkeWwyNEI4Vk5rcVJodzU3ZEllY1JaMTVMTWpwNWhxZG9qNzR6dw?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-04T22:13:17.000Z"
-   },
-   {
     "titulo": "Redação do Provão Paulista aborda vício em bets; professor da rede estadual de SP comenta e dá dicas para o Enem",
     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vZ0JqMVRxMXZSMVU1YnZrb0hVU3pVUk9Zc0hDRG5kOUpnN3dMenl3N3VJOVpPYVlsODdVaU9TOEJFUTEyUEJna0ZWbi1IMTlBSWJwZEZ4LXo2QWJKdmdLMm5QM080WGJQWnZJM1M0RzRvTlJkS210eHJ3SXFFZw?oc=5",
     "fonte": "agenciasp.sp.gov.br",
@@ -146,7 +152,7 @@
     "titulo": "Com aprovação da PEC da Segurança, São Paulo se prepara para ser a primeira capital do Brasil a transformar Guarda Civil em Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPVXVhOTF0Q2VucFF1T3RvZHA0VEdMajVFd2JMX0ZwaXNKeXdCcTBvdzM0Z0puaWJPbXJNMEJkczdqa3lGQ3dfaEN3c01xaGxiYUlDMUN4UTNMNlF6d1JlV0FvRERiS25zM3RzX29xcFJHX29Hay1rajlhRjNpNlM5dkxJLWN4VC1YZFlaaElKZmdITlQyblVqODNFRjFoUDFmX25Zd0lMbDRGbjUtQnlLbjFyOUM4TjZGOWNpU3JCNkhLRXBQU1VwOEQzYV9CRnd4OW56Nko0SGcwbzhvZkUwZS1FX0ZIZnJnbnB1TFlYWWh3RS1tMVVXTmd2bw?oc=5",
     "fonte": "Ceará Agora",
-    "data": "2026-11-04T21:59:36.000Z"
+    "data": "2026-11-04T22:04:34.000Z"
    },
    {
     "titulo": "Governo de SP prevê gastar R$ 35 mi em reconhecimento facial de câmeras",
@@ -169,23 +175,29 @@
    {
     "titulo": "Polícia de SP prende homem que atacou idoso em Osasco após avanço das buscas",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdXhVQlVibU5KRlFqV0Z4NVJaa21mMWtKV2tBdF9pWWdFa0QwQnJvaWFHSklFRkswdy12R3pJMUN0cThZbEptU2pzX0xKZDE3c3I0c0lIakZTbDBqclR2Q00yeWg2ejdmZUZFdHpNU3JKUVgtVGJxb1JTVWo3OHoyWDE0aWl2ekNRVzJVLVBHd0ZxNmlNWEZJaER2V1RvbmUxYlJ6UEdudS1iS3p1b3ZQWHdBWGJjOFVPV3FnNEdrMzNPSklCQlE?oc=5",
-    "fonte": "www.agenciasp.sp.gov.br",
+    "fonte": "agenciasp.sp.gov.br",
     "data": "2026-11-04T21:29:06.000Z"
    },
    {
-    "titulo": "Homem que agrediu idoso com voadora e pisão na cabeça se entrega à polícia em SP",
-    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQld2d05aa3FWUm12a00tVkJPVkZON2VieDYtWHlkbHI5TVZjYWEtcDhFdF9yWTZURFZsUWhqdUNvdmNIZlo0RFNCakpielFOR0RiOFRwU2tBNFZJaUdLcEFuNVdzOEloa1dVZVNwQ2VrbC14WlU2NHpRbEdFa1pBb0VrVFNyU3VKUFFqcG5sNnhha29EczZUUEU5X0dkajh2SWNYeHRPdUdOX3JKWmtLR3Y0T0JXdGw0Sm9jT1JGREs1RkdWUEoyXzhNNnAtc3BsdF9oaG1FdTVFS2RpOUJ2T1RIeEpwQzlScXlLSUcyUmM4bm1GdENoU1hTQjZubjl2RkpHTmpn?oc=5",
-    "fonte": "Terra",
-    "data": "2026-11-04T21:07:00.000Z"
-   },
-   {
-    "titulo": "Alunos da 3ª série do Ensino Médio fazem nesta quinta-feira (5) o segundo dia de Provão Paulista Seriado",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Jd3YyTTZUQ2FPRWszMnVqVjU3bTlhcXBUYXRyUEs3N3VJa04xS1lDanZWdThkREl2ZlZHZzF6c1pZMDFtSnMwUEpRcUFXS2psY0lHc280Z1NaVTZnY2s4bE1ITnVCd2xOX2I2X0lGUC1RZTFp?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-04T19:55:02.000Z"
+    "titulo": "👮🏻‍♂️A Guarda Civil Municipal (GCM) de Ribeirão Pires localizou, na manhã desta quarta-feira (4), um caminhão com registro de roubo na Estrada Velha do Mar, na altura do número 2.080. Segundo informações da ocorrência, a equipe foi acionada pela C",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5aaVhTakRtMnVWZWlJQjFoRnlyeVdjUFhNYjZyUjVxVnRhWGlMdVdZVVdzSHpMLUdEektqb0lKNnhJWHZZRTRIa043RWtldHJWVVE?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-04T21:08:59.000Z"
    }
   ],
   "economia": [
+   {
+    "titulo": "A futuro da economia do Brasil tem uma certeza e a dúvida de quando tudo vai acontecer",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWFIUjZXZkI1UzBpdDhzNXNDQldzRWt4VVdDaGg3ZjhpOHpRdXJzSFcwTXNvM3g3elZCMkdxakM3ZnlucUZyRUZBZUR4c0JmbklBLUtLOVFXNTBiUndIRVpMOTVUaU1JVzRuZUViTmRfUXZJMlc0T0hWcU5xeGZBakF2ZjBHakhPTGo5LVlfZkxSRTc5TWtYbHBNdWlHekY2VURZUDlBaTdXZU4xWkhwaG5jTGV3bmh0?oc=5",
+    "fonte": "Portal Making Of",
+    "data": "2026-11-05T03:26:08.000Z"
+   },
+   {
+    "titulo": "Selic fica em 13,75%: entenda em 8 pontos a decisão do BC de interromper os cortes de juros no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb0lvX1Fkc0x0eXlsN0tGM01iMEIyMVlMMU1vc0tWeUFSUWxrQWlXZWttUDF5SDZlb1FobHNyeWVrOElpX0dCVFZYUUxiT3cwMHl1NjQ3anVkQlp6bVB1R2E1bW8wY2lZQUZnZ2dOYzRHb3dqODdHTExybG83dWRud2RWV3BzSnFkdWk1WW9EVE8xSnREY0p4VXczY2hqcFNSdlVqV2JzT25nZlNxUWEtZHltN3NlUWxCSm50SFhxZVZvRUpreFRQMEh0Umt3dFFWYWMzRTZzRlZOeUxFVVpmeEhoYjBXc3VUTGYxMFRrMXF6NHQtQkl5TDFoVl9OWVE1VVln0gGSAkFVX3lxTE02TUQtVXZ3bUh3cUFjU2h4ZmxmSTZ1SDFsSjRmVHhadUl4Ul9WV1ZTbE1PZjBkaXVQdmE2YnRPQmF0blpIaVB5SVh0SXFLNXBZTU9wNU00MlMzRXd1R1RNYTlsSnVwWm9XcVh4XzNTQ1ZzQ050S1BLMFI3NGhFdlE0V3ZoMDJSZmgtOV90dnlVV2ZhY0tNMmFBV0pKM1MxT1pXWkY3cnVMblhxb1ktajZMODViZ2VkaFZDbk5TUnRDRlMtUjBYMUdBVElzSGpHcG5Zb1hmMklDckZPWEFtcElGS0d4M3psRG13WEh5SmIxbFpJSFhxeGJiOTBMT3R0bk1jMFVCMTlUcWVheTYxQVlJanc?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-11-05T03:00:01.000Z"
+   },
    {
     "titulo": "Vitória democrata no Senado amplia pressão sobre tarifas de Trump ao Brasil",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPekNWWU5UWi1NNy1zMkhYNFNkYkhMU2c3NUVyQXVUeVZfNl9Ic1dvVEtRSEJ5dlg0SmhuXy05M3pDNjdHNU1rWGZJUXhaN2RQOXd6REFNTkVCdG13OFFLSWs2N2l5SUFLdnllNjZZTUlKYWVSOVZySTgtNDlLZFJFajNiU3U4UHREcVdtdFd2M1VFaXRXc1BfN1IzYy11STJmbi1iRmthNGk3VTJsV2VKNjhiVWNFQlJhWThiaVpka0U1QWs2cFE?oc=5",
@@ -203,6 +215,12 @@
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYnlQV0pxUnR5bDFQdHlkRW5pWmZIZGt4MjZIdUZob3p0cXdzNVMyYlZneWNkTVBTSlF5Sk5IT2pWckEtUTUwSGFkaFVzbXBIanNoREI5VnJyN2FKUjkzTVM5X2JkV1J3TDlNelJWVndwNDZURFpYdkZhMmdCNzItanJvcjZpQlVLOFF1MlBvaXNkaXhjNGc2d2J6NHRxUl9xR3ZuamdKbmF0YXNzbHdWR1NSME9wd0lnazZxaThB?oc=5",
     "fonte": "Gazeta do Povo",
     "data": "2026-11-05T00:56:00.000Z"
+   },
+   {
+    "titulo": "Análise: Juros refletem na competividade brasileira",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUGRrUk84UmdCemRBanU3aVotbVhCQ0RyZHA5V21WWUJndTNTYTIxbGZQcUNJNmxWdnlGb0t6aUtIWWZtWmhYMWtPVjdMVUpfTVpmcU90Wi00dXhVSHF1ZmZHd2MxV01lYklQMm1OOVM2NGJjSGVYa2JrNV8wVHZ4Q2tjbUduTUQtakdpSzd2UTlnNzQ5RHlYcjJMZHkxYjdiWUw3S2ZJSUo4VHk5X0dXeElyRjF6dHdFNTQ0WWpjaDd1RzlWVF9qZm5n?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-05T00:40:00.000Z"
    },
    {
     "titulo": "Brasil lidera ranking mundial de juros reais, com 9,49%",
@@ -257,27 +275,15 @@
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNlZjNi1BTzFPYjR5WkFxeVU4RC1hdkNBUHEyM1phUjRGTDUwT240VTkxTDA0bFNJUWNzREpZbzgxOEVoOE1nSzFvVjl0MktwYUdNUnpYV3VNX3BJdXNORWE1aXdRZDBQd2VBTG1GbkFwNm5wWDNjOV9mNWQ1WjBJNC1sdThIazdlOE5hNTNpTU1BLWFGdG5NNXRR0gGfAUFVX3lxTE1uWkVlT1BvUXZDaGp4ZlBJdk5xUngxdHAyUWwxVnc3TmRoYldkMEVtNVJEclJHTjJ3b29HdDhfdFBXTzlha0c0TXV6eWs2TFNibDBOMnVLb1RWLXpDbjlOVlA1SlQyazRtZ2l2RjNBTWRCUzdidVpDWURMOWJKQ01vaVhQZUgwWVU0d2ZqZTBya202SElsWG12Qk9LaEE2Yw?oc=5",
     "fonte": "Agência Pública",
     "data": "2026-11-04T22:07:49.000Z"
-   },
-   {
-    "titulo": "Como a derrota de Trump nas eleições legislativas pode afetar as relações comerciais com o Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc21FdG5faDlSekJpX1pNY0lFTnBrUUtQSGkyeThrS3ZicWRHTmpNVXY0UmVQR1h3cTNYaHdjVUNHYW1QZ1YxVnJVVDhHMVBrV3FMYjktaGhnNmRJYS1tazF2ekZqOUpXMFg1c2hhOHkwYVVrdGhpTEZFT1RLZ2h6ZThwbVFFRGhJRXdCZnpFWlRVQVJqWEp6dVJMak1QWDhjcFRKcG0yLVRqeXFOaDg2S0FkMWlMdXpzczhJNGpJT2U0LS00VEhKaVEzSFVvMGvSAdQBQVVfeXFMT0hZNzZyTnZNTjlhdGZ3Nk9NV2t1T0k2eUNvMkdFMFJNTWNDTU5HSzU2ZDduUDJ2N3IzeWF5N2s0LXVDZENvWk1kSlBmTDFCVHFhV3piVXNPUEFVczdtOEZ3cGxNYTVYLWVvWjdMeGtwX0JCYWE0eVVmeTRYUWtQWnpTWWozV29WVnlpd21JeFZWcy1GZ2hGcnItMFZZMWx4eTMzTjNSa0owWXFCQTJtZE9lOXV1Y0VSVVhrcTh5dGpzZGdzeE1LbmlGTjQ1RzFSemgzcmY?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-04T22:00:09.000Z"
-   },
-   {
-    "titulo": "Copom interrompe cortes e mantém Selic a 13,75%; Brasil tem a maior taxa real de juros do mundo",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZHlmV3RmUGJEdjdwMnZtN0s3NEh4eERKNDl1cGNpd3BhNm91ZGp3MmhFYkYwaTllN1dLcUJ3WU5qV3ZTRHJjdXVZc2hsNUc0TFp4LUg3eWxGaGt2MnVVYXNwcWFNMWhqRHBzVF9SZEhHZ3ZMQ3UzSWZTSzcydFktS2lPcFJ6a3AxRnlieUJRdGRxaC0zeFZvcHI0ZzIyM1pSc1o2WW9CVE1jZnFLQ1NTSFEyLUVxZFk0cHpuR3QzeVNfRWw1OEl1Ukpia1RuUlk?oc=5",
-    "fonte": "CartaCapital",
-    "data": "2026-11-04T21:36:00.000Z"
-   },
-   {
-    "titulo": "Banco Central surpreende e mantém juros básicos em 13,75% ao ano",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV0FpY3VSWGM5cGFQUEN5Zmh4YmpzSUdMM09fdHlmdEtRRGhNTVRnNkpQX2FKTjVqRVh6WDVBbVpxZkJUT3dBYzJNLU9qUERxN2hfM1VnNkZLTmlWaHYwOVNrSVFsSmZBQXkzS1ZDcEVERHZvUUVsdlhWX0NScDkwU0xuNVg3ZmZDbndvSzhISzdWY3VrVGxqWk9kZnZQRXVIZDFwMW9RdGJNUjVZR3c?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-04T21:33:00.000Z"
    }
   ],
   "politica": [
+   {
+    "titulo": "Trump perde o Congresso: o que muda para o Brasil e para os conflitos no mundo?",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMTBCbFBJZ0k4MDd5cU4yUVQ2cElCUUt3b2lrUVZHWWZOUzZCcTljRE9mUDAzbzVsWXV3NElpTlU4aXNSWVpTYWZ4eGtLb1VLZ25VSmdVSWRZRWozbzJ2ZF94LXpjSURIdlVIOENVTGtkVldJVDk1UWVsZlkxcEtTYkdzV21hTjVrTlpFaXFjMmtfSWI4S0RnQ3NibzhQeHNxOFFSaXVGTUhLeDZJNl9FQWhUNC1aRjh4bEFlSHJIZXNYdHZ3N2pGcNIB1wFBVV95cUxPbThjS1pLYmNpczhyMk9pZkdSMDQzMmdKQ2NaZmY2STJTVWJMRkFFTVdRTXNJU3c5NVE3N19HeWt2OEh6blh0bjVmUTROMTRFUGxMeUNBR3ViSlJLM1ZLVDlodDJ4Y0VKTjVFWldSY09ERk9mNHRwWEc2Z2xvcUJFenluUm5QRHZNSWZ6Q1NWTlZISFBkTzFxaG5jV2FEdWpEa0J6eTMycHpUWE1FYVVUeTRFNFlyLTdKNXU5Vk04ZTNwVFphaDN3VkJ1NEVqUVM5dzhYQ2JKWQ?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-05T03:00:01.000Z"
+   },
    {
     "titulo": "Brasil leva à OEA debate sobre interferência estrangeira nas eleições",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTW55NFM2VTBIbDBJOE8tbGJpNVVMMW4xcmdxWVFCaEl5bVBhcGg1UHNLUVdEemtOQWVoRk1wdnRfSHBocHFqSm5aVWJEd2FQeXVZSG9mLUUtOGVYV2pmQjh3YWY3SElRQ05OWHczYU5lanVDei1CY1ZobkhBbkFxQjlXU0lfN09IbGVBdUVOSGNha3NESGJmTDFYOFlvVjBXdWxtRDlLWGNpZk9G?oc=5",
@@ -342,7 +348,7 @@
     "titulo": "A proposta do Brasil para abandonar os combustíveis fósseis",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkhkMXVZWDlnY3VxSHBBTFlseTBKU0VmUzJ5eDNiUlVQMEp2QTdKNjc3TC1DZmlHYkF1MWwyLWZ0VmZNZ3A1YUtHMHhBeHRPUVluTTNZVklIY3REZ1ZKYXZndnhqYXQ5a0JRY1lFbU9SM1Vic3dOMmR0c2oxcU1qRndkR1MxYV83b0V3MHlDQ1hnTXIxU3VoNDFDaw?oc=5",
     "fonte": "Nexo Jornal",
-    "data": "2026-11-04T21:22:30.000Z"
+    "data": "2026-11-04T21:23:51.000Z"
    },
    {
     "titulo": "A trajetória casada de fé e política no Brasil",
@@ -361,15 +367,15 @@
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaWxKb0FqV041LWlMMUlNaFU0NUJQbzAxNENOZ3NFd19sek8xMlB4YjVrRElONkl3X2R6cnBOU0JhbjJReHZvVk9YSXpGSXNhUDNyVnZMSThNTzVKMFFwN0dHOUtwTUp0Y0cyZ1Y3dlNSdXdaaWdTSzFxMXdBcWpPNC1zNjJvb3pXU1EwODZLVnN4NldsOUZHOGg1RlZ3cFpCR3RfMXlsTi1IX3p5OGo5Q2RoLWlJZUk?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-04T20:33:00.000Z"
-   },
-   {
-    "titulo": "Nos EUA, Flávio Bolsonaro vota remotamente a favor da PEC da Segurança",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1NlVGxmUGw0NHlrRHpSSlBSNklWbFRRNUVyeEtoX0lMdmVpVTlJZmFjWjE0TXJodDR1aVdQYVFxSEwwaWowS1BJZGZ4MDVrRjBKSTFvaEhNd0diVXppVXlDRUxCYTJIZ1dwZWdRV3lQdmxidEpaaUduSFItR3liaDI1UTJSVXFNdGd6VGVhU2g2anRfV0tHRG5wWGFoTUw5aVl1Q1RkdldNWE5zNTNKS25ET19pZWI1LUg5ai1Ed1RtRk0?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-04T20:29:00.000Z"
    }
   ],
   "alesp": [
+   {
+    "titulo": "Rogério Franco mira a Alesp; João Paulo é cotado para ministério",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9pTHV3VWNyN0NsSXdkOWZuSGtPLWoyeUNmZTFIVExUdmNtbHM3VkdaWFNOaWQxTzZ2SHBwYWtPaExmdEtNOVZubGR2eGFoUE1MNnh1M3lWNU9ITTlzWmt3NlVqMEhUTVpXZkNxa2k3QkpXeWctempsN0tTd0JaUQ?oc=5",
+    "fonte": "Giro S/A",
+    "data": "2026-11-05T03:22:00.000Z"
+   },
    {
     "titulo": "Audiências públicas discutirão proteção dos rios Jaguari e Juquiá; Alesp debate regras para uso do solo",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa01RNXJsN1htSDNERTJ5bFktcWNFRDlHMDlpRkVnYkhPZi02Z0xEUDVJempSVkRaSm1GMVlFUi1MWnVjZllqRE1CTXMzMkdFc19ZT0c2bUs5azFWM3hBR3VDd3JJYlpMODRET2ttMms5Wk5FMWpmTTlYRXUyVmhPLUtsX2JzaUJYM3ZqQkh1aUFCMVNVUmZFTTB6VHhkSl9pejVZaDlnX2pRTzdVcS0tT19YczBPTzg3bjlyYy02NExEVF85RFNuYjdPbVh2eVBkZlE?oc=5",
@@ -453,12 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOXzR4Mmk4d1hub19uT2o0UFFKajBnbFl1VmE5cExtSmRtcWVKVjJwN1E0MFRvekZnUDRQcWZUOTUzS0p3MEZwYUhrQ2FManRDdXJSbEJvekJvcGdLTnRVdnlfamo4Sll1cmR1ZDZ2SkR6Y3ZuRjhPZFJKbzlOdU1fblZXRXFkdm9SSmdaSVF6a1pxM3lmR2YzcFotUld1R3RRR2pqOHZ6Z0dGUFZHUERmS05HaVFuNEM4OG8yQXB6enA?oc=5",
     "fonte": "Metrópoles",
     "data": "2026-11-04T16:51:00.000Z"
-   },
-   {
-    "titulo": "CPP vai à Alesp acompanhar votação do PL 1316/2025",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZFhKQjRpcklSZjhKWVFjTks3SmpkWWlwNkhIcmVWWVJXeEotTktaTmQ5RVJoUlZ2MGcxQUhyUjRuOWxFUU5HTXVlZ0pXUFpVNFVJbTFNTWJEaldaRlU0cDhPMnpRZVZiaFMycEJBdkE5bzhtaUZldmdn?oc=5",
-    "fonte": "CPP - Centro do Professorado Paulista",
-    "data": "2026-11-04T16:43:22.000Z"
    }
   ],
   "missao": [
@@ -513,6 +513,12 @@
     "data": "2026-11-04T21:25:49.000Z"
    },
    {
+    "titulo": "Empresa de Mogi das Cruzes desenvolve papamóvel que será utilizado por Leão XIV no Peru",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDFOT0U2LWo0RE13WHpIbzVqbDJVWTExVTlzU1Rna2ZlZUcyT216SWRrYnBEQW9qeEc2MVpnTno3RG44MTQ2LWNtdTdyMFcwRl9ET2RsUlZaMlY5VlpBOTRRazF3Vm5KX1ZhSTB1MG9ZRUt6aGI2WktuMTBDdzFBRUdJbm82d3U1NE1CQnNHT2NVdUt1TkdwNHgxaWg3QU1Jd0NoeXRlbGZBUXpUaWhGVHl5alc3VDduWVJISnhBNWJVVVVLUVZoQlRwcWQ?oc=5",
+    "fonte": "O Diário de Mogi",
+    "data": "2026-11-04T21:04:41.000Z"
+   },
+   {
     "titulo": "Alto Tietê cria mais de 900 empregos com carteira assinada em setembro, aponta Caged",
     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWnlqcDM5RXZEaFBiVGY4d29xaWxUREY2UXprMHlTRGx5VlFKRlI1RXR6bzY0MTh4NUVLMEpmaEk2UEdSSUlNQWd0Um5xaWI0MUNwUXMxNGJtUmFyUVhzMmVvaElCVS13c3c4ajFsSlBKWGoyVEJCME5LMDN0czZJb2EzbWI4WHFidWZJYzhmQjl3QU81YURsV2YxaGFja256QU40MW1CbFVOT0ZEYzBiRnBQc1UzbDh3R0hRd0IxR0RlQ21zaG9CcFp1ZDgwdWJQcVpXb2dCNWZnX1Ita2JnVU1aajA0Q21mMEtjZ3Y2Y3JSUWJGRE54U2NBOWhWUU3SAY4CQVVfeXFMUDQ2TTNGM0ktVk1tMWZOeU1CVjJLYmw1UldmbEpiZXE3OTF5MTdtRWtyTXhfaU9yTVBYN0VTX0NwdTBjVkVxZ29yLXlWaW1wZUQxTkk3WmkzRDlLWl9GbnBaNm5jNVh4ZHNlWkM3UDFQWjV6TkRCb1ZvRkJ0Z3Y0dmVJVl90X2ZGS1dYdXJCRFlaVUVWMV9IQXc3c0ZldkRmWFVkMlVXLXhMVzZnNC1fUkdweHZvbXM4LXFjS0dBM2NfLXREVkhTN1A1bklGT21nNXBDTlo5OWRlT1RBeEN0bG45OGpXSGlCckQ2dmtaMzU5UTFsYVFBcUZVREUwMklHWTgwUlVOSWJTWUNMQ3VR?oc=5",
     "fonte": "G1",
@@ -529,12 +535,6 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOXRBam9MMzZraG5aNTluQVFSRl9zS1Q5OGdnMktFRXM4NWVwdXFJT0huU3BKUENhT3dON29IeHVqWUtBZUJpaS1GNC14azFZRDNfRnNJZHQ3a3ZEOF9hNmQ4SEk5OU9jYUhaUG5JMGo3cGlsZUpfS3N2YS1sNEhHcVZ5MEItNGVYSmNpZTVMZkpzMUdvNjF4cTFMNmVRdHhZWi1HbWo4cmllMWhqWUVJUl9nR2dTTkh4VHFDanZBNU1PWTVrMWJ4Ug?oc=5",
     "fonte": "Vanguarda Alto Tietê",
     "data": "2026-11-04T18:00:41.000Z"
-   },
-   {
-    "titulo": "Empresa de Mogi das Cruzes desenvolve papamóvel que será utilizado por Leão XIV no Peru",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMDFOT0U2LWo0RE13WHpIbzVqbDJVWTExVTlzU1Rna2ZlZUcyT216SWRrYnBEQW9qeEc2MVpnTno3RG44MTQ2LWNtdTdyMFcwRl9ET2RsUlZaMlY5VlpBOTRRazF3Vm5KX1ZhSTB1MG9ZRUt6aGI2WktuMTBDdzFBRUdJbm82d3U1NE1CQnNHT2NVdUt1TkdwNHgxaWg3QU1Jd0NoeXRlbGZBUXpUaWhGVHl5alc3VDduWVJISnhBNWJVVVVLUVZoQlRwcWQ?oc=5",
-    "fonte": "O Diário de Mogi",
-    "data": "2026-11-04T16:00:05.000Z"
    },
    {
     "titulo": "Enem 2026: Alto Tietê tem mais de 33 mil inscrições confirmadas; veja números por cidade",
@@ -593,183 +593,7 @@
   ]
  },
  "ciencia": {
-  "als": [
-   {
-    "titulo": "Advances in plant polysaccharide research for neurodegenerative diseases therapy.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42980747/",
-    "fonte": "Molecular biology reports",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "He BH",
-     "Yang W",
-     "Yang M"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Integrative spatial metallomics: a tutorial review of multimodal elemental imaging workflows, challenges and opportunities.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42980369/",
-    "fonte": "Analytical methods : advancing methods and applications",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Kumar N",
-     "Paruchuri N",
-     "Punshon T"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Protein Isoaspartate Repair in Amyotrophic Lateral Sclerosis: An Integrative Bioinformatic Analysis of the PCMT Gene Family.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42980086/",
-    "fonte": "ACS chemical neuroscience",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Yardimci BI",
-     "Zurel AG",
-     "Biterge B"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Liposomal Delivery of a Riluzole-Butyric Acid Mutual Prodrug Enhances Neuroprotection and Cognitive Recovery in Experimental Alzheimer's Disease.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42979863/",
-    "fonte": "Journal of drug targeting",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Choudhury AK",
-     "Rani P",
-     "Gupta R"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Current findings, application, and diagnosis of magnetic resonance imaging in amyotrophic lateral sclerosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42975618/",
-    "fonte": "Reviews in the neurosciences",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Xu Z",
-     "Fan T",
-     "Xu R"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Clinical and biochemical characterization of amyotrophic lateral sclerosis in a CHCHD10 R15L family.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41911331/",
-    "fonte": "Brain : a journal of neurology",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Kwan JY",
-     "Lantz CI",
-     "Korobeynikov VA"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "HML-2 env knockdown by AAV9-mediated miRNAs attenuates amyotrophic lateral sclerosis-like manifestations in mice.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41830063/",
-    "fonte": "Brain : a journal of neurology",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Lee MH",
-     "Li W",
-     "Sampson K"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Cofilin hyperphosphorylation triggers TDP-43 pathology in sporadic amyotrophic lateral sclerosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41804798/",
-    "fonte": "Brain : a journal of neurology",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Jagaraj CJ",
-     "Saravanabavan S",
-     "Parakh S"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Cancer versus Non-Cancer Patients Admitted to Hospice: a comparison study.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42977228/",
-    "fonte": "Journal of pain and symptom management",
-    "data": "2026-11-03T00:00:00.000Z",
-    "autores": [
-     "Mercadante S",
-     "Travia M",
-     "Scimone P"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Subtype and stage inference of tract-level diffusion abnormalities in amyotrophic lateral sclerosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42975660/",
-    "fonte": "Journal of neurology",
-    "data": "2026-11-03T00:00:00.000Z",
-    "autores": [
-     "Yin Y",
-     "Tu Y",
-     "Wang B"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Personalizing nutritional care in amyotrophic lateral sclerosis (ALS): a multi-perspective qualitative focus group study of experiences and challenges.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42975041/",
-    "fonte": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
-    "data": "2026-11-03T00:00:00.000Z",
-    "autores": [
-     "Kuiper MM",
-     "Kruithof WJ",
-     "Broekman-Peters N"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "A validated antibody toolbox for ALS research.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42975030/",
-    "fonte": "eLife",
-    "data": "2026-11-03T00:00:00.000Z",
-    "autores": [
-     "Ayoubi R",
-     "MacDougall EJ",
-     "McDowell I"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Urinary Dysfunction in ALS Patients: Assessment With the Overactive Bladder Awareness Tool.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42974963/",
-    "fonte": "Neurourology and urodynamics",
-    "data": "2026-11-03T00:00:00.000Z",
-    "autores": [
-     "Libonati L",
-     "Cambieri C",
-     "Ceccanti M"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Black Myrobalan (Terminalia chebula) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42964735/",
-    "fonte": "Biochemistry and biophysics reports",
-    "data": "2026-10-24T00:00:00.000Z",
-    "autores": [
-     "Ghiasvand K",
-     "Meftahi GH"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Corrigendum to From Vision to Validation: The Journey of Tofersen in Superoxide Dismutase 1Gene-Associated Amyotrophic Lateral Sclerosis [Mayo Clinic Proceeding: Innovations, Quality & Outcomes 10(5) (2026) PIQO_100755].",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42960175/",
-    "fonte": "Mayo Clinic proceedings. Innovations, quality & outcomes",
-    "data": "2026-10-22T00:00:00.000Z",
-    "autores": [],
-    "resumo": null
-   }
-  ],
+  "als": [],
   "phage": [
    {
     "titulo": "A novel peptide-drug conjugate GV-K for anti-colorectal cancer therapy via mitochondrial apoptosis.",
