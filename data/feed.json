@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-07T22:24:33.785Z",
+ "atualizadoEm": "2026-11-08T00:34:12.618Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Mpox: infectologista diz que não há necessidade de vacinação em massa no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZjdmM3pHdW1hN3ZSOG95SDBwSVhCQ3dxU0loM25xSlhCVk14cklFa3FFMDdkUmlQNk5IM2h4YW81ZzlXTzlYdjFhSU96aTY2OUlOdHk4aUI2UXVSTkRLRTlVVExFV2VOdlFxVUdtajliVFEzT0dZVTFGQ2dTWTF1cTRuVlVsRzg5NEFjMXJNdXJ6NWRNWmhXX1Iwb2g3bUlTSGZiRFpIYzFHTzd1STBYQkJrbXg2cUE?oc=5",
+    "fonte": "Gazeta do Paraná",
+    "data": "2026-11-07T23:00:00.000Z"
+   },
    {
     "titulo": "Saúde pública enfrenta problemas em várias regiões do Brasil",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQkRiMjJDMXAtMUxEYmJGTnBEMncxaEZibGNkamRhZUtHQnVtWkMwVk1iVDh1aEduSldlRWQ2aFhySGRIQzZxMnF4NDlSZmduQ3pRUlBMYW02MG9uWFlsNzMzeW11aEI2Umd5WVVZM0RFbURNVTR4ZEdndU9NbDJYN3pVc05weDJKQjFNYWRTRnQtNlhJcjNGb0VnUHA4d2F1ZlEzOA?oc=5",
@@ -12,13 +18,7 @@
     "titulo": "Patrimônio da saúde em POA: Hospital Psiquiátrico São Pedro passa por ampla restauração histórica",
     "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcWtyWlNNN0lGYkFEVnpZUjc0MEZSX0ZMQUR0U2xXeU93b0xoWDZpTzRnNXJjT01CdndtbUYwTlI5dEZwaHJ6cEVNdTA3Sl9ObzNSem9FVUZWRXY4RzNKd3ZSZ0g3R1EtdFRxcmNUV0R2XzVKdEliQ0lGVWIwT0lybnJMT05TNnVvSXFOR2dSMmRkaUpTQ3FnR053TXRDWjA3T0JYQ1paRFRISGRUNEJKUW04MEpjcnAwak1qd3FRbndJcHpGOEpqTkJzWThoblkybENaRnFIaW1DSXdKWnhUMUFOMTl5SklxRl9ZUTlwVldNdDh1VlJKaHR1Y0dUT3hJS0w2VUM0TExSXzN4T3JLbQ?oc=5",
     "fonte": "Terra",
-    "data": "2026-11-07T20:09:23.000Z"
-   },
-   {
-    "titulo": "Vacinação contra mpox segue focada em grupos de maior risco, diz especialista",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmUtNUJ4WmVFY2FRSDg1Y3dkQkRsZGpOcldzY2YyRGg3Sm1qdVN3QVBoNG9nYnRhTXZEOXdSQ0U5bm15MEpmNEx0Z2RYRmhvWThNck4ydDJhd1RJd3Y4Sk56NVN6UWhEb2I4VGFJLUw1cDdSSmk2dHRGVGw1NGJaVVZ4dTd6XzYzblZQMWxnQzRCVEUwY0lyRF9VT1F4Qm1FQl9ZSjk4V0dmelppVlE?oc=5",
-    "fonte": "dpontanews.com.br",
-    "data": "2026-11-07T20:02:19.000Z"
+    "data": "2026-11-07T20:09:00.000Z"
    },
    {
     "titulo": "EXCELÊNCIA EM SAÚDE: Ipueira atinge nota máxima no programa Saúde Brasil 360",
@@ -31,12 +31,6 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWXVhcC1pbjJlMmViM0liMTdoVl9TNUxKaGNZSGdTcU5SNDBmdE5JNTJ2eDVGNVBuY3FUNV9LTVltYnNXRnVhWmlQM0hYOTQtSUl1X01zNE0yUUpDY0UwYVhpd1VDNDFlLW53SU5JSVMwVTd6bjlNRXNZdWIxTnBLdDdBMW93alpJX2JIM2NyVU1ialI5b0h1MFJFSl83ek5KaDdJVzJiSQ?oc=5",
     "fonte": "Portal Terra da Luz",
     "data": "2026-11-07T15:52:38.000Z"
-   },
-   {
-    "titulo": "Municípios da tríplice fronteira recebem mobilização contra o sarampo",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMk5aUHRfZWhNejJnNUx0VTRCVVhoS2doZ1dEazlxQW5sVkkzUVBtNGNKdkdOM1VBMVBSSnBqTVVKbjlNM3BpOVA0dS1ZaUF1X3FKQVNKVGdoMUNneUdsVV95U2lMUnhrQWE0M0NWRkI4Ni1Obk8yNDN5Wkc3c0tINGpKVVZPaTNRa2VfRy1hM1p6U0RQZG5xN1ZqbGh4RjV6bEhmUkxseERZTXVOcG42TEEtTldYWmpDQWRtVmlzTEZnVXFLS0lPRHFha2Q?oc=5",
-    "fonte": "Rondônia Dinâmica",
-    "data": "2026-11-07T15:25:00.000Z"
    },
    {
     "titulo": "Brasil registra 665 casos de mpox em 2026; especialista descarta vacinação em massa",
@@ -63,10 +57,16 @@
     "data": "2026-11-07T12:37:00.000Z"
    },
    {
-    "titulo": "Enem 2026: candidatos vivem expectativa sobre o tema da redação",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0ZESndzYmRuQmVBWFNobFE2dTFRQ1Y3V29Wak5sS1BadS1HWGFhQ0Zwd1JVcGhuVG1aVTA5R2lrYmh6QUtwaW0tMGo5cVA0VmN5NlpJXzlhU2ZVYkoxR01WNWp0VFhjeWxBdGJXXy1SRXppb3hSblB2Wm1SLUhvMlppYm9DbUtjc0NMQUN4N0tTMUVwQ25GekFPNzR3ejh0ZTlwQUppQW9YQWtyUTlMbUd1ZnNsZ2pwWEdpQw?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-07T12:31:00.000Z"
+    "titulo": "Vacinação foca em grupos vulneráveis para conter mpox",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb2F1N1lHd21zQk5rVHQ5RFZ4Mk5uRVVTdVBjMUVRTkY1aGg2dzNYZTUxQ1hCUTcxZ3lzM2ZUSTJsei1zcXZESVQ2dUdweExTMGtoV2NrX1M5ZkpEbnZTQWxWQzR3OXhPOFVGLXhGbElfclJmbnUxY3QzcjAtbl9SVjhLTEhkaUJ3VW5Rc1hQWlVuS3hRaEtCTXY0N2gtZVBOc2FpMVRKV25qbUFFTzl0Sld4Z3E?oc=5",
+    "fonte": "Tribuna do Agreste",
+    "data": "2026-11-07T12:37:00.000Z"
+   },
+   {
+    "titulo": "O lobby das faculdades e os riscos para a saúde no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdHAwZ2U3ZUQtdTZJMW9CdXEzRVRDcFN3U2JRYzQ1WkZvTGxYb0lKOTM1TVg4S0Q2bmZtamxZRnZaUVhNTjhrUmRqR1BaTTAxMXlzZlZicmFacFFLV1l4UVEtRHpHTmtEOV9CSEY4VEJ0WFp4TzdPbWNDVWNtQjdxdEJ3cURaTXdZTzhxS3k1QW9xLXVHc3prZ2x2ZDE?oc=5",
+    "fonte": "Outras Palavras",
+    "data": "2026-11-07T11:37:56.000Z"
    },
    {
     "titulo": "Sarampo: vacinação é essencial para evitar o retorno de uma doença altamente contagiosa",
@@ -94,6 +94,12 @@
    }
   ],
   "seguranca": [
+   {
+    "titulo": "Sorocaba (SP): Suspeito do PCC morre em operação do BAEP; veja detalhes",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM1NNdXdrMUE3amUybTNyM2lLUlo5Qy1PUDgyOGxkdFBvcjM5M1VfWUlBWmVGRFNIYnBOWloyQnNpdjVycWxiNWc0N3dRaGxTY1k3X000dHJObEVGUlpMWEE0bkZRM1RtY3NjNHpjeWczdjRaWTBuMFBOMzZVYUpob0Fud0NQX2lTYVF5OGxqREVuRjE5cEdhY1RvMTdYcXFlY3c?oc=5",
+    "fonte": "Diário do Estado",
+    "data": "2026-11-08T00:00:58.000Z"
+   },
    {
     "titulo": "Show de Natanzinho Lima é adiado em SP após PM apontar falta de segurança",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdFljRDFJc1ZkNTlEU3dBSy1faUxVNzhsM1hQSi1fa2VfNXkzVXY3dmpQWFBmdjBrS2U3cHhtRFNQeHhRRllJb1FSWXUxVGtkYzRUVjZtT1pOcEktbHNyd1JKZ0hjSXRTaFRHcktmRGhLSGxrbl92akRNNUhaMUJLaU1QTjlOM25zQjIzSlV5NW9pT1NDeHhnVGZ0UVpXb0lWbnRXQkR0VDFaUURQOUxV?oc=5",
@@ -161,10 +167,10 @@
     "data": "2026-11-07T12:02:23.000Z"
    },
    {
-    "titulo": "Botão do pânico e registro de BO: veja como usar o aplicativo SP Mulher Segura",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZDRJRkV5OUI1UjlmVTl3N3d5a0tiRWtDSmRmTl9WSVc0TktjanlRQ0gwM3MySDNYWmxab3hFQjdDVGZxWm1LeFFpU3BnVXhhUUEtR0lRZ3RuUFBqTTdMMXhaRldRNzYyZWl4TXNodkEtR0Q1VUk2Q0RHNGxRWHdCMEFfVG4zbkJpT2hGV1o3SHl4aVktbVhoT3NR?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-07T08:03:54.000Z"
+    "titulo": "Mais de 58 mil câmeras e dados de 6 mil agentes expostos: o que se sabe sobre a falha de segurança do Smart Sampa em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZnhZdHBydVJ5NHJXYUFBeFR6TkZHSFBnem1aS2RyYnpRNUdxVnM0VUR1bkY0dmtLTzQ5bUNKRVFfRC1UZnU5SzhyWXRaalJqTXItMDMzdGFSN1BNYVVhMGdseE5uRWcxMW5oc1ZaX0hucndNamdNaU41QU1CQk5DZTZDU0RxZ09ocjlmMzBFbk9DMV93VExCOTJ1VWQ4V1V3QXRFX2lYVndNbkhva2NKeVhJR3A2X2sxMl9DMWU4Ylg1R1FWelJ6SjRIdlNOVFRyc2dBOVBfc0FPcjJHZzAxcVh5QTc5bG1XZWVueHhVM1FmbzIxakY4?oc=5",
+    "fonte": "Gazeta de São Paulo",
+    "data": "2026-11-07T11:50:27.000Z"
    },
    {
     "titulo": "Polícia Científica de SP conclui laudo sobre ocorrência no Jaguaré",
@@ -177,15 +183,21 @@
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazZUS1o5SUs0YmZnMWJzSUs1aU5sVC1VYlBzV3BvLVQ1Uy00VjBiN1Z0WmVUYmJNMjVTNmZrTWl1NnhpMWFHOUpfeDFsOTRpSzN0U3ZPdXFidVVJcFZqNHRfMmJka1FWYjVnOC1aQmNDSDh1bVF4Q0EyLTAyQUVfb0JKejhXTnlXT0RtWERibDFUY0NpbDVRM3NuS0tBZ3U1UFdZV1JramtFc3Jsd2RNU3pMcFpBMlZNc2tQY0paSlBKbmFnS0NkUGJNSm95Z0U00gHfAUFVX3lxTFA5MV8ydy1GWTRpaGFqT195VGlfQUpLUktyUVlRRTZRMXI0b2hWSnhRMmdWdXVJSHgxUVBhVXhOTVlKWmllbjFsQ0hpLUNpem9FdV9FOWpsbzFCUDNRb0lJbm5rQ0dDU1BpSWowYjNJTWt2UFhib1BZY3NzNTdOdlZVbGt2MG9mS0toc2VBekk2OFpmbG5oRFlyMU9vdjBVQ2VTSXRPNGZVTmlHY1lVRDFVak43ZHk4QWpJLTZ1VkZjWWt1U2d3ZmZPX1paMEVwVy0tZk43dk5WSVBmV3c3U00?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-11-07T06:30:00.000Z"
-   },
-   {
-    "titulo": "Prédio de quatro andares desaba no Brás, em SP, e deixa ao menos 20 feridos",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWU4VUstUXNCbG5hY1RudXk1SXFma09yR2xwR18wemJVTjZpN3ZEcEN4bDd2ZjJCNmh2S3R1Nk9iWmVYWmJDNjZSNm55TEtuc3p5cVJzU1VUSVVkYWZJSlhGWF9vV0FicEU1amNzUEZNSHgwS3JtVnNEYnNWamprQjI3N3pmSk1OT3o3OUN1Uy1mUUY5SzBEYnlDempmeWEwcjhTTzZtejNySmI3cEo4ZTFSakhsUQ?oc=5",
-    "fonte": "UOL Notícias",
-    "data": "2026-11-07T03:16:38.000Z"
    }
   ],
   "economia": [
+   {
+    "titulo": "'Essa questão do André Lara Resende é muito barulho por nada', diz ex-diretor do BC",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUnVlZFFLeUZMUUVrYWJ2T2VleDlrV2E3VWdpZl9Jd2JvMTRnNHB4ZWZ0aEZFZWFiUUM5NFd5akowT0tGU2R5WlA2RDBIS0hnRDRTVERwdklSWkYxYm9NWE1DaU04YmlKMHhhVE9DUENJdmFYTmRXbVNMNk1hMF9DSTBtYlI3N2xmX19wb0N4bmxrQ2ZKTEtXRUNrTW1kMUE1d1drNFgyNm0yZHliWmlHb1AzRjJIRDNwQURHNE1wRjEtSm5DR3NpbEZueVd5TWwxMkVNRzdR0gHkAUFVX3lxTE1uSUNIc2M3TXhucHpTODc3Q29YZjBaTTZkcDhUMTd0RTZCc1owRVI1d2xXNXg1QUhIcHhET1hxWFdGanFIc2tyc3Qxa2ZhZ1dCMGZpSnhBUXRocUpHaGpCZnJQM0NQdGZ2OUtXT1ZvNVJqdlFDQWR0bndiajROallHOHp4SWdhS1pLM3p6M3Bjdnh1SUVBYm9QTWZwVjRmQ1dRaXhBTFNOS2Rha3RKc0RpYUxkMGhIX1ZoSExmRW1xdkVJUE5EaU0xOTM2bXdmb3liMGRKdDZvYUhFS0lKNkdfTnpKUA?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-11-07T23:06:17.000Z"
+   },
+   {
+    "titulo": "Lula diz que economia de 2026 foi menos exitosa do que esperava",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjhYemtYdEMwQnFEME5TS2JpaFZhOEh5RTZXWWROZWpwZV96b3RVQXk3UzU5OWw4X19ucEx6bnl4bE5aX2xtM2xING5mVXRDM1hleF9TOUVLQ2dNT3dzOWFfdS1idUJoeUg4RlhKeVZjQWNRQ1JUcmhmaGpSVWpuOWRSc08zM3VuSjcxVTRWS0QzdlpyNjZQQVV0S1BYWmc?oc=5",
+    "fonte": "Canal MyNews",
+    "data": "2026-11-07T22:30:00.000Z"
+   },
    {
     "titulo": "Paraguai ainda é país com economia forte, diz vice-presidente da Moody’s",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOX2lYbVpsWEo2U3FLenBZRVNrZHFQRTVaeEJ6LTFLTVNwX3FVYm5pOVN1MGwwOHpIa25DLXpIMERiMnNNNVd6Q0xfR0FZTmZSQ1hpdTZkM3JNT1NWM3hFcXgyZXVXYmVnZC1hX0FQYUNNSWthX1J3dnhELVFYdTl3N1U3QmM0eHFyT092SHZvRWNoMGJjOG9Ja0FqaFVSVkVucHhTeG13NWtkblIybTlRTEp2Q3ZrdE1rM2F6YmlTVjBiWldjLWh1ag?oc=5",
@@ -193,10 +205,10 @@
     "data": "2026-11-07T18:05:37.000Z"
    },
    {
-    "titulo": "Uruguai volta a importar carne de aves do Brasil, mas mantém veto a produtos de Santa Catarina",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcWc4ek5PZHhqeHpQTmtMMUlSS0ZWWk9rYm9vR1ZyWWwyeThKakhrUU80Y2NlbGxwTkp2RWFfcDBmcThXVEFPOHEzREdwRFJkQ0xZdF9TX3RoQjdBOGtSTEJlNFVicWxCblBsWHZ4N2lZXzdMalJOU3dLVHlnUk1lUmN1TlljMmhnMUtpeWJXOUhSV0Z1cEtPUWpvaEpzV1JWb3NMQXdtLW9yQjI2YlVuT2NGWdIBuAFBVV95cUxNSEVPdVhCQW1XWllhVElTS3V5NjNWQ0lFQ2RJY1JNcEppS1VJVFktTGJQcXlYYnpueWdTdmhxa3lrMWZTWE5leGk3Ymo3emFQQTVLSWFKRkg3REJSN2VsUG03NFVnWWt1Z2w5VFVhamJIMEpSNEhBaUY5LXBUa24xWVZHQ0ZwVlltR2stUVhnWVlhb2Z6YjJzdVY5c1JhZTBuS2N6Q2ZqN1Zja09Kek10Z0J6Sm9rOTJh?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-07T14:33:00.000Z"
+    "titulo": "Fenabrave: Agências de veículos pedem adiamento da reforma tributária",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSnhXUlVpbmk0ZGNncGF6SDJ5WXR3amp3LUxLdmJkazNBSElkWlBOY1R5RWp4djhoV0xPY2hIemwwZ3hYaXR2Y3lSLTJ5VmVobmEzcDNYOVBiZEdmdFFFMmY0dk1JTVExVFY3anhmd2wtR2c3eTR1enVOc2NaOHZGUDY2cE5CRVBzRUU2TmdMa1R2MnAyXzdfdUFkdGluWW80LTVaX3Y3Q1ZEaUpPcXN0QlRKZHVZU0EwU0JGMTVPaw?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-07T13:42:40.000Z"
    },
    {
     "titulo": "Governo da Bahia reforça apoio e promove ações de combate ao racismo e incentivo à economia negra durante a edição 2026 do Afropunk Brasil",
@@ -263,32 +275,14 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNkltVWM5bl93aVpLa0gtMnExNGxrVWR2UW5yWF9iWnYyNUJEaUNFci1IWnF1SzlSdUw5WTh2aGhqMDFYemVQSVhHWXFhbV82eTJzQ283c09xNGkzYUJyd2ZJS0RLMzFJZ3dGdUlJanBUX01LWjhhem02WlRKZ29YblZRSUJSXzViRVl2WmJ6bU9qNzVXS2hmTEJYVjlqSVhsVGtsa0JjQk80cUk?oc=5",
     "fonte": "Jornal do Comércio",
     "data": "2026-11-06T21:39:18.000Z"
-   },
-   {
-    "titulo": "O sonho de Abram Szajman: um Brasil de oportunidades",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRFgwTTNpaVpiRzNRX2U2a3Fra0Y2TEpXT0JDWUhIM0tSRGlVV3I2blRxMEJtalFOMGdYeFMzV0MtamRRNHkwSE1SUF9TRzBYRDR5bDc0M3pzQjFGMUlfeU9vVGJFQkVWV3ViN0NCUEhmQzlCblFjd2JidXc4Q2lNZ2dzc04yZ1hzZ0NVRlVMN3MxRmxtTVV3?oc=5",
-    "fonte": "FecomercioSP",
-    "data": "2026-11-06T20:21:43.000Z"
-   },
-   {
-    "titulo": "Juros futuros fecham em queda com política econômica no radar",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYm5pLUxxY3ZvV0pVYlI5cmVXd1NDNllEdURrVGNOWUIzZnk2ZTdXS1JSTFFjZjhhcXM0SHZzUnFrMlZDdEhzTzNQUk5SR1FKWWZTMWdpbVU4dnNvWkdOUDJ4OUdUQ3Q4MFpLc1dDLXJpT0ZnMkRwUEtGOTgtUmNsTXZqWGJvMUdNVW43Q0xuck5NTlVZc0tPNHRuZ3F5R1UzZEpBMG9MM3Y0Z19nSGNvQTU5b2Q?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-06T20:10:49.000Z"
    }
   ],
   "politica": [
    {
-    "titulo": "Lula diz que Brasil tem ‘seriedade fiscal’",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNLW1VUnB3ZFpFUGUtb1RScWpjYUlWWVVNeXZoT1lUYlRBa3FhSlBGR2JUTkx5NXZGd3gyLWlPRExXMUlWS1JWRmxBaTVHdzN4WUxvQjJKZk10NmNZYlctXzd5cEF0bjVYZ253RXl1em1SdExyalV6X3JhdlNkUzlmWVNnME5zZEU?oc=5",
-    "fonte": "Tribuna do Norte",
-    "data": "2026-11-07T20:00:00.000Z"
-   },
-   {
-    "titulo": "Presidente Lula estabelece meta de tornar o Brasil um país desenvolvido até 2030",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2xzbUx1WnFkNFpfY1RRUTktamx3YVhPeHF4NHNMZl94VVBRVFl0LXdZd1ozekplWG83VEM2Skc5Smx0dmU5QkJYRDhXRGJZMUNiTGUwcVJ1aUcyTnVkb1Fpb3p1aUgzdkZjdFZJSWF3RS1VMUVxSHl4ZzlTTXpYY3JWT1h4VmFXVEJSLVFwbXlkNWNRZXgxd0tzcHBlLWU4VExyODBCYjJpWWNGdmE4azVUdEJ4dkFJZFZJ?oc=5",
-    "fonte": "Portal VV8",
-    "data": "2026-11-07T19:36:25.000Z"
+    "titulo": "Flávio Bolsonaro diz que Nunes Marques 'não sabe do que está falando' sobre a eleição",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX3dpVHlPMndvSGFDV3JWMEhKMXhSdFl4VlhpVGE4MVZfNWNQYm5tT09qYlMzcUZ6SWZPUHhZQTBQOGtUa0J5NDRmX3J1N3VsaDNVNDJfSXFwV0FKemNTS0E1LWJPanoyN2g2T2ZqM1hRUnluTjVfLVl4Y2JmdXpIUlZnTGhtT2lfMEpSbDQ1T1hFbzAtYzFQTFFvQkNfZ2ZLaHZLbTJGQ3haZmdkMDNwTnhhTmE1WEpFWERrN2lTSmFPVFJOZDg4alFacTNJUQ?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-07T21:54:00.000Z"
    },
    {
     "titulo": "‘Trump está convencido de que o Brasil não é mais uma democracia plena’, diz Flávio a jornal dos EUA",
@@ -307,6 +301,12 @@
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMnowU2hTbERiMnBtYnVVMHh0cHZtVWdRR3ZQYmFDMTAtcTNaMHFmTlBPb1cxN2tSNEc0Sk8zc1p4SjQzWDZKVnhWRkY2MWRHWEZ5M3dWMDdKQVZ2NDVIN1lwb9IBaEFVX3lxTE5hSGJTbHlSeFNBRS1NVEFmMU1RTXluUFdaaVNTTzR0NWtZdjVGUjlfM0tRRkJBWG84d1ZyUWF3TlVXNElNYVNkekoxOGhQVHpoTmxqbGNuOGV5ZHZpM1NFa05xM21tSTJ4?oc=5",
     "fonte": "BBC",
     "data": "2026-11-07T13:28:21.000Z"
+   },
+   {
+    "titulo": "Violência indígena pós-eleições no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZmZvS29RZnpDVzRBOTJFb2ZuR2NGRGU1U3JJUUJvd1pQVzlqamQ5VXhiMGR5RzNaS3NNZlhROEpjUGVFZ0x3anBmYi1HUVNXcW1pUFd3alZtOG5COWdUMUhHU1hmbnBkaFp6Ymd4X1pwdHhmQkV0M2g2V1VSQkRUOUZXcXVaVWVHZWNr?oc=5",
+    "fonte": "Esquerda Online",
+    "data": "2026-11-07T13:00:34.000Z"
    },
    {
     "titulo": "Debate sobre juros tem tudo a ver com movimentação juvenil e popular que levou Lula à vitória, diz André Singer",
@@ -767,17 +767,6 @@
      "Scimone P"
     ],
     "resumo": null
-   },
-   {
-    "titulo": "Black Myrobalan (Terminalia chebula) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42964735/",
-    "fonte": "Biochemistry and biophysics reports",
-    "data": "2026-10-24T00:00:00.000Z",
-    "autores": [
-     "Ghiasvand K",
-     "Meftahi GH"
-    ],
-    "resumo": null
    }
   ],
   "phage": [
@@ -1026,17 +1015,6 @@
      "Gaggi NL",
      "Hurwitz B",
      "Bernal J"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Black Myrobalan (Terminalia chebula) as a potential multitarget neuroprotective agent: Translational insights and future directions in neurodegenerative diseases.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42964735/",
-    "fonte": "Biochemistry and biophysics reports",
-    "data": "2026-10-24T00:00:00.000Z",
-    "autores": [
-     "Ghiasvand K",
-     "Meftahi GH"
     ],
     "resumo": null
    }
