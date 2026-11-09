@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-09T07:03:16.315Z",
+ "atualizadoEm": "2026-11-09T08:56:07.783Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Pesquisa disponibiliza plataforma com dados genéticos nacionais que qualificam diagnósticos de doenças",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcXp6bFlld2h3UGhWamFPOXZWV0pzcFhSSkd2OE9LXzZMS3NLMVVYUlF0Mm5aci1Id1BZMWp4RWRjX1AzM2MxdGR2b3lDOGQwMFA3QjRUamhNaFlMbVhyaUc3V2tjVVFsRExBbVp1X3FhZFhoTWV6YnlQZW50bDNJY09XeXFFdWphTVAzSVNtTHIwY0RPVmViNk14N2ZRejBxTl90RlNvUmdKN1pJUHJzWml5Ry1MZTlITmhNX0JfckZqdTI4bTI3OGplUms4VWc?oc=5",
+    "fonte": "Bahia Na Política",
+    "data": "2026-11-09T08:10:00.000Z"
+   },
    {
     "titulo": "Ministério da Saúde Adquire 25 Mil Doses de Vacina contra Mpox e Reforça Estratégia Nacional",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcGcwd0lsb214cUJVaTJ6cnY0Q2luQUx5Sm1JUU0xODNUQTUzMUs0Ym5Fd2Y0VUxycVI4YWdLS0pEdjhJbnBKdUpSZHhyd1loOXVPT0czcmFiTzJ2SEduR0ZYQk1FSHBRWFNzbmlwZ0E4UjFucDNmdlhiMzBrd1VzT3VQS01pQQ?oc=5",
@@ -25,12 +31,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPekpxRkR1Q2h6cnBYUmZUNVBVY2JzLXRIWm11enl4VUtBTnpMMi01Tk1TNVc5VzZ2YmhsYXdfTW5LYmdfN0NuS2ZIRzBwWkhpYkNvcm5sY3p0cXVOS05qYWtaeVBWVlhyTW1TUENfSDNRbmV3RGd5SkdxNkR3Y0NNSzdNemVGaURyRlFYNXdnSFREV3JpTFIxZ0VfczRRN0x1TXJTY1RuVzFhRVE?oc=5",
     "fonte": "Prensa Mercosur",
     "data": "2026-11-09T01:56:56.000Z"
-   },
-   {
-    "titulo": "Brasil — Enem 2026: tema da redação deste domingo é “A valorização do Sistema Único de Saúde (SUS) como direito universal”",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNT3NFM2E3T0J3OWRVa3lhZkhzNS0zUGtOazVaUUZJWWdLdmxweEZYTzZyQmRlNXhVVnpYa2Y2alZWVVZpYnBwUHEwMkhjUlBIbUFPX19sZ3gycVl6QUJLeUFwcG5vblhUalJKOXQ3dTlBbDZrZ1JOekc4NnpwektwZ2cwcXgtbm9QU2pjU296bUVCZnBHZzNIRVVDTktiV0VMZjV3MzdkRnpBRmpXMC1pNUk1cjJnbnU1aWxLOU5jNUh3cnhybzNMTWFHS2xjZ29hZUdNbUZ3WnhJMUkwbklkbTQ4VFBqdTRfRXc?oc=5",
-    "fonte": "Prensa Mercosur",
-    "data": "2026-11-08T23:57:16.000Z"
    },
    {
     "titulo": "Tema do Enem 2026 destaca valorização do SUS e gera debates sobre saúde pública nas redes sociais: “Saúde é direito, não privilégio”",
@@ -95,22 +95,22 @@
   ],
   "seguranca": [
    {
+    "titulo": "PM de São Paulo repassa R$ 15,5 milhões em consignados do Master em um ano",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUsxZ3M0Y1FLazdKcVBYcFcwNGxkdFJvcS1rT0o1RkpLOU8tTEFXZ2tTcEZUM2hpLXdfZHRkY280LWFUMFRoN2RPeFNMcHBHSi1keWFTbE04d3U1X2Q3VFlBTmFrQjJOeThNOHpQMmI5b2tIRHA3ZWpqVWZXRlZMejRxem1sb2JMVWtMV3NOdVNIdGNCMWRWc21Db255Z2liaXFyWGE0QQ?oc=5",
+    "fonte": "Folha de Curitiba",
+    "data": "2026-11-09T07:40:11.000Z"
+   },
+   {
     "titulo": "F1: Muralha Paulista apoia PM na prisão de 12 procurados durante GP de São Paulo",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYmZEZ3NHNVNoRTJCemhEb1BCMWd6cGFLNXFuMVZnODlxRDY3Mk1HV2xRQ0laOVpJa2wwWWZFLW1jb3JzcjMwdkNBOW5IVmRySnpBc05hNEQxZ1c5TTF2cDNreTlmZW85bEtQUUowa3lQeTVwTm1FZ1pqcVp6b3ZwLWxTQXRfNHZXbzdkV0xCQUZ0WkszMlN0cTk2WkdKb2JBQjBYR0NTZWY3TEpYUTlLMk9uN1hvUnpJRDBmVUIyU3FINlJLTmdDNUtB?oc=5",
     "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-09T06:27:57.000Z"
+    "data": "2026-11-09T07:17:09.000Z"
    },
    {
     "titulo": "Governo anuncia prisão de 12 procurados durante Grande Prêmio de São Paulo",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcnU3Nk5XclB3MjM2Xzlvbll3R0U0M2dZUTRFOThMWW5fZ0E2RzM5alhWVDAyY19DcHN4WXRvOTlsWmtsRFdHUmpZRzcyYWJ0bU1XSFkwNmdpanYyeEdQYTJISmN1dk05WGFTYWt5WVJfb2dkSVNMVFkzVGVCaUVHSWVtdDZjbGxaRlVwUDYzZV95RjNsdkFRblBvVUxLY1dNRmc3UHdqajNNMjFYYkVxWFR4WkRvZld2bHZtOTZWaTVRa2pMTDhNdjRWOS02VHhMeUJN?oc=5",
     "fonte": "UOL Notícias",
     "data": "2026-11-09T01:29:25.000Z"
-   },
-   {
-    "titulo": "Tecnologia e Inteligência: Muralha Paulista e PM Detêm 12 Procurados no GP de F1 de São Paulo",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeUtoME5sYUtiSm8yNTJscDNoMWlIUS11VElIQ054NnpjbXlHbExyUnlOeEdlazNLRmNxTFVKVmUwSWNyQXMyQmhyMmpUR3lvazdJOUtBbVhMY3E4enY2VjlCSWxvOHBSRXhsOFdEWjJmdmZIYmJnbXloQzB3R3ZYVzRaSG9aaU0?oc=5",
-    "fonte": "Jornal Digital da Região Oeste",
-    "data": "2026-11-09T00:52:01.000Z"
    },
    {
     "titulo": "PM prende 12 procurados pela Justiça no GP de São Paulo; nove deviam pensão",
@@ -187,6 +187,24 @@
   ],
   "economia": [
    {
+    "titulo": "Inflação no Brasil e EUA e ata do Copom direcionam o mercado nesta semana",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM2RQR0VBZzM1MXZwZHNaVm00cjdvVzVwZ3J4MldVM0kwRW9nZUN0WWF4SWo2NVlrX0E2NGtudDVSLXdWWWRsNGFSUFJWa2ZKWnJGRHlSRU1DeVZOVEZ5MjJCcW1HS3JTT1F3dDhBcm93a21jR0xIcENHWDdoUkgzY3ZmVFotcS1LU2hDZzVidnpyTGpENTdoSFItLXpnMnM1SlY3M003TQ?oc=5",
+    "fonte": "UOL Economia",
+    "data": "2026-11-09T08:30:00.000Z"
+   },
+   {
+    "titulo": "Aumenta o risco de um cenário indigesto para a economia em 2027",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVHZjVG1Dd0NCODNiazhnUEtBWnNzRnFvSHp6SFM5bWFEdUtmR1ZzVXFDU2V1YV96RktFRXpKZmFvb1FLY1hjWDBzazBfQ1NCWGotdkRKcVNDVEhMUUVpWElsc0VieDFtTTlnbW1kM213eWZrbWNJbUx1WGh4ZkFUSVJKa0pkSXpaNVVLRnVGdktJcjUwOFgwb0liR3o2NFo1U0EzT3pmYnJGdWPSAboBQVVfeXFMT2VjdUhQNjRxX3VwWjJPMGJDQ2hLYjlzU25xT0wtS0YxX0pNNGdXVU5OWldLd3BtbjMyMHU3RkVoSmpOTzNWRmZUak11MGc0dHhhampoVGRCLUpKOTdWZVZRVEFjVmZNS1VLa0tjSUpQMEFvVXAxeWVxRU9KRHl5b1lzcFoxRmNqa2QtTkxWcmVmX19IY0ZpbG1Nb1p4bl9qN21YRXNReXlpUTJmSUpMVHAzNEo2MzN4T1Vn?oc=5",
+    "fonte": "Valor Econômico",
+    "data": "2026-11-09T08:08:16.000Z"
+   },
+   {
+    "titulo": "Ambiente de negócios no Brasil é mediano; veja ranking por estados",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMlpLcW4zMjFPclprVzZnUHl2SW9fQ0JOT2N2UWFOWU51cVZjcGQ0WXFlSnMwMld4dHJ6eGQ4TkZLOGo3TlpxQ1JOSThLQVo4d3R0N1Q0bFRXQWRPUXZrTXVBaGl3ZGtvakJwZ3pCaTdyZjNZb1FVSXJBMzVnbWhtN09LODA1T1RUS0pyUVh5TVBvRkN4bjVNa2ZKRVJGYVZqY2stY0M4eTFveHJwdnB1bHRKTG9wNXgtMkxZ?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-09T07:07:00.000Z"
+   },
+   {
     "titulo": "Nada é tão urgente quanto definição na economia",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFNXVjViTTI5SFVmSDJwYzJQYlB5Z25XWDdZUmp2WTZCZ3FlTFVqbm5YWWdvVks3N2JKbzBYc3dGZXZXM2lpQjR3Z29mekVZU05Eczdud3I5TkcwcER6b2k0WnRUS1l0VGhzUkNhM2VfMWM1NkRXVEdxSUluUXFpXzNKMzRSNEoyTWFhemtMSThBUGo2Q3N4VkM3TFVsS1M4c3JmS0l0RFNWOWVFS3fSAbwBQVVfeXFMTjlVYXhTZXYwTDFWOUE0ay1sSHdJdG1zdjhkWjRkMnBrMFQtOGVGVTRPZEtZUGpuNVZzdWZTcUFRZ2prdElyRjNlMmxtT2RmM3h1ZWdJYXNtWjdINVJFZC1BN2FBa3dVR2ZQV3ZxS0tYRF84ZmpJSHY5SzRZM0ZiTHd3WkdPLUREdlNNZ2JLVkFZUFlsNkN5NTFORjhQUmFXS0dZbVFCVVd6V2UxNGhPYlZDc3dKQlFGd2NGamM?oc=5",
     "fonte": "O GLOBO",
@@ -241,12 +259,6 @@
     "data": "2026-11-08T19:45:00.000Z"
    },
    {
-    "titulo": "Risco de recessão no Brasil ganha força para 2027",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOXNJR0c3V1pHZVJaREJyMnZvVXBuUEpWaXgwLXJxaFZaQkF2OE5yRXRzaXAwejlNUlF5RFNLZjd1WlhwYlBuQXNycXRSUk94SkUxTFozQlp1cDA2bU9PMmdxUEVzdHh1V1pzb1hMZW13ckZEc2hYWW1fX3hybk13cERZNU5vU1k2UW9WaXdNd043T3FlWnVVYmRR?oc=5",
-    "fonte": "O Tempo",
-    "data": "2026-11-08T18:01:52.000Z"
-   },
-   {
     "titulo": "Brasil corre risco de recessão? Veja o que dizem economistas",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNem91Q3pQMVhkTF9vR1BJaVhadndjZDA4TDFRWFVGT1E4OHJHQm9tRHN3UnVjdG91YlZ6Zk0xV2JDdEdPSEhCZFB0VWRhWmQwRjRTLTgxdl84VEowRXBLOU9VZ0NKRXNJTGNuQVZ1QzRaemZRUndqSW4zczJOYWR3N3dydTRTVnVNd0tRSnBkbzNMYnFVaDFqVlhMT0JFNnVRdGVDc1ZB?oc=5",
     "fonte": "SBT News",
@@ -263,18 +275,6 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb3d3cHFlQ0VFY1k2ZXRvcnVXLU43b2d2V2VuR1BZSDJoMXZOZG1ZTVFOTTZ1WFkxTUxkWk8xOGFfc2RtSnU2SGJnQWc3OUNrTGNnX3dsWjMxV2l6SFQ3UDhsb254R1hMUGtYSDBnS1Z1cWhUU1Q3ZlA0X1d5TU1pOER2M1lhNUpzcmNDckdIR1V2V2tva2VobnZndmV3emFjNjNidXpDbkJtSjdGejEwQUYwMVBHV2wzQ1hlY0xNd2I3OV9LcGliU09zYmVmUzRKZGF2WVRoTkppdTA?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-08T16:00:58.000Z"
-   },
-   {
-    "titulo": "Número de superendividados no Brasil cresceu 75% em cinco anos, diz BC",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzBUbXNad2F4cGR3REppbHdoWTBPVkRYSzc0NkJpZ0RuVGc3ZHdlOVA0VEhRaG9Bal9Jc1NEQU45UlVmN3VicldXU1BJckNTVGxORUE3emNyNUdMaHFlNGEtSFpDZjhQWlVSOE5CQWJ4anJvUTA3X3R5RG04OEpuY0hNZjRlSnNBTk5DSjJGN18zMEtKNV9ENHBvNk5COVdhLUdfdVRUdGE1QjVCLXR30gGvAUFVX3lxTE05QUpPcFFKY09tQVVFR3kwNmw3NFhfX3ZHelQ3Wnd3QkF2c3FtNWFiWkQzZTlwaFM3SVl2V2FaaHJ0TGxub3pHTGo3WU1qZ3JuQ01oTTIwSjlRY2pLbEhnQjNvYVI2c0dIZnY1OGNmQkNzNUNmT0dCMnhUU0U3V3BIOVZqX1BMQlNodUxxQUlDRzBNUm4zdUQ5cW9JcXdEREt4cU8zYmZ4czNDSjVLYVE?oc=5",
-    "fonte": "diariodigital.com.br",
-    "data": "2026-11-08T15:50:00.000Z"
-   },
-   {
-    "titulo": "Quaest: 81% dizem que Brasil saiu mais dividido das eleições",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb0VudFJRYWs3VmotNUJJRnNHM0F3OWlwRHpLc1g1ZXY0STRQV01QMXQyOGQySmd2eXNOeHlsa00xZ2RWejV3SmFteldUTnZzSHdpOU1kbjR4ZG1SQ19yRjVuTEFpQVhmcTZzbGI1UnU3QTlWYUtZQjBTZEp4S19ScFNJTEo3SE1pdy1IZ3A0anp3U2lXZ2dKcHZiRGdSaWJjRnh3?oc=5",
-    "fonte": "Gazeta do Povo",
-    "data": "2026-11-08T14:43:00.000Z"
    }
   ],
   "politica": [
@@ -327,12 +327,6 @@
     "data": "2026-11-09T00:47:00.000Z"
    },
    {
-    "titulo": "Lula defende reforma do Judiciário e confirma Ministério da Segurança Pública",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ1BqYWpTbTU3Y3R6ZWh1bGNxSjVuZ2N0VHBFTHpGTVpfZDhaR1lSWFF4ci1QdUIydkE1RmVPQ1JMZ2kxUlJHaDE1cXBhYVlObWtmTUQxb3FSelBWZTktaTVpSkU5TjhiM19veld2THhMVHdMcmNJNkpoVTBNSjF0QjRQczZCMEtjakJtTDZyTUp1Z251MmJuRUo1REl0djB5cHhfMXR6NVVoVUNkVlpsWVJnT0xiUW45RHNZWnV4ZHd4cjhaSE9MRXFCSQ?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-09T00:28:00.000Z"
-   },
-   {
     "titulo": "Em perfil, The Economist define Janones como 'herói' da esquerda brasileira",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeWNlUVhCZzJOYnVwcjhSSFZjNnRiYmNlcG03dHQtOEw3WWswcmo0cENzM0pyaVN5U3ZjaW1HWlhtY19iWEdiM3ZFOFk1VGxhTmZNMXBzb3Vra1JodkF5VEVUWDhzYVljb2t4c3JzWmZTbWFEc0VkY1oxMEk0Q3NlcjVOTjdENmFWTkhKcnVzQkVnOHBTY1hXSC1WVHRRdmEyU2ZrZUZ5ck8taDFra2dyRzNIdmxzcW9WRnRESmw3UQ?oc=5",
     "fonte": "Folha de S.Paulo",
@@ -355,6 +349,12 @@
     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mT2NObzh0N0ZNOFktc0FPc3BnTXRSYVd0M3dza1FNM1pzQklBWG9SZVJqUjZaMDYwU1hqRG1OQ1R1Vk1uMjNNZllvTWROSndTNHY1OHJlQUQ5ZDRiRjVGb3BGQdIBaEFVX3lxTE1IaEVNQlVCNWZvbFQ3Nk5tYzdFTXJ5MnFmMnc4X19ZN1h6N19wZGhVcE9RTUdLMWRNYS16SnNlYjRaa2UtSUphYjdsLTc4VWJZYzBMVlltWjFwSkRCWmlXV25xTmZWUHVS?oc=5",
     "fonte": "BBC",
     "data": "2026-11-09T00:11:22.000Z"
+   },
+   {
+    "titulo": "Lula diz que reforma política e do Judiciário é urgente: 'Hora da Justiça brasileira recuperar a sua credibilidade'",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbEo1MzVqZmxEQ096UGNiZHNJR0hlSTl0S3NMbWdhV2JybTdfREplV1lySF9qVGkzb2JrdU5IaXNnMG5SVDh6MDlINEFXMFhUeDcwUHlsSkxhaXFaaVZZcUtPeHhGRkdMZkphVkZtQldoOTJ3RS0yVnQ0Z3F1TkxWY2V6ZXc5dmk2azFRYUlfa0R6OHJDZ0luaFRkNjE5S2M1UVpuLXBkaUN2cG03czVXSklFRjR2ckZLTU5FM3NIWFBWT2ZoU0dLazUzeUdHeElmLTJ5OXdFUG50YlpieHlQQWtaSGVIVl9ZWWY2eXEzajMxTS1xaHBlUV8xMNIBigJBVV95cUxOd2RxaEIxbmFPSDY5by12ZnN2UFhOVVF3Y3IzaTdjSTVzc0liYTFUQ1FMbFR0ZXI4cVNFYzFDSXU3TFI0NndTMVhjaG9wRklrZld6R1EyVmFSMDBla2RVQVM1djZSS0NxX0tHMWNkTUcybjJVVUVYcXp5QjQ0ang5QWhsdnRnNmJuMmMxUUFLTzZfZWpNQ09LR0YzM3N3YUtPZFNlT3FtVVlwMWhPaWJNM010Q1hJT0dDM3htUERBdW0wVmR5UXVWVGwyeVdlT3ZSd3d1M3d6elFwY0FEYXI5LVNFS19uUVVwaGlpUFEtUlUtbk90eWNlcEFYbFBiZ2xFbFlhbnUyeUdJZw?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-09T00:07:02.000Z"
    },
    {
     "titulo": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027",
@@ -469,12 +469,6 @@
     "data": "2026-11-08T18:49:54.000Z"
    },
    {
-    "titulo": "Missão oficializa candidatura de Renan Santos à Presidência",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1lYTUybDUzbDJ3eUlhaWpHcDFBOWJtbk1qVUZYMEw5UWRmLVExeXEwT1JDNjNKN0FjZ2YtTnJobk1EcURsM1ZiaGFGMllGVlJRV2pRS0s3YS1BMXF1?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-07T01:20:00.000Z"
-   },
-   {
     "titulo": "Renan Santos faz forte acusação contra Sandro FIlho, deputado eleito na Bahia - Massa",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzRvcXlNM3hxTFA0SEFFakY1MzdQclIxZUx4elUwVUVlWHlaTHdiaWowMWxrcmNEWVFDbC1sVUFhS0N5R2MwMGxMWlZWZ01WVExPQTM5Wi1waU55cm5jajZEQndZSVk2RXd2Z044M2hvQ0RLZzFOZTdWa1BRaGJlQVlKNzlNZWRtS0VIbkhyYUMxbjU2YTJBWFZ0NUdzQkU3MFhhREthc3lWMU13U3RVZHRRQy1jcTU3UmRPbdIBxAFBVV95cUxNLWV4WVJzZG81ZXJoYndvcHJmcmJpaC1BUmNlelo2SlpwUzI3V2ppaDZWSzBhSE1aRDV1R3NPMkp1ZTlEdjltaEpueEE4VElESmFyMmdlcWpzOGJEQ0hSakxzZnpyTlcxYk83NVJ5VzQ5ZnVpMU9lY1NSTy1RSE1TRl9rbXpnNHFNb3NKTnRXSE5SbDgybW9HZV9fcDh0a2JVTDdtd2g4bXU2UXd3Wnd2QnRIM2w0WGs3dWx2VjFBV0dCVElq?oc=5",
     "fonte": "Portal Massa",
@@ -487,6 +481,18 @@
     "data": "2026-11-06T17:59:33.000Z"
    },
    {
+    "titulo": "Vídeo: Renan Santos volta a atacar deputado Sandro Filho e questiona patrimônio",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFVuZEdzaEl2UElHQTdQdkRaeDg0RElreHd5aEszU2g0WnVEdkVJX0ExQS1UNWU4TWdNYThUQ2pVenRtSXVxTS05aElLdm5jd0FMODkzam9FRXVTal9vNDE0aXY1OVF1UGVWcGdtWDhBaC1kLXNwbUJIWElTSHJXdWZkRkVmVXpWalRKSmZmZ1NYbzF3VmU2ZzRwMUU1ZnpkcHc1VlBuNGcxV0F6aXEyT1RzTktaZDlpbkE?oc=5",
+    "fonte": "Farol da Bahia",
+    "data": "2026-11-06T00:22:19.000Z"
+   },
+   {
+    "titulo": "Em programa, Renan Santos fala em \"despertar os brasileiros\"",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbDFMNjNISlRtdEpLeDdZQ1JKekFFUGRDSF9CTHBqVEoxanhxSHQzQWJRZ19HRWRJNV9FZlRLbjRwTEF0YmhQaVhBRlhkQkxTQkZReWNnU3F5RlAtZ2hvUXJ1NGZabERPZ3RIMVZUSzZuUmsybGpDRm1YTnRvN3J4Qg?oc=5",
+    "fonte": "Portal ABC do ABC",
+    "data": "2026-11-05T00:23:32.000Z"
+   },
+   {
     "titulo": "Renan Santos, ex-MBL, diz que precisa 'acordar o Brasil' e revela detalhes de campanha presidencial",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZGcyM2lRdXZlRUpUWU45WGZ3eDZLLVlGUmZwWTYxV3F0d1RTc2UzVlEyVVhMTVl5SWdnaWJYMDVtV3NjNV9ZYVFudHFPc29NczFxVGw0cm9Kb0U0ODAtemp5VkRzUU5nUkg5d0JEY05BNmZnSnl5TGVzY3BUcEVOYVZHUkRrMGZJbzV2V21ETjZ0OTFnOVhTQUYzVks4MkJQcjU0VHphZldkdi1INkVGTi1JV3NpYTdJU05YclZXck1ldFBreEdZWUtxcjAzdjQtQkVkWlhNYzJ0LV84ajRGQXJB?oc=5",
     "fonte": "bra1.com.br",
@@ -497,12 +503,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNll2VVlRd01idE1QOE03MVp0WkxqY3JCY2wzUk9URG1vU1IwMHdWc3gySllrd2F4NU43U1ljNnY4QXpzMS1TQ3M4R3FzTVNsV2d4d21scXM0SjBfcnF4Tm9nelczQVZjWkNVWTFEeEdxZjJNSkZSZHBHcEstbTNfM0FJUW5aSHF4UFdib25KaGVkTTJ4V0tVYXZmUXdDa0ZFRGROS2tINUE0UQ?oc=5",
     "fonte": "Folha de S.Paulo",
     "data": "2026-11-03T21:01:48.000Z"
-   },
-   {
-    "titulo": "Amom Mandel nega mudança de partido",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3hpYmxWNnByVzV2RVY1TDJDYWU1YkRZY3pCTGV4VTctN1RzeFllOFJuUjlJSmd3Y3dPYWlmOTZKZ0t5R0RYM3FjbGxsaVdUaGlmZVJBYkRSSHVmUnhiZVkzRTBKM3JNLXJLVGR2YXpPOTd1UnNsYlZxU1FjT1VaOGdRSVNEeTEtOU1TM1ZhZU5zT2V6N0NuMDZiY2JFSllkbjNRV2gzRTlNdw?oc=5",
-    "fonte": "AGÊNCIA CENARIUM",
-    "data": "2026-11-03T14:55:05.000Z"
    },
    {
     "titulo": "Renan Santos revela fórmula para vencer o PT",
