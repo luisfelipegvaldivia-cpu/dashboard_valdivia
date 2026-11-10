@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-10T04:41:44.361Z",
+ "atualizadoEm": "2026-11-10T06:48:41.933Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Brasileiros com risco de diabetes subestimam chance de ter a doença, diz pesquisa internacional",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObDFNRmQ4dEtyQjFlSkNnTWFvRVBxVHBvQzh0UUExRmQwenlSMmZfcVFCTEE1NkdaZ05sVzlOVjlKWnBTbDVIWGJ0bGllZ1o2LUVvOU5VMlBPZ01DdVJFT013cnJnU1lDX280U0NaY2VKbExydk9PMDd4UUZjLXpoVWxtbC11X3l5UVZ6dkU4T3JjOFdfemY4NHhLZ2w1Qll6eDhXaThmY2pCRTJaMm84V3dIMDVaOXZ5RWZSYUJLSU9lNlVianFmZDNhYjFBNFZkOEtUNkxtYkU1ejhacENYT1FKR1FlajdSRktB?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-10T05:00:00.000Z"
+   },
    {
     "titulo": "Ministério Público cobra medidas para evitar colapso na saúde pública do Amazonas",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWUMxMC14ZTBqczZQeWQ4eUI2TU1fR0NsUzZXc2U4ZDA5MHNCcE5hTEZoZVBoTzRSS1FMN0JfbVRIRUdwMzRQbjdQNm5fTGJ4anczU0U5MTBrQVE0NzdFN3F5NkFNZVdtdWdCVHdmQXRYN3ZZSmZvZmh0eHczOVlYZ1ZKNEdUam9aQnluZUhQYWZhZVhYTHFhNjZBZGlJZXhXalB6bzJPMzhRTGYxd19LR1BTMGRqUXh6ekE?oc=5",
@@ -25,12 +31,6 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ1NTU2FXSHVFNkllRlBZLWZNNFdDN2VsbWlYMmltMmVBS3J4VHcwem5ndU9pVU94ZVNEUVJMOGwyNHdhSmg0SGZ5TlRTVGRQUF9sQ3lNNzJwNldoemk4Vk00OHN5THFFUTNPYXA2cENTV2Vfa3h6VHowaWE2NVVFNGRqSndUdzJPS0NnbDZwblpNeFNjOFZTbHRXUXJQQTdiLUlCY2VURl8yTUdjNXNVR2JkXzMwamh2R0dVTg?oc=5",
     "fonte": "TV Sim Brasil",
     "data": "2026-11-09T23:08:00.000Z"
-   },
-   {
-    "titulo": "Brasil registra 832 casos de mpox e uma morte em 2026; governo amplia compra de vacinas",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOHNKOW9JdEdaNmE3N19SRnhJTzdQTXJhUkg1VWtkcWdObnNmZ09aa0lCQ3lQQVlpdm43dzVmVjFlaGx5UEIzVjZDbXNNa2ZtdFR3M25WQWo4WmpQMkpYTGdOaFB4bE9yMjBLYUxkcG1GRmp3bGtyNjlmNWRIekZHUHdwN09RQk9TVWt4MmZXd2t6NDVIUWZyS0laWDRNSFVkZl9kamluSm5NNktCZ0FrdVpaLXVBTjA?oc=5",
-    "fonte": "O Hoje",
-    "data": "2026-11-09T22:37:38.000Z"
    },
    {
     "titulo": "Brasil soma 832 casos de mpox e 1 morte em 2026, diz Saúde",
@@ -134,7 +134,7 @@
     "titulo": "Prefeito em SP é gravado imobilizando agressor de mulher em bar",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZE9pNWd5eEVoa1UxRHp3Nm1EV3VxbUtidkVGZFNlY1h6UlJFQlhOdnYxd2pNXzRBajBtdHRseUp1WlFnb25KSGtXMG9JRTBQWVFBUUM1ZmFOcEtqbDNabl80ZGxqWk5HVnhFcEROakhjbzc0bm94eWkwa09VeUlTY2RHRUpLSV9kaU9SSmxlTGx6T2NTSi1IRkVBbnJYRTJKUkhUamM2YTJjaWZDYUVLVnFGMA?oc=5",
     "fonte": "Congresso em Foco",
-    "data": "2026-11-09T21:06:23.000Z"
+    "data": "2026-11-09T21:06:00.000Z"
    },
    {
     "titulo": "Polícia procura jovem levado por correnteza em SP",
@@ -229,6 +229,12 @@
     "data": "2026-11-10T00:20:00.000Z"
    },
    {
+    "titulo": "Subvenção de Lula garantiu diesel, mas não segurou preço",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOE10SVNNVm9PNmd4Sms4SjBNR2xmaWg2S01HU0NoV2xraEtTY2Z4cVB3ZGpfd3FFNjJlM1YxRVphWmUtc19HYUNScG9tZVU4RjBWUXRmNWcxaTRNMkY5MmhNdGpIYTBiaUFMdVpPVHVxZFRCWnZqTzlJekdPS01HWjVyOVpzRHBFSXl1a1ZsTFpKeE5MN3dWb3NxWWVYdw?oc=5",
+    "fonte": "Gazeta do Povo",
+    "data": "2026-11-09T23:20:00.000Z"
+   },
+   {
     "titulo": "O Brasil que cresce como a China: reeleição de Lula contradiz discurso de estagnação dos economistas",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQX0JlTk1WOGgxY09IVVRDZGo0VU1wS0xPZjNyQl83RGk4QVFfQXRhWXVtaXNKOXAteFBMX01KSFVrQnpuS2trWjRnUEFabTUzT2VIdXVaQ2tGejJyVnZXWmk5YXg3dDd1OHRiaEMxLVl0VWxzb0I5dXQ5cDFFLWlEXzV6aTNFdnl2bFc4TWo0SEpSU1B1VUFYM00tVEY5NU1ZSElpRDJ5NkxsUGd3TlBCb01lVkdibEFLSlFnb3ZCQ3RfYjFfbk1hY1BDcnlOWDZha0tJOGd5YkdpVVdyZ0Y0UVBGWm50YUprUlVDMNIB8gFBVV95cUxQbUtiSnc2NFdDaFdYTm9fWThQcHZxRXdIQ25mZUpDX0hXc3J5X3k1R2tRLXFQNzljZUtyalRlcGdZUnF1N0RsNlBUT3cwY0xndTNqak1LY2t3Wm4xUDdsbjRFZ1BqWXNabWxRVUd3bzlTWjktNVQ3RHp4ZEdrbDZsSzNlcHhyRFBRNzlJdFZqS09SYW1sRkxmVzk4LV93MWpmTVczTlZiVzB5Zmc4Y2x1RTJycmVOTXdVVFFWSTZxMXZGNThpdFFFVjlSTy1udmVtMmlHeEV5Yko5d3kzNFNIQ0Jzc3d5R0EzVmZpX1A4TmNGZw?oc=5",
     "fonte": "Estadão",
@@ -253,28 +259,22 @@
     "data": "2026-11-09T21:14:17.000Z"
    },
    {
-    "titulo": "Mais de 319 milhões em um dia: Pix bate novo recorde de transações no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UbThLLWVYaERILWlPT0FBZm5jQlNyT3BVOFFLQW5mZWpacGNXZE5NQTY2MGExMnBMWEVtQ2F0a2JwRC1QT1gzc25KQXR3d2JQb1phT0JVMjRJVTdqWVljN2p0a2lWZHJRMnk3N2tB?oc=5",
-    "fonte": "Revista Fórum",
-    "data": "2026-11-09T21:09:27.000Z"
-   },
-   {
     "titulo": "Análise: Rumo do Lula 4 na economia ainda é incerto",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ2s5VExFUFU3NEV6ODM5bVBPcnJ4V1NibWItYXVuVnFYYmlrMzlVc01sdkJrOXU5NjdjOFFDVjRPU1RiTzFRRVdNRG1HMkR0NmhtbXZqMks2R21hOTlqc0x5X1NYUzNnaHZIUEpnd180UUc1VmxyUFYzU2cwY19vbmxnSmxBV3hfTWVtY3VGNkpoc2pLekp0VklGa1FjREpWbFc0T1N4MGdSMXc0Y21F?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-09T20:58:35.000Z"
    },
    {
-    "titulo": "BYD planeja investir R$ 1 bi em nova fábrica no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORG5SYjJ3UE1fS3AwUjhKb1lWZ1lEUXBuZDRzWi13S0tiamsyV1lkZmZnTjNCMHZvd3JtRXdxemdhVjd5UWdGZ29NV2ZQSDRLT2NqenlHbTdqbW9rVGo4UVQ1dW1DQjVhZXdoMmI3UWtZSXhBTjFrZVU4ZmItUENyWEFBWHZtMS1oUGE5Wm45ZnM0dkF5ZUQwYWNUMTJTQQ?oc=5",
-    "fonte": "Poder360",
-    "data": "2026-11-09T20:52:09.000Z"
-   },
-   {
     "titulo": "BC passa a divulgar lista de empresas aptas a operar com criptoativos",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPX2tSQldBc2o3XzFTMlF6anNkNjVpRUJzekRIcGNFRE02QWpJdzJjY3hZR2EtTkN3czNLWjVBclBPWWg4YXptUXRPRlJ2YUZKNE1XVFFWdHM5d3RUbm1tYXdvY2tXU2V2aVR1OTlhUFpMRkFUWDhsdktXbnZwMlI4eThPdC12dnRsT1NYQWNod1JiMWJKTzR2LV9NcURXeHdyMFU4UTM0NUVSeFBjVzhoTEtILWkyaEcwS3hxRFVtbnQ?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-09T20:42:00.000Z"
+   },
+   {
+    "titulo": "Pix bate recorde e supera 319 milhões de transações em um dia",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQlFQLUNsY3ZhSlRnRVY5OUpmdmMxeUtPRHp3ZC1Falk3Yk9wZk50d1ljbWk1WE11cTZrU0lkTW5uVEJEWHBNQnVBbG5CT0xTRzZSd0dsV25nSFZvNFQ4MEk5REFqT3Q0U09uQTJxbk5JWkFqNUFmWVRRNVRaUV9SRWk2U2tDemd1UGFVSS16RnZvckVMUnlrQXllUll4b1U3ZGswTTNRS2ZvUndmX1BRN21fM2xyc3VzRnQ4?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-09T20:09:00.000Z"
    }
   ],
   "politica": [
@@ -295,6 +295,12 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQamZUZjlfTzA5U2pYQXJHMFhxOFRZdC1MeGZzSWp1RmdWVWpLWVhUc1puMW9yYkg0OFl1cmloQkNLTlV1OXVmYVBUOFBSVWZ3aXBlbWV2ODByNWNEajZWUHJQeDhrd3JjX2hhUE9LbXFSalhUYVRRR3hvVjM4T1pRUWNmTXpSdWJpYmkzdThqMXNrNmhzb1Q1ZlZlUWg2OFBXSExScUZ1M2xCblhCTWlj?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-10T00:23:48.000Z"
+   },
+   {
+    "titulo": "Fachin arquiva inquérito das fake news após sete anos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ2trZk55UXplaVBldEttRzNIRXN0d0NnXzFWaFhEUmZJbWdHNXlMaWprZDNqNjM4R2U3Sk9FUERsTW9HYTc0S2dXa3hZR0VfNUIxd3c4dEd2YUJOdFg0Tk43Y0I3d0hQNm9hVWlncGFqMFdzUVlJQXR2ZE94R3dKUEJXdDJ4V2RRZnh6M1FSRVdjTTRfOFdaR0xsOTlrLWZVYmUtamtNZENYcGM?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-09T23:05:24.000Z"
    },
    {
     "titulo": "Trump diz que sua política de deportação “não mudou” e descarta anistia",
@@ -361,12 +367,6 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1N6SEQxenhnN25yR2VzeXQzdEJUeFNtZDVHYlktNi1pbUFoU2kydmFlRzFZNG11RENUWG1HMzlYaE1YdGZBeTB1NFV1SnZMSGYzdUllYUxUbVJxLWhjTGV4OWVpWjUwME80dllvZjhIXzBBeGctYlRMeHlQTklRWUFNMVhadUV0azBUNEl5MmhRRmhHak8wckdvSWtmaWp3NnhYYUNfZkI3bERI?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-09T17:12:12.000Z"
-   },
-   {
-    "titulo": "Relator apresenta diretrizes da proposta de voto distrital misto",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWc4ZXM4MlV3dHhIMmVBMFh0SjdqM2JqbW15NFp0cHlNQ21JWV9wdWp1UGt5VXdTTUhiel95Zl9qaGFCb0ZHZ1BlTmtSczRYbXFJNldhaThkU1lhaTZVMnoza2lZWU5rNVhsNV9FTTZRX3F6QU1sc0N5VmhwYkVaQkp0RVMybHRlSExyQ3F4NVpuQUR4QUNzeWFPY19Gd1B0TzU1R2ttOXJMNEF3NG1GY0hGdFdYZ3FnSGZ0UHM0ejhaWTA?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-09T17:10:00.000Z"
    }
   ],
   "alesp": [
@@ -443,6 +443,12 @@
     "data": "2026-11-07T14:16:47.000Z"
    },
    {
+    "titulo": "André do Prado provoca racha no PL ao tentar definir sucessor na Alesp",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX0kyM2hjcDNnSGdmRWljaHdSSVEwa2NWNWxPbk5DbW0xN2dXMTVXdndQdnlScEZUX1AtNXVSUzFXTkVYR2swRUdnVTl0dnFKWW0yb0FGdThubkxKaUt2cENIclIyaVNlUjFESnAzNE5reWZ0M01pSnZhTmdxM0Q1dWpOOGFBajllSXNNalBhTVkyVmxvSWlYUWozUDc2clpFZDB4OWQ2TU0?oc=5",
+    "fonte": "Vero Notícias",
+    "data": "2026-11-07T12:30:00.000Z"
+   },
+   {
     "titulo": "Com mais de 100 praias e um apelido nada turístico: a cidade do litoral que encanta atrai visitantes de todo o Brasil",
     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNam1iSFk1MDNtQU45RGtxSUp6X0xINHBiTDlWTnJyVzdVa2pDYzlBRmEtZ28yRnhzTmVLYVdFTDJGT242WjB2VnNIRkdNUkJQY2FSTmw4WGF0SHBxUGZvOENuaGpaQVZ3SFBKbUtOSF9DcEdJUFBvT054cExldWt6anNYbmJkUDdzcnZ3ZWtfdnJLNk01SUk4VFRTWmg1eUExb3pyanhJei1IcFA4ZzlHUktLSDJJZFo5YTBHcUF5NmNUZmRic09WRUNkS01lZm9BcGhRdnZxeW1Demh0OGRRSEl1V1ljVTZqa2xVdDBsUEpyQ1c2YVg1dlo1UFNXT2dp?oc=5",
     "fonte": "Canal Rural",
@@ -453,12 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN0tNaU1XOUJVX0gzd2VwVmRKWEdxa0FFRHI0VE5OY25DRFIySGpJRVVtN1ZjVV9EMHp0N1YyWVNBNWYxVWNnd1oyQkhCUW90ckZrYzI0eEQ0Q1A1eVBnS0QwUXNGd18yRFhrNjNKNUxyb3p2X0pZUFlXOHF4UGotNEZGUHFpNGtZUGJBSXQxbm44Y3ljWnVfLVRKTnhwX3Q3T1pVQTFwRHlsUkFMWklxanR4R3RfaE9ZdVZvRmtvMkhaMzk3TzJLUmtNWlU?oc=5",
     "fonte": "Plantão Brasil",
     "data": "2026-11-07T02:11:17.000Z"
-   },
-   {
-    "titulo": "Senador eleito, presidente da Alesp tenta emplacar novato como sucessor e gera racha no PL",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUFiNzFYRG9TbnlKNFMtVlRVNkVFUnl4NFJOekE0dTBZbnRwc0N1c1J3XzA0Y2pZbkhTVDVmM3djM191LVRBclVRR041MGtQcVlMYmZjRTlfQjVYMGNuck5neGI4WE1rZFpoV1FJUVJPZEhhd0x3bV9NaWk1NktUcHJ0MDBVVUhuSjB1MVlXZjhnQkRlSFUwTEVfQWNPVWNOYlcxaGxFamdMU3p4LXlMb0FXNUdjZGJRak1DWERuVzJSZ2RucFVlNDcwN1BCWWQ1aVFwYm93?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "data": "2026-11-07T02:00:00.000Z"
    }
   ],
   "missao": [
@@ -561,12 +561,6 @@
     "data": "2026-11-09T13:01:01.000Z"
    },
    {
-    "titulo": "Alto Tietê tem mais de 5,5 mil vagas de emprego nesta segunda-feira; confira lista",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSE1TU0sycFgydEMxRmhOVm1QWDdaR2J4cVRKNlB3OUp3c0phT2x3UEVDZ2V2VXNweTc3WnA1dFdEdDRHTkhkX0xqWjN3eUN0TkJxc041eHR5dThzOVRiQWZ5eTlWRWhpejg0ckJ3ZHdtenBjT0lHMmdrX094LV9sSHlfWXN5b3JFcW1XdzhGYVg1aG52QkZxZk44aFR1U0V1aU1pY0Rld3F0TlJBZUZqM0x5eVhleGFieFBxRFFqS2tyLXlCSHl1Z29iRkMzclJHQkU1YzFyMFd6bUlvRlVBcmFCNWJDejJXTk56Q2tGVHlsY1lROTQ0QjVlcmQtWlRWd1HSAZACQVVfeXFMTzB5MGNRckgydVNYY2NHMXNHTEwxR2k0dENDNjJtcEpjTUtMSzJ2OEJnQXpkbGhodWoxckFsUW5VU2c5T0FlTEtaalZmV0JGMTA0QV9JYkZJM1F4Wk1CTXhrWEFtQU9fYW8zcDFQaTY0Z0VhMndaNHFNV0htdHRLMlMzdUlEUUt4dmY3M3JyMkhhQ3lqNl95dzI4RlI2enRVdlR2VWtMRm1LbFAxTEFETEFkc1F4VFRqV2ZwVG5udGI0M01yS2YyMUZGU2d4ajhydnZhMjZDcjU0a21jNmd2dDZhTWw2cGFlY3dXX3dYWC1RTlA1cGhpbG9tSEluQS00T3lxVkZ4VlQtX28wbDV3S3o?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-09T09:52:18.000Z"
-   },
-   {
     "titulo": "Enem 2026: prova é aplicada para 33 mil candidatos no Alto Tietê",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUHRyalhsbWhuOHppOElxS2lOUFNCRHpfTGFxN2g5SHBSdVBSTGRCYzJpNlZLVDBZeHgzdUprLUhBR0xaX1AyZUZxcDRpV1FmTXZzeE9EMXFOT3ozZ1NPVHd5R0xYeFFPNUdGaEpmcDJOZ1hkU3RSbDg3V1VMTVM2UkNKVEY4M1lZYW5DLUVFOEZXcFA5S2p4LTdreFRYSTk5cktSYUZLSTA3SF9vYzNZRjFKeG5RU1Z5ZVpyajZadm5HbFotUnlZeHBzQ0JDaFFT0gHfAUFVX3lxTE9tMWY1Sjl5WEdENVh1NnVhYWREOHREazZIUWlyZGZyYkJjSW82dzNIbUNxNXU3a0ZXeC1RSklPSm5CZXpzbzR3OTNPaWhuNXB0a01yZUw0SnFkUXZjWGs5MUttLUZEMlc0VGNHUkxnUzQtRHI1bU5IalhKWmhIcGVOWFFGU0dGMU9NVno2R3BRSlNMRjgyZWJYS3ZnUHF6WXdBTDVDaFJ5NkZ4djBTcDFSM3BXMGFkOU02T0dJUml5NkR3ZFpJRlNtZ041aHI4a094NXZsNVR2SFpyemVRTW8?oc=5",
     "fonte": "G1",
@@ -601,11 +595,29 @@
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZTl5bDU3NUpUZnAtbFVZcGRDVndpT2RFcWRENVZEZ0hZb1FtbVdpYlRBejVKM2I1QnVZUldOY0dNMnFzMzE5dGl0c3lQQThDTFd4Z1FVdDg2V2c2bFkzUTFiQ0lBYk5lWEVvZHVRQkU2QUo3R1FHU2N3dDhZT3JLNDQ0WDRPazlHN0VreVZ6VjBIbmpvZXNoU1RULUpsb3lSTnQxSjFLMDFKUFhQeHZWaUhqRlRVTllkdnhQWEtWcUNDSWRvR0hvaWNnamZVUnB2VEpLLVVDeUtDeWFYYWtGOWV2QWnSAfMBQVVfeXFMT3ZlVVdvQVpPZE9aTmJ6LU1HUU43N2g4Z1RWa2VsTWdzZm5oU0x5UHBWNEZOVm43d1VIb3BXUTNicENlQXhwSXNKR1pzUGUxc1ZDQVZPN1BERWpJckZYU3JqUVZST1djWmlGTEtSWlBjOTdSOHZTdjJUengzam5mYlo1d2Rfa2VyTTVlbnBSV3d3WFFVUldyaHJWSklmNGczakp0VHU5QnZlTF9NdjZOQnh2Tmx2SGowa3lzUnZyWW52THAzYzY0N19BUkw4aWV0enRaeXN0TXJzZmZCc0lMU2VjRVJEZElRVEplM1M2ZEo3MnlV?oc=5",
     "fonte": "G1",
     "data": "2026-11-07T12:28:22.000Z"
+   },
+   {
+    "titulo": "A Universidade de Mogi das Cruzes (UMC) realiza neste sábado (7) e domingo (8) a 24ª edição da Feira de Saúde UMC, com consultas médicas gratuitas em mais de 20 especialidades e diversos serviços de saúde abertos à população. A ação acontece da",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRkZiS2RKYWJDbjhRMjdEQk8wdzZhVkE1Z085VXVvQzZXeG5KMlFnUVZYdVFVXzZlQUFfdTZEOUxjb1Iwcm82NWJFS1dpNldWU2c?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-06T22:34:25.000Z"
    }
   ]
  },
  "ciencia": {
   "als": [
+   {
+    "titulo": "Living drug carriers: Microbial and bioengineered platforms redefining precision therapeutic and immunomodulatory delivery.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42636890/",
+    "fonte": "Journal of controlled release : official journal of the Controlled Release Society",
+    "data": "2026-11-10T00:00:00.000Z",
+    "autores": [
+     "Guha L",
+     "Malik JA",
+     "Bose B"
+    ],
+    "resumo": null
+   },
    {
     "titulo": "Beyond neurones: cardiac involvement in motor neurone disease.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43003200/",
@@ -770,18 +782,6 @@
      "Xu Z",
      "Fan T",
      "Xu R"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Clinical and biochemical characterization of amyotrophic lateral sclerosis in a CHCHD10 R15L family.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/41911331/",
-    "fonte": "Brain : a journal of neurology",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Kwan JY",
-     "Lantz CI",
-     "Korobeynikov VA"
     ],
     "resumo": null
    }
