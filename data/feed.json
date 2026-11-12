@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-12T02:40:14.766Z",
+ "atualizadoEm": "2026-11-12T04:46:41.096Z",
  "noticias": {
   "saude": [
    {
@@ -51,6 +51,12 @@
     "data": "2026-11-11T21:50:07.000Z"
    },
    {
+    "titulo": "São Sebastião tem trabalhos de saúde bucal selecionados para Mostra Brasil Sorridente 2026",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNzQtUFVGeW1vQkhjdWtSd1BFY1k5SkhZYllRV1l3RUlfT3lpV0NvZ045V1ZrM0dSempzbThSYTk0djhyWmRBWk9ZZGt6Vi1vVVBtMWNFdEtneGlPRXI5bEZnZVZvSWJPd3V5dngxNnZpRkFRSW9Fb0dPMVN2UkRBaGp5Z1BnWnFtMEREYnJXVFcwV2RDZ2FNaEk2VS1OUnQtdmVxZnZVRnQxMGdsejhSVU54ek1adU5DZHk2UEFnVkN2R3NrdEVVV2JCNDhfbk85?oc=5",
+    "fonte": "BOM DIA GUARULHOS",
+    "data": "2026-11-11T21:02:00.000Z"
+   },
+   {
     "titulo": "Covid-19: Brasil registra aumento de casos nas últimas semanas",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVmVxbC1jTkNqR3N0N0NGR3hiMVQ2YVRFWkFrQjl3Ql9vN3RVMWhLM1dILWo2dlFOT05VRHRXT3BiTDJGODZQVEE1ZC1Tb0NXRzk1NjNqZnIxQ1pMMlhqWmxHVFE5MUFGeGRKWkEweVhXMGlWbU1Gd2VjSkstdE4tZTlCWWlNQ185aEJZZHNUdkZ0c1hvVy1sa0s0d2l1YWdLM1lqbHplRFZ4LWJ4Z2hybQ?oc=5",
     "fonte": "Mogi Mirim/SP",
@@ -85,15 +91,15 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTG1yc3MzSUFqX3YxalFTN2g4dlhnS1VEaXZqZGhBU045cVhqcnZBN1kzdTBUSFVxTXVxQXNjYXp4QXpxVWt1aUw5RnRpWjRvR1JyQkxTdU1CSWJsSksxOE5pLWNiRVFZVW43VWZtb2J3WS14Mm9hWTBnTkEtUDJjdllOT2s5eWRid2w3TnVGc2lXV1ZrdS1KZk92NGtScUtmdndLYUFyUG9LY3d3eGlqYnZmclFseFRvZV9hYkQ1bXJObHRDejFNdTREdzExZ2ZZT0hZ?oc=5",
     "fonte": "Saúde Digital News",
     "data": "2026-11-11T18:35:28.000Z"
-   },
-   {
-    "titulo": "Instituto Evandro Chagas celebra 90 anos de contribuição à ciência e à saúde pública — Ministério da Saúde",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXlJckRKUndSUmx1T0U3ZDNZU25naV93UFRUN3pHaEE0MGc1OXVLZUdYckkwNGExVWo3RmhzMXBxM2NoT0N2NGJSb0ljREpxb1ZjbldmUl9lcURMX1pMdURFOTVDQ1ZzU2VodWR5WkFMX3BvZGlqNkpTVlJCMFFjMmZFTW5vSXJGWlNUdU9zWkhXWWVjejdfU1dfV3h2dnFnY1VycnY3V2xCeEtRa1NtdE1ucmdKVm02Y0t3RE1rM1ZVN1N3Ykx2OUxnb2NsM2x2RDRvZ3hnanFDQTFwb0xNOA?oc=5",
-    "fonte": "Governo Federal",
-    "data": "2026-11-11T18:25:00.000Z"
    }
   ],
   "seguranca": [
+   {
+    "titulo": "Câmara de SP aprova em 1º turno mudar nome da GCM para Polícia Municipal",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZTSi1LVEJ4aF9TNndOTWUxSldicDU2OGJKME55ZmExdGo5TW80Rkx0azM1aUduT1RuNk5XMTJaZ1FPV1Jsd1BaMGxxMjZ5RjNKa3lpOHM3Z3VYOWdGNG1qWDhzUkNhNDFmUjJXQ01pNDhxaEdKOXpMOUZKbGt0X250SWgxTkRjQ2tKc2RGdWtVb2ZOb2xENXZSNVpQb09XVHRKb2VBb2MtUQ?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-12T02:17:35.000Z"
+   },
    {
     "titulo": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmZWRl9oWkRHNEw1c1ZucllaMzNCTnQ1TC1mbWtqSHdLVVI4dnFIYTJ4NV9MZXhrZ3NXVzFSU1RyZlR4SklCODV6cFQzZVA5TVNhSUQxbXk1VlBDTHJuSEotbjh2QXFSbGh4eXVMS0l2WUZ3aEkyV3FiMlI3eC1sRnVCalNLZGQ2SVNtVHJzRlB5eGUyalJnNWJ6VlBPenRMbGFHUkN2WThfbEphNnp2WXZDeEh0MzdBMGQxT0hOLXM4c3M?oc=5",
@@ -101,28 +107,16 @@
     "data": "2026-11-12T02:11:21.000Z"
    },
    {
-    "titulo": "Câmara aprova mudança de GCM para Polícia Municipal em SP",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOc25CbGVaSEdBR3p4Mk92WFhiTWtBUjFhYzJDSUUwdTNLaHpZVjFjNnJjWUdJdFR5b2lNMTF1cXB2MVRCRmVlUmp5dENxaWExWlE1c2JVdTl0Zlg2Mmh0eWR5U05oenQyNEljdXJfM1ZXVXF2V3hkWkxmR281YnpDSVYzRkRPMlU?oc=5",
-    "fonte": "horasp.com.br",
-    "data": "2026-11-12T01:56:08.000Z"
-   },
-   {
-    "titulo": "BAEP apreende tráfico de drogas em comunidade agrária aurora",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTlBiQzdZV2l0ekVKXzUyRmY1SEp3anFsOVNUMWt4Z3hIV1gyZzNSNXZFdmRCTUpDMmo1a2xlTUxHSkFiSlphSElwRWRBems1aHloMGpHXzVfdm1rWHdCZ3BEVGVxdVV2QngtQ0U4Y0l4NC1GdWVwc0RkRzlmYXJ6OWpFbWxVOE5SZ2w1VXdoQlNIUTUzZUNkNG5FWjRuX1ZTUUdIWnp2eTQ?oc=5",
-    "fonte": "Policial Padrão",
-    "data": "2026-11-12T01:07:21.000Z"
+    "titulo": "Vereadores de SP aprovam mudança de nome da GCM para Polícia Municipal",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTNFMWNlTGlpalRkcEtPUld4U1VWcHc1a19LZ3NrSDR5b1RBOG5samg2eTJ2c0UtTzMwTnI4WTZUVXdPSE55VWFVREVNSDVkQ25nOExPY3NTaVJXbXpnTzhZZ0F3Z1VQM2NzQl9Qcy1TMjdFSHEzUGQ5bUdmX3BzT2t0WFhiYkZTSUFLNkZ5M0NIQmNTR0FDZFF3dW8tdEtKSmJGb0V0T3E0NFRRNHRjZ1hpNDYwNzI5WjFSRW13?oc=5",
+    "fonte": "Repórter Diário",
+    "data": "2026-11-12T01:58:56.000Z"
    },
    {
     "titulo": "PM registra prisão de homem que fez ex refém em motel de SP",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzFMRHdEamx0YkU2XzAzbXpWblliV1o2S1dwSjItQ2RRbElsSDlFZVNoVWUxcVBCN0VHX1h6bXVSWEp2VmN5VGV3cUk0dEVlM2hMbUJWTTVyUXNlcWxHSmxWQ0pLZmlmTENNS192dHpPQmdVSm9vcTk3TlQ2bXdfcm53aTkxRDlNcDY4enRfWDdDREdaRWhWVWc2WVNwVjU4OU9GbjVpclE?oc=5",
     "fonte": "Policial Padrão",
     "data": "2026-11-12T00:59:05.000Z"
-   },
-   {
-    "titulo": "Câmara de SP aprova em 1º turno mudar nome da GCM para Polícia Municipal",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZTSi1LVEJ4aF9TNndOTWUxSldicDU2OGJKME55ZmExdGo5TW80Rkx0azM1aUduT1RuNk5XMTJaZ1FPV1Jsd1BaMGxxMjZ5RjNKa3lpOHM3Z3VYOWdGNG1qWDhzUkNhNDFmUjJXQ01pNDhxaEdKOXpMOUZKbGt0X250SWgxTkRjQ2tKc2RGdWtVb2ZOb2xENXZSNVpQb09XVHRKb2VBb2MtUQ?oc=5",
-    "fonte": "UOL Notícias",
-    "data": "2026-11-12T00:57:09.000Z"
    },
    {
     "titulo": "Câmara de SP aprova primeira etapa de mudança da GCM para Polícia Municipal",
@@ -143,28 +137,16 @@
     "data": "2026-11-12T00:41:34.000Z"
    },
    {
-    "titulo": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzVvSzc1eEpoUmhfeWJ1dG5DR3FobU5GejYtcC12LWJlOHJkLVpjWEdJcXdIcWJfc0RIZ3ZmbExFck5OckFWMUtWbmx3VWhvVDFCc0xLSWpKR2V5emd1R21NZWtwQTRiR3QxS2dDalA2NlpHTlZtNVhzNHlvSV9TQlZ0Q2lDcEdVQVF4eDFMTExlVnJ3U1VtaU44WEowV3pzaWx1RElob0VobF9YdmdidjRJbGxBLXlkaDdtVGFXSGZ1M3BkOVNreTBkS1JoVFc2WlhFVTB1cXphbU1KNGRDQm55LTN0OTJCYllBVUh5WQ?oc=5",
-    "fonte": "UOL Notícias",
-    "data": "2026-11-11T22:53:00.000Z"
-   },
-   {
     "titulo": "Câmara de SP aprova mudança de nome da GCM para Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0s3MUJTQ2lOWjd5eTFoQnMzRjFYcWxDem9qT3FLS3Ewblpoei1Nd1RkakN3eEItZ214TEhGb0g2dGs4MWZrbmZnd294bGtrSTRkZTRDTkIzbVoyRUttSHYtUHU2Z1V2SHpzOWlGeWxqRklodU5Bb3BDXzRKYTF2YjZTdm9LdG96LVNrMVBKWDB5RHQxSHNTZjczMVY4dWpSTzJYT0FzUQ?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-11T22:34:58.000Z"
    },
    {
-    "titulo": "Câmara de SP aprova mudança da GCM para Polícia Municipal em primeiro turno",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xN1JmVFRSRUJmTlg1MEhkeDJoSlozbEhTMGw4ZjdqdmFvRDAwMW1Sc0h5dUp1Nm52blF0aEc5VUdhdHpWaGVibjdjaXpXUzRKSzByeGc0MmdvSGxfLUM0X3NmVnk3ZDNsRFVEQ1ZKQlpySXU2ZXYtTWQ0X2dFQQ?oc=5",
-    "fonte": "ncnews.com.br",
-    "data": "2026-11-11T22:14:55.000Z"
-   },
-   {
     "titulo": "Segurança pública na cidade: GCM passa a se chamar Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzVIYmRQMUVmWFhtN3A1a253Z0xPVHZjREd4anE1Y0ZXUkxRV01DbVFSVU5iaFFWRHRKRWgxc2NPZHhKM2hEaEdMN3VqRHYxVDJ0amNiX0xYN0c1TUVpX2VYUW5FbzZ3Rm5vSVh4ZVZ1ak9xMUVLX3o0NURLQkYxSTNrNFo2Wk9MV0RGSWhCYkRHdFJwVmFDTjRBVnNybDBIZ01JRVFMLXlZdzZKMUJxLUxYRmt1REJORldQQ1BFdDB1R01wLWV3RkZuZWJndkU?oc=5",
     "fonte": "Prefeitura de São Paulo",
-    "data": "2026-11-11T22:13:09.000Z"
+    "data": "2026-11-11T22:12:37.000Z"
    },
    {
     "titulo": "Câmara de SP aprova em primeiro turno mudança de nome da GCM para Polícia Municipal",
@@ -179,10 +161,28 @@
     "data": "2026-11-11T21:13:00.000Z"
    },
    {
-    "titulo": "Câmara de SP aprova em 1º turno troca de nome da GCM para Polícia Municipal",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbGJ6YVo4ZlpYZUdOMF9yMzNLQlVNNWF5aldiZnRSM2gySXlBNG5WNGxFQ0N2Y2ZEeWoyeFlNUWN6VHVocmxlSTVHU0ZkbVpoMF9jaHVaSDZfdDRQZnNPbjhyaDFwWGFQNWV3cUVhR1hxd0ZzSmF4bFVuRmN3cWZZdzQzWXRaaE5PNVQ5VlZiTWpGMGl1dndhbDZZZnJTOC1wdXZzdFF6SnlLUHpvb0xkYkJ3?oc=5",
-    "fonte": "Metrópoles",
-    "data": "2026-11-11T21:13:00.000Z"
+    "titulo": "Smart Sampa auxilia GCM a alcançar marca de 7 mil prisões em flagrante na cidade de São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQTVhRXdhWU81YVF5ckYtUWl0Zmd0RkwyVFR6X2lGbE85b0VsNlcxX2pTVUxNa3BpNnVOTUlhdklBN3k1Z2tTOVprT3NwSUVaWjdfdXg4UGQtQkR5Vm9JUWhYM2RzYkd3XzlwTkI5cWNFUFNTcTczMVd6Qm5qcXMzVWJ2TmtqRExZNElDdWlld3FUVUVkRVJ1el9NQkVSY082MGFwYkV5TjFqMTNNRjdSclhmNzVPZzJ4ZEh1b3pHQTNKMEVKYWFVOWlYbkRiczNtZTUteURpQ25TQ3N4M1lWT1pnVFJ5dVByWDk3cE96TjZydw?oc=5",
+    "fonte": "Prefeitura de São Paulo",
+    "data": "2026-11-11T20:32:14.000Z"
+   },
+   {
+    "titulo": "PM Rodoviária apreende no interior de SP mais de meia tonelada de cocaína que seria enviada ao exterior",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX05NVGhoRkthZ1JUbGFlNUdEY2s2dGt3czRXRVB5dmdMVHhMcDNRWEVkWWRPc0ZrcWp1WmlHMkVJNHhpUTFoSTFXcDZiVi0zbmhfWDd6cEhxaWlBU0tkTmxoSUZMM1otWTNWSTNsUHRKanFDRDVmQXgtYVZQWWFpNlpmS1ZGRVNqTmdLX0pTMV9Cc2RlUlJOTkxKcUJwOGs1ZmFuV0p3?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-11T18:52:17.000Z"
+   },
+   {
+    "titulo": "Ciops/SSPDS recebe delegação de oficiais da Polícia Militar de São Paulo em visita institucional",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeHpYNVh0MEh6YUw5ajBTMDlZX0F3NEQ5Tm82Qk16d2RCaDFFUGFhWjVaUE9faldTRm5jQ21uTzhfX0pqRmZkbVcxd3cySWE0dERrRFBDY1JDQkZVSzNGWENuTUJTcU5FeFFSN3ZXX2RaTGxMaDhwZDdsVmcxQ1Y3ZXpFd0ZjYlg2SEc1aElQMmhIdkpLQnJxc2h0NGZLTFhJUzNqcXRjUzNROWdzMEJqeWppU0N0QzlkMUNrOGNZdVJncFpia2FMTXAtd0V3d1oyR3c?oc=5",
+    "fonte": "Governo do Estado do Ceará",
+    "data": "2026-11-11T18:51:38.000Z"
+   },
+   {
+    "titulo": "Governo e MP de SP reforçam ações para atingir dinheiro do crime organizado; desde 2023, ação conjunta realizou 290 operações",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNTnpYQzVqX1dfUEFHYlVVTi1JOWlWUnduRlR3NElMZUNSQnBINkR0bkxqYTVZLXg0ZEtKLWNSVG9IS0NoWVh3V3drSFJCRWhDbFJkNmEtc1pqNWF2QTE1bVVrM3JxY1VvUnlWd0NFaWNQSUx2c04ySU9lYWlnUnA1cEdZTjJFUEFmU3laTjhKZlQ0ejRqdk5kTWUwNlRCZ3RSeV95OHVsS1JCMzVfaFBlUlVWUFVmbktRVG1oWXpoekFWWGxkNG13NC1mQW0zaEdtWGxDV1VndmpqTVBIc1o0Z3pFY2RRcEtXdl8yTTQ4bW92VEZ3cU1PY3F6Y0wxSy1GRHZmSw?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-11T18:37:39.000Z"
    }
   ],
   "economia": [
@@ -193,10 +193,10 @@
     "data": "2026-11-12T01:20:00.000Z"
    },
    {
-    "titulo": "Banco do Brasil registra tombo no lucro com disparada da inadimplência do agro",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeEdHdWVRU2F4bmNMMjl2Y240c3N6YXUzc21JRzJ3aGFHUUo4SnQ0Z3BDczM2MmxfMUU5azNrTjhUSW5reTl0Ni1QS1IzYUw0SU96OVBMY1JOSGIxcnhUSXFycnpGdWlLQnFQLWsxLUxrS3BzZEIzTmdELVhPSU9jM0ZRUkdPRGZUcDRPWHdvdVVsV3VHY1RsZ0FQRnlIZ1RDVVNFcUZxYlFZN05nd2R6Q0dOZHNLUQ?oc=5",
-    "fonte": "Gazeta do Povo",
-    "data": "2026-11-12T01:07:00.000Z"
+    "titulo": "Waack: Lula tenta acalmar o mercado sem enfrentar a crise",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEJYMWFxNnBsd2szdi1Ta0Rla21VbXhJWXhfWGVydGlMQWhEXzhFZ1NsOGltM3JNMDFKUkVsa1ZZN0RFS1B3OGtTbW9wSjk5TF9mRldkTk51VWVhck5hZXZBVFFSVDEtSW9zaWl2UU1yR21YQUdjWDRCMG10OEYxOFNvVU0xUnk4aWhRTGFuWnlhbm9mdHVudUkxUEsyNHZqd1h6VDJ2UFBPYmdBSnRXTHZjRHhUdw?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-12T01:02:53.000Z"
    },
    {
     "titulo": "Pacote fiscal do governo prevê economia de até R$ 60 bi",
@@ -221,12 +221,6 @@
     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYndKbzVoLXBkVDhfRHVKRi1mcDktV29kOE5TczNGVGRleGRfaU5kbWFzMm9kZm01NkIyai1WYVNDelY2VzJEV01SMTUtYnVOUFNWSkdOZkhDYXdjbUN4eWVVXzlCUkhURGRrbVZPMV90UE5PaUxNUHlsbXptWWRTUGpmdWhWVlM1RkdtZkdMcDd0R0k2ZDlWdkJtMnhDQlBTLUxqQVpuMXExRy13VUN4My03N0s1dE1EMFJFYWJUWFNoYWlxRkgtQzBKcHh1WmZaN2FfZkI4WkdEUFpv?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-11T23:34:00.000Z"
-   },
-   {
-    "titulo": "Governo apresenta proposta de ajuste fiscal que prevê economia de até R$ 60 bilhões; veja os principais pontos",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQRF9abzRHYVBQQmxkLS03MWhsOUIwQS1adVNzVk9La1p1Sk5HcGE1R05QLURjMkY0c2pHVndya3JtLUl0N3p2eDFhQ0J3NTRjREMyMFR1c3JSalJ4bE90U2V1MkxWbnNFOFA3dkVKQTVfUEZVMGlZM2tDWVlrLUxLUXFvLWJNSHp3NWVRRmdNQk1vMWJhckxjNExiQUJ0MTNVTFlldjl3RUFmN0MxS3E0akZnX1ZnZC0zU3hKalFsMTJwUGhiczZ0MnFtQzVBUkNzaVFrdkVnT0MxNFBIbjB3WFZkMmNjSTRpOGNLSTNQZnptdGxQNjl6T29QTDVnQ2dtX05LQUd2cEplWVB4NWJFVkRXblpaV1FXWkhsY01mZ2Zmdw?oc=5",
-    "fonte": "GZH",
-    "data": "2026-11-11T23:19:23.000Z"
    },
    {
     "titulo": "Petrobras amplia capacidade de 11 plataformas sem novos investimentos",
@@ -275,6 +269,12 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZlNjdG5ROVJtTk1YbW83bVp6eE45Q3ZXMTVJNW9EdUNIRExaNnN4akNBX042X19aM3k2ZkFkaFdTcjhGd29sV2xHVmgwWkVVNzIwYnFrX2VIazV5YXFEeG5UTFYtYVJuWmlJSGpUYy02eXhwenJuZFNUa1pwYXFSeTJCY1VROGJWT0RUMmV4b3BSbDUtRG5LV3drMFFoOWllY0VMbVBDQlBtd3VyaUVZTHczbDhSQzBVUWM1SlhBSm5JMjQ?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-11T22:10:00.000Z"
+   },
+   {
+    "titulo": "Lopes Brasil lucra R$ 3,3 milhões no terceiro trimestre, queda de 79%",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRmxqWXJ3akZaS2FlSXV1M2VtbFFYbFFSdUpibXJVQldBSXBsUl90T3k3dWR0R3htaTVGaHRuVlRrRy1qQndIR3lEMlhiT1FpbU41VHJYQkNYNWl2TnBOVFNLdzkzR25RSVNnWEluQjR4aHFiWjJMNzhzRzc4OU9sMHNkbmloZ0dGVDhNc2FnZ05JcFRMWGYwWXo0c2JFQ3JtLWl1aTZQTDFsTWJnZ0x0Mll3RWNFNDdOakdGYVZyMUV6eVk?oc=5",
+    "fonte": "UOL Economia",
+    "data": "2026-11-11T21:53:11.000Z"
    }
   ],
   "politica": [
@@ -301,18 +301,6 @@
     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNk5xZUNubG5wb1oxeXRRMW5haEY2ZnNYb29ENkRtbm8tNS0tXzRUTFlVSUg1TzdNV25uZF8tQnV5ZHNyZ1QxYjRCTXk1Q2JqR0ZfYXRKRHIwLXB6Nm5WUm5YMS0xX0Q0Z3ZobmVHMzRiX0VRNUhSd1E5NzJITUt3OG5xWUZ0Q2FTVUZhbzFhTG1oWFBKV01Pd0p4Znhkc2NVcWRxZmhfdVo1SV8zcWcwVHRWZUhJaWMxUVc4X0F2ZndmWXRwRHFWT05RM3B0MVJGdmFTS1Jpd19Cdm1VbnZrNEhTeWRhZno1?oc=5",
     "fonte": "Brasil de Fato",
     "data": "2026-11-11T22:33:00.000Z"
-   },
-   {
-    "titulo": "Casa Civil cobra balanço de ministérios para o governo Lula 4",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3RkUGV5N21TTHZDZkNlY0tNS3pmMldyVVI4RWZGSThfeWxBZGZNYkxudFZzYUx3SHdlcW42bXJxaE9mUXlVRVVFdnZXa0NWbTVNc0hJd2dZLWZoaTJEZDJzMEV1LXdjR2Q1bU1PUy0yQ3NlNGJZdDZPME5zZXI2RC1ZcGd0MXBlSUN6OFFxa001dndnVUJYRU5kY0Z2bnhybm9rT0lEUm5Vb2RXeUgwRA?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-11T22:27:38.000Z"
-   },
-   {
-    "titulo": "Comissão de Educação aprova nova Política de Educação Escolar Indígena no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNUNXMWphbnlRU1M2MUJscVlNUGhPamVWcnloWUI3ZWJWY2RXSjJKZUVjQnNWRS1ueWNValFKamJ5N3VPckcxZWhoUzA2LVIwTmpsS0FwemxITFRkVHlRRHlhQldHM3FwX09vX0d0UUVOejNScVItVkVQeVh6TmZWRXlIbEFTRkpMcFJBRWtHV0oyMW41RjBxVW1rcTZVUTROeVRXN3BmQmVZZw?oc=5",
-    "fonte": "Metrô News Jornal",
-    "data": "2026-11-11T22:13:00.000Z"
    },
    {
     "titulo": "Além de multa, TSE prevê novas sessões sobre Meta e Flávio Bolsonaro",
@@ -367,6 +355,18 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVNHVERpMV9xTEp5Y2JtZXdPcGxHdEhoWno0XzBBZEJKbTRFWGdzNkkxdFNTczZISU82VjQtMEpiOElCdjdrMnZTNFRjRzY5T3Y4ZlN3VnRDZ1BFREVqR05KaGM2aW5UYW5aT2xsN1RpNlhRTzhfbS1hbWRrVU9LWHhMZ3RnN05mcFlaQ3NTMmZYRnBzcG5LRE1SNDlDd1d0eHAzWWpCTUFpSFZiT2h1RW11SG43anFrQTVXWjJZWWlia1VjSVF6amN2TXBsYVVBU29YekRmNUxxV0U?oc=5",
     "fonte": "Governo Federal",
     "data": "2026-11-11T20:21:19.000Z"
+   },
+   {
+    "titulo": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BdmxHWTRBNkNyWkdFNUJkN1htaWM3enRYTGYxVXB2Z0hGV0lKMWdJcktvNDJWSTdnbW5aeXk3VTZOeVFWc08zUldiUDNBOTFxZHJHVWpMWUh0MDNGZFE2M01XRdIBaEFVX3lxTFBwbl9abWtZeWJzWEtYQVEtNTVLb2l0QUM3cEo4Ykt6VjF4a1BzR0QxdUFjT3VEV2dZamRDOVJBaTZMcGNPbHYtNGU4NEg5blQwbEp4a2lrWG5uaFR6NHZJM3FoWExFbXZm?oc=5",
+    "fonte": "BBC",
+    "data": "2026-11-11T19:56:28.000Z"
+   },
+   {
+    "titulo": "MEC fixa novas normas para educação de alunos com altas habilidades",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZER3S2hISkdOdl82cE5BNC1WaFRTVi1sRFVOTEJxUVl3bU1rTWt2YkVjQ1dvRXBvejBvejNvdmVIS3FnLWxVOWs1NFdDaGlZcTBQTUlFaXpYOVd6Nl9nUU1fVmVYbEY4UUtlUGNfNmlTaWx1MlpvRFdsWHhnZFZMaGl4bS1sc2lLQ09USFdIQXdtZHJ3YXlfeFlNcHdyTkI3U2s2X2JIM0JJTEJZNHNhRWRjRDVDeTllakxfSWRGZ3ZZMk0?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-11T19:34:00.000Z"
    }
   ],
   "alesp": [
@@ -375,6 +375,12 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjlNNDV4MXFmWnpaUC16WGpRdUk0VUlCa3lVT0V6bFh4ZjN0ZkdGU2RjcVJoX1FtOVAwc0dNZzBiYlI2V0ltUzNrTUhlbElySk5DWXR5Q0x6ZHpjS0FhNS1VMDJ6TGNSSWtyR25kN3RkYU9kLU0yS09ENmNJcEdCU0p4WDBOVE9ac2hMeGpHcVdfbE9teWl3?oc=5",
     "fonte": "Jovem Pan",
     "data": "2026-11-11T23:00:31.000Z"
+   },
+   {
+    "titulo": "Com Milton Leite preso, União Brasil encolhe em SP e constrange Tarcísio",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBiMEFTUVJWS1k0N3lUbUFIZHlWUkZ2LUhwU01lcGwyRzBrZU9tbDZkSnNyaHl0b3VsLXVrUngxaFpHTzN4Mmozc3V5MjBpWkh5dUFtUWdPeXZuOUE0czlydXE4eElmMGxJcmFkajNmVVV5dV9SRnhKRVBJSQ?oc=5",
+    "fonte": "ICL Notícias",
+    "data": "2026-11-11T22:49:15.000Z"
    },
    {
     "titulo": "Projeto contra violência nas escolas avança na Alesp",
@@ -419,6 +425,12 @@
     "data": "2026-11-11T09:00:00.000Z"
    },
    {
+    "titulo": "LANCE LIVRE 11-11-2026",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONzk4ckVldVVyNHVOSVVtR3NsV2FSN0R3Y2xhS2VKV0cyR0I4b1ZUSkUtMmlzbFJzOE0ydlhqM2M1R0lUcHRZSVVCR0dwVDc3dHZrMEIzd2RscExMQk5fVHRQWTcwaGJRMVRuTXlhb0tqbmIxa0R5bkNGOTNwcHVQdHgtWEJVSTZt?oc=5",
+    "fonte": "Diário de Suzano",
+    "data": "2026-11-11T08:00:00.000Z"
+   },
+   {
     "titulo": "Tarcísio é pressionado a intervir em disputa que racha PL na Alesp",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2dKWXNPN29ZUnhCR2E3S1F2RlVwQ0dTSFdINXdOckJiby1odUM5Ri1KS0RzdjNPTG9ld3RmRHVmaG5LZm56R0NwaEtWd1haMFdBbFdfSmVGYXdSd3Z3RFNHdUotQW9xMDFjSVBHME43cHNPMWJIVlp6bmh3TGlGVUtLeHdWX3Z1OC1CYVA1N29CUUhiRXV2VHNzdmJiZ0Y5NVhwUWdXQ3c?oc=5",
     "fonte": "CNN Brasil",
@@ -447,18 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVN2S2tmM3FDQm5ISjdZeUtoYl9vbGgxUUNHVXVSd2JVbTl1NHpFQ1Z6ME5XQ0djdEhDWk5RaloxR0dOd3h6WG5pZ1ZzU1VqR2RGUWsxNTVxb3RnU2lrYWpET0U5TTNzRHZ1MVpUUktWY2tuVnVfOFZ0ZFpobnF5X1A5dVh0bG94Z04wNkpCTGh2ZHZ6MTF3T3VldDRDY3lsTFlKM1lrR3NOellzY0RRODZJN0xkSHREdlR6ZDFidFNfME1ORk9yN3RGcDh3UQ?oc=5",
     "fonte": "Assembleia Legislativa do Estado de São Paulo",
     "data": "2026-11-10T21:43:00.000Z"
-   },
-   {
-    "titulo": "Rodrigo Ashiuchi acompanha audiência pública sobre área de proteção da sub-bacia do Jaguari",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN1FYZUlvT21MNjl5ZW8wdVRzaWNwRzA2UFJsM3FpQWI1UnRRcThZS2NoekcydjlSQjRUc3JLV3hmdjhaYVY3VkVQc1l2eUppZlR4b09yRnptc0owcVhqbXZ4aWtZQXFpTTR4blJSTVQ2amUtSXFtazA3V3c2R21aOE5HYm11M3N1dl9tQllvcVB6NXc2T1pwWDhkeUhsTjJVOVY4d1JWamtvNzlud0hUb2FuMUo0WFJHaFR0bTJfZmN0TFZzQU9DeVlHSUtiOE5FUHpPdUNBbU9LZ2djTkw1N1dOTQ?oc=5",
-    "fonte": "Diário de Suzano",
-    "data": "2026-11-10T20:43:00.000Z"
-   },
-   {
-    "titulo": "Bancada do PL ameaça candidatura alternativa contra nome de André do Prado na Alesp",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUdrUkVjTnlBS1NNMTNydFRodGlHSFZud0w4bU5faGhEZkI0TGFpTHZmZzVhYWlfejR0VXFJa3VnZkdaQTJ6QnNYY2NLWnJsZm5yaW9jZHpZZUMzUWpQcXEzMzlEOVE2TUtTQVp2NzhnNnpoQWpTT21SQ2E0cGgzVGRQV29URnFucXRydmtqcHBaLXZIVGduT3RZTndhdnJUMHlOcXU5WmYtVDdVUFFRWFg2Z0VrOFhi?oc=5",
-    "fonte": "PAIPEE -",
-    "data": "2026-11-10T18:27:46.000Z"
    }
   ],
   "missao": [
@@ -491,6 +491,12 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzRvcXlNM3hxTFA0SEFFakY1MzdQclIxZUx4elUwVUVlWHlaTHdiaWowMWxrcmNEWVFDbC1sVUFhS0N5R2MwMGxMWlZWZ01WVExPQTM5Wi1waU55cm5jajZEQndZSVk2RXd2Z044M2hvQ0RLZzFOZTdWa1BRaGJlQVlKNzlNZWRtS0VIbkhyYUMxbjU2YTJBWFZ0NUdzQkU3MFhhREthc3lWMU13U3RVZHRRQy1jcTU3UmRPbdIBxAFBVV95cUxNLWV4WVJzZG81ZXJoYndvcHJmcmJpaC1BUmNlelo2SlpwUzI3V2ppaDZWSzBhSE1aRDV1R3NPMkp1ZTlEdjltaEpueEE4VElESmFyMmdlcWpzOGJEQ0hSakxzZnpyTlcxYk83NVJ5VzQ5ZnVpMU9lY1NSTy1RSE1TRl9rbXpnNHFNb3NKTnRXSE5SbDgybW9HZV9fcDh0a2JVTDdtd2g4bXU2UXd3Wnd2QnRIM2w0WGs3dWx2VjFBV0dCVElq?oc=5",
     "fonte": "Portal Massa",
     "data": "2026-11-06T21:30:00.000Z"
+   },
+   {
+    "titulo": "Tarcísio ganha espaço na direita após derrota de Flávio e passa a ser visto como principal alternativa para 2030",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3d5TzNfVmQ3ZkU5cVQ3VFAwMVFQNmY1bkZxSnR1MXpkbDNTZHJpeWkwOFVIeTZkQkhEYjRxYTlNT1haVzhlUXowb0dyUmhrRzNFeGE0THdUaW1jQkVPQkJfTm1aMlB2X1RoR3NNdmJra3NKOWEtVFpDc0p2NU93ejNRTTk2Y0NYc0RsS2tjX0gtb05GS24wNVRoUlV4TWFLWlJoMTFMejJ5YWY0MERKU296QW9iTUFIa3hUR2VGQTdtVkpGazFYNEd4ZmpzMFk4RlFZSjhXMjAzNUFQVC11UUx0SGtQb09vNzRXakJWWW95ZVVONkVDRTdzZ2UtQms?oc=5",
+    "fonte": "brado jornal",
+    "data": "2026-11-06T20:25:55.000Z"
    },
    {
     "titulo": "Missão e PL lideram partidos que mais ganharam filiados em SC no mês da eleição; veja ranking",
