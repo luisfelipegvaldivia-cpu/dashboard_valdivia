@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-12T04:46:41.096Z",
+ "atualizadoEm": "2026-11-12T06:55:02.372Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Pará registra alta na vacinação infantil no ano de 2026",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdW1YQURING9ReVhMUXNNbTRubnUwQjdKemJZNkhKWHJha3owcHRrdm1xazRGZ0ZSWE9RNVZ4WUpqVzBUd3lLanJZeEd4NEx2ZHppcE5VVmxQVTN3a1pmajNlR1N5bTF5OXIwemJBTjJrOGZaQ2tWNW9pRkNOclRVTG9ycVRnVjRuSlc2VVZmaGZfNmFzVzlWRnVqdlVwMjVCUk5Sa1BBS1k0WEZCbHBySUYxbkJJT09uVW9wOGxGN0h2dw?oc=5",
+    "fonte": "www.correiodamanha.com.br",
+    "data": "2026-11-12T06:01:00.000Z"
+   },
    {
     "titulo": "XFG: o que se sabe sobre a variante do coronavírus que predomina no Brasil",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdE54d2xQT0p2ZUdtWUppZnBiaWRiSkdMQTFHS1h4OE9feFlMZ3pER2dNdlVkSVM4RnZQVHgwcE5IdS1yaTJQMUZIWjE5a2dyN3k5Y0MwWjhkaFJvUGFBUWNONVA3a0pBWFJDMWYzbzlwamdYRHdBeC1HR0hFZDl5a3Q4aEYtOGFhTXZ1Y3NRMHNJdmFPaExNVjdyMWFpS2F1ZzZLc1pJSTRLNlBsVEVpY3FqUGhmRTVNYVh3UVE5RjRWbzhXbDRPeUhpcXU1dw?oc=5",
@@ -21,12 +27,6 @@
     "data": "2026-11-11T23:50:04.000Z"
    },
    {
-    "titulo": "Projetos de lei que envolvem saúde feminina avançam na Câmara",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1gzQkJjNE51aXBRTVhsQnVkZjFhMmpNTXZpTTFhQ3BsLXBFZV9HLVo0akdzZV9rVTB3WWZhS0MzekpOU3RnMHY4d3JpSkhqLXdzVmhndjQ3eUc1cmtqRGk0ZzBVVlQyWDZjeGVkdnFZVGp0TXFaT2ZkOU9laFFUYW1iZVdZWW1yZGw4NWYwMGpVTi1CeDgwZHNFWURyTDRJb2RQeFgtNW5MdllZZEZoYV9TNlduM00zYk9v?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-11T23:21:00.000Z"
-   },
-   {
     "titulo": "Ação de redução de danos com disponibilização de seringas em festival em SP gera debate nas redes",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYUhvRXRTZU1VMUtudDJlZllHTWtveEdidTB3WG5fNTY4UW1YNXBJbkg2TU1xR1gybVFBODFHYjBlQXpUOXlhMDlTVGR5SWNZSmdKWE1oOXRZekdjMU51eGZSRXBFWDhZaV9ET1JmRVNpbkxTY1IwNUV1RnBSUDhGZjd0Ml9fLXFFOG9IR1U2U3FGbnFXR3pTeVVLTC1NbzZlZmEzaWpFS01wRWZSUzR2RzFYREllWC1kQTh1dm1rZUdjUTNMaF9qaVMzQ1d3cFJ1bVZpaTVTUW9HTDBLZGFQN0JZcUJhRVc4V2VzVUNvWQ?oc=5",
     "fonte": "Folha de S.Paulo",
@@ -37,12 +37,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV25BdkZKSlBCUnRLOWcyNERlS2N5aVlxNlhpdFpnNnJUeVUyVERRMWNmUTZKWTFOWDlfX2hrMTFxcWVMYl82dnA4eVBNUjA4X3hSY2lVRm8yd1JBTHRrTGVtb1FseVgyQ3FJODRxSnFIOFBIUGlseVgzLTBQSlYyWU5sTW9vaWxFQWR2UnY0SjFsUks2NXRmdHZJSU5KcFNqeWh5RzBHYVVHUQ?oc=5",
     "fonte": "PT no Senado",
     "data": "2026-11-11T22:43:16.000Z"
-   },
-   {
-    "titulo": "1ª Mostra Nacional Brasil Sorridente reúne experiências inovadoras em saúde bucal no Rio de Janeiro",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQVZuRFZfNTQ2ckIyUzBRQkdlOGRiUENiUnM1VTVoQmpEdkZJWTFvM0phR3pvUVUyTWE0UGJGT1U5dHRDQkg1alVPeTMxc2xHX2NTSkFMeG5tYnJzRlNVWU1ZWGFJQ0VGQVU0TEtlUDc5Z0JDLUM5RnZPTWY0U1AtRC1YbjFjd2poNF9SeWJvaFFYWHBpRExVTEtBaUZDVlU2RjNTZU12MkJMYVRvdnkzR21mb1FSVERjYW1yS3lBc2lESnM?oc=5",
-    "fonte": "MOMENTO MT",
-    "data": "2026-11-11T22:30:00.000Z"
    },
    {
     "titulo": "Dra. Eudócia aponta suspeita de desvios de recursos da saúde de Alagoas",
@@ -91,9 +85,27 @@
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTG1yc3MzSUFqX3YxalFTN2g4dlhnS1VEaXZqZGhBU045cVhqcnZBN1kzdTBUSFVxTXVxQXNjYXp4QXpxVWt1aUw5RnRpWjRvR1JyQkxTdU1CSWJsSksxOE5pLWNiRVFZVW43VWZtb2J3WS14Mm9hWTBnTkEtUDJjdllOT2s5eWRid2w3TnVGc2lXV1ZrdS1KZk92NGtScUtmdndLYUFyUG9LY3d3eGlqYnZmclFseFRvZV9hYkQ1bXJObHRDejFNdTREdzExZ2ZZT0hZ?oc=5",
     "fonte": "Saúde Digital News",
     "data": "2026-11-11T18:35:28.000Z"
+   },
+   {
+    "titulo": "Instituto Evandro Chagas celebra 90 anos de contribuição à ciência e à saúde pública — Ministério da Saúde",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVXlJckRKUndSUmx1T0U3ZDNZU25naV93UFRUN3pHaEE0MGc1OXVLZUdYckkwNGExVWo3RmhzMXBxM2NoT0N2NGJSb0ljREpxb1ZjbldmUl9lcURMX1pMdURFOTVDQ1ZzU2VodWR5WkFMX3BvZGlqNkpTVlJCMFFjMmZFTW5vSXJGWlNUdU9zWkhXWWVjejdfU1dfV3h2dnFnY1VycnY3V2xCeEtRa1NtdE1ucmdKVm02Y0t3RE1rM1ZVN1N3Ykx2OUxnb2NsM2x2RDRvZ3hnanFDQTFwb0xNOA?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-11T18:25:00.000Z"
    }
   ],
   "seguranca": [
+   {
+    "titulo": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmZWRl9oWkRHNEw1c1ZucllaMzNCTnQ1TC1mbWtqSHdLVVI4dnFIYTJ4NV9MZXhrZ3NXVzFSU1RyZlR4SklCODV6cFQzZVA5TVNhSUQxbXk1VlBDTHJuSEotbjh2QXFSbGh4eXVMS0l2WUZ3aEkyV3FiMlI3eC1sRnVCalNLZGQ2SVNtVHJzRlB5eGUyalJnNWJ6VlBPenRMbGFHUkN2WThfbEphNnp2WXZDeEh0MzdBMGQxT0hOLXM4c3M?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-12T05:12:07.000Z"
+   },
+   {
+    "titulo": "Cresce aposta de que Tarcísio manterá Osvaldo Nico à frente da Segurança",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORk12TVZJaU1mRjBva0gxSWJOaVdOaTVzZldCTDZ5NmxSMjdMbUkzbFBFYmp1VFc4TkxhWEljSG1vM3JnRmlXZFp4NV9lSnRvYXFPaWxMS0dVUnZJblFXN21HX0w5RXF0QnlPZDlSUU5BNHUwTmROcnFKSTNPZEJWZkpFWTV4aTh1OG1adk5vT283VW9yV19vakNLaUVVTWJGOWxOSVdQTlNIaFNtMFVXRmhURXNweGpYMVU3Vw?oc=5",
+    "fonte": "Metrópoles",
+    "data": "2026-11-12T05:00:00.000Z"
+   },
    {
     "titulo": "Câmara de SP aprova em 1º turno mudar nome da GCM para Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVHZTSi1LVEJ4aF9TNndOTWUxSldicDU2OGJKME55ZmExdGo5TW80Rkx0azM1aUduT1RuNk5XMTJaZ1FPV1Jsd1BaMGxxMjZ5RjNKa3lpOHM3Z3VYOWdGNG1qWDhzUkNhNDFmUjJXQ01pNDhxaEdKOXpMOUZKbGt0X250SWgxTkRjQ2tKc2RGdWtVb2ZOb2xENXZSNVpQb09XVHRKb2VBb2MtUQ?oc=5",
@@ -101,27 +113,9 @@
     "data": "2026-11-12T02:17:35.000Z"
    },
    {
-    "titulo": "Tarcísio de Freitas anuncia os primeiros secretários da nova gestão do Governo de SP",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmZWRl9oWkRHNEw1c1ZucllaMzNCTnQ1TC1mbWtqSHdLVVI4dnFIYTJ4NV9MZXhrZ3NXVzFSU1RyZlR4SklCODV6cFQzZVA5TVNhSUQxbXk1VlBDTHJuSEotbjh2QXFSbGh4eXVMS0l2WUZ3aEkyV3FiMlI3eC1sRnVCalNLZGQ2SVNtVHJzRlB5eGUyalJnNWJ6VlBPenRMbGFHUkN2WThfbEphNnp2WXZDeEh0MzdBMGQxT0hOLXM4c3M?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-12T02:11:21.000Z"
-   },
-   {
-    "titulo": "Vereadores de SP aprovam mudança de nome da GCM para Polícia Municipal",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTNFMWNlTGlpalRkcEtPUld4U1VWcHc1a19LZ3NrSDR5b1RBOG5samg2eTJ2c0UtTzMwTnI4WTZUVXdPSE55VWFVREVNSDVkQ25nOExPY3NTaVJXbXpnTzhZZ0F3Z1VQM2NzQl9Qcy1TMjdFSHEzUGQ5bUdmX3BzT2t0WFhiYkZTSUFLNkZ5M0NIQmNTR0FDZFF3dW8tdEtKSmJGb0V0T3E0NFRRNHRjZ1hpNDYwNzI5WjFSRW13?oc=5",
-    "fonte": "Repórter Diário",
-    "data": "2026-11-12T01:58:56.000Z"
-   },
-   {
-    "titulo": "PM registra prisão de homem que fez ex refém em motel de SP",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbzFMRHdEamx0YkU2XzAzbXpWblliV1o2S1dwSjItQ2RRbElsSDlFZVNoVWUxcVBCN0VHX1h6bXVSWEp2VmN5VGV3cUk0dEVlM2hMbUJWTTVyUXNlcWxHSmxWQ0pLZmlmTENNS192dHpPQmdVSm9vcTk3TlQ2bXdfcm53aTkxRDlNcDY4enRfWDdDREdaRWhWVWc2WVNwVjU4OU9GbjVpclE?oc=5",
-    "fonte": "Policial Padrão",
-    "data": "2026-11-12T00:59:05.000Z"
-   },
-   {
     "titulo": "Câmara de SP aprova primeira etapa de mudança da GCM para Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWlVSFFMR1JVeHgtTkM0R1RxYmxQV0g2UHlxdHJpRTMxbzdQcm1tSHB0S0VmRlVDOUlGS056X2xfeEdDbDRUVHMxaHMzX3k2MWx5Ym5SLUp6RnZTN0lXTkFJWEJBc0NiVUVfc1NVc2tUWDRmUHI0Vzk3aW0zY09OOUd3cVZ6bDlJU29saw?oc=5",
-    "fonte": "Times Brasil | CNBC",
+    "fonte": "Times Brasil",
     "data": "2026-11-12T00:45:00.000Z"
    },
    {
@@ -137,6 +131,18 @@
     "data": "2026-11-12T00:41:34.000Z"
    },
    {
+    "titulo": "Câmara de SP aprova em primeiro turno mudança de nome da GCM para Polícia Municipal",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcm1FVGtoUlRYQk52RjNQT1pLS2hwUUJjUmtDa1ZiZ1NyUkYtLTVBSlpKUUxDWXFHTFNsZ0d4a1JCdDdtZ1FwamhFX24tNUtXNnd0SXhocV9jMlNPWVNMa0o4UHh4MzFQLVp1ZjRkT2RHTjBURDVyMzZtRVRFNVllbGVvYTJQRlZEeTQ2bTJlMGIxb2dITnZocWZXXzZvQmlMc1JsVlh0UWk4eVFNa3fSAbIBQVVfeXFMTmdqVERpX0ltVnZoWHlZbUJJcm4wUFVQdG9ZWnJhWG5ueXpic09HVHlIOEpCeTA2dXV0RklRWThFMnYtdnpvc2NKeGt2X2JVVmFkNjdXTzVONkhWOTZGWXRTb2pKeFoxdTlZbEdNSXRENHVRWlM0Z0o2RjRaazBFeEhDLTVabHZwMnplNFF2TmhNbnhXM09LVmVlYzBkVXV0M2Z2THVaN2ZFbG5QaTNoTVR5dw?oc=5",
+    "fonte": "Folha PE",
+    "data": "2026-11-11T23:29:00.000Z"
+   },
+   {
+    "titulo": "Vereadores de SP aprovam em 1ª votação mudança de nome da GCM para Polícia Municipal",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQYzVvSzc1eEpoUmhfeWJ1dG5DR3FobU5GejYtcC12LWJlOHJkLVpjWEdJcXdIcWJfc0RIZ3ZmbExFck5OckFWMUtWbmx3VWhvVDFCc0xLSWpKR2V5emd1R21NZWtwQTRiR3QxS2dDalA2NlpHTlZtNVhzNHlvSV9TQlZ0Q2lDcEdVQVF4eDFMTExlVnJ3U1VtaU44WEowV3pzaWx1RElob0VobF9YdmdidjRJbGxBLXlkaDdtVGFXSGZ1M3BkOVNreTBkS1JoVFc2WlhFVTB1cXphbU1KNGRDQm55LTN0OTJCYllBVUh5WQ?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-11T22:53:00.000Z"
+   },
+   {
     "titulo": "Câmara de SP aprova mudança de nome da GCM para Polícia Municipal",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb0s3MUJTQ2lOWjd5eTFoQnMzRjFYcWxDem9qT3FLS3Ewblpoei1Nd1RkakN3eEItZ214TEhGb0g2dGs4MWZrbmZnd294bGtrSTRkZTRDTkIzbVoyRUttSHYtUHU2Z1V2SHpzOWlGeWxqRklodU5Bb3BDXzRKYTF2YjZTdm9LdG96LVNrMVBKWDB5RHQxSHNTZjczMVY4dWpSTzJYT0FzUQ?oc=5",
     "fonte": "CNN Brasil",
@@ -147,12 +153,6 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSzVIYmRQMUVmWFhtN3A1a253Z0xPVHZjREd4anE1Y0ZXUkxRV01DbVFSVU5iaFFWRHRKRWgxc2NPZHhKM2hEaEdMN3VqRHYxVDJ0amNiX0xYN0c1TUVpX2VYUW5FbzZ3Rm5vSVh4ZVZ1ak9xMUVLX3o0NURLQkYxSTNrNFo2Wk9MV0RGSWhCYkRHdFJwVmFDTjRBVnNybDBIZ01JRVFMLXlZdzZKMUJxLUxYRmt1REJORldQQ1BFdDB1R01wLWV3RkZuZWJndkU?oc=5",
     "fonte": "Prefeitura de São Paulo",
     "data": "2026-11-11T22:12:37.000Z"
-   },
-   {
-    "titulo": "Câmara de SP aprova em primeiro turno mudança de nome da GCM para Polícia Municipal",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNX05WYVVNdEpNN0R1RmhBM09xbXZiaE9ickhkRXE0Z09RRk1Dc3piV0xjZzc1bFZqZk5ZSUM3QnU4UHV0RzNFclZBaW02THJCYm9USUhlQlJYR05EWXlDdUhRUmxMaTdSR3huZmd2VlZxNlE5cnJ4VGVVT3hpNHhaRlRDQ2F5RWk4ZWxHXzM5UDVwVkZKUTJwY1EyVWY1MjFKcWtNRndqZnFYaTcxN1BVM3dmV3N6R1lCOEY4MG90bjItengtNEZiS3lMNU53bmp1VXJvd21FN3EzQdIB6AFBVV95cUxOS1M4aURhb2dhbUpMaV9KRHdtc044MFFnYi0wOGJ3dzVRYlU3QzBRUTdPVlRTb0Y4VHFCM1VZMEdGWFo1dUJyaGN5UDBOWExzZVlFN3VmQkdsWGFQa2ZhQ202Sy1XR05yaDYzMldBMDBqamhoRFJucVVrVlJYYXJSeWRnUHFqd1JMUm80bkUyN1h3Ul9TTWJwVllYRDVMRmljLXp0emNzSk04a2NRbGFCWVVkaGNlVml0TnhZOUVpU3ZfWE1OdXZqVkxIWDZxV2NNbEtnVUhFcFNRTmpHb0JXazNZMVlyN04z?oc=5",
-    "fonte": "O GLOBO",
-    "data": "2026-11-11T21:45:58.000Z"
    },
    {
     "titulo": "Vereadores de SP aprovam em 1ª votação troca de nome da Guarda para Polícia Municipal",
@@ -231,7 +231,7 @@
    {
     "titulo": "Banco do Brasil corta previsão de lucro pela metade após disparada da inadimplência",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYVlaMmdrWV84S1Z4NTg2ZUpmTTNGOXJsYnJjTTRJRzhIb2U4dU1RNGd3ODlRSy1lZl93cmwtSkhRWFRwVzRHMUp4M21QLWk2RmNfRHpHOXJvNEIydThBNEVaZUx5S1h0M3JIWmVicTNpUzRKV0JfMU52ZXdmeDlsUldod1VUNmJ1TGhoX0FpTHllT0pmSFRZQ0l4UGRnVnB5d21oV05GX05UeDBxcUFubDhDb0pfNTFmVUlB?oc=5",
-    "fonte": "VEJA",
+    "fonte": "Assine Abril",
     "data": "2026-11-11T23:10:56.000Z"
    },
    {
@@ -285,10 +285,22 @@
     "data": "2026-11-12T01:05:01.000Z"
    },
    {
+    "titulo": "Violência política deixa 18 mortos e registra 379 casos em 27 dias no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONW5Fd01hYWhjLTBkMUlBVWpKb1F1SWI1SmxQMjQ4Tm92Y05NaUd0NW5WckRsQTNLOTZSNW50Yjc0cFlQa29tenlEcUNCYVJsUWROekhSbzhjZFM3NjBJLWEwWjllQXZyUkZHYk14cE5KdnNkNmItaUYta0daTXRpNmNEZnF0UUJEalBzRld4R2FqVFpLTnlrSVN5TGtVTS1GdE5LelRIdnVfU2Y4V3pXN0tITzMzdw?oc=5",
+    "fonte": "Transmissão Política",
+    "data": "2026-11-12T00:10:00.000Z"
+   },
+   {
     "titulo": "Precariedade do sistema prisional entra no debate da maioridade penal",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2JTVkZlYklsaDV6clJJVXlaaTZMc0Zmd3RDbTc1U1NUNXRVeU1LU3VLN01mbjlDUmUweWhKWXozSncwR2NqTmhQemdIdkFXdThJczJ0anQ4bnNJVUFUNHN1V0QxSmJ0T3RMdWlNd1E1VW1FTGlrQUFuOUhNRDhuWlRXVWxrOUxqZlMyVndiRkg3WkdPc3ZPVkc5bEE1OUtSWHpyd2pib3RCMnNSR0kyNWZmWTFuOGkxeXI0LTljR1dXTlRmSEE?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-11T23:46:00.000Z"
+   },
+   {
+    "titulo": "Projetos de lei que envolvem saúde feminina avançam na Câmara",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1gzQkJjNE51aXBRTVhsQnVkZjFhMmpNTXZpTTFhQ3BsLXBFZV9HLVo0akdzZV9rVTB3WWZhS0MzekpOU3RnMHY4d3JpSkhqLXdzVmhndjQ3eUc1cmtqRGk0ZzBVVlQyWDZjeGVkdnFZVGp0TXFaT2ZkOU9laFFUYW1iZVdZWW1yZGw4NWYwMGpVTi1CeDgwZHNFWURyTDRJb2RQeFgtNW5MdllZZEZoYV9TNlduM00zYk9v?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-11T23:21:00.000Z"
    },
    {
     "titulo": "Banco do Brasil reduz política de payout aos acionistas",
@@ -355,21 +367,33 @@
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNVNHVERpMV9xTEp5Y2JtZXdPcGxHdEhoWno0XzBBZEJKbTRFWGdzNkkxdFNTczZISU82VjQtMEpiOElCdjdrMnZTNFRjRzY5T3Y4ZlN3VnRDZ1BFREVqR05KaGM2aW5UYW5aT2xsN1RpNlhRTzhfbS1hbWRrVU9LWHhMZ3RnN05mcFlaQ3NTMmZYRnBzcG5LRE1SNDlDd1d0eHAzWWpCTUFpSFZiT2h1RW11SG43anFrQTVXWjJZWWlia1VjSVF6amN2TXBsYVVBU29YekRmNUxxV0U?oc=5",
     "fonte": "Governo Federal",
     "data": "2026-11-11T20:21:19.000Z"
-   },
-   {
-    "titulo": "As 'armadilhas' que Lula terá de desarmar na política externa já a partir do ano que vem",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5BdmxHWTRBNkNyWkdFNUJkN1htaWM3enRYTGYxVXB2Z0hGV0lKMWdJcktvNDJWSTdnbW5aeXk3VTZOeVFWc08zUldiUDNBOTFxZHJHVWpMWUh0MDNGZFE2M01XRdIBaEFVX3lxTFBwbl9abWtZeWJzWEtYQVEtNTVLb2l0QUM3cEo4Ykt6VjF4a1BzR0QxdUFjT3VEV2dZamRDOVJBaTZMcGNPbHYtNGU4NEg5blQwbEp4a2lrWG5uaFR6NHZJM3FoWExFbXZm?oc=5",
-    "fonte": "BBC",
-    "data": "2026-11-11T19:56:28.000Z"
-   },
-   {
-    "titulo": "MEC fixa novas normas para educação de alunos com altas habilidades",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZER3S2hISkdOdl82cE5BNC1WaFRTVi1sRFVOTEJxUVl3bU1rTWt2YkVjQ1dvRXBvejBvejNvdmVIS3FnLWxVOWs1NFdDaGlZcTBQTUlFaXpYOVd6Nl9nUU1fVmVYbEY4UUtlUGNfNmlTaWx1MlpvRFdsWHhnZFZMaGl4bS1sc2lLQ09USFdIQXdtZHJ3YXlfeFlNcHdyTkI3U2s2X2JIM0JJTEJZNHNhRWRjRDVDeTllakxfSWRGZ3ZZMk0?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-11T19:34:00.000Z"
    }
   ],
   "alesp": [
+   {
+    "titulo": "Prefeitos percorrem gabinetes da Alesp em busca de emendas",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUU5DN0FIaEVtcGVDSnNRNzJOTXdNb042bG1tRzlqcVJELW5pRlROMVpibWo3YmxSRmE2MF9yaHNqN3FNWHVwdE8tRzRhaHNlekVneExLLUVTR2lPVVpEQnV0a2kyamRmRk5nWmYtQ0Q2WEw1WjEzZ1NEbDh5VEVYUG51dFB6RTVUbDNMOXQ1emN5cnhoUXZz?oc=5",
+    "fonte": "PAIPEE -",
+    "data": "2026-11-12T05:41:28.000Z"
+   },
+   {
+    "titulo": "Em busca de emendas, prefeitos fazem peregrinação por gabinetes da Alesp",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmUwWHc2YzIyc3pHcG9tOTNUZWhNdmEwVE0zak9CRFY0MkFQVFZmQXZPR0szeF83V1N4ck9lZUpoT3pOOERnTkFHM3hFWFNQSzhuZ05mWEtWQ094bDlUV1FMVURCNHI5SkY4QzdNQzNLekY5TFJkYnJsLTB2YkdWdnJsM2U1QXJuRTl5c2Npdy12N01TRElnNFNhWVpia2hsSDJuMnpXZ2I5a1hz?oc=5",
+    "fonte": "Metrópoles",
+    "data": "2026-11-12T05:00:00.000Z"
+   },
+   {
+    "titulo": "Prefeitos e vereadores do interior paulista lotam gabinetes da Alesp em busca de emendas",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ2pVWlBLN094RDVqZ0trY3dkbi1kVlFqckFYM09JZkVtZlk5UGprN1VGcjFTOGlRU0JCSENFY09hYThxcVctZWk2anJxWkpBZzBzQW93ckgwNHBPSXVRS3FaTjhsUzhNdXdDYk4tT3FHQnVJbUFrM3ctUXhJaVpCZmF4c0F5Y0NJbUZValhjaEk4cC1odUhPdlRSUHBzWkMtZ0NpYm8taWhrSkdSTEFPUEQwZlNPUm5fTDVDdnptNkR3UkdxQTlDVDFsNW04X2RybGdLLXI2Mk1OaEU?oc=5",
+    "fonte": "diarioesp.com.br",
+    "data": "2026-11-12T05:00:00.000Z"
+   },
+   {
+    "titulo": "Eduardo Nóbrega reúne prefeitos e vereadores na Alesp para…",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOSTY0MTlvdDRuWjBNUnJXUnZaUmJ4c2paRWt1VmtEYzcyT1YtV2ZOYzFGazJab2EzQWw3QXp5Q2YtSmZCTnFOaExUbHZ5OVpwSHluOFJFOWlpdWZoSTZTQWhIUjBzVm9BaGxJOWhPamstV1VvcGNWZlpHNW5qRmVDNktWT3Qtb0RYQzFhX3FsZmZTblRuaVgycmtfRFVoN09HSVoyclZibUxBUXIxU0FUWmtFSXBDejVSU2p3NTdmRFk5QTVtMGhsMzJkaUU2OGFIRGZqTGhVRTlOdkZhWWE4dG42cmw?oc=5",
+    "fonte": "O Taboanense",
+    "data": "2026-11-12T04:48:40.000Z"
+   },
    {
     "titulo": "Tenente Coimbra não descarta disputar presidência da Alesp",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbjlNNDV4MXFmWnpaUC16WGpRdUk0VUlCa3lVT0V6bFh4ZjN0ZkdGU2RjcVJoX1FtOVAwc0dNZzBiYlI2V0ltUzNrTUhlbElySk5DWXR5Q0x6ZHpjS0FhNS1VMDJ6TGNSSWtyR25kN3RkYU9kLU0yS09ENmNJcEdCU0p4WDBOVE9ac2hMeGpHcVdfbE9teWl3?oc=5",
@@ -435,30 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZ2dKWXNPN29ZUnhCR2E3S1F2RlVwQ0dTSFdINXdOckJiby1odUM5Ri1KS0RzdjNPTG9ld3RmRHVmaG5LZm56R0NwaEtWd1haMFdBbFdfSmVGYXdSd3Z3RFNHdUotQW9xMDFjSVBHME43cHNPMWJIVlp6bmh3TGlGVUtLeHdWX3Z1OC1CYVA1N29CUUhiRXV2VHNzdmJiZ0Y5NVhwUWdXQ3c?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-11T07:15:25.000Z"
-   },
-   {
-    "titulo": "Exposição na Alesp celebra 40 anos da Fundação Faculdade de Medicina",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTklkaC1jdGRfM215VnRma1VSMVlSNDgtZ0w0ajNLdTVkSkt5Ul9Bemh6TXZFZXhXSS1BOHpXbFFhWFJ5dG9lNV8wR055cGFveE1uY055MDEtOWhJREhGNTUyNk9Rb29nNFYxQ1BxSWd5MzgyNHJZVXd0cElrMzd3Um9WYmZvdXdBSFgtcXk0MEdLWURhMkgxbHBGQ0diSnVpSmtoaGhsbFFmN3RrUTBiRWdHWQ?oc=5",
-    "fonte": "Assembleia Legislativa do Estado de São Paulo",
-    "data": "2026-11-10T23:47:00.000Z"
-   },
-   {
-    "titulo": "Deputado estadual eleito, Rodrigo Ashiuchi acompanha audiência sobre proteção da sub-bacia do Jaguari",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcVZ6OUl6RnBjaFlad0NFd0NYMlBWVkFHQlM5bmMyM3FCVm9fWjdoT0xIek90b21TeVhjUUNkTFFBY3ZUaE9zN3pGT0c0Y2laS2VZTDIyS3JlU1hfNlhiRWc2SFBVeVVLSXhWRUxfR0VadTFsRVg0elYyVW9BdllUU3U4Qlo0ODNFeVJBRWQzT2U4NzZnV1o4U0FtZGNBR1V2NjgtbVhLTWl1cURPRnhSdm16U29wQXd2c1EwNktMZUdrUDVZTDBNLU1oLWZhVmst?oc=5",
-    "fonte": "Hoje Diário",
-    "data": "2026-11-10T23:45:57.000Z"
-   },
-   {
-    "titulo": "Coordenador palestino do BDS participa de plenária na ALESP nesta quinta",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT29zMTRyOTY1M3Q0Yl8weHZQQlh6M0tzVmI2MllEREwzdTk5QjN4ZG1pcHlpZGtoS2FDZzJQYXpsQjVXdXB5VUxYTHVSdnBRaHpENmZyREJkcnc0aEJQVTloLUdXWFBNTlo3YkxsUTVuVXFfNlRIcE5henRpR1FZazl5alFnTkJTLUlMTE43d0RPQnVXN2cwTzNR?oc=5",
-    "fonte": "FEPAL",
-    "data": "2026-11-10T23:36:44.000Z"
-   },
-   {
-    "titulo": "Deputado impulsiona expansão do Bom Prato e transforma Sumaré no primeiro polo regional",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRVN2S2tmM3FDQm5ISjdZeUtoYl9vbGgxUUNHVXVSd2JVbTl1NHpFQ1Z6ME5XQ0djdEhDWk5RaloxR0dOd3h6WG5pZ1ZzU1VqR2RGUWsxNTVxb3RnU2lrYWpET0U5TTNzRHZ1MVpUUktWY2tuVnVfOFZ0ZFpobnF5X1A5dVh0bG94Z04wNkpCTGh2ZHZ6MTF3T3VldDRDY3lsTFlKM1lrR3NOellzY0RRODZJN0xkSHREdlR6ZDFidFNfME1ORk9yN3RGcDh3UQ?oc=5",
-    "fonte": "Assembleia Legislativa do Estado de São Paulo",
-    "data": "2026-11-10T21:43:00.000Z"
    }
   ],
   "missao": [
@@ -491,12 +491,6 @@
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNzRvcXlNM3hxTFA0SEFFakY1MzdQclIxZUx4elUwVUVlWHlaTHdiaWowMWxrcmNEWVFDbC1sVUFhS0N5R2MwMGxMWlZWZ01WVExPQTM5Wi1waU55cm5jajZEQndZSVk2RXd2Z044M2hvQ0RLZzFOZTdWa1BRaGJlQVlKNzlNZWRtS0VIbkhyYUMxbjU2YTJBWFZ0NUdzQkU3MFhhREthc3lWMU13U3RVZHRRQy1jcTU3UmRPbdIBxAFBVV95cUxNLWV4WVJzZG81ZXJoYndvcHJmcmJpaC1BUmNlelo2SlpwUzI3V2ppaDZWSzBhSE1aRDV1R3NPMkp1ZTlEdjltaEpueEE4VElESmFyMmdlcWpzOGJEQ0hSakxzZnpyTlcxYk83NVJ5VzQ5ZnVpMU9lY1NSTy1RSE1TRl9rbXpnNHFNb3NKTnRXSE5SbDgybW9HZV9fcDh0a2JVTDdtd2g4bXU2UXd3Wnd2QnRIM2w0WGs3dWx2VjFBV0dCVElq?oc=5",
     "fonte": "Portal Massa",
     "data": "2026-11-06T21:30:00.000Z"
-   },
-   {
-    "titulo": "Tarcísio ganha espaço na direita após derrota de Flávio e passa a ser visto como principal alternativa para 2030",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY3d5TzNfVmQ3ZkU5cVQ3VFAwMVFQNmY1bkZxSnR1MXpkbDNTZHJpeWkwOFVIeTZkQkhEYjRxYTlNT1haVzhlUXowb0dyUmhrRzNFeGE0THdUaW1jQkVPQkJfTm1aMlB2X1RoR3NNdmJra3NKOWEtVFpDc0p2NU93ejNRTTk2Y0NYc0RsS2tjX0gtb05GS24wNVRoUlV4TWFLWlJoMTFMejJ5YWY0MERKU296QW9iTUFIa3hUR2VGQTdtVkpGazFYNEd4ZmpzMFk4RlFZSjhXMjAzNUFQVC11UUx0SGtQb09vNzRXakJWWW95ZVVONkVDRTdzZ2UtQms?oc=5",
-    "fonte": "brado jornal",
-    "data": "2026-11-06T20:25:55.000Z"
    },
    {
     "titulo": "Missão e PL lideram partidos que mais ganharam filiados em SC no mês da eleição; veja ranking",
@@ -582,6 +576,30 @@
  },
  "ciencia": {
   "als": [
+   {
+    "titulo": "The Boron-Neuron Connection: The Potential of Boron-Containing Molecules for Treating Incurable Amyotrophic Lateral Sclerosis.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42947522/",
+    "fonte": "ChemMedChem",
+    "data": "2026-11-12T00:00:00.000Z",
+    "autores": [
+     "Sanghai N",
+     "Vuong B",
+     "Afridi MSK"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Novel compounds induce AChR clustering and improve motor function in myasthenia gravis animal models.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42863218/",
+    "fonte": "Biochemical and biophysical research communications",
+    "data": "2026-11-12T00:00:00.000Z",
+    "autores": [
+     "Saito A",
+     "Sekioka R",
+     "Nagashima A"
+    ],
+    "resumo": null
+   },
    {
     "titulo": "Authors' Reply- Unfinished Breath: Caregivers' Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43012465/",
@@ -735,30 +753,6 @@
      "Bigliazzi C"
     ],
     "resumo": null
-   },
-   {
-    "titulo": "Genome Editing of Mitochondrial Dysfunction in Neurological Disease: Progress and Translational Barriers.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/43004989/",
-    "fonte": "The Yale journal of biology and medicine",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Sharma R",
-     "Niranjan N",
-     "Long A"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Correspondence- The Unfinished Breath: Caregiver Perceptions of Terminal Events and Gaps in Amyotrophic Lateral Sclerosis Care in India - Methodological Considerations.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/43002167/",
-    "fonte": "Annals of Indian Academy of Neurology",
-    "data": "2026-11-04T00:00:00.000Z",
-    "autores": [
-     "Sheenam N",
-     "Gaur R",
-     "Gonnade NM"
-    ],
-    "resumo": null
    }
   ],
   "phage": [
@@ -849,16 +843,6 @@
   ],
   "alzheimer": [
    {
-    "titulo": "Communication breakdown: Impaired pericyte KATP channels in a model of Alzheimer's disease.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42944728/",
-    "fonte": "The Journal of general physiology",
-    "data": "2027-01-04T00:00:00.000Z",
-    "autores": [
-     "Jackson WF"
-    ],
-    "resumo": null
-   },
-   {
     "titulo": "Gut microbiome depletion aggravates glial-mediated Alzheimer's disease pathology through inflammatory, metabolic, and proteostatic dysregulation.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/42999037/",
     "fonte": "Gut microbes",
@@ -931,18 +915,6 @@
     "resumo": null
    },
    {
-    "titulo": "Alzheimer's genetic risk factor CASS4 controls microglial focal adhesion biology and amyloidosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42944718/",
-    "fonte": "The Journal of experimental medicine",
-    "data": "2026-12-07T00:00:00.000Z",
-    "autores": [
-     "Walsh AE",
-     "Davis BA",
-     "Samuels JD"
-    ],
-    "resumo": null
-   },
-   {
     "titulo": "Cholesteryl ester transfer protein inhibition: from LDL lowering to dementia prevention.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43001556/",
     "fonte": "Current opinion in lipidology",
@@ -972,6 +944,30 @@
     "fonte": "Bioengineered",
     "data": "2026-12-01T00:00:00.000Z",
     "autores": [],
+    "resumo": null
+   },
+   {
+    "titulo": "A general practice-centred model for early diagnosis and management of Alzheimer's disease in Denmark: rationale, evidence and a pragmatic diagnostic approach.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42954299/",
+    "fonte": "Scandinavian journal of primary health care",
+    "data": "2026-12-01T00:00:00.000Z",
+    "autores": [
+     "Kjær NK",
+     "Lykkegaard J",
+     "Ibsen H"
+    ],
+    "resumo": null
+   },
+   {
+    "titulo": "Engineering human brain microphysiological systems for alzheimer's disease (AD) and chronic traumatic encephalopathy (CTE) modeling and drug testing: translational promise, limitations, and future directions.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42950990/",
+    "fonte": "Advanced drug delivery reviews",
+    "data": "2026-12-01T00:00:00.000Z",
+    "autores": [
+     "Yun Y",
+     "Jena S",
+     "Egido-Betancourt H"
+    ],
     "resumo": null
    },
    {
