@@ -1,7 +1,25 @@
 {
- "atualizadoEm": "2026-11-13T06:54:24.001Z",
+ "atualizadoEm": "2026-11-13T08:46:18.183Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Senado aprova vacina contra herpes-zóster; texto vai à Câmara",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXFWTVp4WWpXR2dVMmM4a1d5djlOX3BxUlRWQkZmRjlzMnpWODU4WUd0QVFFeG10NnI3dTUyOXFoLUJ1MFVkWjBVN05nNWVMM2F4MmJ1c2NCQlA1Xzhkby1BZFdzNTc0Y0gtUkFKQlpUS2JFcnZJSTJyb2R6R2ljRnFjOWNlVG5CX0Zud1lyTHF0b1pXeEZWNndabDlUNk5Ed1gwZ0V4c25xNWhJdXUw?oc=5",
+    "fonte": "TV Sim Brasil",
+    "data": "2026-11-13T07:16:49.000Z"
+   },
+   {
+    "titulo": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2Z2REpHT1JZZnN4bGF4RXJtaThvVkY2ZE5HbWoxWFJRM28tajkxZ2o1cXY0dE1NX1RMWnJaQml2cHh6WmY1VDJMMVZ2SmZEVkdvMG9fYXJNXzhuNUNmR3NWN2NQWW0xNUd5Y1NrWGFfQ3dJYXNXZGtZUmN5Z1BXMURjdFpUa3BFWHJmQm9rTE1KOE1KQWwwcnp1ZExGMHRnbnY5dElBaHhCVnVKcnlxSHJQLUNBUF85eFVZYlVuaWtoMUUxaWVzcTVR?oc=5",
+    "fonte": "Folha de S.Paulo",
+    "data": "2026-11-13T07:00:00.000Z"
+   },
+   {
+    "titulo": "Variante XFG já é 90% dos casos de Covid-19 no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdS1OUVFZdTNzRXJRQzhDNmxKLVhNUGoyU0NvLXRZOUtlcVFqcTNSWm9GV0J0U1VHejFVeG1Wd2xlQmVsNXdHcWlHUE94SlhQOWlPQ3hZbnduUnJORVZMTXlNdEoyaTlGNWNqS21DOVRiZnpyekEtMzdadFBPYko4UlQ1OWJiM0hiR01ZTVF0bXRQY0NOLWxucGY0VGlweDhmdVlkYmZB?oc=5",
+    "fonte": "TV Sim Brasil",
+    "data": "2026-11-13T06:59:04.000Z"
+   },
    {
     "titulo": "Por que o STF travou R$ 243 bi em ações sobre a Tabela SUS",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWmhEa2x3SDZld2lnRmc3R0RvZjJESTNCOUJGV2NpU3g0VXMtUVhVTUhvOE5SSTJoTElfTVhpSmhTa1JQTGc4XzFyTUREVXRfX3U1U2lyVFdGSVZqYU5jU0FXSHJFY3dNMGRxSlZKR2hnMkFJejZPeG5vWTZpN0FJUThad0RQWWxQU0ZjUzB4ZHJGME9LMmwtUGZ4QQ?oc=5",
@@ -73,24 +91,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV25BdkZKSlBCUnRLOWcyNERlS2N5aVlxNlhpdFpnNnJUeVUyVERRMWNmUTZKWTFOWDlfX2hrMTFxcWVMYl82dnA4eVBNUjA4X3hSY2lVRm8yd1JBTHRrTGVtb1FseVgyQ3FJODRxSnFIOFBIUGlseVgzLTBQSlYyWU5sTW9vaWxFQWR2UnY0SjFsUks2NXRmdHZJSU5KcFNqeWh5RzBHYVVHUQ?oc=5",
     "fonte": "PT no Senado",
     "data": "2026-11-11T22:43:16.000Z"
-   },
-   {
-    "titulo": "Gilmar suspende ações sobre reajuste da tabela do SUS e trava precatórios",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakloUG9RbFJHUHRrX0ZVOTZUS3lCeG9NOEY3ejdyNFlFN3dXaVVNS2p0RndmdVB2S2pLRHZPd0FiTXlad3gxVzh6TWJfcmxHS0Rad0tVM05SVVl3YzRXdmVKVGQ1ZmFJLUpWbTVRVEpaSGp3cTRwUVU2MUo1RUpiaEs4OS1PMUZVbGZFY2haZ0RSbE1NWURINkh1Qm9sc283TFFGT0U5cDE1ZXZnajhDU293?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-11T22:23:38.000Z"
-   },
-   {
-    "titulo": "Dra. Eudócia aponta suspeita de desvios de recursos da saúde de Alagoas",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaXRyZ0JNdWo4d0EwM2VocmdsR3UtZVh4X1Bjd1JMQnJEVENlMVlQcjlNOWF5WVFHYzRtdFloV2FCa1JSLVVCd0V5X3FVTGhPelJYcEs2RDRfZWZDUlktWnkySWlvYWNtQTJOWjJYSkRvTzdJN2NkcFJjREhtNjROTWZOdHVhXzNVZXBkN3dTVTROSGcyZ0lZOFdUUnZuWVpRcjY4dkxIN2xYWUNtUldYcXVmYWRXbFFfU01Xby1lRGdQZFlUUUE?oc=5",
-    "fonte": "Senado",
-    "data": "2026-11-11T21:50:07.000Z"
-   },
-   {
-    "titulo": "Projetos de servidores públicos disputam sete prêmios de R$ 12 mil",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQzdTaEQtVmUwbWhKUjBnamZvRnR3dktId2JWWUJFbWlOVG43d1M5cVlEaFkwQzF3cWJYN3VzeXhTNmRsa2hjYXZXWHBYUmtGcUxUcXhucDFxTHM5alFvbUo3TDY4OFlRalpuMGozNmlPeTZJN2dLcnhwTmhDRllIQzhLMnJQdHJ0SG9sRThtYXdWeXdySDlWcG5HSG1hSG95Umk3aU5fanZZZGxvRm13d2FRTXNQY2N0OEU1WnJGRE8?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-11T21:47:00.000Z"
    }
   ],
   "seguranca": [
@@ -223,6 +223,12 @@
     "data": "2026-11-12T22:35:00.000Z"
    },
    {
+    "titulo": "Economista critica calote do agro no Banco do Brasil em possível sabotagem após derrota de Flávio Bolsonaro",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUnpNY2FtbExPOXp6NXdrWU81aW1kdlRleWlGRDdKMWdka01zZzhPVHRNb05EZFVvVzF1ZWh6b1BKNlRyWFh4TGYxWm0yV1BPUlZJZGpETE1GYjk4bzRkT1F6UzF1M1NUQ3BlN0ZjZWd4ZHBXQ0tUd0FVWXM2TkZKTHRhQ2JPbHlHRFRoaEVRTVVYX01UQ2MwQzh5VnFfd1poaHRYMGxyRVpCb2lIMVczSzJQMURCX000ZmxNdUZ0SXJxekJGaS1SNVFHX3Vnc3pUdGZ5WkRDc01YS2pkb3JTT3M3QzNsUQ?oc=5",
+    "fonte": "Brasil de Fato",
+    "data": "2026-11-12T22:29:00.000Z"
+   },
+   {
     "titulo": "Governo propõe economia de R$ 60 bilhões e abre debate no Congresso",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcXJocVFpbmRhMFZBcndSc0toZkt1QjlyRjB4blN6QXoybHc0ZlFabG9KSTRESTVDMU1aYWNFeXNnRHEyZE54dF9OdGh6Mm82TFpYbF9UOWxQTDV6YXlaWlhweV8xeGpPMVpCNG5SQURHWlUzUDFMSmFISWUwN3ZDclhyMHpxbUtfZTJjMWlvdE15NGdoeWtQdzg4anRSY0l0MVRjZ25SVHJCZw?oc=5",
     "fonte": "Notícias - Canção Nova",
@@ -269,15 +275,15 @@
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPODB6Um1qdEJuV1QtS0t3NVRMZnNfZ1JQQ2wxM09XYmswc3l4S3ZaaUQxbVkyY01JNUhEeklVYV9kY0QwUTNxVGJZRjZKVTZOQlFoUThtUjZMckVzbnVUMmoxdFo2QmlfVGtuSUhTeUw4UDRMX2NycTVPTzdEd0o1SnpWQ0JWRGhJbk1xSVQ5TV8tZ2stcWFXaWNnbXZUdktwMGhHNGNwcEs4cjUwbGN5S3hlYVFkSk8yazg0TzJJTnZmc2xvdUwxeDRn?oc=5",
     "fonte": "CAF -banco de desarrollo de América Latina",
     "data": "2026-11-12T18:37:21.000Z"
-   },
-   {
-    "titulo": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZy1seFVIRUdYeHNfbWg3SjVleXhPZEp0MWxxeUdzV3FFRV9SSDdSOFR1Q0l6bWtvd3pneEJHbk9Wa3hwTFZ3TVB1UmVPMEw2MlVYMEEtbVVsd05EM0lGdDZLVThqTjU0V29oUkM4a3B5U1VpWkpQVjlfUkFrR0Z5a1JBdTJla1NSTU5acDRoN1lvSEkzSC01ZGU2UjF6SDJrNjBGWFZHWmprVERBYW1idFd5MWxGS1hidlkwYkp3?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-12T17:43:00.000Z"
    }
   ],
   "politica": [
+   {
+    "titulo": "Brasil teve 18 mortes por violência eleitoral em 27 dias, aponta pesquisa",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR1MxM3RQNWJfME5Lc1N0bnlpWERwOGR4UjB3MWVybkZSajU1bnB6MGJveXJHRlFVa2s5cVFhNjZqLWdSVHJMNXJQX05BcjRGVXpzVlVIZFRLdUNlcVJNMnM4bUtwLVRqQXZMY1JKbl80YlZoVXFEM2xTbXNFY2lFTnREWQ?oc=5",
+    "fonte": "Alma Preta Jornalismo",
+    "data": "2026-11-13T07:37:53.000Z"
+   },
    {
     "titulo": "Palestina sempre foi prisão a céu aberto onde Israel promove uma limpeza étnica, diz presidente da Fepal",
     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQbVh0R1NMekIwRG0wV2g2aGZLVWpIWHU3akVrR25QckFobTJTeV9pemJYbDNqeE9DZTByeTNJSHF2S3hldERPdjV2MGlFcXBGNmZPVndDcmg1cW91WU9JbE1FTHJhaVcwZ1R4Z1R5WTZzSnB3a2FRbTlScUM0RGJxWFJ1ekhLWGdfZlFCSGpVTFVaVjVlcmV5VXJWLTd6MnF4cTJGN29PQWFmWGlsd3pGMWs2MlF2QXU1c1V6MW40RVdTWmdZVlhxek5NY3JJVUJWZTV3bG96X0E1b0Q4Q01faUhUb3I4ZkRUM2lXMnNfcWxiSFB1LXdlYm5SbFhvZ253WjQ2bnpVOVltQ0pnUHc?oc=5",
@@ -313,18 +319,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNWNlaExuQnQxUTdIWGJER2dpUHlwYlZNRnVoVnNHeExQdjdXSVNOc3JkYjFkZ0lwZld5M1VfZF80NXBKOXdPeEp5MTJPTDEtbzBJZmt4Ul8zaW9ENTRFelVMN2h4SlNzMVg1V3RraUk1bHVkVUFNUVAtbVhQSXB5NDZFU2FWamRqNDZkYjdZYmJ3WVZCSWo2VFBJa05YVUZ3VGhKX29GVlJYeWxudm9zOTdn?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-12T21:32:58.000Z"
-   },
-   {
-    "titulo": "“O Brasil é um país desaculturado”, dispara Priscila Cardoso ao defender política cultural para todos",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNkVmSjdhcXF6a2JkT3hsNF95S1Zxb3BycTc0dTN1ZHRFUzNGZXEzaEdGQ3RJSy1tVVFNUjFLemhRVHR2WGxxR1RxYndYM1hXS2Fubk1jVUdkVHYyWTBjSHFERFIxMEJGNVdST1JOcjVHVmhocEpNUXlVNnFLcVJ0Ul9ad1hRUEZvWlVQM2RkdEQtVlpuYnp3NDlmTVZrX0FvTE9iQ2c4UkRLUW5EUnNqcE9ZTlJubkhnMUczMXVMbEVXaXV5Z3M0cU90aFdkUkNEUklr?oc=5",
-    "fonte": "ABC Repórter",
-    "data": "2026-11-12T20:47:22.000Z"
-   },
-   {
-    "titulo": "Acompanhe ao vivo: sessão deliberativa ordinária – 12/11/26",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OSTZwLTNITkJfTU92Yy16TEhobzZDZzlkVWZSUDdHM2taeTZ2VWZMSGVBeURMX2JSWGQtWWg4cHdMcC1fOEVDc28ySm5qQVRQbUhwZm9R?oc=5",
-    "fonte": "Senado",
-    "data": "2026-11-12T20:40:00.000Z"
    },
    {
     "titulo": "Associação Itália-Brasil promove encontro com pesquisador italiano sobre Ucrânia",
@@ -367,6 +361,12 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmdVWEhOOEIyNF93ZzcxZ0FsNk52UFNzLWVXMjBWRjZQZXRraExrR2dBQnZTZlMwbWhxMjlDcnQtWGNjaWZjcEl4VUZTcUhBU1ZnVmdTd0N4SGVBMjRwR1RUOVBDZ3Z6T3daOFVhb2V5ZmtVLXR2djNvUWhlb1hYUjBmZUl2UHhZVUpqY2tmUjJneFFRdnF1MkJ5dDd5Q1hvdnh4WW9vWDh1RHBzVUxucG8xVmx3REMxS1dpUTN4MHBjTU1J?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-12T16:18:00.000Z"
+   },
+   {
+    "titulo": "Trevisan: Projeção internacional do Brasil não tem a ver só com Lula",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQVktUklsM3NSMExJVmV6dW5VTmxVVjJtbkpqYUVfZzE0S182ZzY0YzNTbHVNVm5lbTFpU0tOdkM5NHlaUmRRa1N6bzdxWDNiOWdkNVVwRDdmYVpjRGgyeEI1Qi10SU10X3pZelhkYjVkQWFabWcxMTltejhLdFZNa0tEYnhQOHVPZUh2MHk2WVBWeU9PVEJpRVNUWVlBUFBYNkFQQVZIMlFXSW4yOExYNnNkTUNRUl9xWXdhTlJndmo?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-12T15:58:35.000Z"
    }
   ],
   "alesp": [
@@ -519,12 +519,6 @@
   ],
   "regiao": [
    {
-    "titulo": "Mogi das Cruzes registra chuva forte na tarde desta quinta-feira (12) Siga o @noticiasdemogi e fique por dentro de tudo o que acontece na região 🎥 Lika, Crislaine, Deni, Leandro e Cida #mogidascruzes",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRzg0U3hIRWV5TkZXZk1idTdwM3ZrNWxpMkc1b0l2b1VQeGtSbHFjSUlFbHREV25NU2xHYTBYN1U4b29sTEs0NnN3ZkJXSy1tcnBaT1pB?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-13T01:19:58.000Z"
-   },
-   {
     "titulo": "Muro de cemitério, em Mogi das Cruzes, desaba após chuva",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUNCQldVRjYxTHFGaGt2TXEtQ3lWaEdVRVo2N01qVHptb25qUU5TaDBxbTNacnh2eVIzWGJYRHdWUVUzYTh2QXNXTlZyUVlWY09RNUJaMm45cC1tcVlNb19mNllFNDRnVExOeFV2ZGxtMGRETXRobnZSV1M0R1pFTXcwRmI2NHNTZ083U0hFbXBaM3JKT0QxWlhSZHlqRHFTaExIdEVqdw?oc=5",
     "fonte": "CNN Brasil",
@@ -565,6 +559,12 @@
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjRBLWk2R0dsN1hvSXFVSE1maGUtdVBpZzU0am1GZi1VRlVfMFlndm1RY1dzNk1HaHA3amhvdHNpMUQ0QXo1QmpBemVsZEZvbC1TRUM1cTRtQ3hLQ1ZOdnpaQlNNQlhWM0RlVGtXTTh3LVRJYTRSQUNDYXI1cy0zbmpyRnZITHZkQ2FTSDZYMzAxRTI4VWM4Z3ZpMG1qeVlYUW9KbDlhQ1hIdFVteTI4SkJkNFY2LVUyaUZRSkplbGpCZU1sUmREeVp5SFM5Zw?oc=5",
     "fonte": "G1",
     "data": "2026-11-12T19:26:32.000Z"
+   },
+   {
+    "titulo": "Mogi das Cruzes registra chuva forte na tarde desta quinta-feira (12) Siga o @noticiasdemogi e fique por dentro de tudo o que acontece na região 🎥 Lika, Crislaine, Deni, Leandro e Cida #mogidascruzes",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9GRzg0U3hIRWV5TkZXZk1idTdwM3ZrNWxpMkc1b0l2b1VQeGtSbHFjSUlFbHREV25NU2xHYTBYN1U4b29sTEs0NnN3ZkJXSy1tcnBaT1pB?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-12T19:18:00.000Z"
    },
    {
     "titulo": "Mogi das Cruzes registra 61mm de chuva em 3h e tem alagamentos, queda de árvores e desabamento de muro",
