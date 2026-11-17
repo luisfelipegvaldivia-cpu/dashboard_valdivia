@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-17T08:48:31.924Z",
+ "atualizadoEm": "2026-11-17T10:51:18.161Z",
  "noticias": {
   "saude": [
    {
@@ -51,16 +51,16 @@
     "data": "2026-11-16T19:09:00.000Z"
    },
    {
-    "titulo": "Brasil registra mais de 84 mil casos de tuberculose e doença ainda preocupa autoridades de saúde",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbm1oZ3NwOWk5MVZ6aU5oT3I2TXltajZNV3BBY293b0ZkTHRNUExqSjFrQ3ZMdDBXWXhlZEVoNHJyUEZHS04xRjdkUGQ2Tkd3Yk1zaGNwclhIYVMxbkROVk9qRGFqRFg2U0EzRmkyZkp1RkRQeFNMWmhaQnNFVGFtR2ZSR2syNXFkRDNuWHV3SHpXOTU5RmFJOVB6b0s0SC1WeV82S203TUFpdVpjZVYtRlV5ZWNDTWZGYzRZTnRMd3B3cEJWbmc4S09yWF8?oc=5",
-    "fonte": "Rádio Tropical FM 99.1",
-    "data": "2026-11-16T17:56:00.000Z"
-   },
-   {
     "titulo": "Tecpar reforça importância da vacinação para prevenção da raiva humana",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMVR6aXdBbXRPUWhuLTEwSnd4VTR1Q3ItMGJwVzc5RzJBcUJJM1BheHI3YWZ2R1h2U3lPSU02QWRKZ2dXbjh5VGp2bzROTENNOWdXVU5DLXdEbnJvandCNWlldk5qV1BqXzZEak9tNHltTnZ1YzJhR3ItUkczcm94YlpNdzZzMzVSR0NHeXhOM3otYVRlc2MxWF9XVG1zckdPLTFYMlZMZFZ4UXNIRUNn?oc=5",
     "fonte": "Coluna do Meio",
     "data": "2026-11-16T17:51:00.000Z"
+   },
+   {
+    "titulo": "Dengue cai 97,79% em Itapetininga: prevenção e união de esforços protegem vidas",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeHZkeDZyNnZwam1jVWk5SWdJM2VYdVJEWnZnSG4yVzBFdjZQdlI5SW0td1hUajNHUEowMWw3Zld5WU1BYUN6Vm5xeDdUdGZYWXhGQ1B6OFUyMGplM3FNT1VVSjVYTURPN3BSVC1URG5hTHhheDFxSWNOY1VTLUFCMTVnMlN2cGsxQVU2eXFjZGtEYTZqQ2VjU2RCUUdHUDB4U21kdUN4ZEQ1X0k0Z0plWU9yOTV0ay1HUVppcmdhaw?oc=5",
+    "fonte": "Gazeta da Semana",
+    "data": "2026-11-16T17:01:52.000Z"
    },
    {
     "titulo": "Remédios vencidos: onde descartar corretamente no Brasil?",
@@ -187,10 +187,34 @@
   ],
   "economia": [
    {
+    "titulo": "Economia circular movimenta até R$ 90,7 bilhões no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE5ueWIxRmdGa014QWIzSlRmeGJuZHN2Nl9CaUs3NzJicVlwRkVrOU5NamxOZHoxSlRLZGE5M0Q4czV3MV8tY0pwM0JDWkxrQTJzTkYxdENjSDRZaHF0T2s5Mm9vMVJ3YXprajNUY0ljNS12YlU0T0dqOWJPb0lleFQtSW9uN1JRd2ZBRjcxNA?oc=5",
+    "fonte": "Opinião em Pauta",
+    "data": "2026-11-17T10:27:00.000Z"
+   },
+   {
+    "titulo": "Durigan vai ao Senado explicar alíquota de 11,3% da CBS",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenFqeU9yck0yM2F6NkloXzJuc1loNnU2R0JQTUFMMnppMTNnTDNPbTh3WTRrRG5nNkRPTEpqUm0xMWEzR0JGVXNRZGNvZkx5TzRKOWRzcm8wT1NLTGljc1pFamw5T2Nib2c4dDFBQ1JBTFNRcTZycVBaMWxwd3ZxUzZISndxUjhOLVpNMmZDcUVoakhUeHhqM0xISkp6VUZUak14N1d4bkFjbjFPZjRnag?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-17T10:15:00.000Z"
+   },
+   {
+    "titulo": "Beneficiários com NIS de final 2 recebem Bolsa Família de novembro",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObzdwM3k3dEhhMHV0aDZYWEZyS3RzQTV5bzZjUDM4c2liUXl1dkNmaTh5a041bTQwbU9DcHJTN3RweUI3RGNKLVFjWmY1Sk9Ld0JzdHI3dVhxbzZEZjhZOGJHZF9WOUxHTmljMGNEWTA0Tm5hT0dKeWw4Q09YM0RiUTFXck9Kb0VrUGp5SUxBWUV1SVlGR19UTGc3Vm5yZzBfekRCVjJiSUtHa04waUQtV3cxUERQTjlKbUlJQldjdE9OUQ?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-17T10:02:00.000Z"
+   },
+   {
     "titulo": "Como a economia dos EUA pode pressionar o Brasil em 2027",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObnVaR1hRZUw0bDMxUHQzM255a1lPeDFHV2ZIMzhPWTBUM3hoM2x1SkpGUkw1WVFkTExwQ25telh2Y3FEeFFpN3pDQnpoVXh4Q1NrTXdHcFdTaXRMcTRUZFJMMlBDTUk1VVo1MjRmc1l0MGo2cGVOVnhoLVp5aXRVNTVhQWc1aFVsRUdoYlQ2b04zVHRzclVfd3k0SzVYczNTbjRVNjlfQ0NwZjJBckxKQlZ6OEtnYVU?oc=5",
     "fonte": "Movimento Econômico",
     "data": "2026-11-17T07:47:00.000Z"
+   },
+   {
+    "titulo": "Por que o Brasil entrou na mira das restrições dos EUA à venda de chips para IA?",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQkszYmlFTkNrRGxxcTVXM2hsQ3F6Z3E3bGlhRkRSQ25IZlE1dDVhWGk2SjN4UEtqMFh1aGtZdnFpYXNlcGpDLU1ielFGYXRZS2gzQS1nNmhWeEtxdTh6YlBDNFYtRWNTRnFuQl9HbFlNRjdPN20yLTYxRlpkR0QxLXgwNjBjTm16dUFCZFNmVHg0WTUyUzRoc1dxX3FDVTU2aFZHc0thVnFYR09CUDdybDlyV0NkVUxzT05VN3FjN1pGSVBpRzdfT2dFQVRhTFZDdEZKREFOdEJnbWcxMG0wSG12VdIB8gFBVV95cUxQbHFSMjg4a295bmdIS2VDclllNWZsWkFsa1NLQlBRYkx4SnZRWVB4X1pVUU1HYlp2NERrNUc4ZHFPR09uY3NHZTZUSEdYVGRmRk9UYXlSZGVjbURrRVpEUjJfLThUSW5LUTNRSkI1U2RMQWNTQjVxMmpHY3pnc2tWMmFzejBFTXgzV2otZ2g3eFR5ZjlPMkNHcE5oaHM4aXdjSWpqU3djZXNmWEFJbEZQTktjdnd5UmZxd1JOQlBiOHpmcms2UlloM1Z1bXJRUEh4eVZya1FkdDNQR2gxa0dGdld0c0F5R0NIS0FXMFJyaklKQQ?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-11-17T07:00:00.000Z"
    },
    {
     "titulo": "Trégua EUA-China é prorrogada até janeiro, e soja do Brasil fica no radar",
@@ -209,12 +233,6 @@
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQd3lUeFNMRGZvYVVYeXRBVUU1TmFFUEUtclRGTEJqQTRyX2FJXzhzYlE1SkxpMDZoOEQ5ZVRJUkZiMmt1Tzg5U2h4OGgxeU9TWEREQllsaUhYeU1jb21WT2pIQmhTb1piY2VDSjNtSi1pRE4yUlVWTjhxUGxHSGtrUDFLSGJsaTliNjJzRklEeE5MY2dhQzBqT0JzUGZZN1dqTXVBenJUeUI0TnF2Q09kQnJEVGpxMW9BdXY3VG8xTkZRX0lRQTAtWHdwaDVPeGJOLW5RbTdLaWFxNTl6akgwQm5FV0dPdWZhb0x3X0pWbFJOYnpOSWdvXzd3M21mNnMtWnZGbkhn0gGUAkFVX3lxTE1iQ2MyczlZQm9Da3hERWRVUDZ5M2R6d0IzS1RrU0o2RnFtdkQ0cEg4MG45U0lfMDFER0JZTWZlUWV3M2pDTWVyb3NscjlGdEVtejFhekJ3Sm1JVm54SU5SNHNFcFViOWktUVhqenBUVVFwMTB0ZUl5NkdDdE1LTjhRY2FzbW4tOWQzWU5XQjNINWN3d1JfcjdIb1Y3Q2cyYWZvMTR5REZvMFVaMjlCWkhWQXNFdFAxU2E5TDRnZFBUcVJFU1V2ZzRmcFBtNDBZR3dkZ0hySkdVQzNQZjhhRElrcDJBSXlsWTd3d0dsVTB6UHhFNDk4OVoyMEpFMDRzemtleWxWR2tGLVVaNU55MldDOHdOaw?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-11-17T01:00:02.000Z"
-   },
-   {
-    "titulo": "Governo Lula descarta medidas de socorro ao Banco do Brasil e vê capacidade de recuperação gradual",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNYUxzYW8tdDVBMUhnejlnTDVqTWZOZk5TSFBOb0l2OWZ3SjR0M2lGUkVhRmhMZk95TmpkMThCWU5rYWtvdjJiMVZ3WlZwb0s2dXU5T3BTU3RIcWR4YVlLM29ZZG5RZmdJa281czdUazhKcUpwRTltNE52T2llZTNHZ3RnZEtVVzQtaFRjRVFONExFZzBDZ3pNbzZZdmNWUFdHVE9RVTkzN3VtV3FnaG95U3VtTlVUYVhoNmFjaWJGM3I1MldZak13ZzNQTk91TFk20gHWAUFVX3lxTFBjaTBYb241bGJSdEZtMEtJX0F4WlBuRHUzVzZWSzQyeDVrcFFaOXFRWUd2Nl9zeGxhYmM4NXhpNjNPRmpLQTlDZHdtR2lqbFd6azJySm0wWERxNkkxek9wRlZMamV4UUlhQ0VPRFdidEZibHVicUYtTUZ0VGZkN2ZhUVUxMGdxN29YMzcteS1FRTlxX3hOUDRhZXB4UHJMTmZGTGZnY05mVFdzVEVQUF85QTFHMnA1V05TbTdUVHNfVElXUnMybzZRRFhJTzB0alZLOXRPUnc?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-17T00:09:05.000Z"
    },
    {
     "titulo": "Regulação das big techs pode gerar economia significativa no Brasil",
@@ -253,42 +271,30 @@
     "data": "2026-11-16T21:53:07.000Z"
    },
    {
-    "titulo": "PIB do Brasil: mercado reduz previsão de crescimento para 1,72% em 2026 e 1,02% em 2027",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEYyTFVuNWVUdXpaS1NvNmhlbHNqVTg4S0tZYUl4Q0RLdVdaSHZ3VVJhNTF4NGZ2dXZLUVNmaUZNMjFuT0Iza2p1OFMwZnQ3OWFrXzdBaHRPN0c2WXJ5RWl6enctZ2NsM0l5TG5WMFBaOXNROTZrR3k3ZzJyYi1iYmdRQ04wLUZCSXBfck9lTXZocG02Vmd5S3NILUpIU3pHMndSREcwYW5wVFdSelQ2ZDJxTVdSU2NicGJBd1Q4cUFSUkNiZFhZR1NyR1FtZG9OQzV1QTM1bWNlc2ZXT1dOcDV3?oc=5",
-    "fonte": "Portal do Agronegócio",
-    "data": "2026-11-16T21:40:00.000Z"
-   },
-   {
     "titulo": "Brasileiros gastaram mais de R$ 40 bilhões com bets até julho de 2026",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVTdjQWVYcjloTGhYUUNCeHJVWFhCN01waTFNUjhNN2FfRV9oeWZabGJzcFhYNlNsZFNmd3czRE9hU2pTQlpWVVZkS2UybHJUWmN3U2NXWHVaYVVPQ1loRUhSbDkwVG5hOFhUQ2QybnZnVjd5NTlHSklVVXZseURqOUotMXZHM0RrT0NTdDNuS0VtM3VJM204U0VzbTh1SU5zQ1c4cFJkbkdidW4zR3M3NFZWWE4tazhYZUVHX3lNMW84RXJWUkVYUEFBaUFrcDU1bjZfNnA1SGdPNmRha19B?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-16T21:18:00.000Z"
-   },
-   {
-    "titulo": "União paga R$ 445 milhões para cobrir dívidas de estados e municípios",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQR3hqclVScWxfZ3hOc2tObWRGdHJ1UzIxV1pvUUd5Ml9iQms1U0lFYjFUM0pEMmxQZGpFSVVfVnVLUktLcUJodnVabFE2c2RuVm5BUTJyWl9DVlY1bENUOTM2LWR1VUROVVRNRk5DQ052UVlnUjYzdVVBcS1lQXhCamowOWdldU9xOVlyaWc2LTN1dFhtMVliSldPbzhVdjdXdV9MQTF4UEQ2WXpQZWUzQm5oRkg2dU1mdDREQ0dGRUlHaGJpUm5NTVl1UDFORkg2eXNzcTVQTnQzVzM1eWtj?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-16T20:58:00.000Z"
-   },
-   {
-    "titulo": "SE Advisory acumula US$ 240 milhões em economia para clientes",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTTN4VzNCYTRjNm1hVFlwekNMdXExeDZYNDZuc29IZkdCaGI0eWdabnFSMDl5VFdaLUZueG95OWtVYTg4d1VWRlJnZGtlRWNqRFRmaUFwYU1rOTZkekdQVEYyc0VINUdBamF3UlY1YlJ1UnhZQkd2aXJSMFM3REdBaTBOdmJnZ3I1RUxoWEdsTmlSeGxVSE5wcVFrZVRlSktPQ0twZnJyOEVTQQ?oc=5",
-    "fonte": "Editora Brasil Energia",
-    "data": "2026-11-16T20:51:12.000Z"
    }
   ],
   "politica": [
    {
-    "titulo": "Brasil gasta quase R$ 15 bilhões por ano com política de combate às drogas, aponta estudo",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdy00OWRNUVFHelo1dDhtdHpiU1VhQnFwbHlMVm5vSXhHSVg3VkxRdnR3MU5tM052TVE0cVFSZldidkxrT2o1M3N6eTI1M0tHa3pKZVFZNGFGLS12OG9uWHh4UTZXRlVzWVRILWF1Ykdzd1Y0Z2VrNTZaOHdQOGh3OF8tbnVrZnhFQXZVWDBmZTQ1T1l6bU5TaXBHOGFvTVVVeEFPVGdCdXdtQktBT2Y1bElCR3pZYUlW?oc=5",
-    "fonte": "Agenda do Poder",
-    "data": "2026-11-17T08:37:00.000Z"
+    "titulo": "O rombo bilionário da política de drogas: repressão custa R$ 14,5 bilhões ao país",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEtKdFRlVnpST1VhMEx2aXVnQUM3TTNjR2NKSVphM3ZfUnJ4VlRlN2FxaVBnSTRPcGFaSGRiVi14Z3Z3UFZqOE9Xa3o0Zy1HaXRVRHFORllZZnhvWVg5NlRiT0ttYVFQX2dxb3Nud0N0LU1yZkNxQlJiUTE1QWhfQXpCY0M4a0N6VGRaZjJMYTFPTmJlZnpreF91UklVQl9CYjJIZ3lLMF9uNG1OZHYtTlpJUnVhMmhSSXZTQS13aDhpcEE?oc=5",
+    "fonte": "www.plantaobrasil.net",
+    "data": "2026-11-17T10:25:53.000Z"
    },
    {
-    "titulo": "Por que a Rússia passou a mirar as pontes de Kiev, não as usinas",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVzM2ZUEtUEllMzZiU3ltV0EzQ2xwbkoyWEZNZmx0OFg3ME1fXzZQLUpldTROMVRkczVqT2kxbTVHX09PUFVZUVdkTUhlc0Q3VDM4eDdFS0Q5R0ZycFFoZmxzOXBHZ0I3VVh2czdPVDJDTjBkU3FtbFpnQkNLc1I2TWNWZzVjZXBVZjNJOFA1YTNsTENjcmF0V2syX2RMWFZIVzdES0hGWQ?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-17T06:07:23.000Z"
+    "titulo": "Brasil gasta quase R$ 15 bilhões por ano com política de combate às drogas, aponta estudo",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTi11MndrRGRGWnRVSDRzRnd3bEdIQ3VIMmNpMjhCeVc1SnpmOUZDbjUtVlFuYmphcU40ZG81VUlVMHNnT1YtZ0V1ckpDOWhuOUtrUDNvVExxdkdGOU90azBpeUYwQ2NUN3VrSk9CRm8xOHZKSVBQSEFKdzdkZU1LR0k0OU52dUJhZzl2T0x5c3dHYXFZaTF3Q0NObDd2SDh4TDg5SXhxbHdVX3FvX2MyM3FB?oc=5",
+    "fonte": "Rede MRio",
+    "data": "2026-11-17T10:20:00.000Z"
+   },
+   {
+    "titulo": "Lula volta ao Brasil com desafio de destravar agenda política e ajuste fiscal",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV192dzE2WGtJN1hxUUhLcDZYS1I0c01xcUhwR1Z5RE52dVFXenB4UktLcGR1eVRmZi15SFZwVU83VVphZ2ZnSTRZaFkteDlwbXhNVGN5czVieS1nS0hreG5zZGFNOVl3NlduTEZWRDNpd3dnMnk3TXQ3Z3lyQndvWTJ3dWVKRmlsbGpRMnpBZG9zOFEtWmVhRlNnT0ZHeHRQSzZrc00xZ2NBNlhkM1dIa0ZqcFFLTFB3eUFSbjNmb2tmVDFMSEVaVERWdDBjQVp3bWpUN1AwMWJFXzFLSlJR?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-17T09:54:31.000Z"
    },
    {
     "titulo": "Brasil — A mediocridade política ameaça o futuro do Brasil",
@@ -301,12 +307,6 @@
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeWdWTTBVeVQwck55U2E1YmFSSXdBRXk3SXFzeHRiaHJJSjY0bnRqR1hlSEg4M0l5X1k3N29oQkdtMi15NnFMTW5jbDhuOTRoNXc4VGw4Mk1CR0lBaTJlUW5vdl90ZDJYeTNpLU5GNTRUT0Q5SlFVd2xYcWdyNDRMVDJHZVVZcHBJb19PcG14Ym16YURqM3lRVlJMUWU4NGE5NTJ6VXJIWlNrZGlndUFXSzZwTy1LUDVBa0VXUVphcm9BWWIyb2lFTFpNTmxRS29yd01YVUlLWVlvMXNXRlR4Vk91bVE?oc=5",
     "fonte": "JOTA Info",
     "data": "2026-11-17T03:19:35.000Z"
-   },
-   {
-    "titulo": "Política de Trump afasta estrangeiros e custa US$ 2,4 bi aos EUA",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYmJTS29sX1hpRzB4ZTMzYlM5c0FncVM2UDlJUWlfeDZsZXFGbEZsUi1ObXhORmhwaTNfaXBfVVBURzhkYjJUblJGVDVGMkg1SWtCTUZzN1lnSDJuY0taWW9VVGR3cFNZanhfOHRCZGxSQXljam41SXBuZ1lyVy1HTVNmVENLSW1PU2pyaVhHNjZJOWo4Zk02T01ZTGhYemR4SUdGUFFyZmtYUGpKT2Q1Ulg3X2xGTjk3?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-17T02:37:00.000Z"
    },
    {
     "titulo": "Resumão diário do JN: Incertezas sobre a política fiscal aumentam tensão no mercado financeiro; EUA restringem o acesso do Brasil a chips avançados de IA",
@@ -331,6 +331,12 @@
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPV0EzeFU4V2lJdm1GZFNKOFR5TWIySUpTQkJrM1c0Yi02UV9Jb0pNdC1VR3BXSWo1a3lsMkFTaUZKZWFUN25SdDVEVTFBZFVNS1hlRjJtemxoUV9PT3VGU1ZpZmUtR0VSTmpSX3RnbmEzMmxhQ3d6cUVPaHllUHJhalp2dm10a19uSzZ4aVRDclRMSUYtVjFfOF9MLVBDWERRTGxTc1dJWERqT3lwYkJJZFl5c1pWQTRFOEtwcU04YS1pTkV6MHc1dS0wM1Zjd040aDJ4VVRCWXpXZHQ5c2kxd3hlU3lubVh3YXpr?oc=5",
     "fonte": "Jornal da Unesp",
     "data": "2026-11-16T21:27:00.000Z"
+   },
+   {
+    "titulo": "Virada política na América Latina pode redirecionar bilhões ao Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1hXdjRFc3R3eG8zd0hPcXN1U0J1X1dycjJWOGdpVHZGOXp3UEpxT1FIOUtYSTd5Q0hkSTJsdDdGMDk0RUlfUFpWMkNaMGF2X2Foc1hjaXNLSDhnUnplTmRNdmhqSGVWb3BDb3MwdHZ2cWw5RnF4TzdoVkJoNjU2TWJBVlAtVHdPVTh4a3R2NVluMmZBTlcxRzdIR0ktM2tYUVFnMlRUbmZQS3lmMXBfV3JzRjRtWlc0ZGoyS0xUQ3Q?oc=5",
+    "fonte": "O Brasilianista",
+    "data": "2026-11-16T21:00:00.000Z"
    },
    {
     "titulo": "UNICEF e Prefeitura do Rio lançam primeiro Plano Municipal pela Primeira Infância Antirracista do Brasil",
@@ -361,12 +367,6 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjNGd2FTQmhmQ04xRE9fa2dyRE9wUHpmcEpKWGZSenRHOUFyeDRNaGVrTnRwdG9jcURDMGZ2eE95RlAzMVpWMGJwZjRONkFMWF9CTzVtbnlVMkJRSnZxNGRRcHptX0s4aG9Pc2Rud1dRTVNleDJRLUVsanI0aEFkZWkyejN4LTJRdmZDSGF6b0FwcXROWXNrNHQzODJ5bld1?oc=5",
     "fonte": "Brasil de Fato",
     "data": "2026-11-16T19:57:00.000Z"
-   },
-   {
-    "titulo": "Conad aprova medidas para fortalecer a participação social e a política sobre drogas no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmZYaW5ocVdMal9LZk1EcDdnYlFBNUdhejVmZFhnTFNMdE5jM3FGbDc0cVF0RU9RQzc1eGNpR3BIVXYzeUJuQ2c5Um1LdS1jQzFuWE41WlRXTzh1RExGdjd1RlVLdW1hSmFHUDIyQ3FTUHFEaVVGZnJoeWFIa21GWlByaDNGdmRzcHQ2ZE9UVmQ4d2dOU0R3bWx2TnRCYkFjWXhwRUZoNnZuX1VQb3JYWVdyX2ktQnM2WVU0N2JCX05SRjdsbDJQLUlhMlBpV0txU0lNUXZmQQ?oc=5",
-    "fonte": "GOV.BR",
-    "data": "2026-11-16T19:34:17.000Z"
    }
   ],
   "alesp": [
@@ -499,12 +499,6 @@
     "data": "2026-11-11T20:21:05.000Z"
    },
    {
-    "titulo": "Jovem Pan dispensa comentarista alvo de operação de fraude fiscal no RJ",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWkpBYjVKZEo5MGh6Wm93U0tnS21sWkd3Snl0ajUyR1hNcC10UjR5bnVCWUlJaWxVSnk5b2Ribm9RX3VuSDlYV0Q5RmIwbTNLbmxJSGI4eF85Ynp1dkppNXY0dFRUZ1AtM3dyODN6X1JYVndMQUNjR3RDTktoLXpYN3N5blNvMjlWUkVLbXFTNlV0ZjJqTGdEdFAtekp3NXFibzdwV1FyS1g2ME5UUHFMby15WUNYVFg2ekVhZEczcElONkxCcENR0gHWAUFVX3lxTFBVZV9jSHdoZkxGN0NoVUVEOTRlem9JZnVITUlDMXNtLXo3M0ItaXkzWGdlOFUwQk15NklIMi1WOWFfYnNBZDRMZVk0ZHUzcmtoT0lJSTRsRl82UlRUcGdaTmpwR3JBeno2TXF3VGQ5WE1xWlpYU3czdzF1dnlnVWxOdkU4VHlQRHNqcVgwWTcwYjJuM0M1aVdjTjVwYjBhR1JYTmNzRTJoOUNGYlVDamE0VGpoTThjS1lMVW9haXp5ZVoyYnZ4eHQ2dUR4M2JQNFZ4VTRVZXc?oc=5",
-    "fonte": "Notícias da TV",
-    "data": "2026-11-11T17:14:00.000Z"
-   },
-   {
     "titulo": "De Nikolas a Ana Elisa: políticos criticam compra de 95 iPhones no Senado",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbzRxNTRNSWtQOEo2YUw4UVByZTVHenNkV1IwZHB3azhTNmQ0WThwM3lVZG1qYklPSVlxWFBDaDVIeGhnZlR6S2czNHJteVZXQVktZnIxeVNiZms4THBYZXdIUFd6c25SSE92Zk91VFgwQ2ZSUkg2MFoxRnRMdU0ySnFEbXlHSGlzdWE4TXVfVGV1RzFDWS1hVXlpM0Q5Z3ViOGpOaFg0MzJHeDIzX1VpeXJLRDZPNVFfTm1YUTdxVXF0N2dxdWhOeEpVZWpMNUdLUzlTclpRUjI0UQ?oc=5",
     "fonte": "UOL Notícias",
@@ -512,6 +506,18 @@
    }
   ],
   "regiao": [
+   {
+    "titulo": "Shoppings do Alto Tietê têm mais de 80 vagas de emprego nesta terça-feira; veja lista",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWGlsR2lMMUNva3E1eTRPU1N5S3BLZFV5WGVkRV9jZEtkX1pwcE42Sl9mZVVDTWJpNzJKQ1dCOV9Yajd1Rjgwa0hkWEdMUS1nLWNSMTRja1UyT1dZQWFBX0lZM0tTNVRlNjhpSlFYQXlCSkhYa0tIR3Nic2s3UjRMSWVpeVdCNnNWUGF5alhWdGFhTmJSZGZEa2tXUWpqTjlVN3k0b3RBUHBJQ1pLclREdW5lRHcyQTBtQUdCTmkxMFpRMm4xSzJ3UUZBOEV2S2hWX05PUVgzMUl5a29ySFAwN0RQb1R6U0VkbWZlU3M0M2pMNnBEYnV6eDR1eTBPTHZjeEJIanlla9IBlgJBVV95cUxPa2dEMktKVFdhbEJvUkZvNWNfVGJCVXVjWnFoRGlUVVRjRGxrbmtmdVhsOVB2T1VpT1RGMzJrdWQ4RkNDOTdVa3NSSlJMaG9DMzlXSllZaUEtOXU2WU1tQVowRVlMQ0J3Z3YyRWs2VnVVWm91QnpFSTRzcFJORHA2VkhmOElFcmUzNmVndUpzTnY4enBxbjVEWnpRQTc1QnFLN1dEdlo5RG9DSkFvY1lOanlkcG5QcExmZnhrTVRNNUVDXzJSSE9ZejVza3RYUlRiYktMWTlGN1BOb0wySmZPRmFObXdtWTN2TWN4YjVKVU1zb0JFQ25SdkQ3SkJnNUZnVUw0ZWxBSGlTZ2NDOHplMkdEcUNNdw?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-17T09:35:58.000Z"
+   },
+   {
+    "titulo": "Casos de Mpox no Alto Tietê aumentam, aponta Painel",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMW5namJPQjc1c1dkSjRtV3FuWmVZelV5a2x3bzFBU25rMDZJM3hNT1gxQWVfektlblptNWFQcVZLZnNacGRydEhSRmMwS3dWdklYRUNIYzNRQXlvTFo0cEFnbGR5SUpNSXFOLXQtemx4RFA2TFNxYTFTNXNvd0lTOVJHQ1JZbkZqeXZBbzdLcW9KV2JEYUw2dExGNFItd2FEeHVFVUpsVXpVaGM?oc=5",
+    "fonte": "Diário de Suzano",
+    "data": "2026-11-17T09:30:00.000Z"
+   },
    {
     "titulo": "CONDEMAT+ aproxima Pontos de Cultura e gestores para fortalecer políticas culturais na região",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRTkwVXpIdHhmZ3lMZ0J1YkFYYzBzQm0tdVpKRUU0Rmp0dFNtUHhvczJQRkJldEdQSlZBTjJlSVdVZFVMMEgxRUpodGZxOGN6T213eWJvZGptWTBPNktCUWZFcmVwaHVfV3dYMDNGaXNGeWJvTnpmcUJtbkpBVW1zaXRWa25BNDBROFlHSGlCRzd6UlMtUTljbVF2akNBdkJ2ZnJ6LTd5ckN6R2t4UjEteXNPUW0wdWo5NUxNZnFTek1yeVpqQjBxSlNvV3Z6d1k?oc=5",
@@ -573,18 +579,6 @@
     "data": "2026-11-14T01:53:06.000Z"
    },
    {
-    "titulo": "A Prefeitura de Mogi das Cruzes abriu inscrições para um curso gratuito de gastronomia voltado a pessoas em situação de vulnerabilidade social. A capacitação, intitulada “Base da Culinária”, oferece 16 vagas e será realizada no Centro Familiar Maria Medi",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oQmpMUlFSUUpXdnJESHNPQUtILVZ0XzdhUWE2eHdhcHlOTEJMZEFiSllSengxTW1oRGVQQTlveXJYLUJSdHRBT1VBYzhJY1FLNXc?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-13T21:00:16.000Z"
-   },
-   {
-    "titulo": "A preparação para a 414ª Festa do Divino Espírito Santo de Mogi das Cruzes terá mais um encontro neste sábado (14), com a realização da 4ª Coroa do Divino. A celebração está marcada para as 15h, na sede da Associação Pró-Festa do Divino, no bairro",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEbVlPejVwaExrRVdxMHVzaUdSYlB1d1NmNllYMDNadXE0S2dsSmdRTVV4aXRwZjR0azBoZVFFQkxIdVM4SFpHelFoVWRQOHUwVVE?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-13T17:58:42.000Z"
-   },
-   {
     "titulo": "Mogi das Cruzes contará com quatro novos velórios municipais nos distritos de Jundiapeba, Taiaçupeba, Cezar de Souza e Sabaúna. A ampliação do serviço funerário será realizada por meio de contrapartidas das duas concessionárias responsáveis pelo a",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kdklRT0xKSnpEYlNhME9ncE55Zzd0YmVrM2twUkdkRUUwRFI4eUNhdzVfaXR6M19Ocl9UMF9yb2NzNU40QUE2bGRjVF83ajYwS1E?oc=5",
     "fonte": "Instagram",
@@ -597,10 +591,10 @@
     "data": "2026-11-13T16:41:05.000Z"
    },
    {
-    "titulo": "Chuva de granizo atinge plantações e fura telhados de barracões em sítios de Suzano",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMk9NUmlLYVI1VVAtUGVvLUpCa0xDUS1rTlBFYms4bHo0YlgzN0Q4MzhvcHYtcDlZT0dmOXE1ZDdxNHQyazFub2NubU9JNlVaMTdZRWRLNnMwbDFOS0xlTzVKVVZtVzF3dmxDT2owdm03UVdUU0ktdkVMb1FTVkVTTl9kaW10ZTBJc09WYlNLRktPWEZrTTZMRjRPbjJfcW94bHlNd092MzdxRWpKYkRLQXh4Q2JBQzc5WEpPRWJrTFpqN2dna0tKOVFUUGZ4bmo5ZTFaMEVMTl9NVjVyTHpKUjBrLXh6a1M2bEFnVUpFVjI3aDV4dDNRYlhB0gH6AUFVX3lxTE0yT01SaUthUjVVUC1QZW8tSkJrTENRLWtOUEViazhsejRiWDM3RDgzOG9wdi1wOVlPR2Y5cTVkN3E0dDJrMW5vY25tT0k2VVoxN1lFZEs2czBsMU5LTGVPNUpVVm1XMXd2bENPajB2bTdRV1RTSS12RUxvUVNWRVNOX2RpbXRlMElzT1ZiU0tGS09YRmtNNkxGNE9uMl9xb3hseU13T3YzN3FFakpiREtBeHhDYkFDNzlYSk9FYmtMWmo3Z2drS0o5UVRQZnhuajllMVowRUxOX01WNXJMekpSMGsteHprUzZsQWdVSkVWMjdoNXh0M1FiWEE?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-13T15:52:28.000Z"
+    "titulo": "A forte chuva que atingiu Mogi das Cruzes na tarde desta quinta-feira (12) provocou danos na estrutura do telhado do auditório do Cemforpe (Centro Municipal de Formação Pedagógica). Parte do forro cedeu e o espaço foi totalmente interditado por medida",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uekdFUTUwTVhoZHp6RVFzX2NyNkxWeEdiRC1jaEFhdFlPc0ptZzFfR0NEMXBneHd0NjA2ZUg2anREeWt2NlhIb1huRFBScUdJQ3c?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-13T15:32:09.000Z"
    }
   ]
  },
@@ -702,6 +696,18 @@
     "resumo": null
    },
    {
+    "titulo": "Exercise-induced lactylation in WDR41 initiates autophagy and improves fatty liver diseases.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/42946691/",
+    "fonte": "Autophagy",
+    "data": "2026-11-16T00:00:00.000Z",
+    "autores": [
+     "Ouyang Q",
+     "Liang P",
+     "Zhang H"
+    ],
+    "resumo": null
+   },
+   {
     "titulo": "Dysfunction of the blood-brain barrier and neurovascular unit in amyotrophic lateral sclerosis - From advanced human models to treatments.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/42721706/",
     "fonte": "Journal of the neurological sciences",
@@ -732,17 +738,6 @@
      "Zhang Y",
      "Dong X",
      "Shai Y"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Reply to the comment on \"Association of anti-glycolipid IgG with respiratory function decline in amyotrophic lateral sclerosis\".",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42594668/",
-    "fonte": "Journal of the neurological sciences",
-    "data": "2026-11-15T00:00:00.000Z",
-    "autores": [
-     "Nakasako J",
-     "Nishimoto Y"
     ],
     "resumo": null
    },
@@ -926,6 +921,18 @@
     "resumo": null
    },
    {
+    "titulo": "Association of bilingual language use with brain age: MRI evidence from bilinguals, translators, and interpreters.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/43041269/",
+    "fonte": "Neuroimage. Reports",
+    "data": "2026-11-09T00:00:00.000Z",
+    "autores": [
+     "Chen M",
+     "Korenar M",
+     "Schrantee A"
+    ],
+    "resumo": null
+   },
+   {
     "titulo": "Sephin1 protects from glutamate stress, consistent with negative allosteric modulation of GluN2B-containing NMDA receptor.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43036320/",
     "fonte": "Biochemistry and biophysics reports",
@@ -934,18 +941,6 @@
      "Abgueguen E",
      "Henriques A",
      "Callizot N"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Neurofilament light chain as a potential mediator of the longitudinal association between depressive symptoms and cognitive aging.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/43032557/",
-    "fonte": "Brain, behavior, & immunity - health",
-    "data": "2026-11-05T00:00:00.000Z",
-    "autores": [
-     "Ng TKS",
-     "Dennis KR",
-     "Beck T"
     ],
     "resumo": null
    }
