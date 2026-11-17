@@ -1,7 +1,13 @@
 {
- "atualizadoEm": "2026-11-17T04:48:03.303Z",
+ "atualizadoEm": "2026-11-17T06:56:30.717Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Dengue cai 99,34% em Marília: prevenção e união de esforços fazem a diferença",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdTZOMk8tRkpGamliZ2tlR21qaUc0WjVMNWVhaTl3TU5Ra1U4eTFtZHNXN2dRb29TUFM1SUJxQVV5ekNRREgyOXNwT0ZrVm1fR1pKV25YQU1Rckx0YUUzZ3ZVUHpHY2hrQ2RiM3JVQ3ZNWXpXN1dIVmRudGlPVFhVWi1sNGgwY2FqMk9ocmhjU0w1Q0FGUWZyYmdmNXE4ZFYzQlVESU1sbVo2SnVBS3NFdUFIaGdjYy1GMnNLUQ?oc=5",
+    "fonte": "Gazeta da Semana",
+    "data": "2026-11-17T04:30:39.000Z"
+   },
    {
     "titulo": "Saúde envia 500 mil doses extras de vacina contra covid a SP",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZDdYY1loMWd2aHhzZXc4OEpNQW9UYW4yMTdTem9EV2Q0TkdwanBFYnJOb3lMMUcyN2QwWTJBQVl0ZlN6RVc4WEp5c3F6MDlhcmpvUF9Wb0dFMUdOVVFnWHJmMkJVOGM3dVF5TzlUNHA4TVg5UVhSc012OHFHcEQ0M1ZjMERNTFlWNGZndHlmUDlxYXJrcDQ3Z2V6RDFqa1N1WXc?oc=5",
@@ -23,7 +29,7 @@
    {
     "titulo": "Novas tecnologias no SUS fortalecem autonomia sanitária do Brasil, reitera Padilha durante Congresso da Rebrats",
     "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOa0k4Wm9md2JzMUxYWFNjNmJyM0Fjb3haSFpSZGZPeTRoWWVlYTgySnNndnExWTllQzRZMWFEalRQRkdxN2N1enZlbzdJZXRUVTVlZWZIQ0hEd2l6MXZ0UkQ4WE9PbDRMcEs3YkFBQW91RmZ1d3NIOVo1N3FFX0lyOWtnZVJlWkRNQzM0UzM0TFZmaGpzTmpQRDQwZjA1YVVBdFNVZWhyLXFYX3NpVnJ5NWZ0amFuV0xoUllyeDMxT2dIZmZEZnc5QmtPRTQ0ajAwLXRwV2dBN1VtWlpxc09OSHh3azR0MTVfVlhOZXRhRktUWkljRVIyQjlDQVAzazZTN1Vv?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-11-16T22:07:29.000Z"
    },
    {
@@ -31,12 +37,6 @@
     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQ19XV3ZpV0J5SWktZ0djN2hsWEdFeXpacml0d3dZdnBESW54ZGF6T1JpNjV0OEdZQnJvMXZ6U1lla3AteWJKNFNXeU0wT3pUYS1NZFZYVmstS216X3hiSnVpQ19jd1NtN0lSeS0wS1EtZVVvSkRvN3pfaTZabXpTeFdaOEtWamFVVi1EQXdMeXI1WUR5SUNfRzdmS2p5TjFERHNOSjNxX2hGRTh3VlBQRTFKWFFaWWZ4TkluR0hmbVl0dFR5cjFrRDFpOTUwUk54UER3b295NHV2TkxaTEhmOFJ6U1VIa19adG9nb2Q2dWVLSUVyQ091dUcxUVpWdWFIQXNheDZUZE3SAYgCQVVfeXFMUENfV1d2aVdCeUlpLWdHYzdobFhHRXl6WnJpdHd3WXZwRElueGRhek9SaTY1dDhHWUJybzF2elNZZWtwLXliSjRTV3lNME96VGEtTWRWWFZrLUttel94Ykp1aUNfY3dTbTdJUnktMEtRLWVVb0pEbzd6X2k2Wm16U3hXWjhLVmphVVYtREF3THlyNVlEeUlDX0c3ZktqeU4xRERzTkozcV9oRkU4d1ZQUEUxSlhRWllmeE5JbkdIZm1ZdHRUeXIxa0QxaTk1MFJOeFBEd29veTR1dk5MWkxIZjhSelNVSGtfWnRvZ29kNnVlS0lFckNPdXVHMVFaVnVhSEFzYXg2VGRN?oc=5",
     "fonte": "O GLOBO",
     "data": "2026-11-16T21:28:29.000Z"
-   },
-   {
-    "titulo": "Brasil pode exigir vacina contra sarampo de americanos após explosão de casos nos EUA",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOWpaMXl4M3RLOWxUX2otdnREbFkxUW9tUmhGQWctbnRUcjM4VVNreWhmMlRDclZvQlpEcmhFOFNrT0Vzc2duR3Rfell4OEdLVVBsX1VFTUR0Nk53ZWlRMXI4VE1QY2cwRDVpTWpEdUNUSU5ZcGFVRXh4eEtBaDJZX1dzazZIbDRDWFE0d3ZSS2twR3dReFFEMjQyR3RESjNscVh4N0lJY0pBM2xxMGI0Tkp1bw?oc=5",
-    "fonte": "Página1News",
-    "data": "2026-11-16T21:06:00.000Z"
    },
    {
     "titulo": "Por que o mpox voltou a crescer no Brasil em novembro de 2026",
@@ -69,28 +69,28 @@
     "data": "2026-11-16T17:51:00.000Z"
    },
    {
-    "titulo": "El Niño pode elevar casos de dengue em até 40% em 2027",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUh2enhqY2tSYTVBTXJJUnBMd0pYRHVWNHZWM2NvekhZbUN2Rm53ekZQdFN0azNsTW1EQnk3Rjh1VEtEYXNzSk8yVHJLX0RHT2dGVWM3ZWdFV01DVW95cWIzLXkzdy1vYU9vX2NGeGtuQ0lfclZvTHJsd1dwaVdTLS1tT3hQOF8wLVkwY2dZU3ZJNk5aS0hmXzcyTzdSMXdoSzZGajZIOA?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-16T17:16:28.000Z"
-   },
-   {
-    "titulo": "Rio de Janeiro confirma primeira morte por mpox no Brasil em 2026",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSTFpY2NLT0RPeVpiVnp1UzN1ZmJ6UTZYYWNfbzdCZnk2OFNDcG5kS3VnTGs0eGZ1VmRPVDBMNWloeGxuemVRdWF0dGcwTE1xQUVfR1R2NHMtRjFuc19NRFlKcG52Ry0yUjh0cTNOMnBwbDNsdWpYRFB1SWNXam4zSl9ZOTUweDU2dmZNUnZKeHFMakZVYzJ3dnQ3ZUU3R0NTNW9CWHFiRlgtYkttcFdwdk9kVVRsRTl1UnA1aw?oc=5",
-    "fonte": "Folha de Alphaville",
-    "data": "2026-11-16T16:00:00.000Z"
-   },
-   {
     "titulo": "Remédios vencidos: onde descartar corretamente no Brasil?",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaHFhdGctTDI2aWZUUDlCSEVXZmFLY2VOeGFDVFJZenZDcFRYdnRLRmR5Q0Yxbk1JRUdHeUQyX0hfcjFVLXRVNkY0MXZ6djdVc2w5THNOa1VXR0h0TEpTekhfVWR4RERnR2VQcVJxN0ZEaUN4bDM4ZVBpZUhvTU04RmMzRzVkNzh4cmJ2Q0JmNnJoVGxJazhyWQ?oc=5",
     "fonte": "Olimpíada Todo Dia",
     "data": "2026-11-16T15:56:07.000Z"
    },
    {
-    "titulo": "Brasil e França unem ciência e justiça social para eliminar a tuberculose",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYWFCNXNHNVg3ME9kTzRwcmJhaEI4VnFPMS1Uc3MzVlZhVE5sSXFYWXpWRXFkV01YaVpYYm5ZNjlzeGsxdjEzN2lYSTRDeVRsb0NvQjg2NExucUdBclk4VWt3UEdSQ2RDVDJac21Ea19lSWlneGR4OGxMTVl2UHFtb2U3Y3ZuMzdTMTE5WHA0ZW16bjNhak9ZOXNJY1NHb3VzRzZsOGxRbEpmcmVSZWQyN052S0tERURYVE40Sk9ia2FQeUZveDYyLXNvQlB0Y3RE?oc=5",
-    "fonte": "www.gov.br",
-    "data": "2026-11-16T13:55:00.000Z"
+    "titulo": "Brasil articula aliança entre hospitais universitários de mais de 20 países das Américas para fortalecer saúde pública",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSFZFOEQ2djl6UmJWT181bUk4aWhKRFpuenFUMElmRTBXSWJRYlVOcnN5LUNqVkxMUFllVE5TckMzWFZoYV9XRE9mcWlCdDRlT1QzTGJhcU03Y3JDMTJGMmJxMjFxekNxbGpRYkpaTlFFRjVEM1dSYWU1QkU4bHpzMHM2ZHNyNE9JTEF2Y0M5X2dJOHozNmhCVU9GOHFjOWZ4cTIwT0RJMDE5YzYyRlJ0NEplVTF6RnZGOWhrX3JTbG1YRHM3djlLd0lwOGREdnpuc3VYbVZMOFRRRHEtUUFXam1rSmhPb3RXajFJ?oc=5",
+    "fonte": "Agência Aids",
+    "data": "2026-11-16T12:51:02.000Z"
+   },
+   {
+    "titulo": "Lei que garantiu antirretrovirais no SUS completa 30 anos e mudou a história da aids no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVjg1NWJ1SXRRVDZTNGRhX29wRFlCMHhNaXdVZ2M3R1JHb2lUdFdrZ2JMd1VKdUVyNUFYZzNLekdTay1nUjJ1WkQwMUlWbFREcnZ3WmNuVmJpUndROU9ZTDRtZFZWdmwtRGlrbnJvY1ZaU2E5aDIzd0dQdnE3aFE3S2tqYjN4eXJTdXlJQkxoNFQ3ZW9QV0RtQU8tT1ZNS3RFNEJPVWQ0VHl2bGdaLTlYNWdfYTB0ekVpb2duNEFUQVNUZDc4ajY4RWcyVQ?oc=5",
+    "fonte": "Agência Aids",
+    "data": "2026-11-16T12:42:52.000Z"
+   },
+   {
+    "titulo": "Brasil avança em políticas de alimentação e clima, diz estudo",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3VaR0ZobEd0NWRkRlBuSTZSZWgtOVZBYU9CRm9VMkE0cXlYWURieUxqakQyRklMRXp3YVZ6cEN5ajNtZ1lrNTk3cUdZeExVTDhiRlhkYWlJelhKa1ZYaGNqZUNaYXNCMTVVdDVIMDJ1eVpjQUdMWWtabUh6enVKZVNBZDRJTjdjSVdUb2tzWVFESEZ5c0JnT2JJNFhIdWE5OWNXUVdrOWxBNk41ZTZYUW9hMmxwRktaT29rTmsxd2Q?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-16T10:11:00.000Z"
    }
   ],
   "seguranca": [
@@ -187,6 +187,12 @@
   ],
   "economia": [
    {
+    "titulo": "Economia circular movimenta até R$ 90,7 bilhões no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTbFRfd2pYYmhUOElLakREdEk0dlNkenBlNXNRWnFYWmdtTEJ4VGlkTFp6Q2FHZ0NmOU9mclJnNHpSZDVPLVdSVGswTlY3VjZiU19iaE44ODNJcGNpSHJFWDA1aVcwTnBTNC1jNWQzWHJIQlREbG5QMFlzT1U?oc=5",
+    "fonte": "Acia Araçatuba",
+    "data": "2026-11-17T06:30:09.000Z"
+   },
+   {
     "titulo": "Dólar já subiu mais de 15% desde a reeleição de Lula: o que está pesando contra o real no Brasil e lá fora?",
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQ1BhdzdCUVpFSmtTQzRndmxHSVV5R1ZsWEV4RHhaZlRyTnhzOHJKc3A4MmpJSnhQM1BveHdadEtaT3puUXc0S1dFb0l0S1BkYlp6OWNUR2JoOHJMdXBMT3VLS1FRaXR1NlBBR2JmeEdkajI2VXlwajRxVlYyZ01uR01vaXAtRHdvOVZJejlUZXpuRFdtY3RQYmNYQ2dVTEk2b3BCRm5NcmdCNmhaNXB3b1hfXzl3MkVjSy00YllRVURDcDZfTnBQV09WYUQ3UFE4UlNma3BBZkNfR0pRcjN2U3M1dFdIbExCZ3AwNkVuWU1PdTlfdXVKSm8zRXRtVFBQbmZ0aFMycWlHYknSAZoCQVVfeXFMTXVvNXc1bTR4V3JKZDBzam9Rc1Ffd3BpREhoVUdxejRwNWVnUFF0RnFURVE2S3dydjcxb05DWnA5VUxWQS1OWm9NV1QyY0MwdTQtYUh0N3hwTmZ5SElkVHF5STFSR2NNZWlZcEhFaklJM3BzczgzSjhpNzJCdlpSY01jZUw5cEdUdlRrenA5eGtBaENXcGNaUjQwU0NrUkNrd0lkNFQxMWdza2FheGdRZVYyb0ViLWRqWlRvMjFjZ01fSFBldDdsanQ5b3p5dmltMFdYSDNfRzdEMGJzM3FxNzJIUUpybDYzaG1LdTlFQVhSRlV3VTRwaWZwT2RQbkwtOVVQUXpKcEJmWHVJek5WQTVHel9wTGRKUVpn?oc=5",
     "fonte": "O GLOBO",
@@ -235,22 +241,16 @@
     "data": "2026-11-16T22:54:00.000Z"
    },
    {
-    "titulo": "Governo Lula avalia contestar restrições dos EUA à venda de chips para data centers no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRkM0WXdfSkpmUWVXMDJXNU5Tc2stVW0zRW1LWE1pcS1nWmpEV2lNOFE0ZTBXTnNpLURzY0FRa2JEQl9nYWlDbVpEcEQtNzNGdUhFMUFHSTZHLWxySGtscnRZRVVCZXd1aWNDZUFDU05FTmJmaXYzRDlXUzNoQmxfMjRhZF9BMURqQ1JTSlZ2bkQxTjRKNklmWGxtME45VHlZTkdXSWM3U25SX2NTNmdKYl95UlNKYVFsLXFMbl9VVkFvaTJiUGZFMm93aFVtZGNVdUlaYUVOZU1STXBlNEwwS2tqYVc4OWVQaUpvcy1jdmpnTzJ4TWfSAYQCQVVfeXFMT0tNLVJFZ09oNl90UkFzN1BkNVEtbHJERVRtOGxtSVZDbGc2bDRrZndIVlhhYmp4Y3RraXR4RnBRZ2JzRmZBUGlMekFwdDVFSURwc1ZsTWFVMmpMMmJ2X3dMZ1ZpWlZIZWpmTnpuUWJzenFDQUFhUlhyalBvaFpmOTZDS0pZbjFxX08tOW1lUjFvTVQ0Y0x5VVRMa3lVWGdtYWVXclFsSWxjQ0kwUlZKaDRLM1BjTGxKZmtEU2RVN184SmwzNUZiTW5HZnNFMERGWW1RQjR1QmxYMjlyVlJNTG1GYnFhT21oZjJBV1lVMUdCV0F6Y0xyeFdhQWxRUGU3YlNBXzg?oc=5",
-    "fonte": "O GLOBO",
-    "data": "2026-11-16T22:38:53.000Z"
-   },
-   {
     "titulo": "Alckmin diz que não há razão para mercado ter oscilações após pacote fiscal: 'Brasil tem segurança jurídica e está trabalhando'",
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPYTBPQi1fVXhyZUJ0U0pXcWtnd3RLMk1PbHhjV1k4d3g3V21jbDNRQXVMaXJYb2pnYzMzenpqM0ZsQnl0dV9MVGtjRENhei1qSUJHMTEybkx0c0JKN3RnQ25CNFZkQ19ZRUhBd1A4bGN3R0tlVVdFUlh3ek1nb180b0FSNVZJMVlrX3AzYVZoa3hqY1RDZ3lvNWJtSXFsWUhmcVFUOVRTNVFNYnZNLVZPalphUWtRWWJrVWtFaVJreG02RUdhU09sTlVucHlPSVJubEVBNk9DTjRKWXJlcWdSM0Zqa1lwUENGSDhJMkNPcEpPckhnMHlRd2JVUGFuVXlyTmdSM1hUNU9kdVHSAZoCQVVfeXFMUHdjRTZ3MHNlVl9GdVRhbjA1WDFmVTFGc3ZjdXV2THFxNTB4X0Z4eHFiY1E5Q0NESkIxT0NTUHlSMUtLVm04eGt1MXpMLV9IUHhjU3JSaEM0ZG5nWElxNTVDbUhvNDhIU191Y2pqQnI0dnJ0X2tOVGpPN1VoUHJMdHJfWkJ6dTZ5R3kyNUpXWFlRZHIyRVY0MGZCS1Z5NnBOcmFrQzI2NmxhN01lUmg2V1VtLTBPTVh5bzlMTmdNeUFVSk1nZk8tTVB2S01TNWpsZGVjRDg2U0ZNd3l5c3JNOS0yWWNOME0tc1JzRW9CM0E2eERPWW1SX0kxQ25lN1o5NlpRd3FSUUxoTEZxRXRYblprUm1faUh4VXl3?oc=5",
     "fonte": "G1",
     "data": "2026-11-16T21:53:07.000Z"
    },
    {
-    "titulo": "PIB do Brasil: mercado reduz previsão de crescimento para 1,72% em 2026 e 1,02% em 2027",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVEYyTFVuNWVUdXpaS1NvNmhlbHNqVTg4S0tZYUl4Q0RLdVdaSHZ3VVJhNTF4NGZ2dXZLUVNmaUZNMjFuT0Iza2p1OFMwZnQ3OWFrXzdBaHRPN0c2WXJ5RWl6enctZ2NsM0l5TG5WMFBaOXNROTZrR3k3ZzJyYi1iYmdRQ04wLUZCSXBfck9lTXZocG02Vmd5S3NILUpIU3pHMndSREcwYW5wVFdSelQ2ZDJxTVdSU2NicGJBd1Q4cUFSUkNiZFhZR1NyR1FtZG9OQzV1QTM1bWNlc2ZXT1dOcDV3?oc=5",
-    "fonte": "Portal do Agronegócio",
-    "data": "2026-11-16T21:40:00.000Z"
+    "titulo": "André Esteves vê Brasil no \"lado vencedor\" e pede Lula \"pragmático\" para País aproveitar nova ordem mundial",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWtPS243R2d3T2RzLW1xbnNJYWJRS2I0NWZxbkoycEJVYnJsU1FBOUFyM1FWdEpEVURWdHh6eHNTNmJsYTAzNnJSVXNBaURPQmwyalFaelVVQWl2VF81Y2dOS0pHVW5YRzRUbzVhaVhKTWlzZzZIZjAyc2daTThuTFpFcEtJOVIybDEyNy03ZHJQUGZIR3VwcUZ3dTdvS3k4Y0h5c2JrSlNDUkJSaDVZUnVpOXl4TktHX1pxLWZaTFUxbGJNZmxnTlgwYl9sRHln?oc=5",
+    "fonte": "AgFeed",
+    "data": "2026-11-16T21:31:00.000Z"
    },
    {
     "titulo": "Brasileiros gastaram mais de R$ 40 bilhões com bets até julho de 2026",
@@ -279,6 +279,18 @@
   ],
   "politica": [
    {
+    "titulo": "Brasil — A mediocridade política ameaça o futuro do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOHpSelVBS2FMQ2VnZG9adXJvazlyQmF3Zzdfem1GWDM1VWl2MUF2RzVNdE55bkFzOUZXM1Y2R0kwcmVXSUVyZTBhckI3ME1mVE1JTTlFeGdPVFR2REtzcFNkRGEtaFJKUHlObWNzRzNidmFtZDlmOGw2OVNfMUd0VFVSSmVTMzBvZFAyRjVJemRPRlpSdjhiSS16QQ?oc=5",
+    "fonte": "Prensa Mercosur",
+    "data": "2026-11-17T05:03:57.000Z"
+   },
+   {
+    "titulo": "Práticas integrativas no SUS: os compromissos para a PNPIC se tornar política de Estado",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeWdWTTBVeVQwck55U2E1YmFSSXdBRXk3SXFzeHRiaHJJSjY0bnRqR1hlSEg4M0l5X1k3N29oQkdtMi15NnFMTW5jbDhuOTRoNXc4VGw4Mk1CR0lBaTJlUW5vdl90ZDJYeTNpLU5GNTRUT0Q5SlFVd2xYcWdyNDRMVDJHZVVZcHBJb19PcG14Ym16YURqM3lRVlJMUWU4NGE5NTJ6VXJIWlNrZGlndUFXSzZwTy1LUDVBa0VXUVphcm9BWWIyb2lFTFpNTmxRS29yd01YVUlLWVlvMXNXRlR4Vk91bVE?oc=5",
+    "fonte": "JOTA Info",
+    "data": "2026-11-17T03:19:35.000Z"
+   },
+   {
     "titulo": "Política de Trump afasta estrangeiros e custa US$ 2,4 bi aos EUA",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYmJTS29sX1hpRzB4ZTMzYlM5c0FncVM2UDlJUWlfeDZsZXFGbEZsUi1ObXhORmhwaTNfaXBfVVBURzhkYjJUblJGVDVGMkg1SWtCTUZzN1lnSDJuY0taWW9VVGR3cFNZanhfOHRCZGxSQXljam41SXBuZ1lyVy1HTVNmVENLSW1PU2pyaVhHNjZJOWo4Zk02T01ZTGhYemR4SUdGUFFyZmtYUGpKT2Q1Ulg3X2xGTjk3?oc=5",
     "fonte": "TV Sim Brasil",
@@ -293,7 +305,7 @@
    {
     "titulo": "Artigo: Trajetórias possíveis para a política fiscal, a desalavancagem e o rumo dos juros no Brasil – Por Rodrigo Abreu",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSm1RMDhyQTFVQ2RjMFpsVThxWk1tUzkyNnVWZ0UwenhDWHR0dzVRS1RoOGtoWUxFZW02T3FTTVA5Z3JucTEzYkFaR0xCekJReWw5aGt3a1Jidk1SV3ROcVhsaGpBWmdBTWhxN3JtajdUTUhaWldMb1R1MkNrSzJuTXVDRkNYQkwyT01CcG14ODU5c19xS05ONnQ4aGhlWlQtaUhzdjNTTi1qa3ZXN0JBWHpxUjMwY3p2S1FJOXBvcmE1NFpTbkNaQldIZmVpckJ6cW5rTHRYS2pKYTBMSnlfampB?oc=5",
-    "fonte": "Blog Abrapp Em Foco",
+    "fonte": "Abrapp",
     "data": "2026-11-16T23:37:00.000Z"
    },
    {
@@ -345,12 +357,6 @@
     "data": "2026-11-16T20:00:00.000Z"
    },
    {
-    "titulo": "COP31 acolhe mapas do caminho do Brasil, mas sem data para os fósseis",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT1RRdlI2Y1oyTnlQQXJnbVhnTl9uRDVLSkpLUWw2M2tfckxLWDJFNE1aVDNkMGZSNVlqNUlyeW5GTUZldG8yR1dPNFg3RFY1cURLOWJGQ1l6ZGI1TlV4QVNDeG5SYV9HcTVQSlV0eDJrbzM1VmJOLXUySUZQUDR4c3g0VkxYdWhpbkhzTTdLSUtBLXBoejJlbm8ya3EwaUNKaU1oMTlTbktOWHBmMEo4Q2s0UU01dG9USy1DX0JCTG5IZw?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-16T19:59:43.000Z"
-   },
-   {
     "titulo": "Eleições 2026: duas eleições, uma vitória e muitas lições",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWjNGd2FTQmhmQ04xRE9fa2dyRE9wUHpmcEpKWGZSenRHOUFyeDRNaGVrTnRwdG9jcURDMGZ2eE95RlAzMVpWMGJwZjRONkFMWF9CTzVtbnlVMkJRSnZxNGRRcHptX0s4aG9Pc2Rud1dRTVNleDJRLUVsanI0aEFkZWkyejN4LTJRdmZDSGF6b0FwcXROWXNrNHQzODJ5bld1?oc=5",
     "fonte": "Brasil de Fato",
@@ -359,14 +365,8 @@
    {
     "titulo": "Conad aprova medidas para fortalecer a participação social e a política sobre drogas no Brasil",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZmZYaW5ocVdMal9LZk1EcDdnYlFBNUdhejVmZFhnTFNMdE5jM3FGbDc0cVF0RU9RQzc1eGNpR3BIVXYzeUJuQ2c5Um1LdS1jQzFuWE41WlRXTzh1RExGdjd1RlVLdW1hSmFHUDIyQ3FTUHFEaVVGZnJoeWFIa21GWlByaDNGdmRzcHQ2ZE9UVmQ4d2dOU0R3bWx2TnRCYkFjWXhwRUZoNnZuX1VQb3JYWVdyX2ktQnM2WVU0N2JCX05SRjdsbDJQLUlhMlBpV0txU0lNUXZmQQ?oc=5",
-    "fonte": "Governo Federal",
+    "fonte": "GOV.BR",
     "data": "2026-11-16T19:34:17.000Z"
-   },
-   {
-    "titulo": "Mesa-redonda analisa a polarização política no Brasil e o eleitorado de duas eleições",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa2pzSE0xMUNtNTVUY1lTUkFfaTl2a1dxeFNBckpHY0kzNFhtekp4TW1xMkVESm11YVUwTG9BWEI5eXAxQkl5NWsxZjIyVEdBOHlSVy1FVlV4aHRCeHNMbU0tbmpOT195T0RYOVBHUFZxZWI0WTN1VkpqVWhMUU5welp5dEVRMGlqX2pfZFMyY3VLZ0QwbXNMTnM0MVlILVVwMzVwY25lb3IxSWg5UkNXdElLLVMweVZ1ZUVkSDk5MA?oc=5",
-    "fonte": "Portal da Câmara Municipal de São Paulo",
-    "data": "2026-11-16T19:28:00.000Z"
    }
   ],
   "alesp": [
