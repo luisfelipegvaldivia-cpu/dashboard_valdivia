@@ -1,5 +1,5 @@
 {
- "atualizadoEm": "2026-11-19T02:42:43.103Z",
+ "atualizadoEm": "2026-11-19T04:53:14.319Z",
  "noticias": {
   "saude": [
    {
@@ -57,12 +57,6 @@
     "data": "2026-11-18T22:15:21.000Z"
    },
    {
-    "titulo": "Brasil pode chegar a 866 mil casos de dengue em 2027, alerta Fiocruz",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHNiblducjVhWWlieVFQRlMydGQ2b1dNRFZkUnpleUlNQ0ZxMWNmYktGcFE0b0FHU0ZmdHBiWllHazY1UTlRVHRTNWpHU2lBOTkybVZ1UnVxZUVoeXhCQ2JKWG1ETmRzMHBlaXpFOFI1Tnp4VHFzZmt2ZS16YnRPNUpHXy04bjNSMnRaTWd5eU5WRmFyUExvZDJnUXR3S3IzcWdyejJTUi1TYW1E?oc=5",
-    "fonte": "bra1.com.br",
-    "data": "2026-11-18T20:22:00.000Z"
-   },
-   {
     "titulo": "Deputada Linda Brasil debate limites territoriais, saúde e racionamento de água",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSE9KTVJtQUw4bGJ5WW5pS0E1c0VIRko4dEhzbTBreVZmRmE2bmFRZEJTM0tLVDdnZ2UzZ3QtUTVGZkkxTnBoOVZGUzNxMjBlQmlUMGpaYXVnRlhMaHdDd3NubnZUSzctS01SV3Y4QnRhNC0wRWNzVFZycURIMHdVOC1jZUVKUlFZVllXb0ZuZHlnR0RFRGNNZkJTREV6OEQxR1VkVDIxYkc?oc=5",
     "fonte": "FaxAju",
@@ -81,25 +75,25 @@
     "data": "2026-11-18T17:18:00.000Z"
    },
    {
-    "titulo": "Silvio quer fechar maternidade que fez mil partos em 10 meses e atende 200 mil pessoas",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON3NpTk41dnhoX2V5QjRuM2NxWWctQXBmRkJRcXctYkFkeW5QcXE3SEgwYkFMR2p6dW9XMm1DdXBXMVBRc1pzUFpYdzc2VnNITWNqN1hwSDBjaFNoOHZMTnVlNmlVclpYcjFrZkYwRkc0aXp1a3FkZTJVbk41VDJWZXBsRW1BQWFqYWFLSWhpcUdsYW5kSVZwcWxQVlJFNUtpQVB3ZnVhNTU3clBrYXQ3cXRFWGFMdmFRR0plV1paNUZRRGpOX2hkVXNGbGlJQXRf0gHWAUFVX3lxTE5Ra2NtR0NNUzVwTU9XUHg1UmF3aXo0a3JqNzV6dkJpRFhpYXI2bXRwUnQ1NlJ1UGxtZ3JrTndNdnV6WVhZTER5T0ZOR2w2YkZPS1lCNUtyMUZVWFBLaWttSVdoXzZUeUlIcHJUazBMV2NYbVhtRjcybXBrcVJQT0lEc2RLanJVSXVVMHNDSlBZcTRrN252ZHRFTmRzY01KVmhBRHNKLV80bnU5aXlvdVViSXI2TEdhNExDSTNxaTMxdmp2Tnd6eGVOUDFGeDZfZjRhOEo5bWc?oc=5",
-    "fonte": "Portal Piauí Hoje",
-    "data": "2026-11-18T14:59:00.000Z"
-   },
-   {
     "titulo": "Por que apenas poucas pessoas participam das consultas populares do SUS",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk1YZkxkSTA1MWpudVptMGVVeHUyRjZ2OFlVTkNGVlNGY2pNWUcxR3BxLUtqRV83R0N1bmg1S3dQbVhfOTFmbGE1NGZGSkxIelZQUjdwa2hGQ3gzTTVUOGNYakM3bGMwNTE1YnNDb012VW1WSUxQVnI1aHdTcW8zU0dBQm91UFc3WE5DZVgtMWhzRk1mUEt1VGs2bWxDaE9rQ0ZRWVZBX01TWlMzOWJfWl9RZW8tVkhIQWo5OQ?oc=5",
     "fonte": "Gazeta do Povo",
     "data": "2026-11-18T10:00:00.000Z"
+   },
+   {
+    "titulo": "Jornal Midiamax. . Mesmo após o fim da emergência em saúde pública da pandemia, o vírus da Covid-19 continua causando infecções, alerta a Sesau (Secretaria Municipal de Saúde) de Campo Grande. Apenas neste ano, Mato Grosso do Sul registra 63 ca",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRXdSOEU5eTZiazNtTFpJOHJuaVJlVy1OZm9CcGswaFpMSFY1NWNJbmNtTllENjlVQnRXYnVnRXctc1FOSWNVUnhjRVBPVENaa2lHOXpnVDV6eHlsZU5QRFllbjVyd2tsVnZHejJrRzFSbnlMbVZtWS1XSV9ldlprQXo4UTNBR19nTjhhaW5qc2toVXVuclY2MVRZQ3V0ZEVsdmFVVXZ4UGl6b3hHb3FnSnVlUmpBa05vTV9Hd2lrNnBIWDJxYzZlRXFkRXdMSHhYaThnVENMc0hhNlVFSEFXNnlSTEd6cFlCeDhZQ1pINEtzb3RVSE1N?oc=5",
+    "fonte": "Facebook",
+    "data": "2026-11-18T00:25:07.000Z"
+   },
+   {
+    "titulo": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnVveUNUSTBobWJkUDdyU0RrRlBoQ3R1Qnh3U21fMXYyaktQdVY3TnYxZmx2dVBhVTVWVVJhcG5Nc2NTeVJFMkxRcG1XOER6M1ZCYnRvMHY2REdmNk5fejlOMkE1M2ttRC1FVFV5NlpjQ1FDOWVrTFRiZEplVjdiZlg0dkJ4U1FmUnVTZnUyc09FWWJId3EzaUoxVUg0ZVV3Y0s1Q2IybEJOQkJGM3hyVEpJellwVFNuZnBTbllQMm9jTDJYZTY0WnJiTlk2OEVRTFRRVFh4Y0dRZ2praG1xcVZCaElQa0tzWC1FamxfUktsMldoN2pxVw?oc=5",
+    "fonte": "GOV.BR",
+    "data": "2026-11-17T22:50:13.000Z"
    }
   ],
   "seguranca": [
-   {
-    "titulo": "(IN)SEGURANÇA PÚBLICA | Vestindo capacetes, óculos esportivos e camisetas com tecnologia dryfit, criminosos têm lançado mão de acessórios de ciclistas para cometer crimes pelas ruas de São Paulo. Há relatos da abordagem em bairros como Ipiranga,",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNejVTNEVUNEpaUko2emptQ1d2YjJsZ05PRjBWXzBkRWEzMjN0WGRfcUsxWGFUU1hfbXowTUYxTlFlT3M2SmNhc3B5NWJmb0s1ZVE?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-19T02:01:36.000Z"
-   },
    {
     "titulo": "USP sobe e alcança a 62ª posição mundial em ranking de sustentabilidade da consultoria QS",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NQWVrUmtKNC1oMHVzRm1VdWpVeGRaY0VNcGZId1JuV1NFeVIyQ1I4OUFaQTBFUmEzZTlOS2MzNHpad08wU1diSGpDeE9fZTRabWI0bkpoWGtCVm8wX2JuemhDRXlxQXZ0a1pNbXVXMmx4eFdRNWFHTUllNWMzcnM?oc=5",
@@ -143,10 +137,22 @@
     "data": "2026-11-18T20:59:12.000Z"
    },
    {
+    "titulo": "Defesa Civil de SP monitora condições meteorológicas em todo o estado e envia 17 alertas à população",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSGJYOUxWYlRjOGxfRlQxSXFPb0RwdllJRWJzdzgzcFh4dy1LQXJCQXoxVjZ1UFJHT3hQWmlvaEVXTWFTUVZPcExpel91ZjVlTS1OcUxQalVwZW5BUDVMS1dxejBJNWZ5MWNpNWx0cGVfcnlTTk5Kb1N6V0tjMEM5N3EwUVNkaXJWcmxQdUtfdnJzOEZjQlhfV2tEWXVLYXFtNkJRTGVKWmVuZTBvR2NEakNUcXpQbXZFbVhFNlhFZHJ3VWk0bGwwbTVsWko3OFRhZU5vNW10dw?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-18T20:43:57.000Z"
+   },
+   {
     "titulo": "Ex de tatuadora encontrada morta em SP é preso por suspeita de feminicídio",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSXhvUXZvMFFPZzMyV1o5SjNYVkNJaExjZmR2M3JmWFJQdWlJbzNHSGRxV3JHcDRZNnhsb1BCV1NwMkszTFhtbl92aGl6WDdQcV85U0cxUE9HTlFPMTAwbDlmX3h0SEFLTXlpZExKNGpuUFdqa0k4dEcyTDk3MjNxRl9RbFU2SVNHRzBWZEhoenlPODUzT0kzcWRXb3NwTHRjMlBiWHlrbmllS0hBOE56UzlkTFhnYmlHVnVnQlg5bEI1bzZxM25zcG5RUFp4UdIB3AFBVV95cUxNT2hJRlRiQk96bGxxR01wd2hFREZ1dUtEQ2Jibm1zM0g2RFZnS0tQbVRtX0ZOcDhKc000UlZYbFQ2SmlDa2JQZi1pSFpjbDZSel9Zc253NUdfOFVYS1JBaXJhVU1sM19Ic0VldlBLUkF3RjY3RVpwRmNlLWh1a0E0dll1a1J3cENHNWpTalhRZEVGOUtNbHI1aXRDR3BBeGotQ09GMlZXR25jWWJhdHowMTM4LTAwekp6bXMzMHdCUk4ySkRNUjA3dVlJZFM0TUJFZ2RNX0J5Zm5iM3VT?oc=5",
     "fonte": "G1",
     "data": "2026-11-18T20:08:11.000Z"
+   },
+   {
+    "titulo": "(IN)SEGURANÇA PÚBLICA | Vestindo capacetes, óculos esportivos e camisetas com tecnologia dryfit, criminosos têm lançado mão de acessórios de ciclistas para cometer crimes pelas ruas de São Paulo. Há relatos da abordagem em bairros como Ipiranga,",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNejVTNEVUNEpaUko2emptQ1d2YjJsZ05PRjBWXzBkRWEzMjN0WGRfcUsxWGFUU1hfbXowTUYxTlFlT3M2SmNhc3B5NWJmb0s1ZVE?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-18T20:01:45.000Z"
    },
    {
     "titulo": "Tarcísio mantém Osvaldo Nico Gonçalves à frente da Secretaria da Segurança Pública",
@@ -177,12 +183,6 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2EzUXNSbVNHY2ttVzRLNlpyVTd3Z0h2cVF0bEY3cW55TUtmcm5UNWw0Qm5YeGU4enBFLWJOV2F6dzFaTVViR211VEJvajhhQTJ1Mm91UkFVRElyVUZkcUNDczZ4dzcySHdjRDB4SEo4NDNkNE1OV0VCUWRvcERkU29KRGNYTDZWdzhTUG94Um55ZHlScHlRZnJGRWhta1JRLVMwTTl4SUFIOXAyM0dlaUE0eHY5dw?oc=5",
     "fonte": "Boqnews",
     "data": "2026-11-18T19:24:37.000Z"
-   },
-   {
-    "titulo": "Tarcísio Mantém Osvaldo Nico Na Segurança Pública De SP",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTVNmWkZ6WmlTOW9LVEE3RzF1R0p4d0d6bm1leTJDczN6TUE2b1Y2U0w5UlhRNmEtaWRBSkI5T0lkdk4td2dyNmRLanVtR3VsYWJrZW5Sck1XUHZyQ004SzZCQTRMUkVuLVNwcHJPMXF2QXlhU3JVdGNHejM3YXM1MQ?oc=5",
-    "fonte": "ABC Agora",
-    "data": "2026-11-18T19:17:19.000Z"
    }
   ],
   "economia": [
@@ -191,6 +191,18 @@
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbkFhX1J3RDAxdXJWWVFwOXRlVnMtRFRsa29tT0U1UkFWLUIyTXEwOGZZa1dESU5TdjBMdXRNV1FHZ0YtbUt6VnhiNXFzT3dRRmYwRUMzUFVlYXVnQ1NyWDctandSMmhjSUlRZi1BckRoRDF3M2t0ejh6Y0d4WjVMNUVqQUwxRVJuSVpPSTdVNE9kdGpLYlFBTTZmMi1Ga0ZVUDdONDlBcUhyTllETFRrRGdFNG51WkExSUx6XzF5T0lRa2dqUk9V?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-19T01:04:24.000Z"
+   },
+   {
+    "titulo": "Fórum Horizontes da Economia Azul reúne lideranças em Salvador para discutir o futuro marítimo do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYzVvUzVWcHdCSTlwUXRGMzdPT1FRbHd5V3VNNFFjN3NUU3NRM3ZTc0hFV3puQUh1NmJ0Z3JESUQ4a0JxYmFFTWtPRHdUemU4dHZpZTN0aU0weFBYMDYtbENXdk1nVWE1Y20yZEI3U0xmMDdTRC1ud2NPVDloYk4tc2lfdUpjYmotbWVhUDRxN2ljZ2Z2TnJyQUQ1ZUZGM1NpM3NGWXluNno5ODFlblROdlVaTE5yOXlPLW04a0ZpODkxbVRoZUN4UlEtRmVETUc1a3BIUGxQYTUzQmNC?oc=5",
+    "fonte": "Agência Marinha de Notícias",
+    "data": "2026-11-19T00:27:23.000Z"
+   },
+   {
+    "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJHWEFwVHpZMkNxSUV4R1BMLWlnd0UtWHlPLW05NnBjdjlXdVRld09Fa2lLVUdqYXBvY0Q1dFpmekhhM3FjNTczekhkZWRWdktCbTF3TG51Rk5jdUxuNG84VktGaElRdGhHZGlyZHZNQVRmd3FnWURCaDliYUkyQ1o2enBUMVhSdVk0cUxUTncyVTRONUFaY3puZUtiS3VjOFdpUHhMcGwyZkt6YTFHSzFmeWc?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-18T23:19:30.000Z"
    },
    {
     "titulo": "O debate sobre a dívida pública brasileira: fatos, escolhas e mitos",
@@ -223,12 +235,6 @@
     "data": "2026-11-18T20:07:00.000Z"
    },
    {
-    "titulo": "Diretor do Fed defende novas altas de juros para conter a inflação",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOelN3alo5QWE0akJiQWd1S1R4dkVQVkptY213RnpFRWN4NkFlWU9ULTdqSVBuTHJYMDFEZlJqNXNEZkFqdDlrY2ZMemp4aHAxTk5rM1VsX291a05wdk0yQlN3S0tJQjJjbG5tcmpSNl93eXZtbzRRbkZNVU11a3JzaU1LdXZmWGlHcUM4NTUzc291TVQxOWtxSzBlQ1FuQy0yVGhTLTNtaWhSbkVIdEhVRHl1UWRLVnNPOFB0VzdoTjBLR2M?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-18T19:42:59.000Z"
-   },
-   {
     "titulo": "PIB de 0,5%, inflação de 5,5% e juros altos: os desafios do Brasil em 2027",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmtNTklsOHZ5WDlhRFV4MnJEdWFjNkFsVE5wTmFkVlYyTVdJTXRsZGtPdWdnZDMyRk5BQTRqQS1kTXVqdk0zYWNYaGowY2NqSmxySzNsV1JvZXBDNlJCNkxXLVBtNFFkXzVsRmlEQUt2SnNYMWxGX1ByZnRwd0w1OXFiTzNEeTgtVndtR2N3THpBeDNhRDdBSjBmc0ZYSjYwVnhGak80T21HT1HSAbABQVVfeXFMTWs4MzNDRGpvM3E4Nkxwb1g2a2JtWnVlYml6VTFlYUVvd3R0UGNQTmlpM2Q1eFM1LWlXYWNZRzBFYll4UzdENGVQaGFTS1dTaDhwY1lwRFlyT0pUZjBrV2Y4V3VtUDNRc1lFWnFNdVQzZy16Z0VzTTZDczlsUklWenZxaHhDb1JzSm5JcnBOcnUzUGg5VFB3bmU5aXQ4bUxJME5wVWRGZVQ0WWh3TjdpM2M?oc=5",
     "fonte": "InfoMoney",
@@ -239,12 +245,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS0lpSU4xRXVFdGFaT18xNjVHaDY0MDVOSDF4bVRzaXJ2S3psLWp0alR0MWdKQ3VyOTV2bDR1S0xhS3hLUUVzbFVMUXFzWUw4Ry14X3lFbEZSNVVDVjFYSVRZbHNybDAwTXFlSmJNU25DMThpb0swZmFpOXhiWE1NaXNOalBwRU5Md1NwYjJYTWhQN3VpbllicGVNNzBWaHRhRWdmag?oc=5",
     "fonte": "Poder360",
     "data": "2026-11-18T19:25:07.000Z"
-   },
-   {
-    "titulo": "Fórum Horizontes da Economia Azul reúne lideranças em Salvador para discutir o futuro marítimo do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSm0zMnB0bWFlbTU3aGRuTmV0eUVqWVVYN2Q1V3dmSkRzaFFucHkzMlVtT2hOTEw0NHR2b01JWUZxb3dIdlNmRGdNY0U1cGhxNjhwdlJ6ckV6U01fbzlsZnJLS0YxTkpJS2RNQ1NNZjZQOWQyQU0xMkEyWWJxQ3lUVDNPRjY0RkJEb21rOTJBYnRHLWRyVFRuV1Z1UVE5UG41OXRkNzBFckZmZHBwNDZPQzlnd0NLY3RJM2xhVFFGZ1B6cnh1WUtjNDRxMGtVWE0?oc=5",
-    "fonte": "Agência Marinha de Notícias",
-    "data": "2026-11-18T18:58:58.000Z"
    },
    {
     "titulo": "Durigan descarta recessão econômica e defende ajuste fiscal e reforma do Judiciário",
@@ -279,22 +279,34 @@
   ],
   "politica": [
    {
+    "titulo": "Andrei se reúne com Fachin para entregar relatórios sobre ministros do STF",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmRQbUdsM1RGM2ZtdURmSjFYU1NHc3FmN1ZBeVQ0NnhnUG5iMGd4RlZfdjlDYlhCa1MyU2p3SDczcVlGYXdyVHRaZzFtMm9VNERRWXdRcWpab0dlSUIyWDlJc1ZxVlByazZfVjlvS2s2MHhlM0JXVjlYeXhMa0M3LWNSbjBVX1JEQjlFVlNJY2tBZnp1U1Bjem9WQm1lWTB1N0lERC0tS0hXWW5UX1d0MFIwRQ?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-18T22:57:32.000Z"
+   },
+   {
+    "titulo": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjgxdk42TEltaWQzSUVNcG1jUDlWRDRseWpESVZqaU91ZXZEZXJSMV9GY3FzcWRmMV9IcXJrTjUxUkEzRFVOSkZlOGJDb0RMM3hVMUQzT29jUHpORERWd3N3TWtTMlVmZFQzR3IwZmdzSkgwM1FZaXotMXRxR3pUNm8yOXhCTDVqNWVMYk1aVm1JVXZjcmwxZ3dZNUg3Y0JqMERGMFBwbTAyaFJ2a3VMTlRqY0pGQktxVHU4RmZRUDBrdw?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-18T22:39:00.000Z"
+   },
+   {
     "titulo": "Na FAO, Wellington Dias celebra avanços no combate à fome",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEFyeEFfWEpuQzc0eU5tdFN4LVBUb0NMZG1PMEFsNEJVRkR6Nm1zZXZiRlFRN1g1Z3RqZXFQekhZUEZDZUMtSlN0QUk1VkhOZVNSbDQzY0hDaW1sZlhacnRVTVB6UzVqREdmclprTFBmQWFUQXpETDM3VUtJZTBKblI3YzItdHRtcEF2THIxZ253RDFUQXhoU0w1OEhhMUlMWC1TNE9nSjhfWVRtT0Z6c3JB?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-18T18:40:00.000Z"
    },
    {
+    "titulo": "No Senado, Andrei diz que troca de delegados da PF segue Constituição",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3FRa2YzNGtLYUkxNWlDSVRuY1dxdzlabjFRZDJyQ2FwRWVybWhQOExhZDBQRFN5NkdLY2VONXhma1hlZDdwcEhOdHpLQU8yVjlaZHJVX0R2SFhicmdsMUtiQUItckpRZFdiVUhfb2NBcllKQUFSVWx2MHkwVDgxY0MyeTlPQjliajNpVFRmZ0c3WVVGNjNmRGVkYnpaTDh3bFA2VXh1aXAyWVE?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-18T18:20:29.000Z"
+   },
+   {
     "titulo": "BC publica estudo sobre transmissão da política monetária via crédito",
     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeWhyS1JIUXhsVHotVElfWnZyNWxtU3FwTUwwcEJ6RDRsXzA2MlZfNFdYNVNtQ091VlNHVkMzN1Z1b0RPU0JxS0s2UkdEZDMtbnJoYXdobmwwZ1JJQ1BtRm82MW01X3F1blA5SjZRN2VQQk9KYWZLMks2Z1h5UzQtbmh6Mlozay1tcWV3YW1EVUJNVHZXcTZKdzdCeFV2NEtoMHNWZkF6bDJ4VEwxM1VHcG1OTzA0R3gxdndsanlRUklGc01iZmJn?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-18T18:05:37.000Z"
-   },
-   {
-    "titulo": "No Senado, Andrei diz que troca de delegados da PF segue Constituição",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3FRa2YzNGtLYUkxNWlDSVRuY1dxdzlabjFRZDJyQ2FwRWVybWhQOExhZDBQRFN5NkdLY2VONXhma1hlZDdwcEhOdHpLQU8yVjlaZHJVX0R2SFhicmdsMUtiQUItckpRZFdiVUhfb2NBcllKQUFSVWx2MHkwVDgxY0MyeTlPQjliajNpVFRmZ0c3WVVGNjNmRGVkYnpaTDh3bFA2VXh1aXAyWVE?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-18T17:58:44.000Z"
    },
    {
     "titulo": "Câmara avança em pedidos de esclarecimento ao Banco do Brasil sobre inadimplência no agro",
@@ -351,37 +363,13 @@
     "data": "2026-11-17T22:23:00.000Z"
    },
    {
-    "titulo": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjlhUzFDa3NIV1U4OFJCbWZMMWRyLU9OcmhVTE1aTi1jVnF2Z04tZVh1ejNNWm1uVFVjV09scFlMT2ZHajA5dDZoZXlhV0o1LTJXWk5QWExkbVZ5RmNkR1JuTlFIQllmaUlsN0tJTTIzOEtlenp0MHVXcE9aZGFCS0V5VFh2ck5sZmZMRUJXOFhsazcxbF9sSlVSZ2N2NTFJMXNGS1dqNnZSRF83ejVVNDQ4ZlExZlJwbENJ?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-17T21:54:00.000Z"
-   },
-   {
-    "titulo": "Ato contra negacionismo científico reúne estudantes, políticos e artistas na UFSC",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT052UzJfZ2h0cEJRNjF3NFp6RXp2SlZKYmlkSEtqVWFCbVFxb1haUkZjWHZpaGEyMVR1LUdfd2ZnZWJIek9NbUYxMFZvX0dLc2pFRklJSW1HYnV0RVlpLU5HOGo1RjJ2VFJvY3JaUjZaQVNUbTJycElfd19VNlpKVUdJUzBNb0VTZ0U4MERDSUE2LWxOa0ZNNURERklfUi0tZFRNam8zUHFfZWpoazBjdDQwemVpVHp4Ym1jWUlod0o3Zw?oc=5",
-    "fonte": "Brasil de Fato",
-    "data": "2026-11-17T21:03:00.000Z"
-   },
-   {
-    "titulo": "Congresso pede que STF julgue lei que beneficia condenados pelo 8/1",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmNJcWktQWlTekZ0eTd2Ulo0UC1VTXVoTmhSUlp5MFdaSXp6WHRELWl4WWNXS01kN2UxOWhkS3RPYUVqOTlNTDc5cWU2MUhuUG5xM19PVjFJcW01NGtmeEFFeGdGRHJDV280MjAtUUVhX3NXM0taVzNtLS1aM3FId0pneEdSbS05enFsYkJwdGVtWXZ0SUpMYmlocjBuQm8xeGJFaE1CY1R4NDJnek1hd1dVQkVDQUhuVm1fNUdERUVuZw?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-17T19:26:00.000Z"
+    "titulo": "O Brasil escolheu o futuro: lições da vitória de Lula em 2026",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjNpdHcwQ2pCZXpqbUVaQXQ0WlZlT1BxRlM5eENicDJyM0t3QjhpeklPT0QwTzFGd3JpWVh1M09uc3hRVGNwcHk4VF95VHFjSFBpaTVmMkJCMzFDWEVaQ3lhR1AzMHNRbm5ZdE5sajEwMDBBbmxGSktvZkJTZWNuWWNscnQwWGMxcHlFSUVR?oc=5",
+    "fonte": "Fundação Perseu Abramo",
+    "data": "2026-11-17T22:22:06.000Z"
    }
   ],
   "alesp": [
-   {
-    "titulo": "Deputado apresenta cinco emendas à LOA 2027 para ampliar investimentos da Segurança Pública",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRllJMjdZQTdCQ2R5UVlOS2xzTGVxX1RFVXJNM050eV9jbGFjaUtMb0hmRVlkd3ptdVFjWmlqWjFtWXNrWFdiNW9IT2VzZnN1NnpYZF9pdGUwU0xDdGs3YXc0VlRxODlLLXB1N0JKY0ZVSlFUaWY1UER0Y08tXzVVNzVVdS1OSWk0aTE4S2o4TDRzYTBPYnFRbXY4dklXMEdYRUZNYW45QkJkWHlaOU80R2FxVVdQdUUtNnY5ZTJ5TEpWWUIwcVpTV0NlVzhWaGFsX093?oc=5",
-    "fonte": "Assembleia Legislativa do Estado de São Paulo",
-    "data": "2026-11-18T22:24:00.000Z"
-   },
-   {
-    "titulo": "Deputados esvaziam sessão da Alesp em protesto por emendas pendentes",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNndlNFN3X0tYaElCUjBKbDcwbE9pV0gwOTJwbDkxX3pUUDNKZmNWZVpKdlM0Z2FfZmFab09IYk5adzJVUUpDTDZDRWRiRFNtZ1JhY1dnWUxKSG9kSVJvajdTU3VUcGM4X0VmamtsWF81QzhLdW9mQmRwQ3BSeWNMWnJVT3RQWkZ1dE5wcnZ5UUx0VUdFbjBHS2c1OXVFRVZpUlNTZzYzRk9NeVB6?oc=5",
-    "fonte": "Rede Onda Digital",
-    "data": "2026-11-18T21:24:00.000Z"
-   },
    {
     "titulo": "Bruna Furlan destaca lei sobre fundações em exposição na Alesp",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnNNRERvYVltU0JFTE5JRUF6eFVkN1lKbDVGZW41Tk9fLXlIdkNaZmo4dVFSZGVEdDRRUHJVSUJSSGlHRnFuRVVscUpLSTBDU0p1ZG9DWEZjNzRSakk5cnZNSXRYNXBDV3duU1E2ZlhYVzFRc0FnSF9OOVJiNEt3VWc3RVpRc0huUzllRUFB?oc=5",
@@ -459,6 +447,18 @@
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtUmtzMm1Oc24tXzVIemdIcGE3UWszU2xoZHNDQ2psWEotM1FZcTZFckhteGQzUW9FQ05nRUlpQ1NMSEhrRFprSWRrbHRQUUwtRUdUUjB2NV9DbndGUWY5NzRsdEtETk02cklZUFk0MC1YRG9aYUVB?oc=5",
     "fonte": "ncnews.com.br",
     "data": "2026-11-18T01:43:30.000Z"
+   },
+   {
+    "titulo": "Assembleia Legislativa paulista exibe série Terreiros Urbanos, do Brasil de Fato, nesta quinta-feira (19)",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSnhpR3BYdWphb3VldkYwaHdCTkN6MzI1VW5mUWlOWXZBSzJZa0FBeEJLNXJRZU9yMUZyRHRabzRDdWNSckV1Q1NnT2F3R29TY2pjdzg0R3M2TUVCZ2djYUpWaWQtTjlmTmdHN2txemFZNG5TMGgxNG4yUXFOZUk1bTJNWWFoVEttWHBNeF9POFVHbDFTdXFaMkpjbkVnVE1oNzBzSGNqUnRPVS1zZmNGRVpUb3kybmxySlkwblI3cDd3Y05uNzFyQ0t4dk5OLXVXempqTVRReE9mSzhscEE?oc=5",
+    "fonte": "Brasil de Fato",
+    "data": "2026-11-18T00:52:00.000Z"
+   },
+   {
+    "titulo": "Deputado se reúne com secretária estadual de Esportes para discutir investimentos e fortalecimento",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUHJUT1p6VDJtNWt2OTZhaTNFSGRPWHdrVk1iYWFuQlZPQ1NidnZBaFp0Y1k5dzBXLXRBMFBxeEhpSDVQcFVDbUdhSVdtWWcwUGh4UllrVHV2MGtTei1PZFlVU2xEaEMxbXFMbGEwWW9tX2prNXZNVnNhME91UkxYTHEwQ0ZTZzZGV0diNUV5SGRfVk1uODQwaUpLVFlCd1E1MTBKaXhfbFMzMlZaWmY0TEJ3UVU1NV81eXpyZFJnTmJXb08zZmZyczFnUXg2ZEFGRGhNMEdmRzNBcjg?oc=5",
+    "fonte": "Assembleia Legislativa do Estado de São Paulo",
+    "data": "2026-11-17T22:23:00.000Z"
    }
   ],
   "missao": [
@@ -661,6 +661,18 @@
     "resumo": null
    },
    {
+    "titulo": "Parietal GABA in individuals with amyotrophic lateral sclerosis and asymptomatic C9orf72 repeat expansion carriers assessed with MR spectroscopy at 7 T.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/43051945/",
+    "fonte": "Amyotrophic lateral sclerosis & frontotemporal degeneration",
+    "data": "2026-11-18T00:00:00.000Z",
+    "autores": [
+     "van Hoek W",
+     "Nitert AD",
+     "van Veenhuijzen K"
+    ],
+    "resumo": null
+   },
+   {
     "titulo": "Increased resting muscle activity in amyotrophic lateral sclerosis.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43049901/",
     "fonte": "Journal of neurology",
@@ -756,17 +768,6 @@
     "resumo": null
    },
    {
-    "titulo": "Association of Dysphagia Risk and Nutritional Status with Caregiver Burden and Quality of Life in Amyotrophic Lateral Sclerosis.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/43037476/",
-    "fonte": "Folia phoniatrica et logopaedica : official organ of the International Association of Logopedics and Phoniatrics (IALP)",
-    "data": "2026-11-16T00:00:00.000Z",
-    "autores": [
-     "Ülgen E",
-     "Parlak MM"
-    ],
-    "resumo": null
-   },
-   {
     "titulo": "Sephin1 protects from glutamate stress, consistent with negative allosteric modulation of GluN2B-containing NMDA receptor.",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43036320/",
     "fonte": "Biochemistry and biophysics reports",
@@ -793,6 +794,18 @@
   ],
   "phage": [],
   "alzheimer": [
+   {
+    "titulo": "A ratiometric dual-modal photoacoustic and near-infrared fluorescence probe for in vivo spatiotemporal mapping of butyrylcholinesterase in Alzheimer's disease.",
+    "link": "https://pubmed.ncbi.nlm.nih.gov/43002819/",
+    "fonte": "Talanta",
+    "data": "2027-04-01T00:00:00.000Z",
+    "autores": [
+     "Meng Y",
+     "Wang C",
+     "Hu Y"
+    ],
+    "resumo": null
+   },
    {
     "titulo": "Metabolic syndrome and Alzheimer's disease: Mechanistic links and precision prevention (Review).",
     "link": "https://pubmed.ncbi.nlm.nih.gov/43023262/",
@@ -953,18 +966,6 @@
      "de Bittencourt MM",
      "da Silva TM",
      "Barbosa BJAP"
-    ],
-    "resumo": null
-   },
-   {
-    "titulo": "Association of LATE-NC With Neuropathologic Lesions and Cognitive Abilities: A Population-Based Autopsy Study.",
-    "link": "https://pubmed.ncbi.nlm.nih.gov/42987245/",
-    "fonte": "Neurology",
-    "data": "2026-12-08T00:00:00.000Z",
-    "autores": [
-     "Matos Silva C",
-     "Justo AFO",
-     "Ribeiro Paes V"
     ],
     "resumo": null
    }
