@@ -1,7 +1,19 @@
 {
- "atualizadoEm": "2026-11-23T05:02:19.484Z",
+ "atualizadoEm": "2026-11-23T07:09:46.094Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Roda Viva entrevista Marcia Castro, professora de Harvard",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1udDVPRkl1WUJhWWRRcS15dE53ay1OeW51dERPWDI5OEtMcGpBaTd4RFd5Q0UzQnFad2lIQi1RbjJ0NEU5RFc0aE5aTksyMGc4U3VqZHVneDRRX1Bhb3BUaTB5RTFvMlY2NTFralhjZGtNaHBvOG1WU1NDRlRuUQ?oc=5",
+    "fonte": "Vivente Andante",
+    "data": "2026-11-23T04:44:31.000Z"
+   },
+   {
+    "titulo": "Brasil importa 15 mil toneladas de pesticidas banidos na União Europeia",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcGw2TWNMN3lvLWFFM0JPS01ORnNmaWQ0Y1d1b1h0Y2lKRVgxWkdPRU1iX1JGd3RjU01WSmd5Q2RnTWZIR0JabkU4M3VmTmNIVjJBTjgxQy1IVDZsS1NFLWFoaVpScUt4LXZ6b3RGQ3JTNUp4Znk5YzVVS1Y3M0FYMWM1Nkc?oc=5",
+    "fonte": "Espaço do Povo",
+    "data": "2026-11-23T01:11:28.000Z"
+   },
    {
     "titulo": "O que poderia ser discutido na Redação do Vestibular Uesb 2027?",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON1BKcmtTTVVscXZiMVBISmVRLWFsc01GRnIzamkwOWR3RVAyWEs5aUZ0dkdLdUYtcmJuN3l5Ul82VE90LWRUY0VCeldaeXBOZzdmRURsWmtRdFc2cUZZRWdHN3VLMTZobU03Nktkb1lTU0Fkdml3MTB4Y0NqZjVBNGRkZlJjelczUllSdW5IZ1Q5YlktRDB3?oc=5",
@@ -19,12 +31,6 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmgtcUV1bjFfeHB4cE5LZW84bTRvd1ZKM1RTUFFaYy14WkZaRVlZM3BjM3B0S0prcFFweUhtX2NaWFp4b2xFV2lDYjlEWFB5SkJhX1NOcDN2WWtVNnNvd3J3U1U1b1IxWGFsY25BbkZoczA3QkwyNng5dm03bmw2X2FweWI3TTVWZzUtdTlWYWZFaF9GNF9VbnJObEhveklUTUFzX1dXWFFmQzdjSDZ4LUcxWQ?oc=5",
     "fonte": "TV Sim Brasil",
     "data": "2026-11-22T14:39:24.000Z"
-   },
-   {
-    "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlRjaUdfSnlXdDducEd3OFlsVXVRZTlrbzdzYm1WdW15T1paMGx2QXpmQTB2b0RWbHk1eXVXV29wZkxKcldfUlJzMUVUZHB6NGJqaVhUQ24tMW13UXRQZHJrcHF3cENxekVRaWpiNWxDZUlfZGNWU2l3dktVQllNNHp1OWxVYTdZbWtsZWs5dEE3MGh5S2tCT1FQSkw4Qm9rTnBneQ?oc=5",
-    "fonte": "Atibaia.com.br",
-    "data": "2026-11-22T13:34:00.000Z"
    },
    {
     "titulo": "Plano de Carreira para Agentes Comunitários de Saúde e de Combate às Endemias.",
@@ -85,12 +91,6 @@
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSndCSFlzRHJEd1JRUWMzOW01T3YtSVdpMXBxRWdzYkJhWDhua25qTEJ5V3hNN1VLa3RfbUl1Y2pEYndHOVE0SjFUZXBJNVVUUV8wZFlTcnJOT3dTZGppNGV4U3pOWHJ5cUhFRkc0ODg5QTlmWkVoLV9oeVh4NTMwS2UwbERZYThmWXd5elMzRVFZZGVyZHYwTHJOQl9WeHRPRzh5YjVlaWxqeEZycElaRw?oc=5",
     "fonte": "TV Sim Brasil",
     "data": "2026-11-21T05:24:44.000Z"
-   },
-   {
-    "titulo": "II Encontro Internacional de Saúde Digital, promovido pelo LARIISA Saúde Digital, reúne representantes do…",
-    "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOWllZWHdRQlJNWWFqZ2JEMk1taEZ2bjJJcllWMTJXNFRBWG85SWJjVlBIUjBxYm5HYjBXVUczbUhabzNTbzA0RTNMQVA1R3Jkbmd6SVZtVUF2T2dvMC03dm41ek9Pa1dyWURVenNLa1FoWmw1WW1DdlZuVEx3Ujk0aHo3Nm5EeWpMT1A2dGJjdWdDSzdFai1KU3pRaXdyU19qdE5OWlhMQl85VzZzZFd1N0gzdWptWWg3U0luLXpXOG9scHF3cklnWm5yZGlxREpnWk1nblVZNFhlRG9LTU5KZ29FaWZhMGRBZHFRbERhVC1rYldfZkQxZ29uVGdHSDBQWmdybUowVnVTQWQ1T0NRaFFKQXJMUFJSc05QaVVCSmRHaHRGczJvbklBc0s0d0ZwdkJKdFNhTmZVbm5CQTNfNTRZeFY5UjE0ZUFnS3NEazg2dkox?oc=5",
-    "fonte": "Sala da Notícia",
-    "data": "2026-11-20T23:39:15.000Z"
    }
   ],
   "seguranca": [
@@ -155,9 +155,9 @@
     "data": "2026-11-22T21:51:07.000Z"
    },
    {
-    "titulo": "Briga e confusão em hotel causam morte de torcedor palmeirense em SP",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbm5TeldpVk94T0RBck12TmJNa2JYenN2M2s2WFp2VXJRNkRHNWlFTjdkcVd2ZkRMZ2tybnd0TkFqOFpUWEpfeHhLc29uc0hWbDczcFpqLWFKVFVuZ1Y4WDh0a3llSjJnOV9DNUhsRFpoZDg4ZDg4MVFBSHNqQnh6d3lFMGFPazJkNnRKemZ2cDZTRmh1YmdJNXhDV1I0NUhUWUpQcVJUbw?oc=5",
-    "fonte": "Band",
+    "titulo": "Briga e confusão em hotel causam morte de torcedor após jogo de Palmeiras e Flamengo em SP",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSFV4eGtLMEdvQnI4Z0U5VVZYczNvel8zRmxBbVd1S2g3LUIyS2Zqa3dmSm40bW1FREhfTy1WeWZqMThmcWpnNzJ4VzJ4SzhWMm1tX1AwRzlpemQ4b1hrVi1uRzNWVXN6SU54cVhER18zUVlORmxiSjQtWmFLTG8tZ2VidkpySUdLQzZyUUNfUG9FVFdaNk52cU13cEd0TGJBODBDQ0llN0Z6MW5TSGRWM0VxdENGSG1yZDJrVzBRUkhRX3RaQ0tjODczbEFodjJCYXd6OU5nWDVRYWl1Nko0RHVteWI?oc=5",
+    "fonte": "Tribuna do Sertão",
     "data": "2026-11-22T21:15:00.000Z"
    },
    {
@@ -187,10 +187,70 @@
   ],
   "economia": [
    {
+    "titulo": "Ajuste fiscal: Economistas defendem novas medidas com olhar estrutural",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWU9lWU9xM1dtYmc0LTFFLTdld2Z2UHBSeC1vR2xQdlFraUxNNkVtV0lwVzVQX2h5WGVKVFl6TXMzSFY2WXhnVGNwejNiek9LNlhHWXRFYjJ6blI0N0NTWDg5MkVWSHFjWmVETUtfeExONGQwM01kb18yU21yQmRPbXBTbzJnU01lclhfWlBjSmRYMk11R2haZHE5ZGQwOHlRaWFYSWRDVVVYVVFDMFZFcVVZcjBGNHRYcFdWZktkdTR3TTlHWFdN?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-23T07:00:41.000Z"
+   },
+   {
+    "titulo": "A entidade mercado, o terrorismo econômico e a desinformação que tenta minar o Lula 4",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUm84WkczS2JIYi1IOFpycXRZUi1NUmIyd1pyYXA5SHFDYlRYVHZXREo1Z0RKSmRCeXdMLXRiTFdDR0lTb3U1Q293djBvc0FFZEFONzUyVDE0UGp3ZVNabVEyenVsNlllYVFXZi13Wnh5a0FURFdOSS1aZ3hLc1hobk01YTNqdmtfZHJvTDZPODhZVVVZUE5XQ1J3eUc0TENBUzlVUUZn0gGuAUFVX3lxTE1YcWVCVEkxY1ZVUlB5c3lMc3FaQUllckgzY281MXlWWWlrR3k5SzNzVEVsazRUNlRsTGc4ME5YcWsweFlxUlBNbnp2Q21MMnBtenVua1g2cy1oSFJKaFYzN0UyTUZEWjBNc25BQVMzQXZYTnJ1QWRWdjNZc2R6V2pwNmxySUV2blIyaWhYcVIyd0p1LUdJdHd2OFI0NFF1Ym1fYXN6a19GQ0VsVFgtZw?oc=5",
+    "fonte": "Partido dos Trabalhadores",
+    "data": "2026-11-23T01:37:00.000Z"
+   },
+   {
+    "titulo": "Câmara abre semana decisiva para ajuste fiscal, mas mercado cobra mais do governo",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTGtoZEpxazEySWEyMTFRWXBCWU5keFRLZE9LLVFRTXV3U3pKdjg2TW5WMS1GYUMyRmpiamdiVEV5UEVDZnNkS3BPYVptTGNTd2REVUtvQUJqVlJnTkpWZFdQTDJoYnJVUnVJVThSWEJhbEtXb0NadnlMd3pLSnUwejg4NWx2b3FNR0FzYVpGYVhIM2l2MlNPMzFjTjlBbklZZ0tj?oc=5",
+    "fonte": "Times Brasil | CNBC",
+    "data": "2026-11-23T00:39:00.000Z"
+   },
+   {
+    "titulo": "‘O crime é um negócio’: secretário de Segurança do RJ afirma que organizações criminosas “sequestram” a economia",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaThXWkV3NFlaSG40ZEduTnVEN0ZleXJ4cVJ6QUdkZ3JuT2lRSDlJOGstRjNwN0draVg0TFNQc2dyQmxfNm9Wd2xyR2NPcVdhQ1JGZFBIcjloT0hyb0F4S2ZXUWtFa2hhQlQzVEx3c2MxMEtmbUV4LVpfOVRrZlg5Z04yU0liRmVFQjh5bllQb2Q1amVPdnJxYld0NnJnVlZxNFpQNjNIMklCWTJpeldz?oc=5",
+    "fonte": "Canal MyNews",
+    "data": "2026-11-22T22:30:00.000Z"
+   },
+   {
+    "titulo": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUkzZ2ZfelZMZ3BaWERzNV9CN3ViUndOV0VnMzFGdkl5OFFKRWpQclVlYklrNGZVT1ZpZ05pZmZMZ09nby1pQmRXeE8yaURFZmJWR00xNVdlQVdvQWRIem04ZjZPUXpWVkxPb1JSQ3VybEl4dWpFZGloNDB4VklMOWFTUXFpSXNXT3JHVE1yTllmT0taUnpMM09YX01hWGFDa3pvbHVsLWZ4M0k?oc=5",
+    "fonte": "Poder360",
+    "data": "2026-11-22T21:04:08.000Z"
+   },
+   {
+    "titulo": "Compras agrícolas da China nos EUA aumentam pressão sobre exportações do Brasil",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQWhQVU1acFNWZjlNaG5ERzlHelNRTVBramMwSlEyZ09KUTJUYnJEeW9XN3lYOXBVYlNRSGp5REt0dUt0WGdhNnhFc3pJMlN1UEMwR0NldU5ISHp1akJiOEh1a0dmVGZVWlpFc3EyVklBZTNXTXpxb1ZsYm5ncmRKTkNjamdYTWVfbFlyTHhmV25YM1FSWS1ZTEdBaWhib09uOTcxQkN1UE54M2NDWmxibVdGUGJkWll6Z0YwRmlfSExOZFhfd2dV?oc=5",
+    "fonte": "Portal do Holanda",
+    "data": "2026-11-22T21:02:00.000Z"
+   },
+   {
+    "titulo": "O melhor programa social é o emprego",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQamlkT1BVVUQ0LTB1RTBKdTBPOTBrS0dUcV9nUmJzYjExbThla2FDTUp0ZDJ2UmVJM2JqZUNxYUN3djJlY3JwR0Qzd2dWeGVETF94OVpXRk5oZHpZSG1YQXVoeUFvb1VBR1Y3LVdEbE43MnZjQ1Q2cUZZMm01S2pkdDkyVVJaQWp0TnM1cHQyY9IBlAFBVV95cUxNd2QyY2hZUm9PMjRGLVROX2Y4bXdFeWkwdGNTYnVDWTZqR1Q1VUp0azR3U1hkQzg3eDN6eE9vck5EWUhlbE04T1djZFkxNnZLZXVRNGN4SHBrVjl1NnpMQXBtdVpmSTE5OWNKeENabFB4NWdkblB2aTl0SFZQeGJPajJEQ0tiTkpoWWNEcWw5RzluOUNt?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-22T20:00:00.000Z"
+   },
+   {
     "titulo": "Saída de recursos do Brasil pode chegar a US$ 420 bilhões em cenário de crise fiscal, estima Ashmore",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0g2TmJ3M0E1NmVybFh1SDNmb0o2SnZ1blZuZk1PSmwwbWdvN1VudGhQNG5maU5KcGtJZjJPOEtMRkZPaFpxUUFzNmdqRVZsZXRNUkRXSU9vb1U5V3NOZkRpWDR2SExMZGpjYTMwTllfblB1ZjlackFka3NpaEVjRHF0N1o1QVA2YmVWdDNfWV96WDgtLVlfa2RlVUZ6NFpsOF9COXJ2Mnk4cTE4SWxoUg?oc=5",
     "fonte": "Times Brasil | CNBC",
     "data": "2026-11-22T19:14:00.000Z"
+   },
+   {
+    "titulo": "Campus Party Piauí impulsiona economia espacial e formação técnica em Teresina",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUXpkRlMweUhtYlJFMkRWYl9GbEQ5QVExeFpvak1BRnVJVDJOMkRRUXo5UHdzQWNIS0pqZGsxTWVLVl9FZXBfUEZxRnBsQnBsSDVBbGlMVFhBTFVEeXBaNEVUSS1RVHVWS2MzRW1NLVFtNlpaMnZZajdPNS1KLTBGbU1mSFVxNlJET0FGc3JKaFdNSVlhWHFpbUpva3BxRmhsdXJsajFmLVdkQ2h2MEE?oc=5",
+    "fonte": "Brasil Inovador",
+    "data": "2026-11-22T17:15:23.000Z"
+   },
+   {
+    "titulo": "A 'economia em K' veio para ficar?",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJYlc2TTBlTjIwWi02YXBOcG96MmdDdkt1YmM0ai0wemxMaGtVUWE3czBzVlhkN19zLVdTSkJiNFBQUTB5MHJZVUltMUQzS0ZYOGN4enZ5LXYyMWtuQVdTQ1VCYi1XejNhZ1E?oc=5",
+    "fonte": "Exame",
+    "data": "2026-11-22T16:02:54.000Z"
+   },
+   {
+    "titulo": "‘Há um grave risco de que o Banco do Brasil se torne um novo Correios’, diz ex-diretora de desestatização",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUGFYY1hURFVEM0h6QWNtSTVXOG4yWjJXWUdvdXR2b1BTcnVEY2xtbmtuLURPQmpiejFKdjZiS0JkeFZ2bDI0Z1U2b0g4SFBRbzh1NGtmdEtDTVpoM0tMSkxyY3RMYldTclZLekpESmpLUjBROURmaTJES3hMRm9jc1o3NGNILVdwZEJKS2ljakxqN3dWTng1MVZDT2EzZXM0ckxlMjBEcHd0U0ZCdHhPQUpMbXVWZGlGSVdXUGpFMnVmNzlKbWItTmNNbFUtNVhvdXFMeA?oc=5",
+    "fonte": "VEJA",
+    "data": "2026-11-22T15:40:00.000Z"
    },
    {
     "titulo": "A economia política do Lula 4: o que está em jogo?",
@@ -205,79 +265,25 @@
     "data": "2026-11-22T14:53:00.000Z"
    },
    {
-    "titulo": "Serviço Geológico do Brasil traz retorno de R$ 14 por real investido",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVHcyX29PN1VTMlNMTDhvcXc4N3Zkb0xvOThveUtwY2t3VWlPLXMtNzNkQm1yYXp4TGJGMkdUam9icE1oaUM5WTVFSWVOMV9zUThwQzl2ekVZbHlyTUp5Zm9TTWJLNGVvTDM2eXVDb013bVMwcVZoaHZoSDJDdGVPQjVGOWN4bE5xSDlVQ255a183SmxpVlpLbmthcF9hVDBMdGFGS1RyY19BNlhHUF95NkU1YVFCVXF0SUY3b1BkWlRnaXc?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-22T12:21:00.000Z"
+    "titulo": "Inflação no Brasil e nos EUA movimentam a semana; veja a agenda de indicadores",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1lxQ1Z0TjhVQkltOGc4VnNyVFp2eXdaWnVvOGlBb3FHanNqX2pyOEdHMUZmMjVaODdyUFBOenl2TDBkcWNtdHFUM3pUUkNXRnJDanZlWjJBWVdCQnRMU0tEVGNrM0x5aW1ySDJBaDFkLTMtT1R1S0Jkd0g1bkV4dUhOYkRnbkY2Ynp4dTlLYU54NGFOT2dhVWlIeVpzYmxGbDA4dkF6Sll3RkVG?oc=5",
+    "fonte": "Money Times",
+    "data": "2026-11-22T14:50:00.000Z"
    },
    {
-    "titulo": "Banco do Brasil compra briga com o agro e ignora a ingerência política que corrói as estatais",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZGtmRERseWdNQmluZEhLR1dpdm82YnhUNC1XbDdleUtFYXpHd29tZmx0MUh3UEFvb3U4Tlg1Q2RHajBlX2NfWE5neVBFSEdIaGpST2pkYkxDWXRKdHlGbm85X2JlMkRhWS16UjRPT3FlRWx1ay13U0paUEp1YTJKSERQT2c0Y3J0TmtIT1NuNnd3NFpSRXpQYzNFcTY4NzhLWU5jWjhQWHBUQW1KYlN5Yktid0xINERfNEp6azNYLXdKbkhyQnlmTA?oc=5",
-    "fonte": "VEJA",
-    "data": "2026-11-22T11:00:40.000Z"
-   },
-   {
-    "titulo": "Brasil amplia liderança no mercado de data centers da América Latina",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmF0U21qdkoxWWxFb3NBRjVjRl9FVGVjQXFYdzlCNjJ4cUN5NWZlRExETXFFMHRtNUJsN0daM18zeU9fS2tuZERicFRCS1VneXAtZWE1eUt2dHdRZWY0bnJNeUREVmx3akxYTEJjd1RwQTZIU1BaM2pLNWZqQ29XT3QtakpXY185NENwc1NKTWUwMmFHWWRFSmtJc1BtekdJNjBSeHp3QzdqODRVZmdN?oc=5",
-    "fonte": "Gazeta do Povo",
-    "data": "2026-11-22T04:53:00.000Z"
-   },
-   {
-    "titulo": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa08yM1paOVVzWnlCUDA4dTdrM3JRQTQxNm5LTUV1MUNSdWFWN3F5TEN6cHF2SERYVXQtanpUd2hwbE51cjdoelB6QlFHdUhnTEZsdkVaZHgxUnBTTTd0dEIzTW0wZHFFSnpFNFdzWXdZX28wRWxfVFUtalA2TUJfUUI4NklqbzA4UC02RHU3RDRyUHdfVVAyOUpFT3lrMTg0X0I5cFBfZDVDYW9xQVZaZm9VaVRZTEIxYi1tN0ZNZldWR1JvWGdMc1JXUzVOLWpXLVBlcUo0OTJHZUlXQ0VR?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "data": "2026-11-22T02:00:00.000Z"
-   },
-   {
-    "titulo": "Brasil recebe 7,5 milhões de turistas estrangeiros e supera meta do ano com dois meses de antecedência",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRVc1ZHVZS3lRZ1dMRGlBR3lwcHlHY3dvemQ4N1NxLTdnYTFNaC14X0RLRXJDWHI3TFRPS1NXQ09jelB2aDRPYkNDOTBHRWZVdjEzY1lQaHZCZ29sMjRMc1QxSS1kR3lNeFZuOHZHSzlkVnc1OVQwdVhTcW8yTlotMFdwVVNiNkFjcUJWVFA2Z2VrY21JY1NOLVJWOV95emt4SVdhTVlpQlNRMG9XUWwyR2s2SFVrRHo2NHJPOVozVEZaYU02bXExSlN5ZnJtbXFDT2RpbkR5cUNqOVJnSWY2d2hEODFHUTVkNTN6TkVHVnRqYUhrd2fSAYQCQVVfeXFMTkdBQUhOMjJGM0RRU1I1eW1uV3dyYy16di1weE9ENzJ4cEIwVmd1NlB2OEtTVFA2TkF1eFVnajg1UEVBYUxtOHkxejVFc3Q4ZG5pbHFfbzNoRkVfZUkxMkpWZ29CMGFwclRFbk1qVjN0NF8zRjNfN1FCMC1sbFFZeFpmN3FmR2NabmEtT1FCTlExN2RPUVZZXzVjdGNNR3h2eEhZbXZacXk0SUZhWVlGeGRJdGdLUVBnTDhzUklYR1NONXZ2ZTZlQkNxb3llWHI4SVdvQUF5MmVnUmd4OXNBUW1XLWx4R0Fwa2FSZ3prSk9OSW5jV25rekczaWNzdng0UUZCWU4?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-22T01:29:23.000Z"
-   },
-   {
-    "titulo": "Corrida global por data centers abre oportunidade bilionária para o Brasil",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzB0TnBjM0FHQzVuM082Znl2TUlSRVBicGtUczF3T2VOMFRQZTV4NXVyWDR4Z0RvbnhWc0IwVUV3LWp0a1FtWFBRNkhISWo3OVFGZ1hLOGJKNnBueVZlNUNLNUNRWWV3bVB3TXhOd19VSTZwelJWdDNCQ2Zwc1lEYV8ybnJtSFB2ejI2bG9CQUJZa0drNlFBLTU5M2pIWkJLZ1E?oc=5",
-    "fonte": "Gazeta do Povo",
-    "data": "2026-11-22T00:52:00.000Z"
-   },
-   {
-    "titulo": "Brasil pode virar polo global de data centers, projeta The Economist",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOTZaTFpRb0pSWVFaaVpuWmJsUzVIbE5zN0hRa2d1VVVLeFFXcXQ0czJXejk4dkZkTmZWOEtCZzBhR28tanFnVjZOWHRIVnlWYy1fRi1GSnZjbEx4YWFyT0diaFVNVG9JdUdsMWhnNkNsZFZoSHZMQ25senZYQzFCbzNEMm0xdFg0V18xWW1DRDgyQzBNUlNyVGsteElaY08xaVlFTk1n?oc=5",
-    "fonte": "VEJA",
-    "data": "2026-11-21T20:51:23.000Z"
-   },
-   {
-    "titulo": "Brasil lidera avanço regional e mira boom de data centers até 2030",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMzVCYng1VDdfZ2U2U1Uza1FRQ3FITXNjNzVBeWNOekpfcmR4Q2tRWHJ3Q1lKZ0ltbHVfU2dBaV9qSWVzc0VUN3IyZWE1N2hUMW1HbEY5aENYbnlpWVVhTk15RnBwWENsSUhnLURTblR2UnEyVTQ1dEgySVA0THVPMmVBMW5SVlh5cTl1aUVkUzUtaXhXUllCemc2X3RiNXN4bHNWZVBXZEIwVkZsNF9HakVpamk4dERIX2c?oc=5",
-    "fonte": "Folha de S.Paulo",
-    "data": "2026-11-21T19:00:00.000Z"
-   },
-   {
-    "titulo": "\"O sistema financeiro não vai me ensinar a dirigir o Brasil\", diz Lula",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcTIxT3dlbFdpMHlFaXlQd3dhQlQ2cHZBaHRybWVqanBHZlpLa0MwYkk0MnJkMW5Hbm9RTjlhNXRZcFY4UEFNb0hmQ0R0bE5tMEJBcjVoeVBhaU9zZHByT3hXUkJDb0VmNDlseHJUWjViR2ZWTVRhLTVxQWd4bHBPNUFwU2pOTGk0V1psdnFkMjRQeFdnUEpELXphZlNCajg0MzFkOGxtaDhaY0ZnQ2I4WlJOSEk0cnI4T09zQnBlWFc?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-21T17:12:00.000Z"
-   },
-   {
-    "titulo": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1FYNmVrdEdPOTMwOEFFal9OM08yM3l2ODEwMW91V0dvTnNWX2g1SWc0X1QxSTIwVFBIVkppTzNGSUYwMDFjR2lZMDRBbzhpQ09IU1VsWC1lbXZXWnJaSU94N2U5UWh0MmtmQ3FTUjBvYkxYRXViTjAwWG1PbDl6QkZza1dKMC02Q2s2T0ZXVnRJYzJha3FIVTdQY1lZRmp2Z1NZc2tpLXEzXzZjTGpMdGFlUDVmTFdMUlZlcHRjUUI1VFFTVDFZ?oc=5",
-    "fonte": "UOL Economia",
-    "data": "2026-11-21T13:30:00.000Z"
-   },
-   {
-    "titulo": "The Economist: Brasil lidera corrida da América Latina para virar polo global de data centers",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTQ1SGlXVWRqUUFpNVIxdmh5akR1Q0c4ejZ5anJ2WnpWNkhOb0xfdVZMRzc0ZXppM2FJNVRSc2U3NEEzRFFJVnN1R3hpbmM2UG9BWE5SQzdyWExldjRWeU5SbUtVajlpc2lEVmdfcUVkVDd2TFNaNjBKbEhjVEF3WHEtZGw0cURYLWd0NGhRN2h0OG1LNVQ5MEduZFhIZnVIbHZZUmFWME1mZjNZeFA4bDhSNmNuM29uUzUxUHp4YW1HQ0VGRDVwSNIBzgFBVV95cUxQb0Z1WkIzSzczS2NWMmU1MFJzTTcxakh5SWpWcDhoN28tWG13blVhQlMtb1M3Mm5KLVBTYTNlSDVBNmU4aVplQ1dGSDhzUGxfYmxhNTBDcDJSU0MyUXBrRzY0Y3pySVN6ajQ5SHZXMjhHbXF5VC1pdXZaMkhpdmU0Mm8yanZOWXpDNHlTQmRHS0R6Rk1CdTM3aHdFQzdXT196LVpKMWxWSk8xRWVuZTZ1NkNjZkxteEQtSFdfZ19wQ0pvZlYxLVhXQlA0aDRqdw?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-21T13:00:00.000Z"
-   },
-   {
-    "titulo": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos'",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uaVNNdnEwa25QTjdrYnpyT3pYd1ZGSEZJdS03OHo3QlQxdjF1RFYxa0xWNnZtSi1nTlREZy1jbHM3TW02b0RfM3VIVTNmeWlDaXNzaVoyZHNqa3lIUzVaWXh2b9IBaEFVX3lxTE1pRWRuMEhpTUdHOFRXV2ZvRjZLOHlfbUlHRnFSX24td05KTi00RmdtQ0FkU3B5czR1aGF5VXdhcGk4MEZ2Z0VPbG5yV0JWUmJBU3VYMTJxcTUxaUZ5RXR0ZUFEdHRDbDVn?oc=5",
-    "fonte": "BBC",
-    "data": "2026-11-21T09:12:59.000Z"
+    "titulo": "Restrições a investimentos estrangeiros, tarifas, desafios logísticos e exigências regulatórias dificultam a entrada de empresas brasileiras nos países da Asean (Associação de Nações do Sudeste Asiático, na sigla em inglês). Para aprofundar a relação, o gov",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1BSkdZZXhOckg1RHN6ZHJVLXdLbzg0WDRxdHc3RUlBUVZSRTBUanYyRGFGakFRbkZySTQ5Q2VhYzNxSmYzclZqSE1RN3VKckpLdUE?oc=5",
+    "fonte": "Instagram",
+    "data": "2026-11-22T13:00:21.000Z"
    }
   ],
   "politica": [
+   {
+    "titulo": "Aldo Rebelo articula nova frente política e ataca gestão da Amazônia pelo governo Lula",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTU55TTFSV2ZtSGdBUkp4Zk9XblNGVi04TzdYem84Z2J0X1p6d3pLdDg1VWNNcndOZE9RMG80SkZXV1lIY2JhWXRjazZpS0JxZG9QQVhDR3hYdGNQOE14c0RtVjZHUnptc3hwNUNsc0M3dEJ3dDNlbnFLTzhtVDBJelk4TjdYRGRUdG1xVlFDMFBBdnhZdm93djRKWmJ1dDRTQ05pQVktc0dWSFBjWGRTYU5mY241ZGhJLWVCR2g2Nm1BZWJob1N2NUxTd0g?oc=5",
+    "fonte": "Plantão Brasil",
+    "data": "2026-11-23T06:04:42.000Z"
+   },
    {
     "titulo": "Cláusula de barreira derruba número de partidos no Brasil",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU21ZcDEwai1wZWlTSHVxR2xWcG10Nm1ZWUZKWlI5TXhiRUx2dWkxUGt2MUVPM3NRX2lRV1Y3MmNNWVFzUGhmd0hTSHVhR2dDT3BQREc5OEFPaDhOSnY2NmdEUEFEbmFremtGVVVuTC1IeHJSYW1fUnBpaXpiMWlBT21WOHBoakdubkFlRGFoU3BxTEs0QWVWclVZdVfSAaQBQVVfeXFMTUlUYm9SS3Z1WmY1VG92Yi1IZG5sckFrbzVGUkF5NnJxanhJdTNJT3dXUE9vRWRqbjhmT1VuZVRKNlUwTUhVNnY3R1R5LVRab0JhcUxLRUVpOHh5ay1PSnVpX0RWSE1OZktNajFIN3lWdWxycUw5U3ZDZE9mdjRwYU5kcmhxcWxpcGo5M2FWSjVJWG11RnpHQ0MxOXhVOGxIWGNKSWM?oc=5",
@@ -361,12 +367,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQUM1S3dFZVpTVUtOak80ZTR5eXllQzByZE5DU01WSUtFczZTVUVzU2MtbVU4OXg1U1R2bk84Q2txcU5wRmRSY1hQSklFVnBBeTRoSEEtakN5WHJjTU44eEJNWU16UjNPS0lGQUZkem9uZUVTNy1ZdlpnWXdCaW1fZWtOYXBDQ1hzQmx3dEdwWXJYblJQZFI1RDB3ZTZiVUtEQ0MtQ0dxNGgwdjJ6N2p6U2xB?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-22T07:00:45.000Z"
-   },
-   {
-    "titulo": "“Única forma de retomar o domínio sobre a política monetária é controlar os fluxos de capitais”, diz Belluzzo",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUTRMU2p0ZWl6dmR5SnhLM3BIUmFsTjFfUklpN0xuMV9vaEMyWUFjUnFvTnpHdjdibnFtZlpiME40bUF3cHVJM1BFMTU1b3gtUmt3bnRVa3ctdlc3WXlkSDNvXzZCVGViNV9SZTZha2hqZEV1akU0WE1QWk10cHhpVVMxcXVxalZSWnZwZEU2WlhTSEhaVWM5NkpBbXVEY1JWZnV6ekpHaUsza2k4NFJSMmdIYzdLQ2dvU1hfd0xKbXdkSHRYcjY4Tm9ibzBSM1VPWUdrS3hTd2dscWc?oc=5",
-    "fonte": "Brasil 247",
-    "data": "2026-11-22T05:08:18.000Z"
    }
   ],
   "alesp": [
@@ -549,6 +549,12 @@
     "data": "2026-11-21T20:30:38.000Z"
    },
    {
+    "titulo": "Novembro Azul em Mogi das Cruzes terá exames de PSA e vacinação no Largo do Rosário na próxima segunda-feira (23)",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSERKeFdkMHRydk5rTnN6YTd0Zy1zMzlHVGtpTWpvdVEzYU5XWEpnVFdsZmxPZGJYNk55NHV5VWs3Z0RSU2Y5Y05qMWRjRFVfZHBkRE1jdEVtS2s2NGw2UC01Z0Vsd0VlXy1tNFFjM3lnRnljU1Z2aC05OTlhM3FVYTdaU3JmOGF6SzBTTTJIckxkRjFyS05tcVVsNi1jRGJDU0ZSXzhfVjMzbW5KYm94cTBLUDd2RkNPS0YyS05fNTNRZGxKWE5wV1MyaDRaOThzOGRLRWc5cFdnR1c2UnJj?oc=5",
+    "fonte": "Hoje Diário",
+    "data": "2026-11-21T15:48:30.000Z"
+   },
+   {
     "titulo": "Operação Tapa-Buraco será realizada em 17 ruas da região central de Mogi das Cruzes neste domingo (22); confira",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdWN3SUl1ZVJadVJzcW5kM1I3NnNMVmh4WWhiYkVneHFyQ3ZFRE9UVjZHQnJDOVF5anBSYURiMGNseThjUXMyZk9NTUpXZXZBODZaaWdqbmJweDhmektTRTJRS3BYa0pKRW1HemdRc1FJMmxjRkdNdzB4RDRWUllPZHlHWTB2LUlmVW9EeVJEUTVtVkNYWlUwRU83c2JqVlNxajZobUx2OE5YOW43WkJ1VGxTczJTWnB3bThYWmJvN21sZFRmQzd4NEtHX2U5WFpTT2dOTWNFdkduTzQ?oc=5",
     "fonte": "Hoje Diário",
@@ -585,28 +591,22 @@
     "data": "2026-11-20T19:13:56.000Z"
    },
    {
-    "titulo": "Mogi das Cruzes lança licitação para construção da UPA de Brás Cubas na antiga fábrica da Schwartzmann",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNc3dpaE5WTEhzVkFnYkFtdHJicUFaUXRCMng2U3BkVXd1Y01qM09iWUxrbE1XZk94cnNsZ1VLWGdUVTBhRjNyS1NnMVBKZkVCLVJTTGEtc01QRkU3d0sxYTdZZnIxcUxuMTJ5ZTR2QVRvbmUxRmxmSzZvX1BmZXV1TFBoZDhmdno2TDFNck9FVzdFU3htODNNb25UTzF2ZjRIZWNrTzE0VnRZamN6YjgwY0Q2bExiZWNPRldQQ09qbkVYTUR4QkhvZFpzRDJSSGZ1YWFlVG4wazZwTzA3Sy02Xw?oc=5",
+    "titulo": "Feira do Disco reúne cerca de 10 mil itens em última edição do ano em shopping de Mogi das Cruzes",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjVDb01LSG5lcy1kOUxnZ2J1N2NnaDNnSjVtNkhxblMzaDFOVnByXy1KN2k5WXlNMFdJU0s5aVdDRFNUMlA3N0FGSEhrZlJjWkwtX2tuVXJnaG9Kalo5SzYxRTZ0OG1yVjNKNXNsMkZIYzY4eEcxWENVYUlZUVRWTEpIRlZRaDNrN1hoVmEtQUVfVnNVUmx3MzhOWHh4a254Wi0zZkZ6X0hudnhMdERkdldTTDBTa2R1VHpGQ1B1RlNWXzdjaC1ySEsteE5MQkZYUnc?oc=5",
     "fonte": "O Diário de Mogi",
-    "data": "2026-11-20T17:41:52.000Z"
+    "data": "2026-11-20T19:12:00.000Z"
    },
    {
-    "titulo": "Operação Tapa-Buraco atenderá 17 ruas do Centro de Mogi neste domingo",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY0RrN2x6Y3NvY3hHWjVMM1ViU1NDUUtyTTdlWWstYTF0NWJLdThPMnVVbE5FVTNyQ296MWZDTC1Ha1JxRXRLd3RHbG1reTRfMXZickloYlJGLVdqWHhnNWhDNG1QaXdVRXl6ZHBMU3NFNWdGSXYtZWlncjFRT04wTm5UdXpqU3hBdHRKWWlSZGZ6WHFJdlkzVjlHc19Ody1nd291c25lczBJd3d3WFN4aFlYSmw?oc=5",
+    "titulo": "Sport Benfica disputa neste domingo a final do Paulista de Futsal Série Ouro A2 contra o Santo André",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVDVPYUJ1TEpOcXd4Qkc0Q0ZfSGg5NDZxQ195WTVfUk5jTTB5MUstemNpNlpvYWxQWnlJSVpWUl9mWDloaEFWdFJzYTZDb0NwdkQ5WW9fcndPb0ZLUkp6bVFIdXFVclphWFoxcTdWNkV0U3Fhb2RxS2huS01vUWZxTGZmMjI1eEd4RUc1WlhmOUc5Yzl2eTFQUjlBMHl1dWFab0pYb25UZ2xhdjhnelM3b05UblNDZFpGbVFWSV9meWptRld1SFNEU1VJaktqUnlu?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-20T19:01:37.000Z"
+   },
+   {
+    "titulo": "Carreta perde o controle e tomba na Ayrton Senna, em Mogi das Cruzes",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmx4b2RYU0twVHFjWXQ5TFZ2RXhJWmFRR29xMnZ6TkJrN1ZVN1lub0pVYVA4MEk5LUhHX0RDcE1qY1A5RjZqcExqTXN6ejhzRm5hdVYweFpFSVhiVTV0NGVmcU9qNEo4SGQwVEJ4b2I4aW1LMDVGeEE4bkJZS1JVa3FzQ3lNdXk1Wk9yT2lweVVmMXdqTmwzS0RLRjFjZWowM3VHWmpUQkN6SVVlbk14TkhB?oc=5",
     "fonte": "O Diário de Mogi",
-    "data": "2026-11-20T12:50:51.000Z"
-   },
-   {
-    "titulo": "Ciee oferece mais de 70 vagas de estágio e jovem aprendiz no Alto Tietê; veja lista",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNVNEVHZhWUU3alcwOTctZmp0VXVocVRnci1YQmU3b0lITk5fODRCS1VNcUdITXJUc0l2eHdRTUpOWVpaWWNodlQ0S2hpMHFzR3owREh0UlU1U2pUMXZGSEpfdVg1MHg3ZnZMa1F2RWRETVNwUlF4RERMbjhILXFPZmFSTVBpbE1TNjFQWHBnNHM2V2hMTExmNzJSUFFLS2hmZzNvc0c5a3daS2tJVlNvdHNNNEN2QU01dF9iOFdZOEp6ZVMzVWdjTVlXVkh3M3EtUG9YTE5TNkJkdkgydWVKSHdxdF9XQm1YeFEtUzV4QXl4akxIMWEzaXlVV0MwT01zVjRVdtIBkwJBVV95cUxNQ0FBSHFrZEVCWHlPYWp6cXZRLS1fNjU3MFJMMFNORkYxWmFwQWMzM2VZTW10YzIxYWVzV2RsSE9QS2VZZUhPR2poSGxZODc4eHBHMFU2alBPOG9xamRreXZwU3haOFFpR0JuTUk2M2hNQ25NSmtGTHVBajlVb3RVU3Q1d0l5QXZvZnEtOWhUT2V4T19YRXV5YjVBVTBTbV80RFhZR1Rqbkt0Z19GRVhKUkhsX294aGMxWm02QzZzLW1jalk3dGQyZF9RelBkODFkaFZnZ3dHYXlYQ2l2bWpWYTBTSHhQbUJyOGhwanN5RGlKazlBM1hiMjRLYjlUQ3ladlNPN3pVbUUxaXpLS2dZUEFLTQ?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-20T09:39:42.000Z"
-   },
-   {
-    "titulo": "Linhas 11-Coral e 12-Safira da CPTM, que atendem Suzano, Mogi das Cruzes, Itaquaquecetuba e região, terão grandes mudanças neste feriado (20), no sábado (21) e domingo (22)",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWVRBSHRhY3dpdExvVWtOYmI4amRuMURpbzJwcGVFMkw5OEo1YUVmSDNxZmVyclhNS2ZqdEViV0tlaWhzQmJhUEZnS0x5T2U5aDkyNm0wcGZjY0dpekxIQWlfYkx2N08zb2RhMUE1YXpwMTA5RlNLdE5tODc0b2VSRzhyeWp1Z2t1Vk1HUlJudFJfQThJMU5uaThxUVE0MjRGTjVUeFU5cmFRUkJOVjBPS3BWUzc5QjlfdS0wQldhQU81cjNfcVB5aGVoZWVsV1VNSGlLRmlhSDdNOW9PRGtvMVp6bF84S0R3S2dWR2VtN2VBOW1GUDY1Vks1TDBZcUVQWjlPNmZiWnRGajRJQ29OWlBJNmtOa1FSWkpGQ2hERGpRdw?oc=5",
-    "fonte": "Hoje Diário",
-    "data": "2026-11-20T02:59:19.000Z"
+    "data": "2026-11-20T19:00:05.000Z"
    }
   ]
  },
