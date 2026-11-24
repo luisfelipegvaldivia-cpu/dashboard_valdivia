@@ -1,12 +1,24 @@
 {
- "atualizadoEm": "2026-11-24T18:45:19.598Z",
+ "atualizadoEm": "2026-11-24T20:43:01.851Z",
  "noticias": {
   "saude": [
+   {
+    "titulo": "Brasil prepara testes em humanos de vacina terapêutica contra o câncer",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYkdZUWR3NE11SFJNanBVSHpQaGdFWTA3RlotZWdPSks5dF83dXM5YjdJVEpmbS0xT0N3QnpvV3hVNUU0YTBNOU1Gc28yX3E2M3ZOS2c5NGl2NGU5V1hRRWhCQzhqeXJGZjBLVGR5ZEhNVDV5WUFvUDJGOVpLTjJ6SDdJa2JoQm03aXJOTUJyZ0Z4cUpNNmdKN2xqNmpELUFVREZTQkx3UDNpZ2k1RTl0UEZzSlRiRTZOXzFBT0ZoZUhyYkhwSkJRTk8wbFRvZw?oc=5",
+    "fonte": "Portal N10",
+    "data": "2026-11-24T19:20:31.000Z"
+   },
    {
     "titulo": "Tia Bete, da área da saúde, disputa em Lisboa prêmio de melhor startup do mundo",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjBjYzFVb0ppVGwxNlBoZlZSNmk1cVlrZV9XX1N2aV80NVdvV1MtNGc2by1zdTRnWE1DNDd4cGNLRS0tN2k2VkNBNy1abnZIcGJGX0xqcFl6M2NjMUJKOTZEYm9HeFZjeWh4N3RpUkxVc1Vkenp3UmJsVWFoVVhHblJwVWdiRUtKNFE1UW1SZHlZMlNuTVh2eW9RZkxuZFFiTVF4ajdUNGVtR0JZQUZ3dDFNc1JJWTBldWpBcGJrc2h5aUcwdHc?oc=5",
     "fonte": "Público",
     "data": "2026-11-24T18:28:17.000Z"
+   },
+   {
+    "titulo": "Mais de 84 mil casos de tuberculose no Brasil: veja os avanços que estão mudando o tratamento",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYXdYUjJwWk5LNkhFTVBjNElzUS1MYkFsSUdOZTYwbVBpY0VVNVkxdlF2WFlGLVpnby1kQ3hFbnljdG03WWJvVkJJQTR5X3VEUDZ5NG9FZUhoOHdZWlR5R2RTR1ZmeGtVTDBsbm9HZDVXUlFKRjlZNF8tMXlydUpGemgyT0pNUkl2NnZoYVlSNlVGYVBCdGlVbE5VSmZoby1RX2VXeTl3ZEJwN0JVYU1WbGRnTjdmbU9pZ09HdkpaZ3dqUU1mbzVYOEZhSjlvdw?oc=5",
+    "fonte": "AF Notícias",
+    "data": "2026-11-24T18:21:00.000Z"
    },
    {
     "titulo": "Venda clandestina de canetas emagrecedoras gera preocupações na saúde pública",
@@ -21,12 +33,6 @@
     "data": "2026-11-24T17:30:13.000Z"
    },
    {
-    "titulo": "FENAM defende CPI das OSs contra precarização do trabalho médico",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalU0TFdlTUFQNXZWVC1qV25uak5ZVTFhUVRwX1dheXNOU2htQ1RLZDk4WHZxOUVuOEx5WlA3dzlpSjUtb0dvRHRxOXM3VW1aZXRXOWI2NXg5WHZvZFE2aXBzT0hnWVdMM3FhaGhCLXg1aDlZUy1uNmhEdmhUeFVmQXdyTzRITTVUV2dsbTJHVFc0UFpQem5pRldleG4?oc=5",
-    "fonte": "Rádio Peão Brasil",
-    "data": "2026-11-24T16:12:47.000Z"
-   },
-   {
     "titulo": "Cidade de São Paulo encerra transmissão de casos importados de sarampo",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOenBTTEZ6N1d1WFl1SGJPclBQcEJxYnBueWJGQ2c3eWNKRGhxSkdaQUJNRXNGMWwtV2hQNkdFUktTUDdBVG80clVVSVU0dXpBR0xEbUNMSEZ3M3Z5cTNQRDR2STZwSE1TcjhlSFpOcHZoQnVJUk9UTzB2U1Fiejk1cF9oRl9idXJzbjZfal94SmxjLTZLdFdqSjJzNF95cTI0YjJzMkJUcmJGVXg2TEJCdDNLSWJZT0EtNzN1Rm12dVk1Q0U?oc=5",
     "fonte": "Agência Brasil",
@@ -39,22 +45,16 @@
     "data": "2026-11-24T14:33:34.000Z"
    },
    {
-    "titulo": "Comissão debate atuação e perspectivas futuras da Fundação Nacional de Saúde",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNHhrczhrSHo3dmtKNkJveFozM1hKNDhLQ0ZsX0NiMUtHRXdKMHJaT24zc1o1OWRXNFZxZ3pEelVhbl9DaTFDUWl0bkdoc2F0aDFnc1JjTzVBVUgzT25QbjNMM3hueWtYZUZqd242NkthSnB5UXdYT18zT0RoOVJOTV9mUm9TaHRGWk9vUkkwOFlicHNzNG1TdDZ1SHRPTlc2OTV2ODJn?oc=5",
-    "fonte": "bombabomba.com.br",
-    "data": "2026-11-24T13:40:00.000Z"
-   },
-   {
-    "titulo": "A geopolítica sanitária",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuMnN1ci1RenM3T1YxdmQtX1VWWm9ZbEd1MFdCX0xkVWVadlZjcFB2dVdjdzBLdXplT2hqMlc3eGhZVXR1X2JCcklUT0ZZNnNqZTFiZzA0aUNWU1FvbFoxR0NwYUM?oc=5",
-    "fonte": "Jornal Correio do Brasil",
-    "data": "2026-11-24T13:33:50.000Z"
-   },
-   {
     "titulo": "O ministro da Saúde, Alexandre Padilha, anunciou nesta segunda-feira (23), durante uma missão a Londres, que o Brasil deve começar a testar uma vacina terapêutica contra o câncer em pacientes brasileiros no primeiro semestre de 2027. O estudo clínico",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91N0JXU1lrdWppa2wzWTZrazcyalVCQWVkcHdZbm9qVGpEazdCZzFVTXpHZXRqd1laWFRSQllnUFRpTE00YWpNeWN3SEpiMXFpWEE?oc=5",
     "fonte": "Instagram",
     "data": "2026-11-24T13:29:09.000Z"
+   },
+   {
+    "titulo": "Transmissão de casos importados de sarampo é encerrada em SP após três meses sem registros",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcnp4bHZiX1drTHdyTHFnUW5FWlRBZzR5UjdyM2NJZ2NSeU95Z0dfYVBvamtRQzdtWE9sYXA5Q2hpZ20tQlBTaEQ3a3Zxb05KU2F5RU82ZGVLbmlBc1ZXRDJmM1Q0akFOel9DSkxOQWVrSG5NTl9vSjNEUXViRlBNU1ZsN2JLcjRhM2N0RGxfVjh4czB3UzhmbGZuTngzM3BTZUgwYmtvbmlVbkFRVlY2OU9pNl9DSkd3ZlNkQ3FQMGxYZU43cTl2cHBlbEVIZG9BQnh6ZEJzLXJYUkNKZF92eHMzTQ?oc=5",
+    "fonte": "Agência Gov",
+    "data": "2026-11-24T13:11:00.000Z"
    },
    {
     "titulo": "São Paulo começa a distribuir mil doses da vacina contra mpox; veja quem pode receber",
@@ -69,12 +69,6 @@
     "data": "2026-11-24T10:05:00.000Z"
    },
    {
-    "titulo": "Brasil testará vacina terapêutica contra o câncer com Oxford",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT011SEdLV1hpSTR2YS1yUE56ODRTRVlGby1ib0MwQVpXMzlNdDAwbGpXdmROR0Q4VHpRMXJhai1IelRIOXo3V0hBNkhTYkh1ekN0YWx4NjRnRUlrZVRPRmU3SkVGdGJQY2dBUDhHd1pZdk1YdS1IWnZnTGVCcjgtdGtTWDJZaWtTT01lbXY5c3BMcG9Hb1h2M1c2UkxQeGR3Z3NvTjItSXZlcnJQQklOLTBObw?oc=5",
-    "fonte": "TV Sim Brasil",
-    "data": "2026-11-24T09:34:34.000Z"
-   },
-   {
     "titulo": "Telemedicina: tecnologia a serviço da saúde pública",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUdGUWEzbHdqaXBCaHd1ajE0ZWdISnZydndDZnNiSzAxM0R0dnl4bVlDQ3B0RmpPaHpEblhZNmRpUm9PdTN3clhIbUtHckttNV85aWM4RFdQX2VsSU9hSTlCa2FOQ2pVUlZFWkp6amdCdnc0TGdFVTBQXzhpbEMzM1JRRmFERWpycnR4ZV9PTW51LVNDMWU5VllYOVpUMkdPMXBBT0J1MDctVDYwWjB1ejBBeTAzcnQwam9oYjlqdlFMaUpZ?oc=5",
     "fonte": "Diário do Nordeste",
@@ -87,6 +81,12 @@
     "data": "2026-11-24T08:00:00.000Z"
    },
    {
+    "titulo": "Saúde pública: Combate à tuberculose avança com novas técnicas de diagnóstico e tratamento",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZ1F3UDVyU0UxNnNEQ0duYmY1c2NZRkpXaWd1NVJfNVVUSnR6RkxZaTZWZ2RVM08tR0RGM2l4bjJoa0pZVGNnV1AtaTNTdEx0Rk9pdzEwRkdST1dvRW1pcHlVeG9IVGlXUjZ4bFRjYUNfTDVlMEVsbXU1Sm9jcnFHWk5VaUxXV2xLTEdDWDd1MVpoeUNjLTB5cFhqRkpNdHlSdzFGaVhVNXlCSjFGbXNyUENJdUVPUUVENmFIQ3VXdFkxM0lFNWVVTWRlMHk3eXpkM2dBVlJ6T3lLemZxM1dzTF9kTm8xeThPMklYZg?oc=5",
+    "fonte": "A Tribuna MT",
+    "data": "2026-11-24T05:05:35.000Z"
+   },
+   {
     "titulo": "Marcia Castro, professora de Harvard, defende SUS: \"Um dos maiores mecanismos de redução de desigualdade\"",
     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa0ZjMWR3ZUYtazV4WS1jZzY4R1J4cG92LWFscFpBcEdtY1AwTEt1YTRFNko0aEJfQUhGQUVZTXBUXzhYNFNnSVc1MmpnendfUUYzdlVpMVctVDVIS01rWUxMSW1CZWtqNEltZXI2X3MzcGVKMkk4MGxxS3F6V3RST19xcF94UHdRT1RWY1l4YzQzLUFyT1Nac1UtaWZVOUo3MWlURUNMVlpKR0haekFjSjlhc0hnSDZIcmdnOUowb3FWT245Zjc4bG1JZmh5cl9VOUVISXRNMHFiTVFQYUd5MFctSF9LRGtET1ZLSGt2TDNwZU1oNC1VaDFtN1l3LXBPb0d6LWFaN3I?oc=5",
     "fonte": "TV Cultura",
@@ -95,10 +95,58 @@
   ],
   "seguranca": [
    {
+    "titulo": "Smart Sampa ajuda na localização de 300 pessoas desaparecidas em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QdDhFYjdIT0JwbnRhLVltRUc0Q1p5M011c2MwVEpvbXlpZUtENzNsNk1SZmxVMjViVzExekVYTl9WaE9zQ2pYUHBzejJ6SF9yZElvVFR2eGIxZWo4SkJwZFNCZ1F3bDgxd2tyRg?oc=5",
+    "fonte": "Metrópoles",
+    "data": "2026-11-24T20:20:00.000Z"
+   },
+   {
+    "titulo": "Polícia Militar apreende 34,5 mil objetos cortantes em SP desde 2023",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9rZ05LQ2J6TVlsb0xLc0c4WElDN2NvdkFXWF9VLXFXclh6SWE4Rm1SRE5JWWhaSl84bWg5SGdhdVMxVGJ2eUhackRfcUJuUVpqN2daS1dJSEtfX29oSGZmMnl3QUVJYl85RVkxN05Fa2p0WEtYak5oRFE0aXE?oc=5",
+    "fonte": "Portal ABC do ABC",
+    "data": "2026-11-24T19:54:58.000Z"
+   },
+   {
+    "titulo": "Bicicleta de suspeito de roubar celular de influenciadora em SP foi entregue à polícia, diz vítima",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNWlpMnZKNGhfTDRTTy1fZ0I0cElTM1NUZWI4b01iRjZ3Zm8xc1FpUWdQTlVFazl1cjVjbFVVNmtLTklzbnBDNV9GQ0dTY3dKMk00ZHlRMEx4empDQUlTM252azR4UVphMFZwZTRZZG42ekV1MmJ3NFpIZ0hXZ0FtX2RsbUJZSzlySV83empzMVBmbktnNUxldUFlQ0w5NE5HWlp4eUdhTFNZYUl3V1BLdmRlZlhYVTBQREVaSGpRcDMyWXJqZ3hlY3BvaXpQSDg3TVZWVzR4endHaUt6TDZyX3k4ZmpRYldsd0JSN9IB-wFBVV95cUxOb1dydGJfQkVPUDVsbmlxWUxOamRaM0ZtdDZLQ2t4ZUhXeTk0QzJfUFA5aVNkZHIxVG5nQy1yRG8xVng0b3dkbE95X3NjU201M3FZb2k1OWxTUjY1Yl90Zm50THNfVnZhOVlpZkc1RkRzbXkyTTZ6alVZZGcwb1dweHBpa3ZvakNKTloxYmFnaFk0LUZGazdSQTRhbVhiMkhoQ3ZPLVhiVFhDRTFvTlVsRHN5XzRvb201Ylp3UU9yOFhFWGl0WkRqU3RZNUw2QmlybkV5VTk4VGg0LTdXNHZsbTFjc0RBR3hyYjRVR18zdTVyeUU3Uk1BdnppVQ?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-24T19:11:12.000Z"
+   },
+   {
+    "titulo": "Olisp: São Paulo reconhece 119,7 mil estudantes por desempenho em leitura e interpretação de texto",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVnFUbFBIaGxLNmFxalU3Vi1YMS1BQ3NOTllqSFpqZDZzWUphSTU2VnJfcE9XMDZXQ3g2UHdwSktJQW9YemRmNk85d0N4b1pIZ3FKYlltWjRCT0Z5Tkc1eTVvR0swcjVhVkFsYjRqbmh3MWZhRXhjTnprUTJocUZreEF5LVAtNUlHRERYV0dUeHV2VFFFZWYwMFlCbUZNaUo4UklSNzk4YWVMMmtpYmZXeGMxRGhXMU81U1VJY2lja2lKSkZfNDhqM2ZYMHk1ZEQ5TzFuXw?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-24T18:37:31.000Z"
+   },
+   {
     "titulo": "Nascimento de ararinha-azul no Zoológico de São Paulo marca avanço na conservação da espécie",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSC1KSjNRS0lWNVVZMlN1MWU2WUZtMlBRMzJKdVF4dkN5UVM0Rm9Ydmt3Y280SUU4TF8tcjJjYnI1MktUTjMwYWpSQVVWZWhnQlprellsMUF3RTRWY2s4WEo5aHRmMkpzcVVjS29CaUdQd24wRWQ2X1ZyWFZiSnBkTW0xT3l1Ylg0UDhkY3p4U1c2akxSMTYtamVsa2ZEbTFIRnFweUNwTkhYalVCU184YTlMNGFrU3dVa1dvRHl3M2tDTllTTFROQnEyd1dPdU15VERkOFBB?oc=5",
-    "fonte": "www.agenciasp.sp.gov.br",
+    "fonte": "agenciasp.sp.gov.br",
     "data": "2026-11-24T18:33:26.000Z"
+   },
+   {
+    "titulo": "PCC avança sobre setores da economia em São Paulo",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOTQ2YjVmUlVkX255eXhJWlRfRE1OVlJVTC14VlNlbTZNNENrejh3SkJJcEEzcjNOVzdFUnhsM0NTb01OMTZJRjdKd1RKR3ZmZ2w4X0Y5VTdMdW9kd29vYmQyUkJWZHczb0RiSkxQdVF0SnNwVVVXRnpMcXk3NXJocjlyaE9rMlktYmc?oc=5",
+    "fonte": "Revista Oeste",
+    "data": "2026-11-24T18:33:00.000Z"
+   },
+   {
+    "titulo": "Segurança e tecnologia de SP são debatidas no Conecta TMC",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFM2VTN1N2dydTJZc3FZQXNncWVQTXdndHQ5cFNyUUVRb3VyOEpKZ1JGdVBHbE1rTjZkbWJWeFNEbjhqY3hXRTE5YVBKTkhsUjVpREg3c0plMlE1aEZScGtuazUxMUJvUm5MR2pEczVjMkp1TklDQXdZZVk5eXg5a1pJUXRXQzdmeVR6MThOaGJlcG1vc0tZVGdaQ1lRaDl1eHc?oc=5",
+    "fonte": "tmc.com.br",
+    "data": "2026-11-24T18:22:16.000Z"
+   },
+   {
+    "titulo": "No Mês da Consciência Negra, Museu das Favelas marca aniversário com Festival Nicho e debates sobre cultura urbana",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA4VlZ6QUtJZDdMV0NMcnJ3NVNBUTcyaVhOcnc1OWFqSXF5Q3dtX2hBWkFweF82ZXhjS29QMzUyYjRFMExfSjVxTF9fSkxGZlZ4QjNsa0JDMjIwRG9BcGtGcVowSVBZUkwyZGRZM0pYV251MzNSSldFYQ?oc=5",
+    "fonte": "agenciasp.sp.gov.br",
+    "data": "2026-11-24T18:11:38.000Z"
+   },
+   {
+    "titulo": "Mulher é assassinada a facadas em SP 3 dias após pedir medida protetiva; ex é achado morto em motel",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSDloX2R4OHNleERyejhTR2xBZ2tCbFJiR3k1SENEQS1tWFdZRHBRd1BzMUxockVCVHl3ZHk0MGN0OUQzUlpCeVlrMEVWTzNDbWhYZFh2a1kzd3hzbHdFWkY0T1lfUF83RTdUN1pHZVhrX3ltTDV4UURiZkxwZnFXb3hYZnF6Si1iXzg5ZXNMN2JCcWRFekRFRmw2UmhOWmhzMFRTNmFzR055NW51MVpUcnM4ZUxtb3h6Nk1ad3NjQVFVSFVBLXpEQVFCb0laZHdLQUg2Z2VNWdIB3AFBVV95cUxPejllb2VuTi1DX045bUhWbmFkYUQ0a1FheFpKTUk2dmFDUDRFbUtjYkQwbDdVSVExejhCb2k1Tmx6VWdIcm1rbThWVnRwazh0dGU2RHFrSjdMNlNPeHRWcnhZYi00X0lOd0ZvR09nUG9IYjZrOUJVaUN5SkNIMUgtMS1pS2FnV3I2UkpPdGxWcl9PNkZOZENzVjV4SmRDS1UzemVnSERnb29jRV9JSnNpTlVqckh5dkJQT3hFdmptTUJtSmpsbjRSRmo3bFZ6Y1h4bHNiMVBDcnFoZENx?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-24T17:51:27.000Z"
    },
    {
     "titulo": "DEFESA CIVIL DE JAGUARIÚNA PARTICIPA DO MAIOR APRONTO OPERACIONAL DO ESTADO DE SÃO PAULO",
@@ -125,72 +173,54 @@
     "data": "2026-11-24T16:17:29.000Z"
    },
    {
-    "titulo": "Operação integrada da Prefeitura e da Polícia Civil apreende mais de mil unidades de entorpecentes e 30 quilos de fios de cobre na Mooca",
-    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNZzJiWi1WUnV6cU1FZ3hVUTJrc2hGcjNxZVBUd1FTRmdLalZZaGxSc0RLSlhQWkk0dGRFUDl0eUNpbjZGand4QzF2RkF6SEk4b01CV0NVU2Y4TWgzajhjOXBDVlRHMVFvWElUV2hJall5LURDTkt0QVlYWU5HMm9WUi1aRW9SeVI4Wnl0NVNoYmRVSzhvMDByMldTS0NaSXphM3BoT0lWSnhuc2liWS1oX3NwTnJoaTNPZXpXaGw1bHRQUk1jUGxxQ3p2c2pCR1lFNjNLWDZWRlFnSjBQQW9KejNBb0hxaVlycVU2YXJxWmo4WDBkRzdCbjFqcGVhaVNIbFdlblg1a2VoYkd3SjVMdXY1SW9ySE13SHZ5TW10RWNWV2JYcXROX3hhTQ?oc=5",
-    "fonte": "Prefeitura de São Paulo",
-    "data": "2026-11-24T15:50:33.000Z"
+    "titulo": "PCC amplia atuação em SP e eleva presença na economia legal",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa003Y0MtQ3RDTXVWZHFFR1JwQkNKaUxrNEk1MV9Mc2s0ZnZqNFVUbGNTV2V2NDJGbUp5SGw0T3Vrc2hMLW8yOFllNXhUOU9TWnFlTjJDbzZhaGRWRDlCa1dQUzI1dmJTMGpVZjYybG1OQzNNa3ZlQlRsT3VpNHV0c04tZDFLSnRNWm0tUkk5eFBtSzdlOFF3RVVWSFNtLVNPc2N2SEZNVTR5Qm5wNE9EMXBoWQ?oc=5",
+    "fonte": "tmc.com.br",
+    "data": "2026-11-24T16:17:06.000Z"
    },
    {
-    "titulo": "Polícia de SP cumpre cinco mandados em investigação sobre lavagem de dinheiro em Caraguatatuba",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNTBkQm12RkowNkcxREFGUlJuMVYzMWdfRF9UdEZGYmFvdS02YzNKNDlHaVFJLUdNT2M5QWRVX19xcXhpMXVqUG1aaGtxR21kNzhMQWVaM0ZydTJ4N2F6LVZ2NGdJa05qeFB2dDU5aU5wcDZJS09MdnQwakx1dXBhUkk1c0lpRzltbWRFUzNUeXlralFEd1lFc1RqY0NpZGROempSNm42MXFwX2c1Q0FfZG8zamtDS1RBRk9qXzg2OUVYSXFSZ0Frdzk0Sy1ac0NTVWowZFRlT2k2YkQzRUE?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T15:11:50.000Z"
-   },
-   {
-    "titulo": "Polícia Militar prende 12 suspeitos de integrar quadrilha especializada em roubo e furto de veículos no interior de SP",
-    "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPcVd0U2R6aWZ3dVRvMjBEMmlick5pV1o5SUgydFoyTGhiR05rUWQ4LWNHNmx2a0NYWFY4eE80dW5zUGhvR0dXRG1JNkd2d2t6TXo5azlHalNab1F3SEE4SVV6ZXd6ZE1mYUlQcGdwZ0phRkdSOF9mY2thWTVhTGFLQ1BDRUZGRlJUcGVnVjVJV3UzRE1oOHhwNjlMdi1EZjZVcE9lVFgtd0ktZHdyZVRRbTRkRThzSFpOMnFJVDdmT2FlOElsbXM4Q2tudGkyaGJyeXIzdHV6MTVCMUJBVUJnQjZOcF9QbjVsTDBjUGFvQVZwWnNfSVZxRFMyWnlHdw?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T15:11:03.000Z"
-   },
-   {
-    "titulo": "Forças Policiais deflagram a Operação VESTIGIUM na Bahia, SP, RJ, Brasília e Maranhão",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQlZoYnY3ZHotcWZOVlluX2tGMV9IX0FnUnVHcGdlTHZUOTdTSm1sMlg0cS01QlJnUlhDMHltZmkybEhsMmgwY0Rfd3hZN1V0NkxFY0xnQkZramZFLTNINmJqS0psdWFaaF9UNzNLNXJRZHYwMmZpbFN4UTNTY3M1a2p0QVFJXzBqR21jdm5iQjZ4SDlNSWpSbm1meFltSjdzb1JrM3dEYzJ0SUZDM2xvOWV1cm40ZmRWWDZ6Vw?oc=5",
-    "fonte": "ba.gov.br",
-    "data": "2026-11-24T14:10:09.000Z"
-   },
-   {
-    "titulo": "São Paulo encerra surto de sarampo após 12 semanas sem novos casos",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSWhYN1RRc194U09IX3VkOGdPOXRBSDc4WG1aOW41dXFEZUlLMGdFWEhVRExvcFV6QVBqY1hiRzAxd19ZdEM4Q3YwTlloNlB4YnRpYWprNDVKMWpxcmZITnZvb1YtMGx6TGxwejhLcHR2ai1MMFBYZ2lKUXU3SnV0ZVduV09ySFVtT0VETF9hMndjUkpLYVVNUE1QMUlzU0FoQWNvZzBQRGI?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T13:31:13.000Z"
-   },
-   {
-    "titulo": "PM Rodoviária apreende mais de 1,2 tonelada de maconha entre carga de móveis na Grande SP",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNmIycnF1ZGxtaS1fRmsxVEI0dk9CeW04UWRhSTF0eUZXcmQxZ1YyMC1iQlVVUjJUUnNiMGNManFISFN5bG0wUkx4VEQ3YUlJVTRlc1dYV2lOd1ljY2V2cXA4bE5PVnZ0Yk0yRVgtamdDOWFMcDJ0elNhTVdVeV9KWk5RMEtCQktCc2pHR0ZSSVpFRlZrSm9PUnhqNFdTNE1nMUZKbF9BSHEtVHlXVlJYRG14WFI4VDhObTZTNjU4WXprcTVvQklBdVN0bmlFT1NPTTZUSnhB?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T12:27:25.000Z"
-   },
-   {
-    "titulo": "Futura sede do Governo de SP estará integrada a circuito histórico e cultural da capital",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTmIydGRQZDBMNVdjSlEzOWk5ak1EcUprMkFZd29pc3B1X0haQ0FwNF9VdHhCc09ucmEtZ2xkMDBNbUgtdkg3cjB0dXdua1pFZlZIWU04NHdlMm9iUnJOVGVxOVZGaF9XazlmTnA1TGZ5V3YzeFo2cTZkU3cxRFRFc1lnYXV2YWVYblg4Skw2SW05aC12TU9IUXRhaURYRVFwcS12bmMxenBycUVWU3R2S2tRNDlVblBTMmZ5T3pEcEVvVFlBb1g1QjM1MHZ6VzNZNllF?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T11:47:35.000Z"
-   },
-   {
-    "titulo": "Educação fiscal: Fazenda de SP oferece livros e quadrinhos gratuitos para explicar impostos e gastos públicos",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNTY1OGpfcXdhdHV3T3g0MjhoRFJBQkdYTkhPMGlDcVFpNkxFSHp5SDVpd1lnbW1oSDdqQ2NPVkNyME5MWmtMc3JUTTAzemd5QVotZUZTREZsX0lsa2h3cDVQUDNWWDU3Q2I0eEhKXzFYRzBLd0g4NmNUR25yb3JDQmw1cw?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T11:44:00.000Z"
-   },
-   {
-    "titulo": "De Vale da Grama ao do Ribeira: conheça as regiões paulistas entre os 50 melhores cafés do estado de SP",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZnZiR3o0emtkM19ndGxBVTZrZExNVHZma0g5S2ZSdnB1QzBNaG1vQ1VMQm01cUVEdWNkVDdYUjNMeHRBXzFCT0o2SmhjbGZTRTdwOWkxbzNrVmh2b3g5WHJNbi1sZ2V2ZGo5VFVCQ3ZtcHpJY1VMM1BhTXZ5R2dRZFhWRGFlendMbmR2U0x5dEpneVJycWt6ZDZPSXJ1aHJlTmwxR19PTC1iLVlHeHNIanh3dHBoeFFsWjIwTkZySDZ1cUtaNVY0My1yV0dUaWlaTnIxMzUtUQ?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T10:48:00.000Z"
-   },
-   {
-    "titulo": "Polícia Civil de SP cumpre mandado de prisão contra suspeito de feminicídio em Praia Grande",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSGpnSVpweFBpZlgtcGtqSjNZWWM5UHY3SGZGb3pqT0s5M2VIMFlfeWxFU2g2aGROekVBSGU5T0VTYnNwb3dNMFowaXc1TUxuMkpNUGpUV3o0VUpaQTZkNVRtS2VwYl91TndUMU9wd212YVk4a0VkSEZHSldCVlFVQmVTbWR5MThqSmxGeGdFSU8tR09XTU45THVLMjNOV25JU19nTzlOZ0YzZWJnS1NMN2d2TVhnQkZXLUVLRHEtUDIwQmJDSlBDclBqUXQ2LUlkZW1Lc2hvLTZKUQ?oc=5",
-    "fonte": "agenciasp.sp.gov.br",
-    "data": "2026-11-24T10:38:43.000Z"
+    "titulo": "Mulher morta em SP: como é a medida protetiva? Demora para ser concedida?",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdWs1Wl9rN294UHFHaFhQV0pkSHhBd1hldmNzYXRsUkhGZ2xTdm5MeWdjUnMweEVUdjVvR0s3NUJscE9oZXV0Wk5nSUJjMldEbGRCcE9TTTlycldWZ2VzcG9ubFJwMjBxR3BrYXhDZV9jMU5wOTRYY0xvb2ZWR2RPWF83dnZZQ0c4a0t4Y1lSTXVwLVpsT0tBUXg0eWFRZ2ZDTS1wczNWZ3ZmNmxrVGNmYU9nOGNpTjJoLVdqTHJub1d1WmJyc0xKNnVfcndBQ3htT0U5b3lVd2lHdw?oc=5",
+    "fonte": "UOL Notícias",
+    "data": "2026-11-24T16:15:30.000Z"
    }
   ],
   "economia": [
    {
-    "titulo": "Manifesto UNECS - Em defesa da Competitividade, do Investimento e do Crescimento Econômico e Social do Brasil",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZTBvdE45ekt0Yzg4U1VVWTFTc0NTaEtmM1BuQ1ZXZTVnV19mbXRPcll2ekdwQ3FiOFZoRHJwUkpXOTZ4X1U4NWNTWl96LVRBcXlrdFFYVE5RT2xxWnBKaW1xblZYbFJMbmNVNHZMeG80MUkzMFRIdU1La2hCbGJwMnNlTGNielJUNkFDbXJYT0VJSGtvSlhfRWN6dFFSSEc1TEoyYy1ycFhaUTlWSWdoXzhpbW9QbzRoV1FaaFRPQQ?oc=5",
-    "fonte": "Abrasel",
-    "data": "2026-11-24T18:32:30.000Z"
+    "titulo": "Indústria alerta que ajuste fiscal de Lula pode frear investimentos no Brasil",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMWpFUWxDZVQ1WldWUGljVlhaS2x3ZERBYUFFQi1QUTNZYXVIaTBPWnc2eFJzSXNDWV9GczBERTJPZ2RDZG16bWRBNTI1ZlEzYkpOU2Ruem91V1NMRHduQV9fRG1jUDAwNjRpU0lLVGlyQjlGWXdBcWNIOVlQSHJaUi1NMkpkV0M2TmNCd095MzV0SjBYdURpcHlJd2pQOTVsYl9Kd3NoRHpwbDVFT3c?oc=5",
+    "fonte": "Gazeta do Povo",
+    "data": "2026-11-24T20:23:00.000Z"
+   },
+   {
+    "titulo": "MDIC: Brasil formula a sua Política de Economia de Dados",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3l5R1JsZl9Ga0EtbFRaRnpHQ3VsNWd5V3JkRGt3ZVpDSUxBTGc0bnRjWVlyYmc1dndhbl9qakMwdElhOFZMRG9IWWxrbkVwZmRzMnh1MVdWX3BXbllkbWlSbUZwSUpmMEJnSnlXVGNNVi1oZGpmNWZ2MFBBTzVoRkx2UDFuSGo4QmQtWWhBVlRKdFlrRU5Za21veDRfdWxz?oc=5",
+    "fonte": "ConvergenciaDigital",
+    "data": "2026-11-24T20:03:59.000Z"
+   },
+   {
+    "titulo": "Os 10 entraves ao desenvolvimento do Brasil, segundo Maílson da Nóbrega",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcS15eEFMbWR0ZXJZRE1PMElpZDdTMld3MVNZX0ZTUl92VFhfc2Z6THRmTFhOUFpKZTJLRXBhdHFyekkwZmF0ZERndUFYZms3U1owNG1BZDlZNm5xRlZ6anZjTTJscUVxbkZaY2xuZGFGQjc2S0E4NGhnSmpnQzktdHVTUGNlZ1AxTWNzOVhZcEx6WjhFVWR6Mm4wNTBZeU13bkhOY3U2b2wzeW_SAbABQVVfeXFMUENISXRSQjJxaFAzY2VIZEJBMTdMaHk1ZEJubnFGaDhDeWc5RnZraDNtNlFsQUtHTHhOdkhLejRQcFhpdnlEZlgtUVBXMFNlTGgyN1hYc0lfVGJxeDVzWGpvMVM4cHpxZ3o5bjk4cGs4M0d2S1V3eEtUMHlneXBmYVNPMVRsQWtPU2xwc0pBUkxvRVgzYUw5M0xqUzRhcy1LVGtoMjNnSW5TV2REWEZJT08?oc=5",
+    "fonte": "Estadão",
+    "data": "2026-11-24T19:43:52.000Z"
+   },
+   {
+    "titulo": "38 mulheres indígenas de 5 países discutem em Brasília a economia da floresta",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaE1xbTM5Q0ZDcWJpd3ZWckEzSEF6Vi1LYlUyOC1vS1dtNFU3eHZWQkxDY0hoTkVNaVVYSkN4cGY0WGdJcmVYYThIdjl6M0ZFeGxmQUQxZ0pnV3kxdDl0QjFXcHR2V0U5U1BjMjl2NG8yQ1VCR3B2RGhlc0tnR1huZkIwMFNoRmNDb0FQQ1g5dkJmZkdENXNrTnZ4MlV2elFLQ0VyWXRqYXNyeFhodmJZ?oc=5",
+    "fonte": "Neo Mondo",
+    "data": "2026-11-24T19:42:57.000Z"
+   },
+   {
+    "titulo": "Lula sanciona pacote fiscal, que prevê economia de até R$ 56 bilhões em 2027",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQ3VVeExUZ0JWalpqS0FET3FfOXB4RzNoek1PZWs5RUN4SEdpcFgwdXZBVF9SZUxtaDBQdXlKWVZhSTB0VDd5cnhyUXVDQUltS1J6Z191RXlRRWxTQmszZlYxbXBsRWRfdVpIYlo2ZXRITFFodWR2cEpxSVlaZXcxdElQendNWkJhRXhkcEMzbEh6VjdMVDV6dXZkdVprR21idlE?oc=5",
+    "fonte": "Exame",
+    "data": "2026-11-24T19:06:22.000Z"
+   },
+   {
+    "titulo": "Transporte aéreo brasileiro registra novo recorde de passageiros",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmQ4Q2pJeGlLNUlBTVZfQnQ5RUg5ZTNMUDNLTHpfTDFlZV9ZNTZSYUppbjEyT2ZPRE11V3FYRTNxMEVxVzREajNFblo2Vm54X2VkYWEzMzdJbHZKVjRTU0VkNFpIVElabGxuYk5UbUxVRnRIOG9xMkRFcEhYVmFCbnJGY2IyZUVkc2VRdlA5NGgtTFBoOExMbGJXcVc5bHZQQU9pdXNGZksta2IyX1ZuTmtzWGpOV3plRWFqZk54SUV3SUxoR25wanVycl9jNTVOdF9VMFhrN2NVdw?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-24T19:02:00.000Z"
    },
    {
     "titulo": "Portuguese-speaking Central Banks establish cooperation network",
@@ -241,54 +271,54 @@
     "data": "2026-11-24T16:07:00.000Z"
    },
    {
-    "titulo": "Ajuste fiscal: o que foi aprovado e por que não deve parar por aí",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYTFZMFVRa19HZkU3Z0lHZi10eEIwRVprTVBKbEhxZ1hYdHdnamYtYTNWV0xmN0tmOElrd1EyWVJFZVF1bTRtQTJ2SWN3ZExpbFRVYWN6S0hiaC1ueWo5Smg4MjlDQklLOThhMVRMaEs5ZlRiVmNpb1F5c1ZxaUc4MExwNUd0WlNvcVhEY05LWlM0WElxZVB4Qm1wMlhEM0xkVVY0Zl9wMjg1QQ?oc=5",
-    "fonte": "Nexo Jornal",
-    "data": "2026-11-24T16:00:48.000Z"
-   },
-   {
     "titulo": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkV2a3BSeXY2REtfNi1CbXFISUNocE9Qd1BhamFxTzNsVlhITjBJcm00VEN4czctWGFydzBKQjNkYkowclZXYUh1QzNyT3dLMWo2SGV1a0tUS2NENW9acTFJZ3RXajZhN2RYR3dlRkl6ZVd3cDRobjNVVFAtMmU3YUg3WFZCSE1Tc3JkUlBGbTBWQWtGaENYVkJYN2V0SXpFaFRnRjNDSTBYNnp5aFd3OHpiREExOS05YTJjR0UwV09kejBf?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-24T15:57:00.000Z"
-   },
-   {
-    "titulo": "Regulação das big techs pode gerar economia de R$ 50,6 bilhões por ano no Brasil, estima Fazenda",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFVuWThzNkI1a0k2U2JHelNFY042eGxVOXZUQ3drQlFyQ1J6VnpOYkhvWnBYdW5YakZKSXh5eVJZMWkwc211amZvbDFETGZHSmhxdGZzRUV5TUxGSG9TSGpDcVkwUHhLTGY4OXFzLWpYTEpUUm96TUZPZTZXUlZHaUJ1YUlLYUNRRHlaUndJMmtNWVk5ZGpCcU1aa2NDR0FMUHFtWEx6bkI4WDJKUUstYTY3WDBUa0dtLWE2RUFzUkhRaTg3RUdRY0RZUGRkanZhU2EtdFRYeEU2WVJlMnViUVFsYw?oc=5",
-    "fonte": "OpiniãoCE",
-    "data": "2026-11-24T15:22:30.000Z"
-   },
-   {
-    "titulo": "Ana Paula Vescovi: ‘O Brasil tem tudo que o mundo precisa nessa nova geoeconomia’; veja vídeo",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOXdYRktNTWVkNXJhVmFvQkxvc1Q3cEJaTjA3SnNFOU02bHM4akZ3dTJTZGxMSHpTTkpkSDdtREdQQzA2bmRrTGcwUXd5dk9XZWtZRzlqQlQzbVRyZzhoZzkwOUhBQmUxU0pTeXYxSVdMRDJ0Qno2RjdPT3FzcTEwVU1PM2xOaFMtTng4d1pGNkdDa01fQUU2UWEzeEVpSGYwSGFYd1loQkI0cURiS0c0N3Z1bnhWR19tVXk1TmFZcU5xOTd10gHKAUFVX3lxTE5NVTd5eW5tZy1nbW1MWHlnYjFVUzB6RFdtOEU2MnZGMzdtYmtnWF9jczlteDhUMk9ZSHBrb0lHODhjWHZyeUpXZmt3MlliRkxTc2x3SFh4dHlGYUJZQmR0dFJnS1dITHlDdms1ZnJuSU55bi1wd2pSRGhCcWFhb2VFd2x4Y19TWmRfZ0VZYzRPMHlOZFdITV9oRTlvS1o5N3NwWkI2WWhibHkyclBkcG5rUmxGTFR1ODF4dGlPbE5HaEJETDNTSzJIblE?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-24T15:00:00.000Z"
-   },
-   {
-    "titulo": "Que economia o Brasil quer ter em 2035? | Brasil em Transição – Caminhos para uma nova economia",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaXVRODJvc0l3VGxldHN4ZkxydWMtZ21UalRtYXNEZnpmRmVUZ2M1b1hrcFV4X1B2VmhPMWliMEphOXRndnJMMG9vZE9iZTB0NFhmdzBwSHNmY2NOdm1nZ1ZYOUpQYW43dTNTMWhWcldFTXJ0NXZQRGtMTWxFYmdjbXRFOUxXOFhiRXBya3dlSEdvdjFqX3ZuWm1YM2ZmMHhFZTFzMFRCTWZyNmxzT01iU3hRWV9WeEp4dHEtanBLNWgxNmpzVDdoX2ZR?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-24T15:00:00.000Z"
-   },
-   {
-    "titulo": "Por que a economia pode ter o pior ano desde a pandemia",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wVFRveEh5R21VQXJRVG5CcDVvUno5NDFLY1VIQkhFUGhkNHppVDNKbF9YNkJySzF1UG52Y1lSQldqaVZoYWRtc2QtMFZfRXJKejhmQTFQT3pvRlR6VnlnRWRZekJJb2I1QTZhanpFTE1XcWUxTHZaNHptVzJmaknSAYQBQVVfeXFMT2dpMVFNdURQOUI3RUtHUWJGWFRMVVJaVWk5RFhQT3FMYUtCNFdhX2JLakVKWFZSR3Y3UU9UUmNWSWoxMlR4SUtpNDJ1bW1mRmhiODlZY2NHZTJpcFZiMDZWZnQ1SG1zOHhKYVpsRUxlc0dqaVIxZ21Pd2Q4MXIyVTBhWVFn?oc=5",
-    "fonte": "InvestNews",
-    "data": "2026-11-24T14:44:57.000Z"
    }
   ],
   "politica": [
    {
-    "titulo": "PEC de ajuste fiscal mira despesas e tem aval de Lula",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0VzOUEwSzRNRjZnZ3lCNnZGbVBMU2t6ZnpEUUZwdC02VkFyNkFEanZVSFgwYS0zY3JOOVpKcm1OTGZXUTlNQVhCd2ZfVDNCM1hRNWJoeEpwTTc2eF9tSHlWSzQ2R04zVmdBaUtqdVo5LUh0SUtySUVsV1VVU3BFczdZbWxHUXE3cVpXeVlPQ2JnYUdmUlFjNWY3RkpxekhmTU9xc0lIaFVWeFZWZ1Nv?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-24T17:05:03.000Z"
+    "titulo": "MDIC: Brasil formula a sua Política de Economia de Dados",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPU3l5R1JsZl9Ga0EtbFRaRnpHQ3VsNWd5V3JkRGt3ZVpDSUxBTGc0bnRjWVlyYmc1dndhbl9qakMwdElhOFZMRG9IWWxrbkVwZmRzMnh1MVdWX3BXbllkbWlSbUZwSUpmMEJnSnlXVGNNVi1oZGpmNWZ2MFBBTzVoRkx2UDFuSGo4QmQtWWhBVlRKdFlrRU5Za21veDRfdWxz?oc=5",
+    "fonte": "ConvergenciaDigital",
+    "data": "2026-11-24T20:03:59.000Z"
    },
    {
-    "titulo": "Roger Waters: veja 5 declarações do músico sobre a política brasileira",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdFVPV0NoZ1VwZ05WZzNCXzZJSmdkVTQwbUJhMFExNFlIdGFSWWQzNjhIaWhtem1Ud0dOb2ljY19rYXBEYVM0eWs3cC1rYkczWkJsaFYxb0pWajR5dE9LakxWUnd5aVZRU0VTOG91ME5EUFhNTzhWRnRNYmZaYzQ0cWJ3?oc=5",
-    "fonte": "tmc.com.br",
-    "data": "2026-11-24T14:06:53.000Z"
+    "titulo": "Papo das 10 debate política econômica e os desafios da reindustrialização do Brasil nesta sexta-feira (27)",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHA2Wnlud0EtWVI2RFZpRkhrNDhxeF9jdnU2d3BXZTlmY2FONUo1SFZzUWEtQ0x4NmVpX1JJZHFDVFZVZnhmaXBtMlpENHNYTkt0Ti1Bb2dYS2xMeFlPbUNxcUZaZi1nWVpKT1E2VWdxdEFwMTMyUmtjOW9FVmh3aGh6V2h5MXVEU3l6RE82N1d4dW9XcUxQa1J4cHBoMUVVTnhzWmd1eV8wN1R6aEtMaWpOTGc0bEVUWkhFWnFaMGZqMGpldndVMTdDZHJnSVEzQ1ZLYVBR?oc=5",
+    "fonte": "CTB - Central dos Trabalhadores e Trabalhadoras do Brasil",
+    "data": "2026-11-24T19:29:00.000Z"
+   },
+   {
+    "titulo": "Política industrial será fortalecida no próximo governo, afirma Uallace Moreira",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcUF4NnFwV1BmSmVIRVVMUDdDbHdvRkRISTRfSGJtc1F6QXFzZDJya3cxU0JuTjRrUUFqa3N0dnhzRUVueUFrRzZOZ3Nja0szeWJ6eC1XSmVUWEZxQWZmWXdfQnRvVzhJaGJWWm9UYmdINTNMRW5lQ0E4VnNTRFBHdEY2RVVZQjJGWksweURvdmduNjhnU1E3ZXBDOThfelJYOGUwS2p1X3FVS3Jjdl9Eem9LdmNQWVBPTGNrQ1dwb2loNXNJRjdYTm9zZEpocnRFbUVLQnJ5UQ?oc=5",
+    "fonte": "Governo Federal",
+    "data": "2026-11-24T19:22:44.000Z"
+   },
+   {
+    "titulo": "Lula sanciona sem vetos projeto de ajuste fiscal",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPX3R6X2tZbDZ5TkVLV2VmY1RKejRPMkc4amhQYmh6LWx0X1VDVUhpWFRMenpFVDYxT3p6NGNEd0h2XzJvVXR3MmVJSFZTdXNjb2laX3FENWxaZHdkSlJKMkV4aXpVeEdiUzhaR3o2ME8wczJaNUJmREkteXZjY29idHlyR2tPN0xoT1ZiSU1sQ29USFNyd0dIWTN6dGozaG54SFlUTHpDWGZtalNoNjRUVA?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-24T18:41:23.000Z"
+   },
+   {
+    "titulo": "Lula lamenta falta de acordo na COP31 e pede união pelo meio ambiente",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT3pWOVI1ZlI0SWlwT0oxYi1ydzcwVkxOcnlWNC1BUGhqbFFCcmdMcXZLYk1YNFFEMG9YVTFTWWRBY0JmYVZfVDBHTnZHTUlIQUVJVlc0RHgxc19EWUR1WTVNY3ZoMTQtTWVrNThyOGp1Sm1QOGhVUTRSQk1zcTh5YXdTWnlWcHNTSGxkTnlkUUVoLTNEVF91eUZTWUV5eFprRDlUUlBCRVYyazEzTzI4Ql9fM1BTbTdtZ0lmc1JfQlNzZVhEMktj?oc=5",
+    "fonte": "Agência Brasil",
+    "data": "2026-11-24T18:23:00.000Z"
+   },
+   {
+    "titulo": "Morre, aos 90 anos, o jurista e professor Fábio Konder Comparato",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY3VoZnBtUjJHcEh1SkdpOXNEMF9ySVZjVlhLdHQzS283LWFFSENXaVRHbjE0R3E0OUtaNDdGdW5ZLTJmVTdjVXlsdDB5NnZIX1FkUndkQVNvRDhobFl6b3J0Zmgyc09GYVZVNnhZZE14c0JoSVM1UEdac2tZOFpKRnZLR2J1TEVnMjctcHB1eTVlUFpIbXdyY3VCdmFpOTB5QXlBT3YzaVQwdw?oc=5",
+    "fonte": "Brasil de Fato",
+    "data": "2026-11-24T16:18:00.000Z"
+   },
+   {
+    "titulo": "Planalto precifica apoio do centrão após aprovação do ajuste fiscal",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYURQT213SXl4WWpkY2U0bnd4S0RZWHNIQ1czYVV4T01XUXdWYlNySzJvYW42OHFVSDhVR1hiSDBUeHloaElLWjRNV1QydEcwZmM4blI3RmZ6X1pzZ2M4eUx3dHRXQ1plalBkVTBqX09oQ0MyTDJtR1NBbEhPVkZBaVNxWG03ekRIaUNEOFJWV204MS0wWDhJczFKNG5NME1wSW5HeXlIejRYQQ?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-24T14:50:03.000Z"
    },
    {
     "titulo": "Moraes se declara suspeito em ação sobre validade de atos e decisões estrangeiras no Brasil, como lei Magnitsky",
@@ -315,12 +345,6 @@
     "data": "2026-11-24T11:04:00.000Z"
    },
    {
-    "titulo": "Falta de técnicos e interferência política desafiam contratos de dragagem no Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbEgxTUVyUFcxM3p4Tl94LUVoVC1sd0FMUThydzgwWWpTbHBSX05rNWpkamZBWDZ0eTl0M1BqQ0NpaGdCeHNlUUI0QnJrWTBGcGJJckNEVW5fLVBrVTBtX1NDQWNBQTZ6THVvek1GU01keHZUOXU4WDI1dTVVOFhJX3hVVEowNkVWM21wczNqSGpHd1dmZXYtWG1VcUF0TXloYkZZd1FuV0p6cktCb2VZYk5pZ1piZk04Zy1UR0p3dUZQTTB6eEJzeG93Y2oxV0s3cXc?oc=5",
-    "fonte": "A Tribuna",
-    "data": "2026-11-24T10:28:00.000Z"
-   },
-   {
     "titulo": "Segunda parte do ajuste fiscal opõe alas política e econômica do governo",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ3VJVFo1ckh2ZXdZeVFUdDlOak1uWEp5ZTEtbmIxdnBaTXB4RjZjZFhkZWdnQ05uV1hWRWFIeDNxNDRoZnZ4NlAtcWZ4VThpd2h2TFo2VWFlSS1uUnJfNzNyZmQ4cTJGT2E4cmlKWkp4aTZ1dXViSDF3eEx3ZUI3NTRpS0hRMXJyVDhqSEc2dHBOQXdTdFozelJPb3Ntb0VscnRSUHFDc3FSZHFBYUVBakUxSmlQSThBbXBpYnAtbUFKaktzT3VZTjBEbDU?oc=5",
     "fonte": "CNN Brasil",
@@ -333,43 +357,31 @@
     "data": "2026-11-24T07:07:30.000Z"
    },
    {
-    "titulo": "Mendonça manda soltar quatro investigados no esquema de fraudes do INSS",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWmIxZmtXejBUbjRqaGh3VGFrX3gtNnVQM3VZWlJlblNnaUxqajBNbVJ3WFBLYTYwdmtvM2YwTkVsT1Zab3l6QndRbDhmR2ozR2t5SnY4em5TOFJEalprRnhjZ2NNQU0wMnR2VlJMQkdKTGxzTDRpVVRzWDJLbm9McGJEWUhtSVZoMFNDV3FtQ2tWWFlfSmR5RTJTMTFwR3liejdDOGxteXI3OFVOeVBJ?oc=5",
+    "titulo": "Motta defende centrão na Esplanada e vê grupo como essencial para Lula 4",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZEtIMzFLTkpvV200UTg3TF9nN0pmM0pUNklmcEtnZUEtbFVsQmtKM2R6N19kdFNYa3pxaFZIRFJUSVBNdFpiYkhGbVZFSmE0ZmY4dEh3YmVlam50RUNmYVFVenhaS1RHNXNaVFVhZThtcTB0czlkVi1TUmtmU0prQ3B1MUE0Z0dJUnFPekwycFo5dDAxZG8wMG9mQmNudGx1M3JOYjI5elN2ajhTTzdkSA?oc=5",
     "fonte": "CNN Brasil",
-    "data": "2026-11-24T02:58:03.000Z"
+    "data": "2026-11-24T06:23:38.000Z"
    },
    {
     "titulo": "Câmara aprova texto-base do projeto de ajuste fiscal",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVZpamZzQWhjNVJjTF9TbW94eWZJMDlzanZtRFpDRTVPdWF3ZDJQRkRvZDY3VUx3Rk9OVW56M0VuR0Z5eW1CZ18zX0M4RS1fOWw4NWRPV1poa3pFZTZraXNEZF9ERUdzQXNPRFp2a1FIRTdtSlN3Uldoc1VDY1dzLWhyVkF6N2RGamxkSHpFVjlEQlkzcEVVd3huU3pFamhOOENhM3Brcjl4eGRJam9F?oc=5",
     "fonte": "Agência Brasil",
     "data": "2026-11-24T01:44:00.000Z"
-   },
-   {
-    "titulo": "Projeto de ajuste fiscal: como votaram os deputados e partidos",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONEdlU2txTGF6SXU4b0tBNkpwTU90YjNnSFlHOUE3dXR5Sk9rRHdCdFVDZkF1cENZdXoxeE5JaDhWUFE5LTRtQTJZaFVSUzBFVFpNV2JZd1cyWk5uVS1kQXdIN1RDME1sQmVPc2Exc1Nqb01zRTliMXZISUJaTmd5NExNQWtUZGUxeUJJVUctM0xlSXJZOURpby1zV3hKdFE4TkRLTkpRMVdxWkhMWHIyZjM3US1FMVJEQjhYMTZaT3BEdURkbjRfbTBlRGYtcHVER2pkb9IB4wFBVV95cUxPaURCaXVRcVFDNHFPa1FZVHZfdW9EMXhvT2lSckNPWFBRaUNlbXI3TmVWZkNWSEdnbEF2RDVSOXJOWUhOWjhPQWFWajZDQ1dtN0ZCUHFnU0R4c1hzTXBKSTlSOF9jaDZtdHF3VkcwZjdyeGt5cmVuZGQ1TVNfUUJPWnZQakNKUXlYX2RnLW5nY1VVeE1MN1RtbDR4TFR4bXBhZXFOLTNyVDJkVmFzT2RsQlNwMndwSFlxM1RoVkhhRWVnbjgxSmJCQ0daZTBqTlZhczlzT0NIaUt2UkswVzVmTzE3OA?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-24T01:33:45.000Z"
-   },
-   {
-    "titulo": "Política migratória ‘truculenta’ pode custar caro a Trump e aos republicanos, diz professor da USP",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQX0U0WHZTUjdscW5UUV9JQk9MQ1JsNGpVc3lpd2dvVC1yUThUckJGUkRqRDFkZ1A1MHNMdmd5bzNEUzhlbTJLUktoajNXZ3pkUi04SU1GSE9GTWFaeC1PbUlDZTMtWmd5LVYyMFROSFBQekF1NDZCYnNtdWVJb2hiNlE2cVdQSXpmWDJlMERQRzJDUU5kWFhsTzdjQ2lBamFBTXc0bWtIRHhKUVRiSE5MXzVLbVNJcVlMdUx6VWswaGZKZW1zYmt6Q0NNWkNUR0pCcTJfeVZ3?oc=5",
-    "fonte": "Brasil de Fato",
-    "data": "2026-11-24T00:16:00.000Z"
-   },
-   {
-    "titulo": "Câmara aprova urgência para votação do projeto de ajuste fiscal",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUV2Zkc1cllnRWl6MV8wS0d0MzRmYVVpeTdHbWVoQ0RmdVFINXNuSlVlY1I0cjZZQ0ZrSVR1eTBVby16eUpRejRBUkhyV1hzbHp5Q0F6NjNfUEVVWG1TNk45UF9WMmdBaGxjR2txRDFBNHhyX3ptN05sVWt0dGc5S3BqTmJHUnNuazNMdTdtT1llY0FEemNoYzlHVHVuS1dnZ3hhZklWM2lMRWdOWHREVld4LWZsUzBqM1ZzZ0hn?oc=5",
-    "fonte": "Agência Brasil",
-    "data": "2026-11-23T22:59:00.000Z"
-   },
-   {
-    "titulo": "Minerais críticos: o Brasil pode ir além das commodities?",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91TklhRHNsUHFBT1BscmpuWUgwNk9ZUlY2NUFWOVF0Z2NTTGItb1psaWlmWXJjZUVkWHBxdzlZV1p6UXI2MVFHU0UzVUVhMkdQWGJtY1AwSUhKbkRmTXZHOXBONHk4YjExNXFCekZ6akh4OEV5T1E?oc=5",
-    "fonte": "Ranking dos Políticos",
-    "data": "2026-11-23T21:58:41.000Z"
    }
   ],
   "alesp": [
+   {
+    "titulo": "PT deve compor com PL na Alesp para ocupar 1ª Secretaria da Casa",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXFkR3JiWUdGdGdDM29MSHREVkxTem1pdW85aWg5aVJ4MHVfdC14aFVVa1k5bHlIRDB5RGRLVDc4UG1VdndVTHNoUjRyczFCdDFvOVBpUXBibkxGUy1QZkVCMDAwR3FkazNpb1IxbFZ2emE4aENSMEIyeGdXY0N6Rk9ZbnQxM1c0Y25MUThUY1VGc3V4bW0zVzBBaEZULVlGS0V1cktR?oc=5",
+    "fonte": "CNN Brasil",
+    "data": "2026-11-24T20:08:08.000Z"
+   },
+   {
+    "titulo": "Salário mínimo SP em 2027 vai subir? veja tabela e categorias",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2l5UjFtSGQ5RGxVaTBMSGN4NVhUVFdJOUtUaXNyWi1jSkhnVi03WGl4NUZpaDc3NXh3MFVfd2ZHUDdRR0R5M0FjS1BLUGVSUHVFeW5Ca1RmdVJ3LXRHWTJKR2FnVmtRbVFPN1Vvcml3Nmlna1FpRkY0S0lHNC1YbW93Tk5BeExIM1FXdnVwNXBNQQ?oc=5",
+    "fonte": "Ache Concursos",
+    "data": "2026-11-24T18:46:47.000Z"
+   },
    {
     "titulo": "MP Eleitoral aponta irregularidade e pede rejeição das contas de André do Prado",
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ0U1a0ItQ3I4M0JpODJUVURXLUN3UjQ0SnZLYjJPRC1LVlN3ZGdVNFY5NEhYaWJSTzBRd2VIQm1tVHZhbHFubXdsQkhsT3dyWmo3SEY0QXdPNHo1VFpyQXlCZm95cVVJRE15b2xBa0Nvc3Y3Zi14N20tdE9rOGIycmE3ZlpRSXZQVzE4a190QXlfRkV4ZDQwRkpzUnFMMVFnYjYyUlVYTVdhbUVSNWlUX2gxUXZoWUhjWk4xbWlFRXRsTDlvWEluYjF4VjN6SFF3elRKZVoyRnJOazVLVGNPY9IB5gFBVV95cUxQanFUZUp6S3RuTXJ0ZU1xTXlSZE9UM1otLVJzYnZNNGRkXzN3Qm9GLWZSYU9PQ3B5RHNvajFSSW1GQWY3X2dGUlRncC0yQ2p4QjRXRXFSS3AzVzVoWTkxNjZpUzhBdTdVSmhyTG1mNXdubVozMHREUlY1NzNjVVhNY19hLTQyc2dGUUNBOFVmMHVTeWpDUmRqUFR3aFJhUFJZMGlaMjFHQ09ua0xIUXEwWkNYYjJveXlIeVQ4QmxjaElGZUhJbWFhdzdEZldhRTVYZkRHNlBONmZtSlBMbnRsbkNvZWtXdw?oc=5",
@@ -389,16 +401,22 @@
     "data": "2026-11-24T15:31:03.000Z"
    },
    {
+    "titulo": "Israel barra entrada de deputada do PSOL na Palestina",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWGRFNTFwdmFLUmxrSExpN05UZHA3R3VIQkZ6a096V3liVmtBUHdsOU1LMXZac3EteVU0dVFqT2EzLTVHQ0psdzBKajE1Nm9XMGkyY1NZQ0d3RzZRQ2FZVS0zdEZQX2RLcjRrbGZ1d1FQbXFHRW9wU0I0bHdueE9zRnpVbEpzaXVBX3BFUnpDeFVkR0NwWW8tbHk2bGRvUWlhSk1EVw?oc=5",
+    "fonte": "Pleno.News",
+    "data": "2026-11-24T15:22:00.000Z"
+   },
+   {
     "titulo": "Natural de Taquaritinga: Oftalmologista Luiz Roberto Colombo Barboza recebe maior honraria da Assembleia Legislativa de São Paulo",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPcTBGRzBndjRXdkc1dC0tQUR2djZEQTZ2Z0NKX21XdWN4WThPVG5BcEQxd1RBN08xMUljdmtvOGF2VmMzSW1sRDBOYnhjUUlDaXNzNnVkVEdicUI3TXZBMkZNcjQxT0FvMWpLcnFMZHVkYVBfX21TMUVkX05vdTF1NVVfSHFWMnUyTlRLcjdoNW5Eb0YybHhVclE5ck5tTXo3ZXBQN3dYT3c0RE5TdFVBVV9xN1ZHZnJ1Mm45QzU4Y0lzU3ZsRWthNFhJeEF1cjkyaUxJTW5ZbE9QQ3NrdmlqU2FWdlV5S1FQTFE?oc=5",
     "fonte": "odefensor.com.br",
     "data": "2026-11-24T15:00:10.000Z"
    },
    {
-    "titulo": "PT deve compor com PL na Alesp para ocupar 1ª Secretaria da Casa",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRXFkR3JiWUdGdGdDM29MSHREVkxTem1pdW85aWg5aVJ4MHVfdC14aFVVa1k5bHlIRDB5RGRLVDc4UG1VdndVTHNoUjRyczFCdDFvOVBpUXBibkxGUy1QZkVCMDAwR3FkazNpb1IxbFZ2emE4aENSMEIyeGdXY0N6Rk9ZbnQxM1c0Y25MUThUY1VGc3V4bW0zVzBBaEZULVlGS0V1cktR?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-24T14:35:59.000Z"
+    "titulo": "Alesp moderniza portais para facilitar acesso a informações públicas",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VUnlHeWpHREUzMjNjd3JzTldmTDhvYmdCeWNaX0dJMlZ2ZkQ0TS0zV3hBSWVBRkhBaDlyUE1CSzl0R1NyR3BTZTJDcnJydUZqYVY2dFpXX3JqQ0stUlZIVzl2YUh5RFd1OGZJUm5vZXBIUQ?oc=5",
+    "fonte": "Boqnews",
+    "data": "2026-11-24T14:26:03.000Z"
    },
    {
     "titulo": "Painel: PT deve fechar bloco com PL para Alesp e torce por não-bolsonarista na presidência",
@@ -441,24 +459,6 @@
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOW5ITU92Y1p5ZUxEVzJQMENtaUVEM01MYUFUaWxxSG9pTVRHejAxaXlZSEVMa2ZUclJCVld4UGxOM3FWR1NrZ1BKOVg0bVF6eVRORFlzZEJIT2RZSmRTb3lnREZHTlRNQVBubXV2TC1HWTJBbDNjcmNCS0cwU2hXQ3hEaE1iRlV3ZXM1dHcycWxzV21hRkdkSlRSenhWVkU0ZHZqeg?oc=5",
     "fonte": "Portal ON",
     "data": "2026-11-23T14:30:24.000Z"
-   },
-   {
-    "titulo": "Bancada Feminista do PSol deixará de atuar como mandato coletivo na Câmara de SP",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1BXWTZoWjlQMVJOeGI0Q0FIdmRESmZJeHRPS0ZPVzJFVFFjQzRET3p4d2p5UkZjVHBSYXAyNHdvR3hIWEhpTkxlOE1aWGd3QnU4T09fWGFpWnBuNjNVM080VnNIU1h4bGRaMGVzRkFfdC1kc2FXOENTX3BxTWttMUNNNWxfU3IzRkV5STc5UHRnbElRWTBhV0dRUkdENlFvNWM1VTVBTlc5ZzF2bXhyNlJrZHdzdw?oc=5",
-    "fonte": "Vero Notícias",
-    "data": "2026-11-22T16:45:00.000Z"
-   },
-   {
-    "titulo": "Bancada Feminista do PSol deixa de ter mandato coletivo na Câmara de SP",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTm13OXFReHZUTC0wYkN2bkEwX2xCLUNJcFVPQkt1LXM5aWxnOGZ5Y1pReW16b2hoQnJwb0xVSVVmQ2Z2cmlwTHFkUUdwZ1lZeWxHUDFrXzhqVE50SmlPS2hGTHQ1UlE1S01BYXh1X2hicVRlLVVpdVExQjF1c25FWHEyQUI2Ni1jeGlxM1FURE1vREJkR2EzSXdjSVgyeHNNM0tucmdKMjJodDcw?oc=5",
-    "fonte": "Metrópoles",
-    "data": "2026-11-22T15:42:00.000Z"
-   },
-   {
-    "titulo": "Disputa pela presidência da Alesp divide deputados do PL",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVm1uYlpWZEwyR29qd1hsR3ExajFMdW9MTTZ6RHBlazBIcXVjTDFPSmYxTmlsZzlCd25jVDlBVkRHWDM0bmY5Z29YeFdKLWRyTkoweWZONnprRkV1VzhoUmpPemZmSHhVa3dQSGdJc0hpbExGemdfVm1VejRoeGFQSXZteHZKcXBSUGRVQkxTQ0ZfN0NQYUE?oc=5",
-    "fonte": "Vero Notícias",
-    "data": "2026-11-22T14:30:00.000Z"
    }
   ],
   "missao": [
@@ -479,6 +479,12 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUVSVmNCX0Rla2d5TnhBMS1udDU3UkNHTEIxWWlzVl9DcmdvUmtyN1ZKUWtIUnRhX3QwcFRjLXg3YzdpTzlMUkNZOE5TejZUQi1LaEY5WTVJM3BhR0t0SFFhcWxxSTFva1FrZV95N0szUDExZ01sNkpYQjdfX3BEN01uRVpkRHJLbThRdzIyM2F6bmpBdWRTSGtuZjhNSVFsVVdtTkdxakhxRWEydlVLTHJzdVZOUzhL?oc=5",
     "fonte": "Congresso em Foco",
     "data": "2026-11-23T12:05:31.000Z"
+   },
+   {
+    "titulo": "Governador elogia trio do MBL: \"Melhores políticos do Brasil\"",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUlN6UFlFMTlBaDNRTFh1UzFnVm41NHRzekU3QkpBSWVRX0tJeFdrVUJwR2dkalNBXzJSakYxUzNlanU2TDlaM245Q3I1TFlYeTFFZG1ianRIWGtHX1hKNmVUUzNLcVVSU0s2bHBDejNGLTlIYjNGT0hCZ2dxX1dkQUNqRWZBX3pacW1fSHoxWXloUHpkd25Halo4amM?oc=5",
+    "fonte": "FOLHAMAX",
+    "data": "2026-11-21T12:00:00.000Z"
    },
    {
     "titulo": "Renan Santos nega ter sido procurado para fazer alianças e lista prioridades após 1º turno",
@@ -503,20 +509,38 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYTd1TWJMX3hVdVFEQXlQYWZnblNyaVZISDZTdXd5MVdWQ1R2VHNjYUw1cTIwenJmNk5ZUGJHeVhENU5EZkdGRnIzOUNUVnVEdFJlUEktR0JBUDZmaUdIRE04RnhEbGF2a3hPVVJoZnB5bWE2U1N0R3c3WnY3VnoybkR4dzJyQi16a2NYbjk3dWUwR0hSVGFWQkNSRW91TzUtNW1HblNMRzJ3YmpW?oc=5",
     "fonte": "Metrópoles",
     "data": "2026-11-19T22:37:00.000Z"
-   },
-   {
-    "titulo": "Live de Flávio Bolsonaro entrega hotel de luxo nos EUA a poucos minutos da Casa Branca; veja detalhes",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYWVOR2dpajBMOFhLOVlJeU8tXzQ3bnNQMGZuUkRlWFFYOVRPSzd4dFlMX2pzV0xSaFFTTjdKYkRab21JX1JVRDdRSUt0WXlYd2s3NVFpd3JfQnJLUXQ1aWEwNWRucW5ZSWhvOWZWbDRsZ0F6Ql9jY3lfOWViS1I2OEFpUjVaU3BsMUsxeVgzNA?oc=5",
-    "fonte": "Ric.com.br",
-    "data": "2026-11-17T19:20:02.000Z"
    }
   ],
   "regiao": [
+   {
+    "titulo": "Vila Hélio, em Mogi das Cruzes, terá programação especial de Natal a partir de quinta-feira (26), com atrações gratuitas",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNR1c1Z3puWkkxVmRudVFwdGRmdnhpM2tZYTMyLXVpbERidWRvOWFCUENJQ2o5elVPRmExYXZYMVZrdWFrZllFNzZYZTZDVzI1TUdKOXNET1BreDV0Um5OY0pPcTVBSmlXT3liYk5XTDhpUGxCYWVoc1owd2w4LUl2NHE2b1BxMFNmcjY4T1Y5U0FRVFQyWUhDQW1IWnNUNVBPak0xSjU3MUtHTTZDam5ZQnJSekNPMklFSFFTREJIcmJpVF9WMzVaeFVqV1NleWJONVNNVVU0M19PcVVlMUN6NG5JNTU?oc=5",
+    "fonte": "Hoje Diário",
+    "data": "2026-11-24T20:02:05.000Z"
+   },
+   {
+    "titulo": "APAE de Mogi das Cruzes realiza XXVII Feira de Artesanato e Variedades com mais de 30 expositores nesta sexta-feira (27) e sábado (28)",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNDB0YVdCc1ZVczNjdGVkazl4TVBlMXRoVndXamZsRkFjVGFEX2c4Vl91OHlGYmJQWlpfQUV1WHQ2UlkwZkxFY1RwWDhBZUVlb0RYRl8tWUVuWkt3QWVZYUdBWVdNb1pGQkQ1X1lLZHBJYmZySmRGT0l0UkYyVVU4Xy0zcTQtb3dWeWlfelhQZGVfYXR3LTI5VDVhRDNzTnk0ZWZoQkNhRXNXTERpVnByQXJ6eVhvM2JWNlhtb3VjSzJxSklhYjl4eFZJYms0ZHE5SVBYYi1yZUdXOU5sZU1lSnZKR2tPaElkb1hlenhRVTN3UW40TDFvRw?oc=5",
+    "fonte": "Hoje Diário",
+    "data": "2026-11-24T19:58:29.000Z"
+   },
+   {
+    "titulo": "Mogi das Cruzes concentra os cursos mais concorridos do Vestibulinho 2027 das Etecs no Alto Tietê",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRlJMdTBWZVFXSUVwX0NYY0gtVjFkcGw0M2k3YjlUa2xrV05vVkdrMzR6R2tpemN5SEVycTNKOFF4X1d5c0JLb2ZGMldiUVJkOGxtSkRNMm1zVFRzQ3JjNHlNUkFhRjB6a2lGYlpyR3BreXdaaU5hTFVRQ0JrTEt4WlRaRXlrS3pBODJHN0V6UVBtM3R0QkF5dk5qNDdPTThpcDAxU0pRZm9oOVplblFhdGZVcC1KWkExX2o5TmJmZk1jZkc2QUp4OFBxdzZhWkE?oc=5",
+    "fonte": "Portal Gazeta Regional",
+    "data": "2026-11-24T19:29:16.000Z"
+   },
    {
     "titulo": "Polícia Militar resgata casal preso em porta-malas de carro por criminosos em Mogi das Cruzes; assista",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZndXNm5uMDlwajIxcXB5SXZ3WUkzQjVWNTk4TTR0eU5GMFFUV21kRWxfVUFLWEJFN1BIV1ZmLWFVcklwc3ZTLWJ1cnoyUjgwdWhVUzNldmE3VUUwaGhGQktFMklJV2pNalFQNndXa0JzSGxoWHNPYmo0NTZXRllYX3ZoWkhyeFFuYmlOVWgzZktuTUFueF9ENlo2Mnp1andUZnliRWlBQVBNeUphRng5a05kWWZCYUVEOFdTSVd5MUpKQmQzZVhOdzR0YnZNVTV4Q2c?oc=5",
     "fonte": "Hoje Diário",
     "data": "2026-11-24T18:36:26.000Z"
+   },
+   {
+    "titulo": "Ilusão de ótica: raio parece atingir apartamento, mas cai em poste durante temporal em Mogi; VÍDEO",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPX1RsTFhpaGx3dTNQVGlaUUtwY00yNHVEcE5aVDJ1NzN4RmxHSEdKaTB5QVBTeEx3anJaeFQ3NlZPYjc1OFVjdWU5ZmpqWmZUOXBmdGFnY2MzNE0wNzVlMkwzQ0ZJY0ZJeGZFYUZkWlBVcmJLbTJXSV9JdDZudnRNa2F1MExvcENCMlJPeEoya0NwbzJha015OGhZS3VjUmVjZDlCVDAybVNMRERzTmxKTV9FRjRGNjFfOUhPSjg3Ry1GdGhEM0xwWTdReUMzbU5VWi04VGQyc0xJRlZpUXZBVjdoTVV6VmVheWROeldxQllFR3ZOd3RCNnVHckt2VURGX19TLU5FdzVHd9IBigJBVV95cUxPX1RsTFhpaGx3dTNQVGlaUUtwY00yNHVEcE5aVDJ1NzN4RmxHSEdKaTB5QVBTeEx3anJaeFQ3NlZPYjc1OFVjdWU5ZmpqWmZUOXBmdGFnY2MzNE0wNzVlMkwzQ0ZJY0ZJeGZFYUZkWlBVcmJLbTJXSV9JdDZudnRNa2F1MExvcENCMlJPeEoya0NwbzJha015OGhZS3VjUmVjZDlCVDAybVNMRERzTmxKTV9FRjRGNjFfOUhPSjg3Ry1GdGhEM0xwWTdReUMzbU5VWi04VGQyc0xJRlZpUXZBVjdoTVV6VmVheWROeldxQllFR3ZOd3RCNnVHckt2VURGX19TLU5FdzVHdw?oc=5",
+    "fonte": "G1",
+    "data": "2026-11-24T18:30:46.000Z"
    },
    {
     "titulo": "Médico usa prancha de surfe para resgatar idoso durante enchente em Mogi das Cruzes; vídeo viraliza no Brasil todo",
@@ -529,12 +553,6 @@
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UWDI0bUtRRkhCMWlQTVVfVFVRdVgyU19RaksyYWRhUjl3U3dkbEl4WVl3MUdvTFZhRU5wcHJfSXpNbHJDWUNNcUZhUWpCbW5BM0E?oc=5",
     "fonte": "Instagram",
     "data": "2026-11-24T14:45:43.000Z"
-   },
-   {
-    "titulo": "VÍDEOS: Tudo sobre o Alto Tietê | Mogi das Cruzes e Suzano",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDBvcWhVNjQyektKV2h4UjlYMjRXT1pwR0Q4Tk1waS13Sk9sY2NtZFNsRDNwaU9hYmozcjk4dTVVOFJJb2lGN00yeHdtTUo0ZEF3S1pNQ0VURzM2MWNMRndlcGNFblBUd2J0dHRzS1ZYZm1fN0hXOUZScDEzWGhJd1VEYzV0UnU4bng5WF84RFEzWXN3R1NXSzZqdEM1MGlxeVE?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-24T10:24:00.000Z"
    },
    {
     "titulo": "Shoppings do Alto Tietê têm mais de 80 vagas de emprego nesta terça-feira; veja lista",
@@ -583,24 +601,6 @@
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQN1pSdW9hOHVSeWtXYUJheGVoY3NGaDRuak5rWldaM2NBcDByaHRZeWZzQTBISmlBcHBmR1RTZG1ObmhWak9HUW1Fb3AzZllzdGZWeHpZV19qT2c2QTlzYkYxdUM4RzJSNm15RlhySVBUZHVVV3ZyOXl2ZW5CS1ZNeWNzNm5hTF9RODY1Rl8zUXJjUHhLbGJKTmZ3YWdMb1RJSEU2ODFaZWFJZ0hyblc1UU1lMmFfYy03UHlVelVDQzJOVEFLdjNNcDUyTV9WS01mT3dHUWZ4SlfSAdgBQVVfeXFMUDdaUnVvYTh1UnlrV2FCYXhlaGNzRmg0bmpOa1pXWjNjQXAwcmh0WXlmc0EwSEppQXBwZkdUU2RtTm5oVmpPR1FtRW9wM2ZZc3RmVnh6WVdfak9nNkE5c2JGMXVDOEcyUjZteUZYcklQVGR1VVd2cjl5dmVuQktWTXljczZuYUxfUTg2NUZfM1FyY1B4S2xiSk5md2FnTG9USUhFNjgxWmVhSWdIcm5XNVFNZTJhX2MtN1B5VXpVQ0MyTlRBS3YzTXA1Mk1fVktNZk93R1FmeEpX?oc=5",
     "fonte": "G1",
     "data": "2026-11-23T22:21:46.000Z"
-   },
-   {
-    "titulo": "Em vídeo divulgado pela Prefeitura de Mogi das Cruzes, coronel Marcos Paulo, coordenador municipal de Proteção e Defesa Civil, fala sobre a chuva da tarde desta segunda-feira (23) Segundo a administração municipal, a chuva provocou alagamentos em",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iSXlzRG1ETTZmLUlYVEp2NVd3SWJyLS0xVG5fZmV3WVNfVmtKblBKcXhpUkZyY3c4ZFZGMEYwaXhZNnJBR2JkeVdfRVlZSElqMmhRR3R3?oc=5",
-    "fonte": "Instagram",
-    "data": "2026-11-23T21:46:56.000Z"
-   },
-   {
-    "titulo": "Barranco desaba durante chuva forte em Mogi das Cruzes",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVkh2MUJ4czluREFxNDRRUGtOVmRNNTY5S3hmazJsSFZHanRLS1dFVE9fa1NZUjVDcTRzRlJ2RHNvQ2V1TF9TMEJhOEV1T1lma0FEcWFpcjNack1xb3RmdFdRR0pONHpzVnhTU2h6dWNyZ3VHWVNiU3FwUGpBSzVwVmhQQUJidzBtckpzenBZekQyTGh3VnBnbk9QZUNxX3AxUHZNWllkbmFjb0ZCcVA0N1pNODc3c3R1NTVGMGtpODA5VFpBYlFrYzFRY0Zmb1VHVGVB0gHTAUFVX3lxTFBWSHYxQnhzOW5EQXE0NFFQa05WZE01NjlLeGZrMmxIVkdqdEtLV0VUT19rU1lSNUNxNHNGUnZEc29DZXVMX1MwQmE4RXVPWWZrQURxYWlyM1pyTXFvdGZ0V1FHSk40enNWeFNTaHp1Y3JndUdZU2JTcXBQakFLNXBWaFBBQmJ3MG1ySnN6cFl6RDJMaHdWcGduT1BlQ3FfcDFQdk1aWWRuYWNvRkJxUDQ3Wk04NzdzdHU1NUYwa2k4MDlUWkFiUWtjMVFjRmZvVUdUZUE?oc=5",
-    "fonte": "G1",
-    "data": "2026-11-23T20:39:33.000Z"
-   },
-   {
-    "titulo": "Governo de SP apresenta crédito emergencial de R$ 2 milhões e amplia diálogo com produtores rurais de Mogi",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPM2xnYjhFbWk3T0M5aDBnN3JRX3hDc0RxNDVILVJwN012U0lSMUJzQ0YxZGNUWFQxN1BDejRidXROdlN5TV9HSnhDOVdOTzhGY2tGRHVaZDdsOFFJUW52ZGZWa2JlaWFCSGMycFVZM1ZDa2QxaHhhcEd0bjV1b3JFNlNreU9xVXRkMWw2d3p6RTVPU1lFTC10UTRiSmYxME04MC1YTVhuNVdEeHY5aXRnNmJVTm9wXzZhRXZ5N2VtX1R4YVdyT0UwNW9xS01KQkxLcFdwSFlPXzhpbFZLaUFXcFkySVVJbjJtTE5BVFM5d0ptUnhQ?oc=5",
-    "fonte": "Diário de Suzano",
-    "data": "2026-11-23T19:45:00.000Z"
    }
   ]
  },
