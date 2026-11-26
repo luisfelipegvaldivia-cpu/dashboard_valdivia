@@ -1,13 +1,7 @@
 {
- "atualizadoEm": "2026-11-26T06:57:04.262Z",
+ "atualizadoEm": "2026-11-26T08:53:23.241Z",
  "noticias": {
   "saude": [
-   {
-    "titulo": "Senado aprova formalização da Força Nacional do SUS para atuar em emergências; veja como funciona",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOW1fQ1pJQkg5SFpaZ2c2SEY4QXFGam1Db1Y5NHFRbEd4Q1ZtNE1vOV9wcklrcjFMNGpGS2UtNjQ3TDJIRl9zS1N3b0NKNk5QWUJ3bG91X3JxSVdZMzhRTjVjUUpybEV2aG9seEZIRS1xajU4ZEVROXo4emRkTGtJODRpaElxUGdSZnQyR1NGeVhvNGJEczRyNWJuM0RDMHk2WmpBVk5LUDU2eS16eDRpQmIxd2ZNdFlXdC1XbG51azB4aGZrelNENTZNd9IB0AFBVV95cUxPSmVybmRMNTAtVzYyR21NYXR3djE0eDNaTlpvQnpWWUZkYWRPMmVkd2pDUHkxNkhtNE5KZHFNb0U2ZFpsV1ZybGtvZjVtaU1PbkpFMDhKZEFOVzRvbUVsbGV4dVJ6a01SR2xscTZqOVpuejRzdTJyYnlSaVdBSDJsWlk1WEpXQTAyVTdIdjR0MkJvSzBkWkttMVB3UzFaN1VveUVNMFVzVktudXlEd29kbHlPTUxJek55Y2MzVEtlT2lzYUd5SWh4aXpLUDV1NmRT?oc=5",
-    "fonte": "Estadão",
-    "data": "2026-11-26T00:06:00.000Z"
-   },
    {
     "titulo": "Senado aprova projeto que institucionaliza a Força Nacional do SUS",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUDc4alBCek4wM2NLUTZfSnBjN2dXdFJJNGM0ODdiS0lLWG9nYUVlNnlneU1reU9lM3dRVUF0c0hiVE5tbXFFM0VGVWRjVWt3al9HM0xuMTZjMUZBNS1FXzJSWldZaEJTSFItd29pRk9lZ0tQbUlfazNFSjNlVGJYaHZONWo1dkdjY3BwazN1aXY0Wnp0U3FHWmRuaXNlUjl1YS03NnJhNTU5dDd2em9IZDdQdUFwYlM3TmpvUHo0dTZpWFJZZ3dURVRTb0QyTFdrend6NjhR?oc=5",
@@ -91,9 +85,21 @@
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQUxHVER1VFVuYlB4TFcycllSR3ZqTnBrcllyeWdHRTdGTUxXMDd0eGR2R2U1VWUyRWpKb29Da3V4Y0FpUVRTYXVSYTJ4WEwwdGhpSFd1ZUhEMV9ZUXA3dnhYUHZadEJCSHVncFVZY2FvMnNjNGNPZ1RkUDJWZmg5WkRzQ3M4YzJub2cwRXYtbG1tZkpIdzhxMFVwWmQ4b2lnZUtjUGZfaE4?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-25T14:03:26.000Z"
+   },
+   {
+    "titulo": "Norte e Nordeste têm maior dependência exclusiva do SUS, aponta levantamento",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbnVudzdNQ3ZRbVB4a1pRcWxSYjc0UjZ6ci1CcXJlSzZmWFdsMDJNUWlyeWdNN29GZmR6TVo5VFV3QjFaLWlYd2ExV0R0ZkF5QjF0RW1ZTUYtRGZiR0tIZlNuR1lrMlVrU0hob2l5WFhqdE1hWWwtbk5YZVo0TmVGTGcwcmp6VDdvWXduVzBZVXd1clhkU3BuVUYxNWkzamk5YmFyT1Y5MzQ?oc=5",
+    "fonte": "Diário da Manhã",
+    "data": "2026-11-25T13:42:00.000Z"
    }
   ],
   "seguranca": [
+   {
+    "titulo": "Alckmin ganha força para comandar Ministério da Segurança Pública no novo governo Lula",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0xqMnF5dnVTMGdlajdaU0t6NzgtVDNkZWM2SDNOTHBnWlBxZEg2LW9mZ0JqNzBIS0JSMDVVVmFGSGxHbUJ5aE9PS3c1ZnkySFdjZlZxTVpvb1NmR3dPSElEbDN6MVBrWjVRN1Vna0JYYXNkLWZyNG1HM0NQNko4dWpTVzV2ekZhWnhSWG1rS2Nvc2xOZVYycERyMnpieHRvM1ZNaFV0YkQxZ3dyNG5IYWF2QUdDVHo4V1pJVA?oc=5",
+    "fonte": "Brasil 247",
+    "data": "2026-11-26T08:27:42.000Z"
+   },
    {
     "titulo": "Câmara municipal realiza outorga de medalha de mérito policial",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcGt0aTFwOXBoTTFudV9VeEV4WURLSVhXbWRyc2k4WWlSOVgtRXFZSjMwdklyRFEwX0pwazNKNFBfMVpzWXl1TVNEMHZ0R3F6UV9ZdjB3MmNiYWJSYTZhZEZRd2U4eEU4THVmRWNoMGhCbUMtMFJ6SUNxel9oWXE3RThRY2lteFZFYkJ3ZnpEWmpWZDE3TXlFVElaeEJPQmhULVN1ZE5LR0E?oc=5",
@@ -117,12 +123,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV2NDelpZMGxUbXJiWkpmNmVYR0lMLWhfeWlYdzl0aXZGUmJzcXFhQzhUejVlRHRxYUZyTzdaem1tOXh5X2Y0dGZta0hRbFJ3MVZ6SnRHMHZZMlRveXN2NjdSOFVaZmtKV0VqRUxXckcyLVlYSWlabDd3UjRFZ0lRMk1icGNWbkM5LXh6bktQdGc0VjZhV2pOZnA0MlhORVFoSldwaW9xUzZzd9IBrwFBVV95cUxOOHhkVVIyTjNvenktZTlOVFJWSUxjS21BWDQ1bEswLWFadmlrT3p3bkNkaE1oVWpEMUlQTGtqeG8xZ3dsY1I1djMyU2VHSlhzd1Q5UFJoQXdJaDlGU0pMVmVoMXItUlp4UGNBZ25hOFJmNnQxNVdDam80dzJKTm0zWERBcVdfVm9KcVd5eHE3enRSODA0WEY3T0t4NzZtNFdVdHJqUnBrOUdjT0tnQmlN?oc=5",
     "fonte": "Estadão",
     "data": "2026-11-26T00:23:43.000Z"
-   },
-   {
-    "titulo": "ROMU apreende drogas em operação SP mais segura em belém",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTJ5UXpqcWtXZ2hGTWJyY29EWmFBWk9ydWhvYm9wYVJNc1ctUG5XeG1PVHVGek1SbGRwcDZkUEZuUFVHSXQycWNyTmJaMEJvaFhxVE9WTDBhN3NPckxrai00OWhzWWc2djFuNWVfSzNwSFBHejVrUWx3cjZVemhwQ0h0aEJZYlc0bnRPWGJEa3hKVXZsZkZicFFBUW5lYTEwTmhFR1ZKRy0?oc=5",
-    "fonte": "Policial Padrão",
-    "data": "2026-11-25T23:11:06.000Z"
    },
    {
     "titulo": "Com 117 mil pedidos de proteção, SP monitora 572 agressores por tornozeleira",
@@ -186,6 +186,12 @@
    }
   ],
   "economia": [
+   {
+    "titulo": "EUA fazem novas ameaças tarifárias ao Brasil: veja o que está por trás da ofensiva e os setores no alvo",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQT0xuV3RIZ04yTDVsWHNXZm01OGROaHdkWVBJdm1NTFphbG9LemxQR3Q1bjhQZUtPSmZ1WXdsSWppSlctSzhPZWlnWUx0Q2hUUUN4NnI0X3hQQzlWRzVsU2hvcFRBWmpXSjNWN19leVI1OU9MMkVZRkRieWVrenNVMmg2cXdrOUlrM1l6M3FOYnVtNU1TQ0lOSUxUYlpqOWpWeWhlMklfT2Z5OTZ6Wkd0SkxtSEZCVzhfU3VJQ1lYOWRXVG12U0Fsc1JqTkxfS2p2S3JkcGlEX2RxUWdjSlF3azlhTmZRaGZyU1BFQi1xQ1QtZzTSAYICQVVfeXFMT1RHbWs2S0poYVNxNXBadXpvT3JzTU5wMUctN0cxR2VSNkhBVU1Uc3pQM3lpWW9lRHNvOHZndmFJemVsZVBwSGF0TDNXTnp0cG1hN1R2RlMyOXNKUnZuanNwQnE0QWFnZmNnZ1QxZDJnMlBqWGN0VXh2eEhtSGJhTEFoa2ZLa0ZjYmVWTHRJVWhOUHI5aXduWkJIQ0g4TVk4Ul9FU0FvUW9DNFRDZDdkd05oVExqdUl3ME1iRW8tUjBKUEJTeWs5cXlGN3Utc2M1b09iblJBRUNLRVpEU1NZMVMxcXN0d3BBUVh0WjJHMTZjY3kzWU5VRGZMbWxzZERCT2F3?oc=5",
+    "fonte": "O GLOBO",
+    "data": "2026-11-26T07:00:00.000Z"
+   },
    {
     "titulo": "Produtos que podem ser atingidos por novas tarifas representam 7% das exportações aos EUA",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb1ZiempmWUpTSlpPd01VVFE5OFdTTGI2RlFyUTNhUVptcG9uVEVFbkZxdWFVei1BeVZ3a0VyUmtGYUg0NXNadkh0Y2FBbHM3bmIyUnhINEE3ckZla3hjVmN1UVdsaFdxT1B0dFZ2XzIxVE1NWlNGbmNrMkVvR1hQaEtmMG8tNzVTUnpPYk9ZeXR1aWV2bXJJNzFHb0lSN3RCNjl1SldwTHlOWG51dnY5bmplT3ZWbUEtZTh0Z1ZtRWQ1VlJ2NFB6cjI5R0h0YkFZVGt2cEhKTQ?oc=5",
@@ -269,12 +275,6 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRjlvM3hPSXZjdUFoVngxQWxpd3dGZHFRbFpaWFNTUWxlc21YeFlJcEpQRTFHSmVWdDRNRVY2M1pVOGFnd1Q0QkdZWnNHR3lDVUpySXBDOFVCRVV1RlZmaWp0bW11RllVRjlXVDVwZG56bFgwY2I5V3ZYX3dDVnpZX2lVbEpiSkZQeWlDU3RWRGFNNEQtbTUyWVZTOGhBb3BuRHVZVGNQMXBrMHF4dkltOUxHekFMX1ZEVUw1WGhpcw?oc=5",
     "fonte": "CNN Brasil",
     "data": "2026-11-25T21:42:58.000Z"
-   },
-   {
-    "titulo": "Brasil precisa resolver anomalia dos juros, diz Honorato ao CNN Money",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa1lULS1fY1hXTWRxMF9DeFg2X20waFVOWUFFYU9uczJtTkxFSzhmMkxZeUxyU2RwNno2d0ROUjROWEZ6cmZqbndodV9tcl9MZFlKRWpDSTNwSGl3QXFQMFJMelVvTzBFMWxqbVNpbXRQdTZISDdpM2k3Zm5oSXJzNVBvbk5OWVl3cjB4OUYwM09EOVlUQ1lWT1c4dklKR3VVSFEwNkkxal9HN0QwY2plN2d0bnN1Z0xuMGNtU1FJX200RUhmM1E?oc=5",
-    "fonte": "CNN Brasil",
-    "data": "2026-11-25T21:39:31.000Z"
    }
   ],
   "politica": [
@@ -383,7 +383,7 @@
     "data": "2026-11-25T19:57:00.000Z"
    },
    {
-    "titulo": "G7News. . Mais transparência, fiscalização e respeito ao cidadão! O vereador e deputado estadual eleito Delegado Mesquita comentou o projeto que busca ampliar a transparência e garantir maior controle sobre os veículos apreendidos durante blitz e enca",
+    "titulo": "G7News. . Mais transparência, fiscalização e respeito ao cidadão! O vereador e deputado estadual eleito Delegado Mesquita comentou o projeto que busca ampliar a transparência e garantir maior controle sobre os veículos apreendidos durante blitz e encaminhados aos pátios de Guarulhos. Mesquita afirmou que, ao assumir uma cadeira na Assembleia Legislativa de São Paulo (ALESP), pretende intensificar a fiscalização sobre o DETRAN e combater o que classificou como a “máfia dos pátios”, tanto em Guarulhos quanto em todo o estado. A promessa é ampliar a fiscalização e cobrar mais transparência nos procedimentos envolvendo a apreensão e a guarda dos veículos. Você acredita que falta transparência na gestão dos pátios de veículos apreendidos?",
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0ZHOGNob1d0UEg4akJacllDQ25QUG5fZDRpYzNrY3ZDaWV2WHhuUmVBcGRjdThNdVU3TllBSGZiNWxweHRmR0o1amhkRGRUVzNPTXBtSENWdlB6MTdIOEx0MWs5N0xzRVM2TmV5dnBKejNmWUpCcmNtMGFtUmdaV0ZTTzBoRl9qc0d3S3Y0RndPRkY3bG5JZ2tEMWRZQzFlZDAtZzlvQkEtekUxOU02dmNVSklPZnJxYVhpb2xaRF9sOHlRR0lOZkZMV291QWpXeC1nNF9WTmI3VXFsTTh4bW8ycURoQ0hVWFVMbGlqb2dlQQ?oc=5",
     "fonte": "Facebook",
     "data": "2026-11-25T18:35:49.000Z"
@@ -543,16 +543,28 @@
     "data": "2026-11-26T01:29:09.000Z"
    },
    {
+    "titulo": "Médico que resgatou idoso durante enchente em Mogi recebe homenagem da Câmara de Mogi",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRTVVUDVDeXpRM0lMbTBaYVFaNmZuNzM0TUQzU19COE14X282c1ZnaEVHQS1jQ0xkM2NOMFA1N3U0LVFTVnN1M1BOakVkbnZiZDRacWc5TU1JRWVRNTVOam9YTi00VWZuSDhQLXBmUlVQT3VaYnZ2OFV0REY1LVk3S2JqR1FGTm1nRFl5ZW9HQlpYWjlWSmI5bDhQLUpBaGdDNjN0cUZDNG9xdVgxMl9rd29yVkxWaS1PVk4tNg?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-26T00:02:12.000Z"
+   },
+   {
     "titulo": "Após afastamento, Trivia reassume operação das linhas 11-Coral e 12-Safira da CPTM, que atendem Suzano, Mogi das Cruzes, Itaquaquecetuba e região, nesta quinta-feira (26)",
     "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOd0VKeUc3TXVrOXhodjZubmN6VXhtVFV2VE80TW5MUExvUl9seWhGWFVjLUxPSHpJcXNrU3JPaDdJUW5kTlJvb3Jzd3IxV3R3VU5VOGxPc2VBSXhOS2JSbVBvb1ZUNU5qUWxuUXVvV083ZTBlcW9tN1JGYmhWX1Y3YnBmeGI1RERpRmVCR1VlQlV4MXVJNWVoMkxlTHdSb3hhUThsa3RkVmhmNlA0cHlEM1AxeWZHVmtWaDhZR0d0U2tCODl0cGRxTWhMdHlpa196YzRYSDVKTUNHYllWd0RfOTlsZlhMUFJiTnlQVVdzN2N2M1V6ZkdMTnM4Ul9SeHFfOTBUVmo4emljb3QxZWt6X3MteHhwTWk2YTc5VTJKMG5fRk9T?oc=5",
     "fonte": "Hoje Diário",
     "data": "2026-11-25T22:07:16.000Z"
    },
    {
-    "titulo": "Mogi das Cruzes recebe seminário para discutir turismo no Alto Tietê",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVJYTmJiM05aeF9TakF1R0pNQzY0NklRakkxbFJERC1id1pWeU9ZMlZ2VHhmOHlWTmRGdUs3cVI4UUp3VnJKcG1xQlVkRFFla2xhZzlFSk5reHRlanN5TVVtN0R0UjlzUDk1V29lVTJyRkZ5RDMxZTh1ZEJvNjJfU25SVmVVSjNwSTNGS2hQbVNrVlZ2bUk2N0JxaU1UVm5Fenc?oc=5",
-    "fonte": "avozdocampo",
-    "data": "2026-11-25T21:00:10.000Z"
+    "titulo": "IBGE revela que Mogi teve problemas com drenagem e registrou assoreamento na gestão passada",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd1AzVkJhVFVuVVhib0x3SGY0eFNJSW53MlREaHRJU1hERFNUVXpwX3NEdUFCSGM0SW9GMmhFQncyalZSV25ZcG51MGpCX2p1alVSVEtJb0Y4THRkdEl2bTdoa2M1UWtoME9nT01TWTBoWF9TbkFFRHlsNWp4TFY5WV80LUJsYmdlek84dHhpZF9tZWZ3YmVsNTJybkUyS1NFdDRFQk94RnFjODBDVjVWbTB1cTluUE9wTThvYlBoN0NCaUdEWGtB?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-25T21:16:37.000Z"
+   },
+   {
+    "titulo": "FLIMOGI 2026 acontece neste sábado (28), das 10h às 19h, na praça Monsenhor Roque Pinto de Barros",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUU9mZWxvRXM1c3MyVGpHTHhQQkQ3WTFMaEVuYVFWWWlWSldFekMwU1E5TDl3Rmk2UF9wZndPak5vS2FYNy1yeWp0aGRQMVZzQzk5VVA2cjJaY0pCbGoxUU82cHdPMEJNUHFIX2E2amQxVzhNUkh2VHZUSVJRc2x5eW5ISkVuZDJuVFBvYWpHMXE1WW9CNEFKOW44NDh0RE4wcjAxLTl1dDhJTHBETWVMMk1ZRUFuTEdySDUydFlma09NMkF2V1Zj?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-25T21:06:35.000Z"
    },
    {
     "titulo": "Fundo Social de Mogi das Cruzes prepara 100 kits de limpeza para famílias afetadas pelas chuvas",
@@ -567,46 +579,34 @@
     "data": "2026-11-25T19:34:58.000Z"
    },
    {
+    "titulo": "Disputa pela presidência da Alesp coloca deputados do Alto Tietê no centro das articulações",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMG5GR3ZoR0ZNTWRZc2JJVktQMEZNR2ZhVXpSRktHNnJ4ZHhrZkhoYXJxbjZlXzNrMVpON3Y3akpsZVlOX2VEMUE3UFJPamdQdm45SGxseTg5UmxOa1Y3THR6NjhvWjUwbE81VUxNVXJMWmZ5ZlV1MW5CQVd3a0Z5TFFDTG1VY0pUeXBDeWo4REIyUlNRU1FnMGRGbHN2WTY2ZXhobTMzd05ObXdWcWUyVzAzRDZfUVhLWnFkX2JxSWEzU2RK?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-25T18:16:00.000Z"
+   },
+   {
+    "titulo": "Prefeitura de Mogi avalia construir cemitério vertical no distrito de Jundiapeba",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclg1cjYzVzNkZ2lUUW9qVU80RHAtYjRMd1dhSUtRazR1alRKWE01RXRYbGF0NjNqUVZjQmRCeVNmWHB1WmN5OUNycTFqaVp3cXBha0lRcVc5NVFMaHZMR1ppSTBfY2lDM1dnVXJBYWNWZ0xFQUdiWGNOaTczWEw2eVpIaDNDY2xyOWF0VnNlLW93UTZzbV9SVklkdi15ZWtxUUE?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-25T17:45:54.000Z"
+   },
+   {
+    "titulo": "Mogi das Cruzes autoriza projetos para quatro velórios públicos e amplia atendimento nos distritos",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMmNfdmh3d3VuVURBVmY5aHA2a3I2Uk5sVmk1a2dCdjR0TTE1QjBNeVlOS19NdDVIdTJYOXp6NjY3a0JZLXY5WmR2VnVYMmhHcTZvQklMUDc4WHoxOGYxc0JFXzk4TnhtUlRMVlQ1bU5kQzBVNzZHQ2gzbGdBMlRLemN4dWdsOHNONDB4V185T0prc3diWXBlTUhaai1VSS1SUUlzV3hMLUtHSmdFUlBCWFBpVno1ZVhZVUJkWDByR1l6Z2VyQnVKeHpwWGw3QQ?oc=5",
+    "fonte": "Vanguarda Alto Tietê",
+    "data": "2026-11-25T17:20:49.000Z"
+   },
+   {
     "titulo": "O curso de Administração integrado ao Ensino Médio da Etec Presidente Vargas, em Mogi das Cruzes, é o mais concorrido do Alto Tietê no Vestibulinho das Escolas Técnicas Estaduais (Etecs) para o primeiro semestre de 2027. São 16,88 candidatos por va",
     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSWFZYTXhPYWU1M3A5UE9ZczdvN0tLWkxPTjZYQktOT0Z5Z3pvZmc0Nkw1YzFOTldmVmxaa0NjSWlvMmtXWHNELXR4Rkd3MmVPUHc?oc=5",
     "fonte": "Instagram",
     "data": "2026-11-25T17:07:55.000Z"
    },
    {
-    "titulo": "Etec Mogi concentra os cursos mais concorridos do Vestibulinho 2027 no Alto Tietê",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnpnRVczSHd1WG13RUtReS1ZZlBjSjN3b2x2TVZUNVZpcFRQQzI5a2Ntc25pNGdnMEh3UEFKOEVXeDcwd3RzbndoZTJGc1llX1dIa1FjWXhQUnZZNVgwcEVGV2NlTFRyczhnbXdZdWY1TldhSjZETUNrQkJYMnRiVG5GMzE3bzdhQTNqTnNXb3Nqd3huMDVzR1dFc0RhMV94cFV4WTlfNWhOWlJQZmh0Vjdn?oc=5",
-    "fonte": "Notícias de Mogi",
-    "data": "2026-11-25T16:24:00.000Z"
-   },
-   {
-    "titulo": "Alto Tietê oferece mais de 5,1 mil vagas de emprego nesta quarta-feira (25)",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaUtFQzJXOE9GdC1VVGhTd0FXVUItUEVpYndPeEpWajlZaTBNYnV2QkRxVmhOZGh6UHJQeGx5aEFVWmd1akNwQ2p3WDM3VU5wWDN1RS1EUHdBdUhIMm5mS2l6SWtfcGMxQkQ4MnRDNmRUWklvQ0FPdjhUYm96ME9vaTFPQzY2anROUzBMd2RyOXpNUXljTFcza05QVDc3OVY3eXFVOGM4X0d0Zw?oc=5",
-    "fonte": "ncnews.com.br",
-    "data": "2026-11-25T14:30:09.000Z"
-   },
-   {
-    "titulo": "Região central de Mogi das Cruzes terá 180 novas vagas de estacionamento durante o fim de ano",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUtVcFZUeHZNcVhPcFBHckFsbW42MHg0N3pPUzNJU0VsQzI0X01YX0hPSWhLeUhHeEpUdU1OTEJDYk5QY3Z6Mmk1UkR3VjVIQkZBeWlqbm1TR3ZZci1GVzRpZjNfNlExYXRqUm5xOWFvOFA1bm5qN0thTkl3eklrVWhlbG9Mb2E0M2hMQ3Q5WWo5VEtBRE1ObVg0M29zZWstTEdtb044TWg3Rl9xLWo2TEpaanpwR2hVb0p5YXllbzRraVVxMzM0c2dNUlZGNHNISHBXTA?oc=5",
-    "fonte": "O Diário de Mogi",
-    "data": "2026-11-25T12:11:01.000Z"
-   },
-   {
-    "titulo": "Alto Tietê tem mais de 5,1 mil vagas de emprego nesta quarta-feira; confira lista",
-    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTVVzdENfM08xcU9jdlBaV09HTHlIVkxqRnZTMGVjOGU1d3BRTFlvUE02MHlTMFZNdGUtaTVrb0gzY1dCWTZxZXBxTTV2MzFDVG83aV9NRWNMSndSSEhpenZSTHpWX2laVGdnX3ZjOHpwQUhfbTNtTGlzYndUMFpub3Uxd296X2VxRkFfN21aNmg4cm1iaXU2a0RNeWZ2aXBqUFYybkl1MlNTNmlSRG1xTGNvODNQUU9LMjFPRnZnU2w2YlVoVk9VT00tb3h1Z0YwaENySDhKNmZvRUwtUUU2ZmZCVC04LThrejkxWWRSUzdQYVFCOUZVN3J3ZFJCc0F60gGPAkFVX3lxTE83UjJOUGtZb0pYazdXY2NwUFlKb2VkZXhaT2w2UngtU3d4MzFGN0pISVh1X1pLWDNfMkNWYzRPaV9XSHVLcElLLXl2b0N5b2hBQ09xYk8tOHQ5Vlo3U052azAyVkI0VFo4Z05xNGFWMUNLTnlyYUl4MVRHUDNwSUVSeDNuYVI5SGYzNGUwNnVOdDRDN1NGZGlmMVFKc0h5c3l3UGI1MmlYc2d2UVlvU1NmYjJZemlCYWthY2l6a3F5TmtSR3VubDNYTC05ZllkTVFvRGtaT1plb0Voc3o4V1BmUHdUQXhyNmhQdmcwZzRSQjExSjZia28yWU9FTVlOQ3o2RFlQRlU3SkVKMTQtUGM?oc=5",
+    "titulo": "Mogi das Cruzes recebe seminário para discutir turismo no Alto Tietê",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaFdSRVNGczF3MGRmTy1fcldleU1CeXJVM1JlczJ1a2ZDT0ZNVWNsOTNVbjRHRnJQOFFuNkM2aGlNZVVxMW5COG5NVzExLUJmY1lnZFdfOTV5Wl96eXpxeGVVbS1aU1Q0TVE1ZjNWVXJLVXNkQzItVTVsa3BaeWNVbVhnLTJPTTRWQzlneXAwMDRuM3VFdmgwSEFrQWRFUUV0eEdKWUk3ZXlyWkVjUkVEVEZpR0VHYUdqcjBpOU1qM0JWM2E0Zk9odTJVNTBfeHFUX2phZzkxdE1aYjl2V0VGZnpFV2JUOVdmS0VQc2FRc9IB_gFBVV95cUxQQUlPR0NJbkFtQnNHQTVkN1o1SUJaa1hWdGxkQmhLSFhPMUhNVjlsc2VkSmFOSDNNcmdHLUNob2FDSDYtRVY3b0NDajhOVDlxUWVab0NNT2xHSkYyR0lHQ3kwemdKTmw5eGlOVFhnenlPendlY3JCZU4tZFdGVUFxQmswZ2h3RmR5M1FEdkQwLTJBV3dXYUJ2cjFxQXlxVklKSjRZbVViMFdwaUJZU0VwQkdVS2lueG9GTmlTQ09DbUxIblBWMjFLcXF3RTB1RTVSQmdZSUpLeUw5eG91RDFFVEZNRWJONTF5V3l2QVNiRDVxOUJ0Z05KRk5GNy1hUQ?oc=5",
     "fonte": "G1",
-    "data": "2026-11-25T10:12:12.000Z"
-   },
-   {
-    "titulo": "Internet gratuita chega a 280 ônibus do Alto Tietê e beneficia passageiros",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVEYtZ1FVUVp6Ym43SmRiYk84ZGxDaklDdmdmUnZ6WHRKRFF3bVppTW1KZzZyajFoUXJkY09wdWNfTV9YY2VKMm9mZjBUX3U5VkJEMzNVUXNJc29UVEhqX2FQYURIbVhOY0ZkbUdpOWlrbERqVGFqMGNld0lDY0dKTEZVanZNRDJnVE1TWFhuMmdBNjdYTUtMbloyd1pJRnUtV3B0bnpULUVvX3FfdjhrZWZob2w4RkZiTGc?oc=5",
-    "fonte": "Diário de Suzano",
-    "data": "2026-11-25T08:00:00.000Z"
-   },
-   {
-    "titulo": "Alto Tietê registra média de 38,47 mm de chuva nesta segunda",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb2pVVEpxZzUtZURwS1VWWnlQZVVXVkQtTGd6X2ltX0tsMXljdFRVd1d5YkNWNmtzMHJDZUdnU1RZUHRkRkxyODA4R09aR3d6dG5kOFhJSnR2TFR0WWo0V2pDak5ETGVlUHk4RFA3dzIxRi1oazdYMUhvYXZOWkRDdXE5RjlJVW51ZHZLbFdsNDlYYUYxblFqdUUySEJ5eDJycmtjUlFLNERWWXZCSDY4TUF5a3BkMDg?oc=5",
-    "fonte": "Diário de Suzano",
-    "data": "2026-11-24T21:40:00.000Z"
+    "data": "2026-11-25T16:33:45.000Z"
    }
   ]
  },
